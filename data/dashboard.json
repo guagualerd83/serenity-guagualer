@@ -1,0 +1,9 @@
+{
+  "updated_at": "2026-08-11T02:50:00Z",
+  "periods": {
+    "daily": {"label":"今日","posts":0,"symbols":[]},
+    "weekly": {"label":"7 日","posts":0,"symbols":[]},
+    "monthly": {"label":"28 日","posts":0,"symbols":[]},
+    "quarterly": {"label":"90 日","posts":0,"symbols":[]}
+  }
+}
