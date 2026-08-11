@@ -2,7 +2,7 @@
   "site": {
     "title": "Serenity Research",
     "subtitle": "Public research dashboard based on Serenity's public X posts.",
-    "generated_at": "2026-08-11T06:02:56.899049Z",
+    "generated_at": "2026-08-11T06:31:35.602327Z",
     "disclaimer": "Public-post aggregation for research only. Not investment advice."
   },
   "periods": {
@@ -11,7 +11,7 @@
       "label": "每日",
       "days": 1,
       "start_at": "2026-08-10T16:00:00Z",
-      "generated_at": "2026-08-11T06:02:56.785355Z",
+      "generated_at": "2026-08-11T06:31:35.490769Z",
       "earliest_available_at": "2025-11-17T16:12:21Z",
       "traversed_until": "2026-04-13T02:42:25Z",
       "coverage_days": 120,
@@ -118,8 +118,8 @@
       "period": "weekly",
       "label": "每週",
       "days": 7,
-      "start_at": "2026-08-04T06:02:56.785355Z",
-      "generated_at": "2026-08-11T06:02:56.797361Z",
+      "start_at": "2026-08-04T06:31:35.490769Z",
+      "generated_at": "2026-08-11T06:31:35.502771Z",
       "earliest_available_at": "2025-11-17T16:12:21Z",
       "traversed_until": "2026-04-13T02:42:25Z",
       "coverage_days": 120,
@@ -130,26 +130,26 @@
       "all_collected_count": 46,
       "symbol_count": 34,
       "high_importance_count": 14,
-      "ai_analyzed_count": 2,
+      "ai_analyzed_count": 3,
       "sentiments": {
-        "Neutral": 16,
-        "Bullish": 8,
+        "Neutral": 15,
+        "Bullish": 9,
         "Bearish": 2
       },
       "symbols": [
         {
           "symbol": "AAOI",
           "mentions": 10,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 2,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 3,
           "max_importance": 5,
           "latest_at": "2026-08-10T15:42:04Z",
-          "latest_thesis": "Be Barrons:  - Wants to write about optical supply supply chains like $AAOI  - Hiring DPT: who needs engineers to write about this something this simple?  Let’s find underpaid p...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
+          "latest_thesis": "主流媒體因缺乏光學工程專業知識而將 $AAOI 誤批為迷因股，忽視了其在光學供應鏈中的技術瓶頸與基本面潛力。",
+          "latest_summary_zh": "作者以諷刺對話批評主流財經媒體 Barron's 對光學供應鏈（如 $AAOI）的報導極不專業。作者指出媒體聘用缺乏工程背景的人員，因看不懂 CW 雷射瓶頸與產能毛利模型等技術細節，便草率將其歸類為迷因股（memestock）。",
+          "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Neutral": 4,
-            "Bullish": 4,
+            "Bullish": 5,
+            "Neutral": 3,
             "Bearish": 2
           }
         },
@@ -636,8 +636,8 @@
       "period": "monthly",
       "label": "每月",
       "days": 28,
-      "start_at": "2026-07-14T06:02:56.797361Z",
-      "generated_at": "2026-08-11T06:02:56.814954Z",
+      "start_at": "2026-07-14T06:31:35.502771Z",
+      "generated_at": "2026-08-11T06:31:35.518286Z",
       "earliest_available_at": "2025-11-17T16:12:21Z",
       "traversed_until": "2026-04-13T02:42:25Z",
       "coverage_days": 120,
@@ -648,10 +648,10 @@
       "all_collected_count": 178,
       "symbol_count": 69,
       "high_importance_count": 38,
-      "ai_analyzed_count": 2,
+      "ai_analyzed_count": 3,
       "sentiments": {
-        "Neutral": 59,
-        "Bullish": 27,
+        "Neutral": 58,
+        "Bullish": 28,
         "Bearish": 6
       },
       "symbols": [
@@ -691,15 +691,15 @@
           "symbol": "AAOI",
           "mentions": 18,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 4,
+          "sentiment_score": 5,
           "max_importance": 5,
           "latest_at": "2026-08-10T15:42:04Z",
-          "latest_thesis": "Be Barrons:  - Wants to write about optical supply supply chains like $AAOI  - Hiring DPT: who needs engineers to write about this something this simple?  Let’s find underpaid p...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
+          "latest_thesis": "主流媒體因缺乏光學工程專業知識而將 $AAOI 誤批為迷因股，忽視了其在光學供應鏈中的技術瓶頸與基本面潛力。",
+          "latest_summary_zh": "作者以諷刺對話批評主流財經媒體 Barron's 對光學供應鏈（如 $AAOI）的報導極不專業。作者指出媒體聘用缺乏工程背景的人員，因看不懂 CW 雷射瓶頸與產能毛利模型等技術細節，便草率將其歸類為迷因股（memestock）。",
+          "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Neutral": 10,
-            "Bullish": 6,
+            "Bullish": 7,
+            "Neutral": 9,
             "Bearish": 2
           }
         },
@@ -1670,8 +1670,8 @@
       "period": "quarterly",
       "label": "每季",
       "days": 90,
-      "start_at": "2026-05-13T06:02:56.814954Z",
-      "generated_at": "2026-08-11T06:02:56.883045Z",
+      "start_at": "2026-05-13T06:31:35.518286Z",
+      "generated_at": "2026-08-11T06:31:35.586324Z",
       "earliest_available_at": "2025-11-17T16:12:21Z",
       "traversed_until": "2026-04-13T02:42:25Z",
       "coverage_days": 120,
@@ -1682,10 +1682,10 @@
       "all_collected_count": 1289,
       "symbol_count": 172,
       "high_importance_count": 191,
-      "ai_analyzed_count": 2,
+      "ai_analyzed_count": 3,
       "sentiments": {
-        "Neutral": 378,
-        "Bullish": 143,
+        "Neutral": 377,
+        "Bullish": 144,
         "Bearish": 34
       },
       "symbols": [
@@ -1741,15 +1741,15 @@
           "symbol": "AAOI",
           "mentions": 74,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 22,
+          "sentiment_score": 23,
           "max_importance": 5,
           "latest_at": "2026-08-10T15:42:04Z",
-          "latest_thesis": "Be Barrons:  - Wants to write about optical supply supply chains like $AAOI  - Hiring DPT: who needs engineers to write about this something this simple?  Let’s find underpaid p...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
+          "latest_thesis": "主流媒體因缺乏光學工程專業知識而將 $AAOI 誤批為迷因股，忽視了其在光學供應鏈中的技術瓶頸與基本面潛力。",
+          "latest_summary_zh": "作者以諷刺對話批評主流財經媒體 Barron's 對光學供應鏈（如 $AAOI）的報導極不專業。作者指出媒體聘用缺乏工程背景的人員，因看不懂 CW 雷射瓶頸與產能毛利模型等技術細節，便草率將其歸類為迷因股（memestock）。",
+          "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Neutral": 40,
-            "Bullish": 28,
+            "Bullish": 29,
+            "Neutral": 39,
             "Bearish": 6
           }
         },
@@ -4296,12 +4296,12 @@
       "symbols": [
         "AAOI"
       ],
-      "sentiment": "Neutral",
+      "sentiment": "Bullish",
       "importance": 4,
-      "summary_zh": "",
-      "core_thesis": "",
-      "why_it_matters": "",
-      "thesis_change": "NEW"
+      "summary_zh": "作者以諷刺對話批評主流財經媒體 Barron's 對光學供應鏈（如 $AAOI）的報導極不專業。作者指出媒體聘用缺乏工程背景的人員，因看不懂 CW 雷射瓶頸與產能毛利模型等技術細節，便草率將其歸類為迷因股（memestock）。",
+      "core_thesis": "主流媒體因缺乏光學工程專業知識而將 $AAOI 誤批為迷因股，忽視了其在光學供應鏈中的技術瓶頸與基本面潛力。",
+      "why_it_matters": "揭示了市場對 AI 相關光收發模組與光學供應鏈存在認知偏差與資訊不對稱，為能夠理解技術細節（如 CW 雷射）的專業投資人提供了潛在的錯價機會。",
+      "thesis_change": "INSUFFICIENT_HISTORY"
     },
     {
       "tweet_id": "2086730782425727183",

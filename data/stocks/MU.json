@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T06:02:56.899049Z",
+  "generated_at": "2026-08-11T06:31:35.602327Z",
   "symbol": "MU",
   "summary": {
     "primary_count": 50,
@@ -2022,7 +2022,7 @@
           "risks": [],
           "confidence": 0,
           "ai_status": "",
-          "favorite_count": 3059,
+          "favorite_count": 3060,
           "retweet_count": 236
         }
       ]
@@ -2086,7 +2086,7 @@
         },
         {
           "date": "2026-02-04",
-          "close": 379.1824
+          "close": 379.1823
         },
         {
           "date": "2026-02-05",
@@ -2198,7 +2198,7 @@
         },
         {
           "date": "2026-03-17",
-          "close": 461.4251
+          "close": 461.4252
         },
         {
           "date": "2026-03-18",
@@ -5551,7 +5551,7 @@
             "risks": [],
             "confidence": 0,
             "ai_status": "",
-            "favorite_count": 3059,
+            "favorite_count": 3060,
             "retweet_count": 236
           }
         ]
@@ -5608,7 +5608,7 @@
       "risks": [],
       "confidence": 0,
       "ai_status": "",
-      "favorite_count": 3059,
+      "favorite_count": 3060,
       "retweet_count": 236
     },
     {

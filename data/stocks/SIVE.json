@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T06:02:56.899049Z",
+  "generated_at": "2026-08-11T06:31:35.602327Z",
   "symbol": "SIVE",
   "summary": {
     "primary_count": 226,
@@ -7160,7 +7160,7 @@
           "risks": [],
           "confidence": 0,
           "ai_status": "",
-          "favorite_count": 1343,
+          "favorite_count": 1342,
           "retweet_count": 91
         }
       ]
@@ -7203,8 +7203,8 @@
           "catalysts": [],
           "risks": [],
           "confidence": 0,
-          "ai_status": "",
-          "favorite_count": 1314,
+          "ai_status": "error",
+          "favorite_count": 1316,
           "retweet_count": 80
         }
       ]
@@ -17661,7 +17661,7 @@
             "risks": [],
             "confidence": 0,
             "ai_status": "",
-            "favorite_count": 1343,
+            "favorite_count": 1342,
             "retweet_count": 91
           }
         ]
@@ -17704,8 +17704,8 @@
             "catalysts": [],
             "risks": [],
             "confidence": 0,
-            "ai_status": "",
-            "favorite_count": 1314,
+            "ai_status": "error",
+            "favorite_count": 1316,
             "retweet_count": 80
           }
         ]
@@ -17761,8 +17761,8 @@
       "catalysts": [],
       "risks": [],
       "confidence": 0,
-      "ai_status": "",
-      "favorite_count": 1314,
+      "ai_status": "error",
+      "favorite_count": 1316,
       "retweet_count": 80
     },
     {
@@ -17785,7 +17785,7 @@
       "risks": [],
       "confidence": 0,
       "ai_status": "",
-      "favorite_count": 1343,
+      "favorite_count": 1342,
       "retweet_count": 91
     },
     {
