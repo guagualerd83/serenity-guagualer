@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T05:24:37.683510Z",
+  "generated_at": "2026-08-11T05:36:51.857085Z",
   "symbol": "AMD",
   "summary": {
     "primary_count": 60,
@@ -2344,7 +2344,7 @@
           ],
           "confidence": 85,
           "ai_status": "ok",
-          "favorite_count": 438,
+          "favorite_count": 448,
           "retweet_count": 21
         }
       ]
@@ -6379,7 +6379,7 @@
             ],
             "confidence": 85,
             "ai_status": "ok",
-            "favorite_count": 438,
+            "favorite_count": 448,
             "retweet_count": 21
           }
         ]
@@ -6444,7 +6444,7 @@
       ],
       "confidence": 85,
       "ai_status": "ok",
-      "favorite_count": 438,
+      "favorite_count": 448,
       "retweet_count": 21
     },
     {
