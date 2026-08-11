@@ -2,7 +2,7 @@
   "site": {
     "title": "Serenity Research",
     "subtitle": "Public research dashboard based on Serenity's public X posts.",
-    "generated_at": "2026-08-11T06:31:35.602327Z",
+    "generated_at": "2026-08-11T07:14:05.626629Z",
     "disclaimer": "Public-post aggregation for research only. Not investment advice."
   },
   "periods": {
@@ -11,7 +11,7 @@
       "label": "每日",
       "days": 1,
       "start_at": "2026-08-10T16:00:00Z",
-      "generated_at": "2026-08-11T06:31:35.490769Z",
+      "generated_at": "2026-08-11T07:14:05.510676Z",
       "earliest_available_at": "2025-11-17T16:12:21Z",
       "traversed_until": "2026-04-13T02:42:25Z",
       "coverage_days": 120,
@@ -118,8 +118,8 @@
       "period": "weekly",
       "label": "每週",
       "days": 7,
-      "start_at": "2026-08-04T06:31:35.490769Z",
-      "generated_at": "2026-08-11T06:31:35.502771Z",
+      "start_at": "2026-08-04T07:14:05.510676Z",
+      "generated_at": "2026-08-11T07:14:05.521187Z",
       "earliest_available_at": "2025-11-17T16:12:21Z",
       "traversed_until": "2026-04-13T02:42:25Z",
       "coverage_days": 120,
@@ -130,82 +130,82 @@
       "all_collected_count": 46,
       "symbol_count": 34,
       "high_importance_count": 14,
-      "ai_analyzed_count": 3,
+      "ai_analyzed_count": 5,
       "sentiments": {
         "Neutral": 15,
-        "Bullish": 9,
-        "Bearish": 2
+        "Bullish": 10,
+        "Bearish": 1
       },
       "symbols": [
         {
           "symbol": "AAOI",
           "mentions": 10,
           "dominant_sentiment": "Bullish",
-          "sentiment_score": 3,
+          "sentiment_score": 5,
           "max_importance": 5,
           "latest_at": "2026-08-10T15:42:04Z",
           "latest_thesis": "主流媒體因缺乏光學工程專業知識而將 $AAOI 誤批為迷因股，忽視了其在光學供應鏈中的技術瓶頸與基本面潛力。",
           "latest_summary_zh": "作者以諷刺對話批評主流財經媒體 Barron's 對光學供應鏈（如 $AAOI）的報導極不專業。作者指出媒體聘用缺乏工程背景的人員，因看不懂 CW 雷射瓶頸與產能毛利模型等技術細節，便草率將其歸類為迷因股（memestock）。",
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bullish": 5,
+            "Bullish": 6,
             "Neutral": 3,
-            "Bearish": 2
+            "Bearish": 1
           }
         },
         {
           "symbol": "SIVE",
           "mentions": 9,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": -1,
+          "sentiment_score": 1,
           "max_importance": 5,
           "latest_at": "2026-08-10T08:26:02Z",
-          "latest_thesis": "Now that markets are hosting a laser party again from $SIVE, OE Solutions, $LITE, Coherent, to $AAOI.  There’s a pretty interesting study:  Both from Fidelity and a UC Berkeley...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
+          "latest_thesis": "光學與科技主題具高波動特性，投資人應建立長線信念、避免頻繁交易與恐慌殺跌，才能把握光通訊族群強勁反彈的收益。",
+          "latest_summary_zh": "作者觀察到光通訊族群（SIVE、OE Solutions、LITE、Coherent、AAOI）迎來強勁反彈行情。他引用 Fidelity 與 UC Berkeley 的研究指出，不頻繁交易者的平均報酬率（18.5%）顯著高於頻繁交易者（11.4%）。作者提醒散戶往往在記憶體或光通訊等主題波動中恐慌殺跌，導致錯過隨後的劇烈反彈，強調建立投資信念能有效避免過度交易並掌握逢低加碼的機會。",
+          "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bullish": 1,
+            "Bullish": 2,
             "Neutral": 6,
-            "Bearish": 2
+            "Bearish": 1
           }
         },
         {
           "symbol": "LITE",
           "mentions": 8,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 0,
+          "sentiment_score": 2,
           "max_importance": 5,
           "latest_at": "2026-08-10T08:26:02Z",
-          "latest_thesis": "Now that markets are hosting a laser party again from $SIVE, OE Solutions, $LITE, Coherent, to $AAOI.  There’s a pretty interesting study:  Both from Fidelity and a UC Berkeley...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
+          "latest_thesis": "光學與科技主題具高波動特性，投資人應建立長線信念、避免頻繁交易與恐慌殺跌，才能把握光通訊族群強勁反彈的收益。",
+          "latest_summary_zh": "作者觀察到光通訊族群（SIVE、OE Solutions、LITE、Coherent、AAOI）迎來強勁反彈行情。他引用 Fidelity 與 UC Berkeley 的研究指出，不頻繁交易者的平均報酬率（18.5%）顯著高於頻繁交易者（11.4%）。作者提醒散戶往往在記憶體或光通訊等主題波動中恐慌殺跌，導致錯過隨後的劇烈反彈，強調建立投資信念能有效避免過度交易並掌握逢低加碼的機會。",
+          "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bullish": 2,
+            "Bullish": 3,
             "Neutral": 4,
-            "Bearish": 2
+            "Bearish": 1
           }
         },
         {
           "symbol": "AMD",
           "mentions": 5,
           "dominant_sentiment": "Bullish",
-          "sentiment_score": 0,
+          "sentiment_score": 2,
           "max_importance": 5,
           "latest_at": "2026-08-11T01:29:11Z",
           "latest_thesis": "比特幣礦商轉型 AI 託管獲大廠巨額合約驗證，但營收爆發拐點需等到 2027 年下半年。",
           "latest_summary_zh": "RIOT 宣布與 Anthropic 簽署高達 91 億至 161 億美元的 20 年期巨額託管合約，同時 AMD 也行使選擇權擴展與 RIOT 的合作。作者指出前比特幣礦商（如 RIOT、IREN）成功轉型 AI 主機託管（Colo），但整個族群的營收顯著轉折點（inflection）預計要到 2027 年下半年才會顯現。",
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bullish": 2,
+            "Bullish": 3,
             "Neutral": 1,
-            "Bearish": 2
+            "Bearish": 1
           }
         },
         {
           "symbol": "MTSI",
           "mentions": 4,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 0,
+          "sentiment_score": 2,
           "max_importance": 5,
           "latest_at": "2026-08-09T00:23:56Z",
           "latest_thesis": "I think it’s a good time to revisit $SIVE ~$427m/yr midpoint capacity revenue modeled projections.  Given recent industry earnings:  > $AAOI cited +20-40% demand imbalance for t...",
@@ -213,23 +213,21 @@
           "latest_change": "NEW",
           "sentiments": {
             "Neutral": 2,
-            "Bullish": 1,
-            "Bearish": 1
+            "Bullish": 2
           }
         },
         {
           "symbol": "COHR",
           "mentions": 3,
           "dominant_sentiment": "Bullish",
-          "sentiment_score": 0,
+          "sentiment_score": 2,
           "max_importance": 5,
           "latest_at": "2026-08-08T17:52:29Z",
           "latest_thesis": "Yes, I'm still bullish on memory like $MU / Samsung.  As I said earlier, markets tend to rotate from bottleneck to bottleneck.  This week it looks $AXTI to $LITE in the photonic...",
           "latest_summary_zh": "",
           "latest_change": "NEW",
           "sentiments": {
-            "Bullish": 1,
-            "Bearish": 1,
+            "Bullish": 2,
             "Neutral": 1
           }
         },
@@ -237,16 +235,15 @@
           "symbol": "NVDA",
           "mentions": 3,
           "dominant_sentiment": "Bullish",
-          "sentiment_score": 0,
+          "sentiment_score": 2,
           "max_importance": 5,
           "latest_at": "2026-08-11T02:19:36Z",
           "latest_thesis": "宇樹科技 IPO 的極端超額認購凸顯市場對人形機器人板塊的強烈渴望，其高估值上市將為估值相對較低的美國同業帶來外溢效應與重新定價機會。",
           "latest_summary_zh": "宇樹科技（Unitree）IPO 獲得散戶超額認購超過 8000 倍，顯示市場對純人形機器人標的的需求極度狂熱。作者指出自己透過 CCXI 參與投資美國人形機器人公司 Agility Robotics（前輪估值約 25 億美元），並認為宇樹若以 300 億美元以上的估值開盤，將在未來一至兩週內吸引資金關注美國領先的人形機器人業者。",
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bullish": 1,
-            "Neutral": 1,
-            "Bearish": 1
+            "Bullish": 2,
+            "Neutral": 1
           }
         },
         {
@@ -267,15 +264,15 @@
         {
           "symbol": "AVGO",
           "mentions": 2,
-          "dominant_sentiment": "Bearish",
-          "sentiment_score": -1,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 1,
           "max_importance": 5,
           "latest_at": "2026-08-07T05:46:59Z",
-          "latest_thesis": "Wow, there's gem after gem in $AAOI earnings for $SIVE + other laser player readthrough.  1. AAOI not meaningfully participating in CPO first-gen deployments.  \"We just can’t ma...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
+          "latest_thesis": "CPO 雷射與光收發器面臨嚴重供需失衡，AAOI 因產能限制退出第一代 CPO，將大幅推升其他擁有 CW 雷射產能的西方獨立廠商之價值。",
+          "latest_summary_zh": "AAOI 財報顯示 CW 雷射與光收發器供不應求，客戶需求超出擴充產能 20%-40%，雷射為當前主要瓶頸。AAOI 因需優先供應自家光收發器，無法參予第一代 CPO 部署，這對 SIVE、LITE、AVGO、COHR 等具備產能的西方業者屬利多。此外，中國在 CPO DWDM 雷射技術上仍落後西方至少 2 至 3 年，鞏固了西方業者的護城河。",
+          "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bearish": 1,
+            "Bullish": 1,
             "Neutral": 1
           }
         },
@@ -636,8 +633,8 @@
       "period": "monthly",
       "label": "每月",
       "days": 28,
-      "start_at": "2026-07-14T06:31:35.502771Z",
-      "generated_at": "2026-08-11T06:31:35.518286Z",
+      "start_at": "2026-07-14T07:14:05.522187Z",
+      "generated_at": "2026-08-11T07:14:05.542239Z",
       "earliest_available_at": "2025-11-17T16:12:21Z",
       "traversed_until": "2026-04-13T02:42:25Z",
       "coverage_days": 120,
@@ -648,91 +645,91 @@
       "all_collected_count": 178,
       "symbol_count": 69,
       "high_importance_count": 38,
-      "ai_analyzed_count": 3,
+      "ai_analyzed_count": 8,
       "sentiments": {
         "Neutral": 58,
-        "Bullish": 28,
-        "Bearish": 6
+        "Bullish": 29,
+        "Bearish": 5
       },
       "symbols": [
         {
           "symbol": "LITE",
           "mentions": 20,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 5,
+          "sentiment_score": 7,
           "max_importance": 5,
           "latest_at": "2026-08-10T08:26:02Z",
-          "latest_thesis": "Now that markets are hosting a laser party again from $SIVE, OE Solutions, $LITE, Coherent, to $AAOI.  There’s a pretty interesting study:  Both from Fidelity and a UC Berkeley...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
+          "latest_thesis": "光學與科技主題具高波動特性，投資人應建立長線信念、避免頻繁交易與恐慌殺跌，才能把握光通訊族群強勁反彈的收益。",
+          "latest_summary_zh": "作者觀察到光通訊族群（SIVE、OE Solutions、LITE、Coherent、AAOI）迎來強勁反彈行情。他引用 Fidelity 與 UC Berkeley 的研究指出，不頻繁交易者的平均報酬率（18.5%）顯著高於頻繁交易者（11.4%）。作者提醒散戶往往在記憶體或光通訊等主題波動中恐慌殺跌，導致錯過隨後的劇烈反彈，強調建立投資信念能有效避免過度交易並掌握逢低加碼的機會。",
+          "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bullish": 7,
+            "Bullish": 8,
             "Neutral": 11,
-            "Bearish": 2
+            "Bearish": 1
           }
         },
         {
           "symbol": "SIVE",
           "mentions": 19,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 4,
+          "sentiment_score": 6,
           "max_importance": 5,
           "latest_at": "2026-08-10T08:26:02Z",
-          "latest_thesis": "Now that markets are hosting a laser party again from $SIVE, OE Solutions, $LITE, Coherent, to $AAOI.  There’s a pretty interesting study:  Both from Fidelity and a UC Berkeley...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
+          "latest_thesis": "光學與科技主題具高波動特性，投資人應建立長線信念、避免頻繁交易與恐慌殺跌，才能把握光通訊族群強勁反彈的收益。",
+          "latest_summary_zh": "作者觀察到光通訊族群（SIVE、OE Solutions、LITE、Coherent、AAOI）迎來強勁反彈行情。他引用 Fidelity 與 UC Berkeley 的研究指出，不頻繁交易者的平均報酬率（18.5%）顯著高於頻繁交易者（11.4%）。作者提醒散戶往往在記憶體或光通訊等主題波動中恐慌殺跌，導致錯過隨後的劇烈反彈，強調建立投資信念能有效避免過度交易並掌握逢低加碼的機會。",
+          "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bullish": 6,
+            "Bullish": 7,
             "Neutral": 11,
-            "Bearish": 2
+            "Bearish": 1
           }
         },
         {
           "symbol": "AAOI",
           "mentions": 18,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 5,
+          "sentiment_score": 7,
           "max_importance": 5,
           "latest_at": "2026-08-10T15:42:04Z",
           "latest_thesis": "主流媒體因缺乏光學工程專業知識而將 $AAOI 誤批為迷因股，忽視了其在光學供應鏈中的技術瓶頸與基本面潛力。",
           "latest_summary_zh": "作者以諷刺對話批評主流財經媒體 Barron's 對光學供應鏈（如 $AAOI）的報導極不專業。作者指出媒體聘用缺乏工程背景的人員，因看不懂 CW 雷射瓶頸與產能毛利模型等技術細節，便草率將其歸類為迷因股（memestock）。",
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bullish": 7,
+            "Bullish": 8,
             "Neutral": 9,
-            "Bearish": 2
+            "Bearish": 1
           }
         },
         {
           "symbol": "AMD",
           "mentions": 16,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 4,
+          "sentiment_score": 6,
           "max_importance": 5,
           "latest_at": "2026-08-11T01:29:11Z",
           "latest_thesis": "比特幣礦商轉型 AI 託管獲大廠巨額合約驗證，但營收爆發拐點需等到 2027 年下半年。",
           "latest_summary_zh": "RIOT 宣布與 Anthropic 簽署高達 91 億至 161 億美元的 20 年期巨額託管合約，同時 AMD 也行使選擇權擴展與 RIOT 的合作。作者指出前比特幣礦商（如 RIOT、IREN）成功轉型 AI 主機託管（Colo），但整個族群的營收顯著轉折點（inflection）預計要到 2027 年下半年才會顯現。",
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bullish": 6,
+            "Bullish": 7,
             "Neutral": 8,
-            "Bearish": 2
+            "Bearish": 1
           }
         },
         {
           "symbol": "NVDA",
           "mentions": 14,
           "dominant_sentiment": "Bullish",
-          "sentiment_score": 4,
+          "sentiment_score": 6,
           "max_importance": 5,
           "latest_at": "2026-08-11T02:19:36Z",
           "latest_thesis": "宇樹科技 IPO 的極端超額認購凸顯市場對人形機器人板塊的強烈渴望，其高估值上市將為估值相對較低的美國同業帶來外溢效應與重新定價機會。",
           "latest_summary_zh": "宇樹科技（Unitree）IPO 獲得散戶超額認購超過 8000 倍，顯示市場對純人形機器人標的的需求極度狂熱。作者指出自己透過 CCXI 參與投資美國人形機器人公司 Agility Robotics（前輪估值約 25 億美元），並認為宇樹若以 300 億美元以上的估值開盤，將在未來一至兩週內吸引資金關注美國領先的人形機器人業者。",
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bullish": 6,
+            "Bullish": 7,
             "Neutral": 6,
-            "Bearish": 2
+            "Bearish": 1
           }
         },
         {
@@ -847,16 +844,15 @@
         {
           "symbol": "COHR",
           "mentions": 6,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 1,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 3,
           "max_importance": 5,
           "latest_at": "2026-08-08T17:52:29Z",
           "latest_thesis": "Yes, I'm still bullish on memory like $MU / Samsung.  As I said earlier, markets tend to rotate from bottleneck to bottleneck.  This week it looks $AXTI to $LITE in the photonic...",
           "latest_summary_zh": "",
           "latest_change": "NEW",
           "sentiments": {
-            "Bullish": 2,
-            "Bearish": 1,
+            "Bullish": 3,
             "Neutral": 3
           }
         },
@@ -910,17 +906,16 @@
         {
           "symbol": "AVGO",
           "mentions": 4,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 0,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 2,
           "max_importance": 5,
           "latest_at": "2026-08-07T05:46:59Z",
-          "latest_thesis": "Wow, there's gem after gem in $AAOI earnings for $SIVE + other laser player readthrough.  1. AAOI not meaningfully participating in CPO first-gen deployments.  \"We just can’t ma...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
+          "latest_thesis": "CPO 雷射與光收發器面臨嚴重供需失衡，AAOI 因產能限制退出第一代 CPO，將大幅推升其他擁有 CW 雷射產能的西方獨立廠商之價值。",
+          "latest_summary_zh": "AAOI 財報顯示 CW 雷射與光收發器供不應求，客戶需求超出擴充產能 20%-40%，雷射為當前主要瓶頸。AAOI 因需優先供應自家光收發器，無法參予第一代 CPO 部署，這對 SIVE、LITE、AVGO、COHR 等具備產能的西方業者屬利多。此外，中國在 CPO DWDM 雷射技術上仍落後西方至少 2 至 3 年，鞏固了西方業者的護城河。",
+          "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bearish": 1,
-            "Neutral": 2,
-            "Bullish": 1
+            "Bullish": 2,
+            "Neutral": 2
           }
         },
         {
@@ -958,7 +953,7 @@
           "symbol": "MTSI",
           "mentions": 4,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 0,
+          "sentiment_score": 2,
           "max_importance": 5,
           "latest_at": "2026-08-09T00:23:56Z",
           "latest_thesis": "I think it’s a good time to revisit $SIVE ~$427m/yr midpoint capacity revenue modeled projections.  Given recent industry earnings:  > $AAOI cited +20-40% demand imbalance for t...",
@@ -966,8 +961,7 @@
           "latest_change": "NEW",
           "sentiments": {
             "Neutral": 2,
-            "Bullish": 1,
-            "Bearish": 1
+            "Bullish": 2
           }
         },
         {
@@ -1081,9 +1075,9 @@
           "sentiment_score": 1,
           "max_importance": 5,
           "latest_at": "2026-07-28T22:25:27Z",
-          "latest_thesis": "I personally see it as extreme short term deleveraging that overshot many individual names.   - $BE to $TER reported blowout results, with Bloom reporting 166% Y/Y rev growth +...",
-          "latest_summary_zh": "",
-          "latest_change": "UPDATE",
+          "latest_thesis": "近期科技股拉回屬於過度的短期去槓桿，AI 雲端巨頭資本支出調升與強勁財報顯示 AI 加速發展的長期論點依然穩固。",
+          "latest_summary_zh": "作者認為近期科技股的下跌是過度的短期去槓桿行為，市場基本面依然強勁。從 BE 和 TER 強勁的財報、中國光學大廠的預告，到 Alphabet 大幅調升資本支出至 1,950 億至 2,050 億美元，均顯示 AI 需求與營收正在加速。作者重申對光學互連、記憶體和近雲/AI雲端等主題的強烈信心。",
+          "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
             "Bullish": 1,
             "Neutral": 1
@@ -1251,9 +1245,9 @@
           "sentiment_score": 1,
           "max_importance": 5,
           "latest_at": "2026-07-21T09:14:20Z",
-          "latest_thesis": "It's slightly more nuanced. Basically, $AMD SF event is tomorrow, Wed/Thurs (July 22, 23).  From Jefferies client note, AMD is expected to provide additional disclosures around...",
-          "latest_summary_zh": "",
-          "latest_change": "MENTION",
+          "latest_thesis": "AMD 若在 MI500 上確定導入 CPO 與光學 UALink，將驗證 CPO 行業趨勢並大幅提振上游雷射供應商 SIVE 的成長預期。",
+          "latest_summary_zh": "AMD 即將舉行舊金山活動，市場聚焦於 MI500 是否會明確採用共封裝光學（CPO）及光學 UALink 架構。Jefferies 報告指出，若 AMD 確認採用 CPO，將證明 CPO 並非僅由 NVIDIA 強推，對整體 CPO 板塊具題材性利多。若 AMD 揭露其 MI500 使用 Ayar Labs 或 GlobalFoundries (GFS) 的解決方案，將對上游雷射供應商 SIVE 極為有利。",
+          "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
             "Bullish": 1
           }
@@ -1265,9 +1259,9 @@
           "sentiment_score": 1,
           "max_importance": 5,
           "latest_at": "2026-07-28T22:25:27Z",
-          "latest_thesis": "I personally see it as extreme short term deleveraging that overshot many individual names.   - $BE to $TER reported blowout results, with Bloom reporting 166% Y/Y rev growth +...",
-          "latest_summary_zh": "",
-          "latest_change": "UPDATE",
+          "latest_thesis": "近期科技股拉回屬於過度的短期去槓桿，AI 雲端巨頭資本支出調升與強勁財報顯示 AI 加速發展的長期論點依然穩固。",
+          "latest_summary_zh": "作者認為近期科技股的下跌是過度的短期去槓桿行為，市場基本面依然強勁。從 BE 和 TER 強勁的財報、中國光學大廠的預告，到 Alphabet 大幅調升資本支出至 1,950 億至 2,050 億美元，均顯示 AI 需求與營收正在加速。作者重申對光學互連、記憶體和近雲/AI雲端等主題的強烈信心。",
+          "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
             "Bullish": 1
           }
@@ -1307,9 +1301,9 @@
           "sentiment_score": 1,
           "max_importance": 5,
           "latest_at": "2026-07-28T22:25:27Z",
-          "latest_thesis": "I personally see it as extreme short term deleveraging that overshot many individual names.   - $BE to $TER reported blowout results, with Bloom reporting 166% Y/Y rev growth +...",
-          "latest_summary_zh": "",
-          "latest_change": "UPDATE",
+          "latest_thesis": "近期科技股拉回屬於過度的短期去槓桿，AI 雲端巨頭資本支出調升與強勁財報顯示 AI 加速發展的長期論點依然穩固。",
+          "latest_summary_zh": "作者認為近期科技股的下跌是過度的短期去槓桿行為，市場基本面依然強勁。從 BE 和 TER 強勁的財報、中國光學大廠的預告，到 Alphabet 大幅調升資本支出至 1,950 億至 2,050 億美元，均顯示 AI 需求與營收正在加速。作者重申對光學互連、記憶體和近雲/AI雲端等主題的強烈信心。",
+          "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
             "Bullish": 1
           }
@@ -1670,8 +1664,8 @@
       "period": "quarterly",
       "label": "每季",
       "days": 90,
-      "start_at": "2026-05-13T06:31:35.518286Z",
-      "generated_at": "2026-08-11T06:31:35.586324Z",
+      "start_at": "2026-05-13T07:14:05.542239Z",
+      "generated_at": "2026-08-11T07:14:05.610127Z",
       "earliest_available_at": "2025-11-17T16:12:21Z",
       "traversed_until": "2026-04-13T02:42:25Z",
       "coverage_days": 120,
@@ -1682,91 +1676,93 @@
       "all_collected_count": 1289,
       "symbol_count": 172,
       "high_importance_count": 191,
-      "ai_analyzed_count": 3,
+      "ai_analyzed_count": 18,
       "sentiments": {
-        "Neutral": 377,
-        "Bullish": 144,
-        "Bearish": 34
+        "Neutral": 378,
+        "Bullish": 145,
+        "Bearish": 31,
+        "Mixed": 1
       },
       "symbols": [
         {
           "symbol": "SIVE",
           "mentions": 144,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 35,
+          "sentiment_score": 39,
           "max_importance": 5,
           "latest_at": "2026-08-10T08:26:02Z",
-          "latest_thesis": "Now that markets are hosting a laser party again from $SIVE, OE Solutions, $LITE, Coherent, to $AAOI.  There’s a pretty interesting study:  Both from Fidelity and a UC Berkeley...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
+          "latest_thesis": "光學與科技主題具高波動特性，投資人應建立長線信念、避免頻繁交易與恐慌殺跌，才能把握光通訊族群強勁反彈的收益。",
+          "latest_summary_zh": "作者觀察到光通訊族群（SIVE、OE Solutions、LITE、Coherent、AAOI）迎來強勁反彈行情。他引用 Fidelity 與 UC Berkeley 的研究指出，不頻繁交易者的平均報酬率（18.5%）顯著高於頻繁交易者（11.4%）。作者提醒散戶往往在記憶體或光通訊等主題波動中恐慌殺跌，導致錯過隨後的劇烈反彈，強調建立投資信念能有效避免過度交易並掌握逢低加碼的機會。",
+          "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bullish": 50,
-            "Neutral": 79,
-            "Bearish": 15
+            "Bullish": 51,
+            "Neutral": 80,
+            "Bearish": 12,
+            "Mixed": 1
           }
         },
         {
           "symbol": "NVDA",
           "mentions": 99,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 33,
+          "sentiment_score": 35,
           "max_importance": 5,
           "latest_at": "2026-08-11T02:19:36Z",
           "latest_thesis": "宇樹科技 IPO 的極端超額認購凸顯市場對人形機器人板塊的強烈渴望，其高估值上市將為估值相對較低的美國同業帶來外溢效應與重新定價機會。",
           "latest_summary_zh": "宇樹科技（Unitree）IPO 獲得散戶超額認購超過 8000 倍，顯示市場對純人形機器人標的的需求極度狂熱。作者指出自己透過 CCXI 參與投資美國人形機器人公司 Agility Robotics（前輪估值約 25 億美元），並認為宇樹若以 300 億美元以上的估值開盤，將在未來一至兩週內吸引資金關注美國領先的人形機器人業者。",
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bullish": 42,
+            "Bullish": 43,
             "Neutral": 48,
-            "Bearish": 9
+            "Bearish": 8
           }
         },
         {
           "symbol": "LITE",
           "mentions": 81,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 21,
+          "sentiment_score": 23,
           "max_importance": 5,
           "latest_at": "2026-08-10T08:26:02Z",
-          "latest_thesis": "Now that markets are hosting a laser party again from $SIVE, OE Solutions, $LITE, Coherent, to $AAOI.  There’s a pretty interesting study:  Both from Fidelity and a UC Berkeley...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
+          "latest_thesis": "光學與科技主題具高波動特性，投資人應建立長線信念、避免頻繁交易與恐慌殺跌，才能把握光通訊族群強勁反彈的收益。",
+          "latest_summary_zh": "作者觀察到光通訊族群（SIVE、OE Solutions、LITE、Coherent、AAOI）迎來強勁反彈行情。他引用 Fidelity 與 UC Berkeley 的研究指出，不頻繁交易者的平均報酬率（18.5%）顯著高於頻繁交易者（11.4%）。作者提醒散戶往往在記憶體或光通訊等主題波動中恐慌殺跌，導致錯過隨後的劇烈反彈，強調建立投資信念能有效避免過度交易並掌握逢低加碼的機會。",
+          "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bullish": 30,
+            "Bullish": 31,
             "Neutral": 42,
-            "Bearish": 9
+            "Bearish": 8
           }
         },
         {
           "symbol": "AAOI",
           "mentions": 74,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 23,
+          "sentiment_score": 27,
           "max_importance": 5,
           "latest_at": "2026-08-10T15:42:04Z",
           "latest_thesis": "主流媒體因缺乏光學工程專業知識而將 $AAOI 誤批為迷因股，忽視了其在光學供應鏈中的技術瓶頸與基本面潛力。",
           "latest_summary_zh": "作者以諷刺對話批評主流財經媒體 Barron's 對光學供應鏈（如 $AAOI）的報導極不專業。作者指出媒體聘用缺乏工程背景的人員，因看不懂 CW 雷射瓶頸與產能毛利模型等技術細節，便草率將其歸類為迷因股（memestock）。",
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bullish": 29,
+            "Bullish": 31,
             "Neutral": 39,
-            "Bearish": 6
+            "Bearish": 4
           }
         },
         {
           "symbol": "NBIS",
           "mentions": 46,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 9,
+          "sentiment_score": 10,
           "max_importance": 5,
           "latest_at": "2026-08-10T02:03:29Z",
           "latest_thesis": "Just some near term events:  - OCP APAC tomorrow (Ayar, Lightmatter, $AMD, $NVDA) and your CPO players are giving announcements/updates.  This should be a catalyst for certain o...",
           "latest_summary_zh": "",
           "latest_change": "NEW",
           "sentiments": {
-            "Neutral": 29,
+            "Neutral": 30,
             "Bullish": 13,
-            "Bearish": 4
+            "Bearish": 3
           }
         },
         {
@@ -1780,25 +1776,26 @@
           "latest_summary_zh": "",
           "latest_change": "NEW",
           "sentiments": {
-            "Bullish": 17,
-            "Neutral": 22,
-            "Bearish": 2
+            "Bullish": 16,
+            "Neutral": 23,
+            "Mixed": 1,
+            "Bearish": 1
           }
         },
         {
           "symbol": "AMD",
           "mentions": 40,
           "dominant_sentiment": "Bullish",
-          "sentiment_score": 10,
+          "sentiment_score": 12,
           "max_importance": 5,
           "latest_at": "2026-08-11T01:29:11Z",
           "latest_thesis": "比特幣礦商轉型 AI 託管獲大廠巨額合約驗證，但營收爆發拐點需等到 2027 年下半年。",
           "latest_summary_zh": "RIOT 宣布與 Anthropic 簽署高達 91 億至 161 億美元的 20 年期巨額託管合約，同時 AMD 也行使選擇權擴展與 RIOT 的合作。作者指出前比特幣礦商（如 RIOT、IREN）成功轉型 AI 主機託管（Colo），但整個族群的營收顯著轉折點（inflection）預計要到 2027 年下半年才會顯現。",
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bullish": 17,
+            "Bullish": 18,
             "Neutral": 16,
-            "Bearish": 7
+            "Bearish": 6
           }
         },
         {
@@ -1853,32 +1850,33 @@
           "symbol": "MU",
           "mentions": 36,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 10,
+          "sentiment_score": 9,
           "max_importance": 5,
           "latest_at": "2026-08-08T17:52:29Z",
           "latest_thesis": "Yes, I'm still bullish on memory like $MU / Samsung.  As I said earlier, markets tend to rotate from bottleneck to bottleneck.  This week it looks $AXTI to $LITE in the photonic...",
           "latest_summary_zh": "",
           "latest_change": "NEW",
           "sentiments": {
-            "Bullish": 13,
+            "Bullish": 12,
             "Neutral": 20,
-            "Bearish": 3
+            "Bearish": 3,
+            "Mixed": 1
           }
         },
         {
           "symbol": "JBL",
           "mentions": 34,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 9,
+          "sentiment_score": 10,
           "max_importance": 5,
           "latest_at": "2026-08-06T22:54:46Z",
           "latest_thesis": "Just some TLDR notes on $AAOI earnings:  - Expects full qualification of 1.6T products by their hyperscaler customer within next couple of weeks   (helpful revenue ramp #2, time...",
           "latest_summary_zh": "",
           "latest_change": "NEW",
           "sentiments": {
-            "Neutral": 15,
+            "Neutral": 16,
             "Bullish": 14,
-            "Bearish": 5
+            "Bearish": 4
           }
         },
         {
@@ -1917,23 +1915,23 @@
           "symbol": "AMZN",
           "mentions": 27,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 5,
+          "sentiment_score": 7,
           "max_importance": 5,
           "latest_at": "2026-08-11T02:19:36Z",
           "latest_thesis": "宇樹科技 IPO 的極端超額認購凸顯市場對人形機器人板塊的強烈渴望，其高估值上市將為估值相對較低的美國同業帶來外溢效應與重新定價機會。",
           "latest_summary_zh": "宇樹科技（Unitree）IPO 獲得散戶超額認購超過 8000 倍，顯示市場對純人形機器人標的的需求極度狂熱。作者指出自己透過 CCXI 參與投資美國人形機器人公司 Agility Robotics（前輪估值約 25 億美元），並認為宇樹若以 300 億美元以上的估值開盤，將在未來一至兩週內吸引資金關注美國領先的人形機器人業者。",
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bullish": 7,
+            "Bullish": 8,
             "Neutral": 18,
-            "Bearish": 2
+            "Bearish": 1
           }
         },
         {
           "symbol": "XFAB",
           "mentions": 27,
           "dominant_sentiment": "Bullish",
-          "sentiment_score": 14,
+          "sentiment_score": 15,
           "max_importance": 5,
           "latest_at": "2026-07-31T08:25:39Z",
           "latest_thesis": "For $XFAB ER transcript:    Just to recap, my idea on $XFAB foundry growth opportunities stemmed from SiC for 800v and photonixfab/MTP for CPO applicability.     - $XFAB: \"We ar...",
@@ -1941,8 +1939,8 @@
           "latest_change": "NEW",
           "sentiments": {
             "Bullish": 16,
-            "Bearish": 2,
-            "Neutral": 9
+            "Neutral": 10,
+            "Bearish": 1
           }
         },
         {
@@ -2000,9 +1998,9 @@
           "sentiment_score": 6,
           "max_importance": 5,
           "latest_at": "2026-07-10T08:23:29Z",
-          "latest_thesis": "Yep, it’s interesting to witness retail capitulation.  After we got Bloomberg Meta compute article cleared up by their internal memo.   And the 2 reports on delays were denied b...",
-          "latest_summary_zh": "",
-          "latest_change": "UPDATE",
+          "latest_thesis": "無差別的主題性拋售與散戶恐慌賣壓並未改變矽光子及 AI 供應鏈長期營收與營運利潤成長的基本面。",
+          "latest_summary_zh": "作者指出近期矽光子與 AI 供應鏈概念股的回檔主因是市場謠言導致散戶恐慌棄守，但 Meta 算力新聞已獲內部備忘錄澄清，Nvidia 延遲報導亦遭官方否認。作者強調 Nvidia 及光波導/光子學路線圖未變，核心供應商（LITE、SIVE、TSM、AAOI、IQE、AXTI 等）長期營收展望依然穩健，機構投資人正在低接買進。",
+          "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
             "Bullish": 8,
             "Neutral": 14,
@@ -2045,16 +2043,16 @@
           "symbol": "GFS",
           "mentions": 22,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 6,
+          "sentiment_score": 7,
           "max_importance": 5,
           "latest_at": "2026-07-29T17:07:41Z",
           "latest_thesis": "US Gov to take 1% stake in $GFS, and award them $300m for the US CHIPS ACT.  This is actually a strong read through on $SIVE / $LITE, given this CHIPS ACT is specifically aimed...",
           "latest_summary_zh": "",
           "latest_change": "MENTION",
           "sentiments": {
-            "Neutral": 10,
+            "Neutral": 11,
             "Bullish": 9,
-            "Bearish": 3
+            "Bearish": 2
           }
         },
         {
@@ -2107,16 +2105,16 @@
           "symbol": "COHR",
           "mentions": 20,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 1,
+          "sentiment_score": 3,
           "max_importance": 5,
           "latest_at": "2026-08-08T17:52:29Z",
           "latest_thesis": "Yes, I'm still bullish on memory like $MU / Samsung.  As I said earlier, markets tend to rotate from bottleneck to bottleneck.  This week it looks $AXTI to $LITE in the photonic...",
           "latest_summary_zh": "",
           "latest_change": "NEW",
           "sentiments": {
-            "Bullish": 5,
-            "Bearish": 4,
-            "Neutral": 11
+            "Bullish": 6,
+            "Neutral": 11,
+            "Bearish": 3
           }
         },
         {
@@ -2139,39 +2137,38 @@
           "symbol": "RDDT",
           "mentions": 18,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 4,
+          "sentiment_score": 5,
           "max_importance": 5,
           "latest_at": "2026-07-31T16:18:47Z",
           "latest_thesis": "$RDDT ER in a nutshell:  Revenue: $804.9M vs. $730.4M (expected). EPS: $1.25 vs. ~$0.95. Net income: $252.8M vs. $196.5M  Q3 guidance: Revenue: $860–870M vs. 829.1M Adjusted EBI...",
           "latest_summary_zh": "",
           "latest_change": "NEW",
           "sentiments": {
-            "Neutral": 12,
-            "Bullish": 5,
-            "Bearish": 1
+            "Neutral": 13,
+            "Bullish": 5
           }
         },
         {
           "symbol": "AVGO",
           "mentions": 16,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 2,
+          "sentiment_score": 4,
           "max_importance": 5,
           "latest_at": "2026-08-07T05:46:59Z",
-          "latest_thesis": "Wow, there's gem after gem in $AAOI earnings for $SIVE + other laser player readthrough.  1. AAOI not meaningfully participating in CPO first-gen deployments.  \"We just can’t ma...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
+          "latest_thesis": "CPO 雷射與光收發器面臨嚴重供需失衡，AAOI 因產能限制退出第一代 CPO，將大幅推升其他擁有 CW 雷射產能的西方獨立廠商之價值。",
+          "latest_summary_zh": "AAOI 財報顯示 CW 雷射與光收發器供不應求，客戶需求超出擴充產能 20%-40%，雷射為當前主要瓶頸。AAOI 因需優先供應自家光收發器，無法參予第一代 CPO 部署，這對 SIVE、LITE、AVGO、COHR 等具備產能的西方業者屬利多。此外，中國在 CPO DWDM 雷射技術上仍落後西方至少 2 至 3 年，鞏固了西方業者的護城河。",
+          "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bearish": 3,
+            "Bullish": 6,
             "Neutral": 8,
-            "Bullish": 5
+            "Bearish": 2
           }
         },
         {
           "symbol": "RKLB",
           "mentions": 15,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 2,
+          "sentiment_score": 1,
           "max_importance": 5,
           "latest_at": "2026-08-10T02:03:29Z",
           "latest_thesis": "Just some near term events:  - OCP APAC tomorrow (Ayar, Lightmatter, $AMD, $NVDA) and your CPO players are giving announcements/updates.  This should be a catalyst for certain o...",
@@ -2179,7 +2176,8 @@
           "latest_change": "NEW",
           "sentiments": {
             "Neutral": 11,
-            "Bullish": 3,
+            "Mixed": 1,
+            "Bullish": 2,
             "Bearish": 1
           }
         },
@@ -2235,7 +2233,7 @@
           "symbol": "MTSI",
           "mentions": 12,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": -1,
+          "sentiment_score": 1,
           "max_importance": 5,
           "latest_at": "2026-08-09T00:23:56Z",
           "latest_thesis": "I think it’s a good time to revisit $SIVE ~$427m/yr midpoint capacity revenue modeled projections.  Given recent industry earnings:  > $AAOI cited +20-40% demand imbalance for t...",
@@ -2243,8 +2241,8 @@
           "latest_change": "NEW",
           "sentiments": {
             "Neutral": 7,
-            "Bullish": 2,
-            "Bearish": 3
+            "Bullish": 3,
+            "Bearish": 2
           }
         },
         {
@@ -2267,16 +2265,16 @@
           "symbol": "RPI",
           "mentions": 12,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 3,
+          "sentiment_score": 4,
           "max_importance": 5,
           "latest_at": "2026-06-30T01:10:57Z",
-          "latest_thesis": "I've reached 900k followers, thank you everyone!  Just some reflection, it's actually a nightmare at higher counts...  Which is new to me, since I started at almost nothing earl...",
-          "latest_summary_zh": "",
-          "latest_change": "UPDATE",
+          "latest_thesis": "作者澄清其研究核心為 AI 供應鏈瓶頸與基本面分析而非迷因股操縱，並因應高關注度採取盤後發布與合規審查機制。",
+          "latest_summary_zh": "作者在達到 90 萬追蹤者後分享社群經營心路歷程，指出高追蹤數帶來的安全威脅、媒體歪曲報導（將其供應鏈分析誤導為迷因股）、機器人詐騙與情緒化追高殺低等困擾。他強調自己堅持免費分享 AI 供應鏈 bottleneck 與基本面研究（如 CPO、InP 襯底等），未經營付費社群或 Copytrade。為了合規與降低市場干擾，他現在貼文會經過審查並選擇在盤後發布，並預計在達 100 萬追蹤時暫時休息，改為分享研究流程工具。",
+          "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bearish": 2,
-            "Neutral": 5,
-            "Bullish": 5
+            "Neutral": 6,
+            "Bullish": 5,
+            "Bearish": 1
           }
         },
         {
@@ -2333,9 +2331,9 @@
           "sentiment_score": 4,
           "max_importance": 5,
           "latest_at": "2026-06-19T12:19:38Z",
-          "latest_thesis": "I think something to highlight also is not all my ideas are green, especially on short term timeframes!  My core three themes are Neoclouds (Energy), Memory, and Photonics.   An...",
-          "latest_summary_zh": "",
-          "latest_change": "UPDATE",
+          "latest_thesis": "三大核心主線（新興雲端能源、記憶體、矽光子）中長期邏輯依然穩固，投資應以數月的中期時間軸評估而非受短期波動干擾。",
+          "latest_summary_zh": "作者回顧其投資組合表現，重申三大核心主題為新興雲端/能源（Neoclouds）、記憶體（Memory）與光電/矽光子（Photonics）。雖然部分台灣 CPO 供應鏈受虛假報告影響出現虧損，且韓國市場因高波動性讓人心生戒心，但整體中長期個股多數回報優異。作者強調投資觀點應以數月的「中長期」時間軸來評估，而非數週的短期波動。",
+          "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
             "Bullish": 5,
             "Neutral": 2,
@@ -2349,9 +2347,9 @@
           "sentiment_score": 0,
           "max_importance": 5,
           "latest_at": "2026-06-19T12:19:38Z",
-          "latest_thesis": "I think something to highlight also is not all my ideas are green, especially on short term timeframes!  My core three themes are Neoclouds (Energy), Memory, and Photonics.   An...",
-          "latest_summary_zh": "",
-          "latest_change": "UPDATE",
+          "latest_thesis": "三大核心主線（新興雲端能源、記憶體、矽光子）中長期邏輯依然穩固，投資應以數月的中期時間軸評估而非受短期波動干擾。",
+          "latest_summary_zh": "作者回顧其投資組合表現，重申三大核心主題為新興雲端/能源（Neoclouds）、記憶體（Memory）與光電/矽光子（Photonics）。雖然部分台灣 CPO 供應鏈受虛假報告影響出現虧損，且韓國市場因高波動性讓人心生戒心，但整體中長期個股多數回報優異。作者強調投資觀點應以數月的「中長期」時間軸來評估，而非數週的短期波動。",
+          "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
             "Bullish": 2,
             "Neutral": 4,
@@ -2408,16 +2406,15 @@
           "symbol": "ALAB",
           "mentions": 5,
           "dominant_sentiment": "Bullish",
-          "sentiment_score": 2,
+          "sentiment_score": 3,
           "max_importance": 5,
           "latest_at": "2026-07-21T09:14:20Z",
-          "latest_thesis": "It's slightly more nuanced. Basically, $AMD SF event is tomorrow, Wed/Thurs (July 22, 23).  From Jefferies client note, AMD is expected to provide additional disclosures around...",
-          "latest_summary_zh": "",
-          "latest_change": "MENTION",
+          "latest_thesis": "AMD 若在 MI500 上確定導入 CPO 與光學 UALink，將驗證 CPO 行業趨勢並大幅提振上游雷射供應商 SIVE 的成長預期。",
+          "latest_summary_zh": "AMD 即將舉行舊金山活動，市場聚焦於 MI500 是否會明確採用共封裝光學（CPO）及光學 UALink 架構。Jefferies 報告指出，若 AMD 確認採用 CPO，將證明 CPO 並非僅由 NVIDIA 強推，對整體 CPO 板塊具題材性利多。若 AMD 揭露其 MI500 使用 Ayar Labs 或 GlobalFoundries (GFS) 的解決方案，將對上游雷射供應商 SIVE 極為有利。",
+          "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
             "Bullish": 3,
-            "Bearish": 1,
-            "Neutral": 1
+            "Neutral": 2
           }
         },
         {
@@ -2440,16 +2437,16 @@
           "symbol": "CBRS",
           "mentions": 5,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": -1,
+          "sentiment_score": 0,
           "max_importance": 5,
           "latest_at": "2026-06-30T14:17:18Z",
           "latest_thesis": "There was a pretty funny anecdotal complaint from the Machine Learning $RDDT subreddit.  On $CBRS + OpenAI:  - Needs 1-2K tokens/sec so tries to use Cerebras.  - Claims OpenAI r...",
           "latest_summary_zh": "",
           "latest_change": "MENTION",
           "sentiments": {
-            "Neutral": 2,
-            "Bearish": 2,
-            "Bullish": 1
+            "Neutral": 3,
+            "Bullish": 1,
+            "Bearish": 1
           }
         },
         {
@@ -2471,7 +2468,7 @@
           "symbol": "ASTS",
           "mentions": 4,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 1,
+          "sentiment_score": 0,
           "max_importance": 5,
           "latest_at": "2026-08-10T02:03:29Z",
           "latest_thesis": "Just some near term events:  - OCP APAC tomorrow (Ayar, Lightmatter, $AMD, $NVDA) and your CPO players are giving announcements/updates.  This should be a catalyst for certain o...",
@@ -2479,7 +2476,7 @@
           "latest_change": "NEW",
           "sentiments": {
             "Neutral": 3,
-            "Bullish": 1
+            "Mixed": 1
           }
         },
         {
@@ -2611,9 +2608,9 @@
           "sentiment_score": 1,
           "max_importance": 5,
           "latest_at": "2026-07-28T22:25:27Z",
-          "latest_thesis": "I personally see it as extreme short term deleveraging that overshot many individual names.   - $BE to $TER reported blowout results, with Bloom reporting 166% Y/Y rev growth +...",
-          "latest_summary_zh": "",
-          "latest_change": "UPDATE",
+          "latest_thesis": "近期科技股拉回屬於過度的短期去槓桿，AI 雲端巨頭資本支出調升與強勁財報顯示 AI 加速發展的長期論點依然穩固。",
+          "latest_summary_zh": "作者認為近期科技股的下跌是過度的短期去槓桿行為，市場基本面依然強勁。從 BE 和 TER 強勁的財報、中國光學大廠的預告，到 Alphabet 大幅調升資本支出至 1,950 億至 2,050 億美元，均顯示 AI 需求與營收正在加速。作者重申對光學互連、記憶體和近雲/AI雲端等主題的強烈信心。",
+          "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
             "Bullish": 1,
             "Neutral": 2
@@ -2641,9 +2638,9 @@
           "sentiment_score": 1,
           "max_importance": 5,
           "latest_at": "2026-06-19T12:19:38Z",
-          "latest_thesis": "I think something to highlight also is not all my ideas are green, especially on short term timeframes!  My core three themes are Neoclouds (Energy), Memory, and Photonics.   An...",
-          "latest_summary_zh": "",
-          "latest_change": "UPDATE",
+          "latest_thesis": "三大核心主線（新興雲端能源、記憶體、矽光子）中長期邏輯依然穩固，投資應以數月的中期時間軸評估而非受短期波動干擾。",
+          "latest_summary_zh": "作者回顧其投資組合表現，重申三大核心主題為新興雲端/能源（Neoclouds）、記憶體（Memory）與光電/矽光子（Photonics）。雖然部分台灣 CPO 供應鏈受虛假報告影響出現虧損，且韓國市場因高波動性讓人心生戒心，但整體中長期個股多數回報優異。作者強調投資觀點應以數月的「中長期」時間軸來評估，而非數週的短期波動。",
+          "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
             "Bullish": 1,
             "Neutral": 2
@@ -2813,15 +2810,15 @@
         {
           "symbol": "CRM",
           "mentions": 2,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 1,
+          "dominant_sentiment": "Mixed",
+          "sentiment_score": 0,
           "max_importance": 5,
           "latest_at": "2026-06-25T14:51:04Z",
-          "latest_thesis": "Feels like the only thing that hasn’t crashed…  Is memory like $MU, indexes, or large cap semis like Intel so far.  - Photonics from $AXTI to $SIVE down 40%.  - Space from $ASTS...",
-          "latest_summary_zh": "",
-          "latest_change": "MENTION",
+          "latest_thesis": "雖然鷹派貨幣政策與潛在升息引發流動性平倉潮並打壓高估值科技股，但長期來看 AI 資本支出的基本面仍將克服短期流動性衝擊。",
+          "latest_summary_zh": "作者指出當前市場除了記憶體（如 MU）、大盤指數與大型半導體外，其餘熱門板塊如光電（AXTI、SIVE）、太空（ASTS、RKLB）、熱門 AI 股（PLTR）及軟體股（CRM）皆出現 35% 至 40% 不等的顯著拉回。此波拋售主要受到鷹派聯準會與降息預期破滅（甚至可能升息）的影響，流動性較差的資產遭遇保證金平倉（margin liquidation）而過度下挫。長遠來看基本面將戰勝流動性衝擊，作者個人仍看好 AI 建設及上游 AI 資本支出受益者。",
+          "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bullish": 1,
+            "Mixed": 1,
             "Neutral": 1
           }
         },
@@ -2832,9 +2829,9 @@
           "sentiment_score": 1,
           "max_importance": 5,
           "latest_at": "2026-07-28T22:25:27Z",
-          "latest_thesis": "I personally see it as extreme short term deleveraging that overshot many individual names.   - $BE to $TER reported blowout results, with Bloom reporting 166% Y/Y rev growth +...",
-          "latest_summary_zh": "",
-          "latest_change": "UPDATE",
+          "latest_thesis": "近期科技股拉回屬於過度的短期去槓桿，AI 雲端巨頭資本支出調升與強勁財報顯示 AI 加速發展的長期論點依然穩固。",
+          "latest_summary_zh": "作者認為近期科技股的下跌是過度的短期去槓桿行為，市場基本面依然強勁。從 BE 和 TER 強勁的財報、中國光學大廠的預告，到 Alphabet 大幅調升資本支出至 1,950 億至 2,050 億美元，均顯示 AI 需求與營收正在加速。作者重申對光學互連、記憶體和近雲/AI雲端等主題的強烈信心。",
+          "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
             "Bullish": 1,
             "Neutral": 1
@@ -2920,9 +2917,9 @@
           "sentiment_score": 2,
           "max_importance": 5,
           "latest_at": "2026-06-19T12:19:38Z",
-          "latest_thesis": "I think something to highlight also is not all my ideas are green, especially on short term timeframes!  My core three themes are Neoclouds (Energy), Memory, and Photonics.   An...",
-          "latest_summary_zh": "",
-          "latest_change": "UPDATE",
+          "latest_thesis": "三大核心主線（新興雲端能源、記憶體、矽光子）中長期邏輯依然穩固，投資應以數月的中期時間軸評估而非受短期波動干擾。",
+          "latest_summary_zh": "作者回顧其投資組合表現，重申三大核心主題為新興雲端/能源（Neoclouds）、記憶體（Memory）與光電/矽光子（Photonics）。雖然部分台灣 CPO 供應鏈受虛假報告影響出現虧損，且韓國市場因高波動性讓人心生戒心，但整體中長期個股多數回報優異。作者強調投資觀點應以數月的「中長期」時間軸來評估，而非數週的短期波動。",
+          "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
             "Bullish": 2
           }
@@ -2934,9 +2931,9 @@
           "sentiment_score": 1,
           "max_importance": 5,
           "latest_at": "2026-07-28T22:25:27Z",
-          "latest_thesis": "I personally see it as extreme short term deleveraging that overshot many individual names.   - $BE to $TER reported blowout results, with Bloom reporting 166% Y/Y rev growth +...",
-          "latest_summary_zh": "",
-          "latest_change": "UPDATE",
+          "latest_thesis": "近期科技股拉回屬於過度的短期去槓桿，AI 雲端巨頭資本支出調升與強勁財報顯示 AI 加速發展的長期論點依然穩固。",
+          "latest_summary_zh": "作者認為近期科技股的下跌是過度的短期去槓桿行為，市場基本面依然強勁。從 BE 和 TER 強勁的財報、中國光學大廠的預告，到 Alphabet 大幅調升資本支出至 1,950 億至 2,050 億美元，均顯示 AI 需求與營收正在加速。作者重申對光學互連、記憶體和近雲/AI雲端等主題的強烈信心。",
+          "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
             "Bullish": 1,
             "Neutral": 1
@@ -3233,15 +3230,15 @@
         {
           "symbol": "PLTR",
           "mentions": 1,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 1,
+          "dominant_sentiment": "Mixed",
+          "sentiment_score": 0,
           "max_importance": 5,
           "latest_at": "2026-06-25T14:51:04Z",
-          "latest_thesis": "Feels like the only thing that hasn’t crashed…  Is memory like $MU, indexes, or large cap semis like Intel so far.  - Photonics from $AXTI to $SIVE down 40%.  - Space from $ASTS...",
-          "latest_summary_zh": "",
-          "latest_change": "MENTION",
+          "latest_thesis": "雖然鷹派貨幣政策與潛在升息引發流動性平倉潮並打壓高估值科技股，但長期來看 AI 資本支出的基本面仍將克服短期流動性衝擊。",
+          "latest_summary_zh": "作者指出當前市場除了記憶體（如 MU）、大盤指數與大型半導體外，其餘熱門板塊如光電（AXTI、SIVE）、太空（ASTS、RKLB）、熱門 AI 股（PLTR）及軟體股（CRM）皆出現 35% 至 40% 不等的顯著拉回。此波拋售主要受到鷹派聯準會與降息預期破滅（甚至可能升息）的影響，流動性較差的資產遭遇保證金平倉（margin liquidation）而過度下挫。長遠來看基本面將戰勝流動性衝擊，作者個人仍看好 AI 建設及上游 AI 資本支出受益者。",
+          "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bullish": 1
+            "Mixed": 1
           }
         },
         {
@@ -3307,9 +3304,9 @@
           "sentiment_score": 1,
           "max_importance": 5,
           "latest_at": "2026-06-19T12:19:38Z",
-          "latest_thesis": "I think something to highlight also is not all my ideas are green, especially on short term timeframes!  My core three themes are Neoclouds (Energy), Memory, and Photonics.   An...",
-          "latest_summary_zh": "",
-          "latest_change": "UPDATE",
+          "latest_thesis": "三大核心主線（新興雲端能源、記憶體、矽光子）中長期邏輯依然穩固，投資應以數月的中期時間軸評估而非受短期波動干擾。",
+          "latest_summary_zh": "作者回顧其投資組合表現，重申三大核心主題為新興雲端/能源（Neoclouds）、記憶體（Memory）與光電/矽光子（Photonics）。雖然部分台灣 CPO 供應鏈受虛假報告影響出現虧損，且韓國市場因高波動性讓人心生戒心，但整體中長期個股多數回報優異。作者強調投資觀點應以數月的「中長期」時間軸來評估，而非數週的短期波動。",
+          "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
             "Bullish": 1
           }
@@ -3321,9 +3318,9 @@
           "sentiment_score": 1,
           "max_importance": 5,
           "latest_at": "2026-06-19T12:19:38Z",
-          "latest_thesis": "I think something to highlight also is not all my ideas are green, especially on short term timeframes!  My core three themes are Neoclouds (Energy), Memory, and Photonics.   An...",
-          "latest_summary_zh": "",
-          "latest_change": "UPDATE",
+          "latest_thesis": "三大核心主線（新興雲端能源、記憶體、矽光子）中長期邏輯依然穩固，投資應以數月的中期時間軸評估而非受短期波動干擾。",
+          "latest_summary_zh": "作者回顧其投資組合表現，重申三大核心主題為新興雲端/能源（Neoclouds）、記憶體（Memory）與光電/矽光子（Photonics）。雖然部分台灣 CPO 供應鏈受虛假報告影響出現虧損，且韓國市場因高波動性讓人心生戒心，但整體中長期個股多數回報優異。作者強調投資觀點應以數月的「中長期」時間軸來評估，而非數週的短期波動。",
+          "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
             "Bullish": 1
           }
@@ -4315,10 +4312,10 @@
       ],
       "sentiment": "Bullish",
       "importance": 4,
-      "summary_zh": "",
-      "core_thesis": "",
-      "why_it_matters": "",
-      "thesis_change": "NEW"
+      "summary_zh": "作者觀察到光通訊族群（SIVE、OE Solutions、LITE、Coherent、AAOI）迎來強勁反彈行情。他引用 Fidelity 與 UC Berkeley 的研究指出，不頻繁交易者的平均報酬率（18.5%）顯著高於頻繁交易者（11.4%）。作者提醒散戶往往在記憶體或光通訊等主題波動中恐慌殺跌，導致錯過隨後的劇烈反彈，強調建立投資信念能有效避免過度交易並掌握逢低加碼的機會。",
+      "core_thesis": "光學與科技主題具高波動特性，投資人應建立長線信念、避免頻繁交易與恐慌殺跌，才能把握光通訊族群強勁反彈的收益。",
+      "why_it_matters": "光通訊與 AI 基礎設施板塊波動極大，散戶常因追漲殺跌而陷入虧損。該貼文透過學術與機構數據提醒投資人，低交易頻率與長線信念才是獲利關鍵。",
+      "thesis_change": "INSUFFICIENT_HISTORY"
     },
     {
       "tweet_id": "2086634510935118161",
@@ -4524,12 +4521,12 @@
         "NVDA",
         "SIVE"
       ],
-      "sentiment": "Bearish",
+      "sentiment": "Bullish",
       "importance": 5,
-      "summary_zh": "",
-      "core_thesis": "",
-      "why_it_matters": "",
-      "thesis_change": "NEW"
+      "summary_zh": "AAOI 財報顯示 CW 雷射與光收發器供不應求，客戶需求超出擴充產能 20%-40%，雷射為當前主要瓶頸。AAOI 因需優先供應自家光收發器，無法參予第一代 CPO 部署，這對 SIVE、LITE、AVGO、COHR 等具備產能的西方業者屬利多。此外，中國在 CPO DWDM 雷射技術上仍落後西方至少 2 至 3 年，鞏固了西方業者的護城河。",
+      "core_thesis": "CPO 雷射與光收發器面臨嚴重供需失衡，AAOI 因產能限制退出第一代 CPO，將大幅推升其他擁有 CW 雷射產能的西方獨立廠商之價值。",
+      "why_it_matters": "這證實了 AI 伺服器與高速光通訊領域中「CW 雷射」成為關鍵供應瓶頸。AAOI 產能不足將直接轉移需求至 SIVE、LITE、COHR 等其他供應商，進一步確立西方供應鏈的護城河與定價能力。",
+      "thesis_change": "INSUFFICIENT_HISTORY"
     },
     {
       "tweet_id": "2085511646257332581",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T06:31:35.602327Z",
+  "generated_at": "2026-08-11T07:14:05.626629Z",
   "symbol": "AMZN",
   "summary": {
     "primary_count": 45,
@@ -10,9 +10,9 @@
     "latest_thesis": "宇樹科技 IPO 的極端超額認購凸顯市場對人形機器人板塊的強烈渴望，其高估值上市將為估值相對較低的美國同業帶來外溢效應與重新定價機會。",
     "latest_change": "INSUFFICIENT_HISTORY",
     "sentiments": {
-      "Bullish": 19,
+      "Bullish": 20,
       "Neutral": 38,
-      "Bearish": 3
+      "Bearish": 2
     }
   },
   "daily_stances": [
@@ -1588,19 +1588,19 @@
     {
       "date": "2026-07-10",
       "created_at": "2026-07-10T18:17:16Z",
-      "sentiment": "Bearish",
-      "bull_count": 0,
-      "bear_count": 1,
+      "sentiment": "Bullish",
+      "bull_count": 1,
+      "bear_count": 0,
       "neutral_count": 0,
       "mixed_count": 0,
       "mention_count": 1,
-      "bull_weight": 0.0,
-      "bear_weight": 3.0,
-      "bull_share": 0.0,
+      "bull_weight": 4.25,
+      "bear_weight": 0.0,
+      "bull_share": 1.0,
       "importance": 5,
-      "confidence": 0,
-      "thesis_change": "UPDATE",
-      "core_thesis": "",
+      "confidence": 85,
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "core_thesis": "AI 晶片規模爆發將抵銷單機光收發器用量減少的衝擊，而 CPO 長期架構偏好 UHP CW 雷射，支撐 SIVE 的核心看多論點。",
       "url": "https://x.com/aleabitoreddit/status/2075645547978084371",
       "tweet_id": "2075645547978084371",
       "items": [
@@ -1612,18 +1612,24 @@
           "created_at": "2026-07-10T18:17:16Z",
           "text": "Regarding $AMZN RNG + OpenAI’s MRC and VCSELs. \n\nIn what appears to be an indirect response on B. Riley's $AAOI sell report regarding optimizations that \"flattens networks and cuts transceiver TAM 40-50%\".\n\nRosenblatt TLDR: They've already modeled for this, even though each XPU may use fewer transceivers.\n\nThe number of XPUs is growing so quickly that total optical demand should still rise. \n\nOn lasers architectures for CPO: VCSELs are useful as a credible bridge for NPO/short reach. \n\nIdeal architecture though for CPO is UHP CW over other lasers, and cites Broadcom for that statements. Which happens to supports my core $SIVE thesis. \n\nI feel like Rosenblatt and I share the same views on a lot of things, I like the way they roll.",
           "url": "https://x.com/aleabitoreddit/status/2075645547978084371",
-          "sentiment": "Bearish",
+          "sentiment": "Bullish",
           "importance": 5,
-          "thesis_change": "UPDATE",
-          "summary_zh": "",
-          "plain_zh": "",
-          "core_thesis": "",
-          "why_it_matters": "",
-          "history_note": "",
-          "catalysts": [],
-          "risks": [],
-          "confidence": 0,
-          "ai_status": "",
+          "thesis_change": "INSUFFICIENT_HISTORY",
+          "summary_zh": "作者引用 Rosenblatt 對 B. Riley 關於 AAOI 賣出報告的回應。儘管優化可能減少單一 XPU 所需的光收發器數量，但 XPU 總量成長迅速，光學元件總需求仍將上升。在 CPO 雷射架構方面，VCSEL 可作為 NPO/短距離的橋樑，但 CPO 的理想架構仍是 UHP CW 雷射（引用 Broadcom 觀點），這進一步支持了作者對 SIVE 的核心投資論點。",
+          "plain_zh": "有券商報告指出網路架構優化會減少光收發器的市場規模，但 Rosenblatt 認為 AI 晶片（XPU）數量成長極快，總體光學元件需求依然看增。在先進封裝光學（CPO）技術上，超高功率連續波雷射（UHP CW）才是長期最佳方案，這對 SIVE 這家公司非常有利。",
+          "core_thesis": "AI 晶片規模爆發將抵銷單機光收發器用量減少的衝擊，而 CPO 長期架構偏好 UHP CW 雷射，支撐 SIVE 的核心看多論點。",
+          "why_it_matters": "化解了市場對網路架構優化導致光學元件市場規模（TAM）大幅萎縮的疑慮。同時確認了 CPO 技術路線選擇，強化了超高功率連續波（UHP CW）雷射供應商的長期價值。",
+          "history_note": "歷史貼文資料不足，無法比較過去觀點變化；但貼文顯示作者對 SIVE 看多論點獲券商報告與 Broadcom 觀點支持。",
+          "catalysts": [
+            "XPU 部署數量持續高速成長帶動光學元件總需求上升",
+            "CPO（共封裝光學）技術主流轉向 UHP CW 雷射架構"
+          ],
+          "risks": [
+            "網路架構優化可能在短期內將光收發器 TAM 壓低 40-50%",
+            "VCSEL 或其他雷射技術替代方案競爭"
+          ],
+          "confidence": 85,
+          "ai_status": "ok",
           "favorite_count": 919,
           "retweet_count": 71
         }
@@ -1809,8 +1815,8 @@
           ],
           "confidence": 85,
           "ai_status": "ok",
-          "favorite_count": 602,
-          "retweet_count": 24
+          "favorite_count": 671,
+          "retweet_count": 30
         }
       ]
     }
@@ -2983,48 +2989,48 @@
         "date": "2026-07-10",
         "created_at": "2026-07-10T18:17:16Z",
         "url": "https://x.com/aleabitoreddit/status/2075645547978084371",
-        "sentiment": "Bearish",
-        "confidence": 0,
+        "sentiment": "Bullish",
+        "confidence": 85,
         "importance": 5,
-        "thesis_change": "UPDATE",
-        "core_thesis": "",
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "AI 晶片規模爆發將抵銷單機光收發器用量減少的衝擊，而 CPO 長期架構偏好 UHP CW 雷射，支撐 SIVE 的核心看多論點。",
         "entry_date": "2026-07-10",
         "entry_price": 245.34,
         "returns": {
           "1d": {
             "raw_return": 0.8,
-            "score_return": -0.8,
+            "score_return": 0.8,
             "exit_date": "2026-07-13",
             "exit_price": 247.31,
-            "hit": false
+            "hit": true
           },
           "7d": {
             "raw_return": 0.77,
-            "score_return": -0.77,
+            "score_return": 0.77,
             "exit_date": "2026-07-17",
             "exit_price": 247.23,
-            "hit": false
+            "hit": true
           },
           "30d": {
             "raw_return": 13.35,
-            "score_return": -13.35,
+            "score_return": 13.35,
             "exit_date": "2026-08-10",
             "exit_price": 278.09,
-            "hit": false
+            "hit": true
           },
           "now": {
             "raw_return": 13.35,
-            "score_return": -13.35,
+            "score_return": 13.35,
             "exit_date": "2026-08-10",
             "exit_price": 278.09,
-            "hit": false
+            "hit": true
           }
         },
         "mention_count": 1,
-        "bull_count": 0,
-        "bear_count": 1,
+        "bull_count": 1,
+        "bear_count": 0,
         "neutral_count": 0,
-        "bull_share": 0.0
+        "bull_share": 1.0
       }
     ],
     "daily_stances": [
@@ -4600,19 +4606,19 @@
       {
         "date": "2026-07-10",
         "created_at": "2026-07-10T18:17:16Z",
-        "sentiment": "Bearish",
-        "bull_count": 0,
-        "bear_count": 1,
+        "sentiment": "Bullish",
+        "bull_count": 1,
+        "bear_count": 0,
         "neutral_count": 0,
         "mixed_count": 0,
         "mention_count": 1,
-        "bull_weight": 0.0,
-        "bear_weight": 3.0,
-        "bull_share": 0.0,
+        "bull_weight": 4.25,
+        "bear_weight": 0.0,
+        "bull_share": 1.0,
         "importance": 5,
-        "confidence": 0,
-        "thesis_change": "UPDATE",
-        "core_thesis": "",
+        "confidence": 85,
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "AI 晶片規模爆發將抵銷單機光收發器用量減少的衝擊，而 CPO 長期架構偏好 UHP CW 雷射，支撐 SIVE 的核心看多論點。",
         "url": "https://x.com/aleabitoreddit/status/2075645547978084371",
         "tweet_id": "2075645547978084371",
         "items": [
@@ -4624,18 +4630,24 @@
             "created_at": "2026-07-10T18:17:16Z",
             "text": "Regarding $AMZN RNG + OpenAI’s MRC and VCSELs. \n\nIn what appears to be an indirect response on B. Riley's $AAOI sell report regarding optimizations that \"flattens networks and cuts transceiver TAM 40-50%\".\n\nRosenblatt TLDR: They've already modeled for this, even though each XPU may use fewer transceivers.\n\nThe number of XPUs is growing so quickly that total optical demand should still rise. \n\nOn lasers architectures for CPO: VCSELs are useful as a credible bridge for NPO/short reach. \n\nIdeal architecture though for CPO is UHP CW over other lasers, and cites Broadcom for that statements. Which happens to supports my core $SIVE thesis. \n\nI feel like Rosenblatt and I share the same views on a lot of things, I like the way they roll.",
             "url": "https://x.com/aleabitoreddit/status/2075645547978084371",
-            "sentiment": "Bearish",
+            "sentiment": "Bullish",
             "importance": 5,
-            "thesis_change": "UPDATE",
-            "summary_zh": "",
-            "plain_zh": "",
-            "core_thesis": "",
-            "why_it_matters": "",
-            "history_note": "",
-            "catalysts": [],
-            "risks": [],
-            "confidence": 0,
-            "ai_status": "",
+            "thesis_change": "INSUFFICIENT_HISTORY",
+            "summary_zh": "作者引用 Rosenblatt 對 B. Riley 關於 AAOI 賣出報告的回應。儘管優化可能減少單一 XPU 所需的光收發器數量，但 XPU 總量成長迅速，光學元件總需求仍將上升。在 CPO 雷射架構方面，VCSEL 可作為 NPO/短距離的橋樑，但 CPO 的理想架構仍是 UHP CW 雷射（引用 Broadcom 觀點），這進一步支持了作者對 SIVE 的核心投資論點。",
+            "plain_zh": "有券商報告指出網路架構優化會減少光收發器的市場規模，但 Rosenblatt 認為 AI 晶片（XPU）數量成長極快，總體光學元件需求依然看增。在先進封裝光學（CPO）技術上，超高功率連續波雷射（UHP CW）才是長期最佳方案，這對 SIVE 這家公司非常有利。",
+            "core_thesis": "AI 晶片規模爆發將抵銷單機光收發器用量減少的衝擊，而 CPO 長期架構偏好 UHP CW 雷射，支撐 SIVE 的核心看多論點。",
+            "why_it_matters": "化解了市場對網路架構優化導致光學元件市場規模（TAM）大幅萎縮的疑慮。同時確認了 CPO 技術路線選擇，強化了超高功率連續波（UHP CW）雷射供應商的長期價值。",
+            "history_note": "歷史貼文資料不足，無法比較過去觀點變化；但貼文顯示作者對 SIVE 看多論點獲券商報告與 Broadcom 觀點支持。",
+            "catalysts": [
+              "XPU 部署數量持續高速成長帶動光學元件總需求上升",
+              "CPO（共封裝光學）技術主流轉向 UHP CW 雷射架構"
+            ],
+            "risks": [
+              "網路架構優化可能在短期內將光收發器 TAM 壓低 40-50%",
+              "VCSEL 或其他雷射技術替代方案競爭"
+            ],
+            "confidence": 85,
+            "ai_status": "ok",
             "favorite_count": 919,
             "retweet_count": 71
           }
@@ -4821,8 +4833,8 @@
             ],
             "confidence": 85,
             "ai_status": "ok",
-            "favorite_count": 602,
-            "retweet_count": 24
+            "favorite_count": 671,
+            "retweet_count": 30
           }
         ]
       }
@@ -4833,23 +4845,23 @@
       "horizons": {
         "1d": {
           "sample": 12,
-          "avg_score_return": -0.33,
-          "hit_rate": 41.7
+          "avg_score_return": -0.19,
+          "hit_rate": 50.0
         },
         "7d": {
           "sample": 12,
-          "avg_score_return": 0.32,
-          "hit_rate": 58.3
+          "avg_score_return": 0.45,
+          "hit_rate": 66.7
         },
         "30d": {
           "sample": 12,
-          "avg_score_return": 1.65,
-          "hit_rate": 58.3
+          "avg_score_return": 3.88,
+          "hit_rate": 66.7
         },
         "now": {
           "sample": 12,
-          "avg_score_return": 11.12,
-          "hit_rate": 83.3
+          "avg_score_return": 13.34,
+          "hit_rate": 91.7
         }
       }
     },
@@ -4885,8 +4897,8 @@
       ],
       "confidence": 85,
       "ai_status": "ok",
-      "favorite_count": 602,
-      "retweet_count": 24
+      "favorite_count": 671,
+      "retweet_count": 30
     },
     {
       "tweet_id": "2086157318065168490",
@@ -4988,18 +5000,24 @@
       "created_at": "2026-07-10T18:17:16Z",
       "text": "Regarding $AMZN RNG + OpenAI’s MRC and VCSELs. \n\nIn what appears to be an indirect response on B. Riley's $AAOI sell report regarding optimizations that \"flattens networks and cuts transceiver TAM 40-50%\".\n\nRosenblatt TLDR: They've already modeled for this, even though each XPU may use fewer transceivers.\n\nThe number of XPUs is growing so quickly that total optical demand should still rise. \n\nOn lasers architectures for CPO: VCSELs are useful as a credible bridge for NPO/short reach. \n\nIdeal architecture though for CPO is UHP CW over other lasers, and cites Broadcom for that statements. Which happens to supports my core $SIVE thesis. \n\nI feel like Rosenblatt and I share the same views on a lot of things, I like the way they roll.",
       "url": "https://x.com/aleabitoreddit/status/2075645547978084371",
-      "sentiment": "Bearish",
+      "sentiment": "Bullish",
       "importance": 5,
-      "thesis_change": "UPDATE",
-      "summary_zh": "",
-      "plain_zh": "",
-      "core_thesis": "",
-      "why_it_matters": "",
-      "history_note": "",
-      "catalysts": [],
-      "risks": [],
-      "confidence": 0,
-      "ai_status": "",
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "summary_zh": "作者引用 Rosenblatt 對 B. Riley 關於 AAOI 賣出報告的回應。儘管優化可能減少單一 XPU 所需的光收發器數量，但 XPU 總量成長迅速，光學元件總需求仍將上升。在 CPO 雷射架構方面，VCSEL 可作為 NPO/短距離的橋樑，但 CPO 的理想架構仍是 UHP CW 雷射（引用 Broadcom 觀點），這進一步支持了作者對 SIVE 的核心投資論點。",
+      "plain_zh": "有券商報告指出網路架構優化會減少光收發器的市場規模，但 Rosenblatt 認為 AI 晶片（XPU）數量成長極快，總體光學元件需求依然看增。在先進封裝光學（CPO）技術上，超高功率連續波雷射（UHP CW）才是長期最佳方案，這對 SIVE 這家公司非常有利。",
+      "core_thesis": "AI 晶片規模爆發將抵銷單機光收發器用量減少的衝擊，而 CPO 長期架構偏好 UHP CW 雷射，支撐 SIVE 的核心看多論點。",
+      "why_it_matters": "化解了市場對網路架構優化導致光學元件市場規模（TAM）大幅萎縮的疑慮。同時確認了 CPO 技術路線選擇，強化了超高功率連續波（UHP CW）雷射供應商的長期價值。",
+      "history_note": "歷史貼文資料不足，無法比較過去觀點變化；但貼文顯示作者對 SIVE 看多論點獲券商報告與 Broadcom 觀點支持。",
+      "catalysts": [
+        "XPU 部署數量持續高速成長帶動光學元件總需求上升",
+        "CPO（共封裝光學）技術主流轉向 UHP CW 雷射架構"
+      ],
+      "risks": [
+        "網路架構優化可能在短期內將光收發器 TAM 壓低 40-50%",
+        "VCSEL 或其他雷射技術替代方案競爭"
+      ],
+      "confidence": 85,
+      "ai_status": "ok",
       "favorite_count": 919,
       "retweet_count": 71
     },

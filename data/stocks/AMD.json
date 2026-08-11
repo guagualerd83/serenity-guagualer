@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T06:31:35.602327Z",
+  "generated_at": "2026-08-11T07:14:05.626629Z",
   "symbol": "AMD",
   "summary": {
     "primary_count": 60,
@@ -11,8 +11,8 @@
     "latest_change": "INSUFFICIENT_HISTORY",
     "sentiments": {
       "Neutral": 51,
-      "Bullish": 32,
-      "Bearish": 11
+      "Bullish": 33,
+      "Bearish": 10
     }
   },
   "daily_stances": [
@@ -1596,13 +1596,13 @@
       "neutral_count": 0,
       "mixed_count": 0,
       "mention_count": 1,
-      "bull_weight": 3.0,
+      "bull_weight": 4.25,
       "bear_weight": 0.0,
       "bull_share": 1.0,
       "importance": 5,
-      "confidence": 0,
-      "thesis_change": "UPDATE",
-      "core_thesis": "",
+      "confidence": 85,
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "core_thesis": "光子學板塊短期因市場噪音與總體環境大幅拉回，但 Sivers 與 AAOI 擁有關鍵技術 Bottleneck 與強勁的營收展望，長期看好趨勢不變。",
       "url": "https://x.com/aleabitoreddit/status/2070179074048409662",
       "tweet_id": "2070179074048409662",
       "items": [
@@ -1616,16 +1616,25 @@
           "url": "https://x.com/aleabitoreddit/status/2070179074048409662",
           "sentiment": "Bullish",
           "importance": 5,
-          "thesis_change": "UPDATE",
-          "summary_zh": "",
-          "plain_zh": "",
-          "core_thesis": "",
-          "why_it_matters": "",
-          "history_note": "",
-          "catalysts": [],
-          "risks": [],
-          "confidence": 0,
-          "ai_status": "",
+          "thesis_change": "INSUFFICIENT_HISTORY",
+          "summary_zh": "作者表示隨著股價下跌，他對光子學領域的 Sivers ($SIVE) 與 AAOI ($AAOI) 態度更加看好。Sivers 作為雷射 bottleneck，受惠於 NVLink 系統 CPO 升級及 pluggable 光收發器需求，且近期股票增發授權主因納斯達克上市與 M&A。AAOI 則具備端到端雷射產能且預計 2027 上半年月營收將達 4.71 億美元，當前修正類似於先前 NBIS 暴跌後大漲的歷史經驗。",
+          "plain_zh": "作者認為 Sivers 和 AAOI 最近的股價下跌是買進良機。Sivers 的關鍵雷射技術進入多家巨頭（如 NVIDIA 生態系）的供應鏈，毛利率高達 60%，瑞典媒體的偏空報導與賣空機器人造成了短期噪音。AAOI 則有強勁的營收展望與極高現金儲備，光子學產業雖然波動劇烈，但隨量產時程推進，預計將迎來強勁復甦。",
+          "core_thesis": "光子學板塊短期因市場噪音與總體環境大幅拉回，但 Sivers 與 AAOI 擁有關鍵技術 Bottleneck 與強勁的營收展望，長期看好趨勢不變。",
+          "why_it_matters": "光通訊與矽光子（CPO、1.6T+ 光收發器）是超大規模資料中心與 AI 算力擴展的核心瓶頸，Sivers 與 AAOI 在供應鏈中占據戰略高地。",
+          "history_note": "由於本機資料庫無可用歷史貼文，無法進行歷史觀點比較。",
+          "catalysts": [
+            "Sivers 在 NASDAQ 上市升格，擺脫瑞典在地媒體與賣空者噪音",
+            "Win Semi 及其他合作夥伴的雷射產能開出與產量提升（volume ramp）",
+            "AAOI 與 AMD 等其他 Hyperscaler 簽訂長期供應協議（LTA）",
+            "AAOI 進入 2027 年 H2 前實現高額月營收目標（預計每月 4.71 億美元）"
+          ],
+          "risks": [
+            "光子學（Photonics）類股整體價格波動度極高",
+            "AAOI 管理層承諾與營收展望可能無法兌現（management BS）",
+            "1.40 億美元可轉換公司債（Convertible Note）及 15% 股權稀釋帶來的短期賣壓與市場焦慮"
+          ],
+          "confidence": 85,
+          "ai_status": "ok",
           "favorite_count": 2212,
           "retweet_count": 154
         }
@@ -1640,13 +1649,13 @@
       "neutral_count": 0,
       "mixed_count": 0,
       "mention_count": 1,
-      "bull_weight": 3.0,
+      "bull_weight": 4.5,
       "bear_weight": 0.0,
       "bull_share": 1.0,
       "importance": 5,
-      "confidence": 0,
-      "thesis_change": "UPDATE",
-      "core_thesis": "",
+      "confidence": 90,
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "core_thesis": "矽光子技術為 AI 必經的架構轉變，CW 雷射產能極度稀缺將帶動供應鏈業者（特別是有獨立產能者）強勁的基本面爆發。",
       "url": "https://x.com/aleabitoreddit/status/2072726120706007465",
       "tweet_id": "2072726120706007465",
       "items": [
@@ -1660,16 +1669,23 @@
           "url": "https://x.com/aleabitoreddit/status/2072726120706007465",
           "sentiment": "Bullish",
           "importance": 5,
-          "thesis_change": "UPDATE",
-          "summary_zh": "",
-          "plain_zh": "",
-          "core_thesis": "",
-          "why_it_matters": "",
-          "history_note": "",
-          "catalysts": [],
-          "risks": [],
-          "confidence": 0,
-          "ai_status": "",
+          "thesis_change": "INSUFFICIENT_HISTORY",
+          "summary_zh": "作者指出矽光子（Silicon Photonics）擁有實際營收支持，且是 Nvidia 主導的架構轉變。目前市場主要業者產能已極度緊缺，如 Lumentum（LITE）未來兩年產能售罄，Coherent（COHR）面臨產能瓶頸。因此擁有獨立連續波（CW）雷射產能的業者（如 AAOI、SIVE）將成為稀缺資源，長遠基本面強勁。",
+          "plain_zh": "矽光子技術是未來 AI 晶片傳輸的趨勢，且有實質營收支撐，不像量子公司大多只有概念。現在做關鍵組件（CW 雷射）的大廠（Lumentum、Coherent）產能全滿甚至要向同行拉貨。這讓有獨立產能的小廠（如 AAOI、SIVE）變得非常吃香。近期市場因媒體報導 Meta 等消息引發下跌是市場誤解，基本面最終會反應產能滿載的利多。",
+          "core_thesis": "矽光子技術為 AI 必經的架構轉變，CW 雷射產能極度稀缺將帶動供應鏈業者（特別是有獨立產能者）強勁的基本面爆發。",
+          "why_it_matters": "AI 算力擴展（Scale out / Scale up）對光學元件的需求帶來高倍數的 TAM 成長與價值提升。光學組件產能緊缺代表相關供應鏈具有極高的定價權與業績能見度。",
+          "history_note": "歷史貼文不足，無法進行觀點比較。",
+          "catalysts": [
+            "主要光學廠商（LITE、AAOI等）未來季報業績兌現與產能釋出",
+            "超大型雲端業者（Hyperscalers）簽署長約（LTA）",
+            "AMD 等晶片大廠與 AAOI 等供應商的合作進展"
+          ],
+          "risks": [
+            "媒體報導（如 Bloomberg）引發的短期半導體市場恐慌性拋售",
+            "產能擴充瓶頸或良率不如預期"
+          ],
+          "confidence": 90,
+          "ai_status": "ok",
           "favorite_count": 2239,
           "retweet_count": 190
         }
@@ -1816,13 +1832,13 @@
       "neutral_count": 2,
       "mixed_count": 0,
       "mention_count": 3,
-      "bull_weight": 3.0,
+      "bull_weight": 4.25,
       "bear_weight": 0.0,
       "bull_share": 1.0,
       "importance": 5,
-      "confidence": 0,
-      "thesis_change": "MENTION",
-      "core_thesis": "",
+      "confidence": 85,
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "core_thesis": "AMD 若在 MI500 上確定導入 CPO 與光學 UALink，將驗證 CPO 行業趨勢並大幅提振上游雷射供應商 SIVE 的成長預期。",
       "url": "https://x.com/aleabitoreddit/status/2079495178793201678",
       "tweet_id": "2079495178793201678",
       "items": [
@@ -1859,16 +1875,23 @@
           "url": "https://x.com/aleabitoreddit/status/2079495178793201678",
           "sentiment": "Bullish",
           "importance": 5,
-          "thesis_change": "MENTION",
-          "summary_zh": "",
-          "plain_zh": "",
-          "core_thesis": "",
-          "why_it_matters": "",
-          "history_note": "",
-          "catalysts": [],
-          "risks": [],
-          "confidence": 0,
-          "ai_status": "",
+          "thesis_change": "INSUFFICIENT_HISTORY",
+          "summary_zh": "AMD 即將舉行舊金山活動，市場聚焦於 MI500 是否會明確採用共封裝光學（CPO）及光學 UALink 架構。Jefferies 報告指出，若 AMD 確認採用 CPO，將證明 CPO 並非僅由 NVIDIA 強推，對整體 CPO 板塊具題材性利多。若 AMD 揭露其 MI500 使用 Ayar Labs 或 GlobalFoundries (GFS) 的解決方案，將對上游雷射供應商 SIVE 極為有利。",
+          "plain_zh": "AMD 將在 7 月 22-23 日舉行活動，投資人正在關注其下一代晶片 MI500 是否會採用「共封裝光學（CPO）」技術。如果 AMD 宣布採用，這代表光通學轉型是整個行業的趨勢，而不是只有輝達在推。同時，如果 AMD 合作夥伴包括 Ayar 或 GlobalFoundries，這對負責提供上游雷射組件的 SIVE 來說是極大的利多。",
+          "core_thesis": "AMD 若在 MI500 上確定導入 CPO 與光學 UALink，將驗證 CPO 行業趨勢並大幅提振上游雷射供應商 SIVE 的成長預期。",
+          "why_it_matters": "這攸關 CPO 技術是否能從輝達單一巨頭推動，擴展至整個 AI 加速器產業鏈。此外，這也是驗證 SIVE 是否透過 GFS 或 Ayar Labs 間接打入 AMD 供應鏈的關鍵轉折點。",
+          "history_note": "由於缺乏歷史貼文資料，無法比對過往觀點變化。",
+          "catalysts": [
+            "2026年7月22-23日 AMD 舊金山活動發布 MI500 與 CPO 路線圖細節",
+            "AMD 明確承諾 MI500 採用基於 CPO/光學 UALink 的 scale-up 方案",
+            "AMD 官方確認供應鏈合作夥伴（如 Ayar Labs、GFS、SIVE）"
+          ],
+          "risks": [
+            "AMD 活動未明確承諾 CPO 路線或延後相關技術時程",
+            "AMD 的 CPO 光學引擎供應鏈未如預期包含 SIVE，導致市場期待落空"
+          ],
+          "confidence": 85,
+          "ai_status": "ok",
           "favorite_count": 992,
           "retweet_count": 58
         },
@@ -2188,22 +2211,22 @@
     },
     {
       "date": "2026-08-07",
-      "created_at": "2026-08-07T05:46:59Z",
-      "sentiment": "Bearish",
-      "bull_count": 0,
-      "bear_count": 2,
+      "created_at": "2026-08-07T08:50:01Z",
+      "sentiment": "Mixed",
+      "bull_count": 1,
+      "bear_count": 1,
       "neutral_count": 0,
       "mixed_count": 0,
       "mention_count": 2,
-      "bull_weight": 0.0,
-      "bear_weight": 5.4,
-      "bull_share": 0.0,
+      "bull_weight": 4.5,
+      "bear_weight": 2.4,
+      "bull_share": 0.652,
       "importance": 5,
-      "confidence": 0,
+      "confidence": 90,
       "thesis_change": "NEW",
       "core_thesis": "",
-      "url": "https://x.com/aleabitoreddit/status/2085603590903902621",
-      "tweet_id": "2085603590903902621",
+      "url": "https://x.com/aleabitoreddit/status/2085649654059016387",
+      "tweet_id": "2085649654059016387",
       "items": [
         {
           "tweet_id": "2085603590903902621",
@@ -2213,18 +2236,25 @@
           "created_at": "2026-08-07T05:46:59Z",
           "text": "Wow, there's gem after gem in $AAOI earnings for $SIVE + other laser player readthrough.\n\n1. AAOI not meaningfully participating in CPO first-gen deployments.\n\n\"We just can’t make enough of them [CPO lasers] to be involved in their current first-generation [CPO] deployments because there’s just not enough capacity.   We have to prioritize our ability to make lasers for our own  transceivers first\"\n\nSo first-gen CPO laser deployments, might even be narrowed down further for Western players like $SIVE, $LITE, $AVGO, and $COHR.\n\nAnd independent CPO CW laser capacity became more valuable if $AAOI had to turn away more customers...\n\nAlso remember Trendforce was talking about $AMD singing CW LTAs? $COHR / $LITE have capacity signed with $NVDA ...\n\nI thought it would be $AAOI, but they might be out of the equation. $MTSI also doesn't look meaningful with early CPO participation (eg. no mention in ER aside from NPO, and removal from Ayar website).\n\nSo I wonder who players like $AMD is going to go with for Helios (eg. Sivers + Ayar more likely candidate now)?\n\nBtw, this is not bearish AAOI because they have too much demand for optical transceiver business. Just more bullish on the existing few qualified CPO laser names that have capacity. \n\n2. Demand imbalance and bottleneck for InP lasers / optical transceivers.\n\nAOI's CEO stated kinda supported that when they said: \"The customer demand is 20%-40% higher\" than expanded built out capacity.\n\n\"We are getting this kind of demand from several big customers almost every week. Lasers are the biggest bottleneck right now for the transceiver business\"\n\n3. China being years away from having CPO DWDM specification lasers.\n\nI covered this earlier when looking at CPO competition from channel checks.\n\nBut AAOI confirming that China is \"easily at least two, three years or even longer from having CPO lasers is incredible tread through on defensibility Western laser positioning in the CPO laser chokepoint.\n\nTLDR:\n\n- High demand imbalance for CW lasers and optical transceivers.\n\n- $AAOI not in first-gen CPO due to capacity constraints (not exactly bearish AAOI because they have too much demand for their optical transciver business, but even better news for the few independent players with capacity coming online like $SIVE)\n\n- China years behind in CPO lasers.",
           "url": "https://x.com/aleabitoreddit/status/2085603590903902621",
-          "sentiment": "Bearish",
+          "sentiment": "Bullish",
           "importance": 5,
-          "thesis_change": "NEW",
-          "summary_zh": "",
-          "plain_zh": "",
-          "core_thesis": "",
-          "why_it_matters": "",
-          "history_note": "",
-          "catalysts": [],
-          "risks": [],
-          "confidence": 0,
-          "ai_status": "",
+          "thesis_change": "INSUFFICIENT_HISTORY",
+          "summary_zh": "AAOI 財報顯示 CW 雷射與光收發器供不應求，客戶需求超出擴充產能 20%-40%，雷射為當前主要瓶頸。AAOI 因需優先供應自家光收發器，無法參予第一代 CPO 部署，這對 SIVE、LITE、AVGO、COHR 等具備產能的西方業者屬利多。此外，中國在 CPO DWDM 雷射技術上仍落後西方至少 2 至 3 年，鞏固了西方業者的護城河。",
+          "plain_zh": "AAOI（應用光電）的最新財報透露了光通訊市場的強勁需求。由於雷射產能不足，AAOI 選擇優先供貨給自家光收發器，而無法參與第一代 CPO（共封裝光學）的部署。這意味著其他已經具備產能的西方雷射大廠（如 SIVE、LITE、AVGO、COHR）將能瓜分更多市場（例如 AMD 的 Helios 計畫）。同時，中國在關鍵 CPO 雷射技術上仍落後數年，西方廠商的競爭壁壘相當穩固。",
+          "core_thesis": "CPO 雷射與光收發器面臨嚴重供需失衡，AAOI 因產能限制退出第一代 CPO，將大幅推升其他擁有 CW 雷射產能的西方獨立廠商之價值。",
+          "why_it_matters": "這證實了 AI 伺服器與高速光通訊領域中「CW 雷射」成為關鍵供應瓶頸。AAOI 產能不足將直接轉移需求至 SIVE、LITE、COHR 等其他供應商，進一步確立西方供應鏈的護城河與定價能力。",
+          "history_note": "由於缺乏該作者的歷史貼文資料庫，無法進行歷史觀點變化的比較。",
+          "catalysts": [
+            "AMD Helios 等新一代 CPO 架構選定 CW 雷射供應商",
+            "各光通訊大廠 CW 雷射與 InP 產能擴充及開出進度",
+            "大型科技客戶與 LITE、COHR、SIVE 等簽訂 CW 雷射長期供應協議 (LTA)"
+          ],
+          "risks": [
+            "InP 雷射與 CW 雷射擴產速度快於預期，減緩供需緊缺",
+            "整體 AI 資料中心資本支出放緩，導致光收發器需求不如預期"
+          ],
+          "confidence": 90,
+          "ai_status": "ok",
           "favorite_count": 1640,
           "retweet_count": 147
         },
@@ -2291,7 +2321,7 @@
           "catalysts": [],
           "risks": [],
           "confidence": 0,
-          "ai_status": "",
+          "ai_status": "error",
           "favorite_count": 1093,
           "retweet_count": 58
         }
@@ -2344,7 +2374,7 @@
           ],
           "confidence": 85,
           "ai_status": "ok",
-          "favorite_count": 497,
+          "favorite_count": 529,
           "retweet_count": 24
         }
       ]
@@ -3631,10 +3661,10 @@
         "created_at": "2026-06-25T16:15:27Z",
         "url": "https://x.com/aleabitoreddit/status/2070179074048409662",
         "sentiment": "Bullish",
-        "confidence": 0,
+        "confidence": 85,
         "importance": 5,
-        "thesis_change": "UPDATE",
-        "core_thesis": "",
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "光子學板塊短期因市場噪音與總體環境大幅拉回，但 Sivers 與 AAOI 擁有關鍵技術 Bottleneck 與強勁的營收展望，長期看好趨勢不變。",
         "entry_date": "2026-06-25",
         "entry_price": 532.57,
         "returns": {
@@ -3678,10 +3708,10 @@
         "created_at": "2026-07-02T16:56:31Z",
         "url": "https://x.com/aleabitoreddit/status/2072726120706007465",
         "sentiment": "Bullish",
-        "confidence": 0,
+        "confidence": 90,
         "importance": 5,
-        "thesis_change": "UPDATE",
-        "core_thesis": "",
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "矽光子技術為 AI 必經的架構轉變，CW 雷射產能極度稀缺將帶動供應鏈業者（特別是有獨立產能者）強勁的基本面爆發。",
         "entry_date": "2026-07-02",
         "entry_price": 517.82,
         "returns": {
@@ -3819,10 +3849,10 @@
         "created_at": "2026-07-21T09:14:20Z",
         "url": "https://x.com/aleabitoreddit/status/2079495178793201678",
         "sentiment": "Bullish",
-        "confidence": 0,
+        "confidence": 85,
         "importance": 5,
-        "thesis_change": "MENTION",
-        "core_thesis": "",
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "AMD 若在 MI500 上確定導入 CPO 與光學 UALink，將驗證 CPO 行業趨勢並大幅提振上游雷射供應商 SIVE 的成長預期。",
         "entry_date": "2026-07-21",
         "entry_price": 544.43,
         "returns": {
@@ -4001,53 +4031,6 @@
         "bear_count": 0,
         "neutral_count": 0,
         "bull_share": 1.0
-      },
-      {
-        "date": "2026-08-07",
-        "created_at": "2026-08-07T05:46:59Z",
-        "url": "https://x.com/aleabitoreddit/status/2085603590903902621",
-        "sentiment": "Bearish",
-        "confidence": 0,
-        "importance": 5,
-        "thesis_change": "NEW",
-        "core_thesis": "",
-        "entry_date": "2026-08-07",
-        "entry_price": 483.36,
-        "returns": {
-          "1d": {
-            "raw_return": -2.86,
-            "score_return": 2.86,
-            "exit_date": "2026-08-10",
-            "exit_price": 469.56,
-            "hit": true
-          },
-          "7d": {
-            "raw_return": null,
-            "score_return": null,
-            "exit_date": null,
-            "exit_price": null,
-            "hit": null
-          },
-          "30d": {
-            "raw_return": null,
-            "score_return": null,
-            "exit_date": null,
-            "exit_price": null,
-            "hit": null
-          },
-          "now": {
-            "raw_return": -2.86,
-            "score_return": 2.86,
-            "exit_date": "2026-08-10",
-            "exit_price": 469.56,
-            "hit": true
-          }
-        },
-        "mention_count": 2,
-        "bull_count": 0,
-        "bear_count": 2,
-        "neutral_count": 0,
-        "bull_share": 0.0
       }
     ],
     "daily_stances": [
@@ -5631,13 +5614,13 @@
         "neutral_count": 0,
         "mixed_count": 0,
         "mention_count": 1,
-        "bull_weight": 3.0,
+        "bull_weight": 4.25,
         "bear_weight": 0.0,
         "bull_share": 1.0,
         "importance": 5,
-        "confidence": 0,
-        "thesis_change": "UPDATE",
-        "core_thesis": "",
+        "confidence": 85,
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "光子學板塊短期因市場噪音與總體環境大幅拉回，但 Sivers 與 AAOI 擁有關鍵技術 Bottleneck 與強勁的營收展望，長期看好趨勢不變。",
         "url": "https://x.com/aleabitoreddit/status/2070179074048409662",
         "tweet_id": "2070179074048409662",
         "items": [
@@ -5651,16 +5634,25 @@
             "url": "https://x.com/aleabitoreddit/status/2070179074048409662",
             "sentiment": "Bullish",
             "importance": 5,
-            "thesis_change": "UPDATE",
-            "summary_zh": "",
-            "plain_zh": "",
-            "core_thesis": "",
-            "why_it_matters": "",
-            "history_note": "",
-            "catalysts": [],
-            "risks": [],
-            "confidence": 0,
-            "ai_status": "",
+            "thesis_change": "INSUFFICIENT_HISTORY",
+            "summary_zh": "作者表示隨著股價下跌，他對光子學領域的 Sivers ($SIVE) 與 AAOI ($AAOI) 態度更加看好。Sivers 作為雷射 bottleneck，受惠於 NVLink 系統 CPO 升級及 pluggable 光收發器需求，且近期股票增發授權主因納斯達克上市與 M&A。AAOI 則具備端到端雷射產能且預計 2027 上半年月營收將達 4.71 億美元，當前修正類似於先前 NBIS 暴跌後大漲的歷史經驗。",
+            "plain_zh": "作者認為 Sivers 和 AAOI 最近的股價下跌是買進良機。Sivers 的關鍵雷射技術進入多家巨頭（如 NVIDIA 生態系）的供應鏈，毛利率高達 60%，瑞典媒體的偏空報導與賣空機器人造成了短期噪音。AAOI 則有強勁的營收展望與極高現金儲備，光子學產業雖然波動劇烈，但隨量產時程推進，預計將迎來強勁復甦。",
+            "core_thesis": "光子學板塊短期因市場噪音與總體環境大幅拉回，但 Sivers 與 AAOI 擁有關鍵技術 Bottleneck 與強勁的營收展望，長期看好趨勢不變。",
+            "why_it_matters": "光通訊與矽光子（CPO、1.6T+ 光收發器）是超大規模資料中心與 AI 算力擴展的核心瓶頸，Sivers 與 AAOI 在供應鏈中占據戰略高地。",
+            "history_note": "由於本機資料庫無可用歷史貼文，無法進行歷史觀點比較。",
+            "catalysts": [
+              "Sivers 在 NASDAQ 上市升格，擺脫瑞典在地媒體與賣空者噪音",
+              "Win Semi 及其他合作夥伴的雷射產能開出與產量提升（volume ramp）",
+              "AAOI 與 AMD 等其他 Hyperscaler 簽訂長期供應協議（LTA）",
+              "AAOI 進入 2027 年 H2 前實現高額月營收目標（預計每月 4.71 億美元）"
+            ],
+            "risks": [
+              "光子學（Photonics）類股整體價格波動度極高",
+              "AAOI 管理層承諾與營收展望可能無法兌現（management BS）",
+              "1.40 億美元可轉換公司債（Convertible Note）及 15% 股權稀釋帶來的短期賣壓與市場焦慮"
+            ],
+            "confidence": 85,
+            "ai_status": "ok",
             "favorite_count": 2212,
             "retweet_count": 154
           }
@@ -5675,13 +5667,13 @@
         "neutral_count": 0,
         "mixed_count": 0,
         "mention_count": 1,
-        "bull_weight": 3.0,
+        "bull_weight": 4.5,
         "bear_weight": 0.0,
         "bull_share": 1.0,
         "importance": 5,
-        "confidence": 0,
-        "thesis_change": "UPDATE",
-        "core_thesis": "",
+        "confidence": 90,
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "矽光子技術為 AI 必經的架構轉變，CW 雷射產能極度稀缺將帶動供應鏈業者（特別是有獨立產能者）強勁的基本面爆發。",
         "url": "https://x.com/aleabitoreddit/status/2072726120706007465",
         "tweet_id": "2072726120706007465",
         "items": [
@@ -5695,16 +5687,23 @@
             "url": "https://x.com/aleabitoreddit/status/2072726120706007465",
             "sentiment": "Bullish",
             "importance": 5,
-            "thesis_change": "UPDATE",
-            "summary_zh": "",
-            "plain_zh": "",
-            "core_thesis": "",
-            "why_it_matters": "",
-            "history_note": "",
-            "catalysts": [],
-            "risks": [],
-            "confidence": 0,
-            "ai_status": "",
+            "thesis_change": "INSUFFICIENT_HISTORY",
+            "summary_zh": "作者指出矽光子（Silicon Photonics）擁有實際營收支持，且是 Nvidia 主導的架構轉變。目前市場主要業者產能已極度緊缺，如 Lumentum（LITE）未來兩年產能售罄，Coherent（COHR）面臨產能瓶頸。因此擁有獨立連續波（CW）雷射產能的業者（如 AAOI、SIVE）將成為稀缺資源，長遠基本面強勁。",
+            "plain_zh": "矽光子技術是未來 AI 晶片傳輸的趨勢，且有實質營收支撐，不像量子公司大多只有概念。現在做關鍵組件（CW 雷射）的大廠（Lumentum、Coherent）產能全滿甚至要向同行拉貨。這讓有獨立產能的小廠（如 AAOI、SIVE）變得非常吃香。近期市場因媒體報導 Meta 等消息引發下跌是市場誤解，基本面最終會反應產能滿載的利多。",
+            "core_thesis": "矽光子技術為 AI 必經的架構轉變，CW 雷射產能極度稀缺將帶動供應鏈業者（特別是有獨立產能者）強勁的基本面爆發。",
+            "why_it_matters": "AI 算力擴展（Scale out / Scale up）對光學元件的需求帶來高倍數的 TAM 成長與價值提升。光學組件產能緊缺代表相關供應鏈具有極高的定價權與業績能見度。",
+            "history_note": "歷史貼文不足，無法進行觀點比較。",
+            "catalysts": [
+              "主要光學廠商（LITE、AAOI等）未來季報業績兌現與產能釋出",
+              "超大型雲端業者（Hyperscalers）簽署長約（LTA）",
+              "AMD 等晶片大廠與 AAOI 等供應商的合作進展"
+            ],
+            "risks": [
+              "媒體報導（如 Bloomberg）引發的短期半導體市場恐慌性拋售",
+              "產能擴充瓶頸或良率不如預期"
+            ],
+            "confidence": 90,
+            "ai_status": "ok",
             "favorite_count": 2239,
             "retweet_count": 190
           }
@@ -5851,13 +5850,13 @@
         "neutral_count": 2,
         "mixed_count": 0,
         "mention_count": 3,
-        "bull_weight": 3.0,
+        "bull_weight": 4.25,
         "bear_weight": 0.0,
         "bull_share": 1.0,
         "importance": 5,
-        "confidence": 0,
-        "thesis_change": "MENTION",
-        "core_thesis": "",
+        "confidence": 85,
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "AMD 若在 MI500 上確定導入 CPO 與光學 UALink，將驗證 CPO 行業趨勢並大幅提振上游雷射供應商 SIVE 的成長預期。",
         "url": "https://x.com/aleabitoreddit/status/2079495178793201678",
         "tweet_id": "2079495178793201678",
         "items": [
@@ -5894,16 +5893,23 @@
             "url": "https://x.com/aleabitoreddit/status/2079495178793201678",
             "sentiment": "Bullish",
             "importance": 5,
-            "thesis_change": "MENTION",
-            "summary_zh": "",
-            "plain_zh": "",
-            "core_thesis": "",
-            "why_it_matters": "",
-            "history_note": "",
-            "catalysts": [],
-            "risks": [],
-            "confidence": 0,
-            "ai_status": "",
+            "thesis_change": "INSUFFICIENT_HISTORY",
+            "summary_zh": "AMD 即將舉行舊金山活動，市場聚焦於 MI500 是否會明確採用共封裝光學（CPO）及光學 UALink 架構。Jefferies 報告指出，若 AMD 確認採用 CPO，將證明 CPO 並非僅由 NVIDIA 強推，對整體 CPO 板塊具題材性利多。若 AMD 揭露其 MI500 使用 Ayar Labs 或 GlobalFoundries (GFS) 的解決方案，將對上游雷射供應商 SIVE 極為有利。",
+            "plain_zh": "AMD 將在 7 月 22-23 日舉行活動，投資人正在關注其下一代晶片 MI500 是否會採用「共封裝光學（CPO）」技術。如果 AMD 宣布採用，這代表光通學轉型是整個行業的趨勢，而不是只有輝達在推。同時，如果 AMD 合作夥伴包括 Ayar 或 GlobalFoundries，這對負責提供上游雷射組件的 SIVE 來說是極大的利多。",
+            "core_thesis": "AMD 若在 MI500 上確定導入 CPO 與光學 UALink，將驗證 CPO 行業趨勢並大幅提振上游雷射供應商 SIVE 的成長預期。",
+            "why_it_matters": "這攸關 CPO 技術是否能從輝達單一巨頭推動，擴展至整個 AI 加速器產業鏈。此外，這也是驗證 SIVE 是否透過 GFS 或 Ayar Labs 間接打入 AMD 供應鏈的關鍵轉折點。",
+            "history_note": "由於缺乏歷史貼文資料，無法比對過往觀點變化。",
+            "catalysts": [
+              "2026年7月22-23日 AMD 舊金山活動發布 MI500 與 CPO 路線圖細節",
+              "AMD 明確承諾 MI500 採用基於 CPO/光學 UALink 的 scale-up 方案",
+              "AMD 官方確認供應鏈合作夥伴（如 Ayar Labs、GFS、SIVE）"
+            ],
+            "risks": [
+              "AMD 活動未明確承諾 CPO 路線或延後相關技術時程",
+              "AMD 的 CPO 光學引擎供應鏈未如預期包含 SIVE，導致市場期待落空"
+            ],
+            "confidence": 85,
+            "ai_status": "ok",
             "favorite_count": 992,
             "retweet_count": 58
           },
@@ -6223,22 +6229,22 @@
       },
       {
         "date": "2026-08-07",
-        "created_at": "2026-08-07T05:46:59Z",
-        "sentiment": "Bearish",
-        "bull_count": 0,
-        "bear_count": 2,
+        "created_at": "2026-08-07T08:50:01Z",
+        "sentiment": "Mixed",
+        "bull_count": 1,
+        "bear_count": 1,
         "neutral_count": 0,
         "mixed_count": 0,
         "mention_count": 2,
-        "bull_weight": 0.0,
-        "bear_weight": 5.4,
-        "bull_share": 0.0,
+        "bull_weight": 4.5,
+        "bear_weight": 2.4,
+        "bull_share": 0.652,
         "importance": 5,
-        "confidence": 0,
+        "confidence": 90,
         "thesis_change": "NEW",
         "core_thesis": "",
-        "url": "https://x.com/aleabitoreddit/status/2085603590903902621",
-        "tweet_id": "2085603590903902621",
+        "url": "https://x.com/aleabitoreddit/status/2085649654059016387",
+        "tweet_id": "2085649654059016387",
         "items": [
           {
             "tweet_id": "2085603590903902621",
@@ -6248,18 +6254,25 @@
             "created_at": "2026-08-07T05:46:59Z",
             "text": "Wow, there's gem after gem in $AAOI earnings for $SIVE + other laser player readthrough.\n\n1. AAOI not meaningfully participating in CPO first-gen deployments.\n\n\"We just can’t make enough of them [CPO lasers] to be involved in their current first-generation [CPO] deployments because there’s just not enough capacity.   We have to prioritize our ability to make lasers for our own  transceivers first\"\n\nSo first-gen CPO laser deployments, might even be narrowed down further for Western players like $SIVE, $LITE, $AVGO, and $COHR.\n\nAnd independent CPO CW laser capacity became more valuable if $AAOI had to turn away more customers...\n\nAlso remember Trendforce was talking about $AMD singing CW LTAs? $COHR / $LITE have capacity signed with $NVDA ...\n\nI thought it would be $AAOI, but they might be out of the equation. $MTSI also doesn't look meaningful with early CPO participation (eg. no mention in ER aside from NPO, and removal from Ayar website).\n\nSo I wonder who players like $AMD is going to go with for Helios (eg. Sivers + Ayar more likely candidate now)?\n\nBtw, this is not bearish AAOI because they have too much demand for optical transceiver business. Just more bullish on the existing few qualified CPO laser names that have capacity. \n\n2. Demand imbalance and bottleneck for InP lasers / optical transceivers.\n\nAOI's CEO stated kinda supported that when they said: \"The customer demand is 20%-40% higher\" than expanded built out capacity.\n\n\"We are getting this kind of demand from several big customers almost every week. Lasers are the biggest bottleneck right now for the transceiver business\"\n\n3. China being years away from having CPO DWDM specification lasers.\n\nI covered this earlier when looking at CPO competition from channel checks.\n\nBut AAOI confirming that China is \"easily at least two, three years or even longer from having CPO lasers is incredible tread through on defensibility Western laser positioning in the CPO laser chokepoint.\n\nTLDR:\n\n- High demand imbalance for CW lasers and optical transceivers.\n\n- $AAOI not in first-gen CPO due to capacity constraints (not exactly bearish AAOI because they have too much demand for their optical transciver business, but even better news for the few independent players with capacity coming online like $SIVE)\n\n- China years behind in CPO lasers.",
             "url": "https://x.com/aleabitoreddit/status/2085603590903902621",
-            "sentiment": "Bearish",
+            "sentiment": "Bullish",
             "importance": 5,
-            "thesis_change": "NEW",
-            "summary_zh": "",
-            "plain_zh": "",
-            "core_thesis": "",
-            "why_it_matters": "",
-            "history_note": "",
-            "catalysts": [],
-            "risks": [],
-            "confidence": 0,
-            "ai_status": "",
+            "thesis_change": "INSUFFICIENT_HISTORY",
+            "summary_zh": "AAOI 財報顯示 CW 雷射與光收發器供不應求，客戶需求超出擴充產能 20%-40%，雷射為當前主要瓶頸。AAOI 因需優先供應自家光收發器，無法參予第一代 CPO 部署，這對 SIVE、LITE、AVGO、COHR 等具備產能的西方業者屬利多。此外，中國在 CPO DWDM 雷射技術上仍落後西方至少 2 至 3 年，鞏固了西方業者的護城河。",
+            "plain_zh": "AAOI（應用光電）的最新財報透露了光通訊市場的強勁需求。由於雷射產能不足，AAOI 選擇優先供貨給自家光收發器，而無法參與第一代 CPO（共封裝光學）的部署。這意味著其他已經具備產能的西方雷射大廠（如 SIVE、LITE、AVGO、COHR）將能瓜分更多市場（例如 AMD 的 Helios 計畫）。同時，中國在關鍵 CPO 雷射技術上仍落後數年，西方廠商的競爭壁壘相當穩固。",
+            "core_thesis": "CPO 雷射與光收發器面臨嚴重供需失衡，AAOI 因產能限制退出第一代 CPO，將大幅推升其他擁有 CW 雷射產能的西方獨立廠商之價值。",
+            "why_it_matters": "這證實了 AI 伺服器與高速光通訊領域中「CW 雷射」成為關鍵供應瓶頸。AAOI 產能不足將直接轉移需求至 SIVE、LITE、COHR 等其他供應商，進一步確立西方供應鏈的護城河與定價能力。",
+            "history_note": "由於缺乏該作者的歷史貼文資料庫，無法進行歷史觀點變化的比較。",
+            "catalysts": [
+              "AMD Helios 等新一代 CPO 架構選定 CW 雷射供應商",
+              "各光通訊大廠 CW 雷射與 InP 產能擴充及開出進度",
+              "大型科技客戶與 LITE、COHR、SIVE 等簽訂 CW 雷射長期供應協議 (LTA)"
+            ],
+            "risks": [
+              "InP 雷射與 CW 雷射擴產速度快於預期，減緩供需緊缺",
+              "整體 AI 資料中心資本支出放緩，導致光收發器需求不如預期"
+            ],
+            "confidence": 90,
+            "ai_status": "ok",
             "favorite_count": 1640,
             "retweet_count": 147
           },
@@ -6326,7 +6339,7 @@
             "catalysts": [],
             "risks": [],
             "confidence": 0,
-            "ai_status": "",
+            "ai_status": "error",
             "favorite_count": 1093,
             "retweet_count": 58
           }
@@ -6379,20 +6392,20 @@
             ],
             "confidence": 85,
             "ai_status": "ok",
-            "favorite_count": 497,
+            "favorite_count": 529,
             "retweet_count": 24
           }
         ]
       }
     ],
-    "excluded_days": 16,
+    "excluded_days": 17,
     "summary": {
-      "signals": 28,
+      "signals": 27,
       "horizons": {
         "1d": {
-          "sample": 28,
-          "avg_score_return": 1.41,
-          "hit_rate": 57.1
+          "sample": 27,
+          "avg_score_return": 1.36,
+          "hit_rate": 55.6
         },
         "7d": {
           "sample": 26,
@@ -6405,9 +6418,9 @@
           "hit_rate": 59.1
         },
         "now": {
-          "sample": 28,
-          "avg_score_return": 4.85,
-          "hit_rate": 50.0
+          "sample": 27,
+          "avg_score_return": 4.92,
+          "hit_rate": 48.1
         }
       }
     },
@@ -6444,7 +6457,7 @@
       ],
       "confidence": 85,
       "ai_status": "ok",
-      "favorite_count": 497,
+      "favorite_count": 529,
       "retweet_count": 24
     },
     {
@@ -6466,7 +6479,7 @@
       "catalysts": [],
       "risks": [],
       "confidence": 0,
-      "ai_status": "",
+      "ai_status": "error",
       "favorite_count": 1093,
       "retweet_count": 58
     },
@@ -6501,18 +6514,25 @@
       "created_at": "2026-08-07T05:46:59Z",
       "text": "Wow, there's gem after gem in $AAOI earnings for $SIVE + other laser player readthrough.\n\n1. AAOI not meaningfully participating in CPO first-gen deployments.\n\n\"We just can’t make enough of them [CPO lasers] to be involved in their current first-generation [CPO] deployments because there’s just not enough capacity.   We have to prioritize our ability to make lasers for our own  transceivers first\"\n\nSo first-gen CPO laser deployments, might even be narrowed down further for Western players like $SIVE, $LITE, $AVGO, and $COHR.\n\nAnd independent CPO CW laser capacity became more valuable if $AAOI had to turn away more customers...\n\nAlso remember Trendforce was talking about $AMD singing CW LTAs? $COHR / $LITE have capacity signed with $NVDA ...\n\nI thought it would be $AAOI, but they might be out of the equation. $MTSI also doesn't look meaningful with early CPO participation (eg. no mention in ER aside from NPO, and removal from Ayar website).\n\nSo I wonder who players like $AMD is going to go with for Helios (eg. Sivers + Ayar more likely candidate now)?\n\nBtw, this is not bearish AAOI because they have too much demand for optical transceiver business. Just more bullish on the existing few qualified CPO laser names that have capacity. \n\n2. Demand imbalance and bottleneck for InP lasers / optical transceivers.\n\nAOI's CEO stated kinda supported that when they said: \"The customer demand is 20%-40% higher\" than expanded built out capacity.\n\n\"We are getting this kind of demand from several big customers almost every week. Lasers are the biggest bottleneck right now for the transceiver business\"\n\n3. China being years away from having CPO DWDM specification lasers.\n\nI covered this earlier when looking at CPO competition from channel checks.\n\nBut AAOI confirming that China is \"easily at least two, three years or even longer from having CPO lasers is incredible tread through on defensibility Western laser positioning in the CPO laser chokepoint.\n\nTLDR:\n\n- High demand imbalance for CW lasers and optical transceivers.\n\n- $AAOI not in first-gen CPO due to capacity constraints (not exactly bearish AAOI because they have too much demand for their optical transciver business, but even better news for the few independent players with capacity coming online like $SIVE)\n\n- China years behind in CPO lasers.",
       "url": "https://x.com/aleabitoreddit/status/2085603590903902621",
-      "sentiment": "Bearish",
+      "sentiment": "Bullish",
       "importance": 5,
-      "thesis_change": "NEW",
-      "summary_zh": "",
-      "plain_zh": "",
-      "core_thesis": "",
-      "why_it_matters": "",
-      "history_note": "",
-      "catalysts": [],
-      "risks": [],
-      "confidence": 0,
-      "ai_status": "",
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "summary_zh": "AAOI 財報顯示 CW 雷射與光收發器供不應求，客戶需求超出擴充產能 20%-40%，雷射為當前主要瓶頸。AAOI 因需優先供應自家光收發器，無法參予第一代 CPO 部署，這對 SIVE、LITE、AVGO、COHR 等具備產能的西方業者屬利多。此外，中國在 CPO DWDM 雷射技術上仍落後西方至少 2 至 3 年，鞏固了西方業者的護城河。",
+      "plain_zh": "AAOI（應用光電）的最新財報透露了光通訊市場的強勁需求。由於雷射產能不足，AAOI 選擇優先供貨給自家光收發器，而無法參與第一代 CPO（共封裝光學）的部署。這意味著其他已經具備產能的西方雷射大廠（如 SIVE、LITE、AVGO、COHR）將能瓜分更多市場（例如 AMD 的 Helios 計畫）。同時，中國在關鍵 CPO 雷射技術上仍落後數年，西方廠商的競爭壁壘相當穩固。",
+      "core_thesis": "CPO 雷射與光收發器面臨嚴重供需失衡，AAOI 因產能限制退出第一代 CPO，將大幅推升其他擁有 CW 雷射產能的西方獨立廠商之價值。",
+      "why_it_matters": "這證實了 AI 伺服器與高速光通訊領域中「CW 雷射」成為關鍵供應瓶頸。AAOI 產能不足將直接轉移需求至 SIVE、LITE、COHR 等其他供應商，進一步確立西方供應鏈的護城河與定價能力。",
+      "history_note": "由於缺乏該作者的歷史貼文資料庫，無法進行歷史觀點變化的比較。",
+      "catalysts": [
+        "AMD Helios 等新一代 CPO 架構選定 CW 雷射供應商",
+        "各光通訊大廠 CW 雷射與 InP 產能擴充及開出進度",
+        "大型科技客戶與 LITE、COHR、SIVE 等簽訂 CW 雷射長期供應協議 (LTA)"
+      ],
+      "risks": [
+        "InP 雷射與 CW 雷射擴產速度快於預期，減緩供需緊缺",
+        "整體 AI 資料中心資本支出放緩，導致光收發器需求不如預期"
+      ],
+      "confidence": 90,
+      "ai_status": "ok",
       "favorite_count": 1640,
       "retweet_count": 147
     },
@@ -6733,16 +6753,23 @@
       "url": "https://x.com/aleabitoreddit/status/2079495178793201678",
       "sentiment": "Bullish",
       "importance": 5,
-      "thesis_change": "MENTION",
-      "summary_zh": "",
-      "plain_zh": "",
-      "core_thesis": "",
-      "why_it_matters": "",
-      "history_note": "",
-      "catalysts": [],
-      "risks": [],
-      "confidence": 0,
-      "ai_status": "",
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "summary_zh": "AMD 即將舉行舊金山活動，市場聚焦於 MI500 是否會明確採用共封裝光學（CPO）及光學 UALink 架構。Jefferies 報告指出，若 AMD 確認採用 CPO，將證明 CPO 並非僅由 NVIDIA 強推，對整體 CPO 板塊具題材性利多。若 AMD 揭露其 MI500 使用 Ayar Labs 或 GlobalFoundries (GFS) 的解決方案，將對上游雷射供應商 SIVE 極為有利。",
+      "plain_zh": "AMD 將在 7 月 22-23 日舉行活動，投資人正在關注其下一代晶片 MI500 是否會採用「共封裝光學（CPO）」技術。如果 AMD 宣布採用，這代表光通學轉型是整個行業的趨勢，而不是只有輝達在推。同時，如果 AMD 合作夥伴包括 Ayar 或 GlobalFoundries，這對負責提供上游雷射組件的 SIVE 來說是極大的利多。",
+      "core_thesis": "AMD 若在 MI500 上確定導入 CPO 與光學 UALink，將驗證 CPO 行業趨勢並大幅提振上游雷射供應商 SIVE 的成長預期。",
+      "why_it_matters": "這攸關 CPO 技術是否能從輝達單一巨頭推動，擴展至整個 AI 加速器產業鏈。此外，這也是驗證 SIVE 是否透過 GFS 或 Ayar Labs 間接打入 AMD 供應鏈的關鍵轉折點。",
+      "history_note": "由於缺乏歷史貼文資料，無法比對過往觀點變化。",
+      "catalysts": [
+        "2026年7月22-23日 AMD 舊金山活動發布 MI500 與 CPO 路線圖細節",
+        "AMD 明確承諾 MI500 採用基於 CPO/光學 UALink 的 scale-up 方案",
+        "AMD 官方確認供應鏈合作夥伴（如 Ayar Labs、GFS、SIVE）"
+      ],
+      "risks": [
+        "AMD 活動未明確承諾 CPO 路線或延後相關技術時程",
+        "AMD 的 CPO 光學引擎供應鏈未如預期包含 SIVE，導致市場期待落空"
+      ],
+      "confidence": 85,
+      "ai_status": "ok",
       "favorite_count": 992,
       "retweet_count": 58
     },
@@ -6848,16 +6875,23 @@
       "url": "https://x.com/aleabitoreddit/status/2072726120706007465",
       "sentiment": "Bullish",
       "importance": 5,
-      "thesis_change": "UPDATE",
-      "summary_zh": "",
-      "plain_zh": "",
-      "core_thesis": "",
-      "why_it_matters": "",
-      "history_note": "",
-      "catalysts": [],
-      "risks": [],
-      "confidence": 0,
-      "ai_status": "",
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "summary_zh": "作者指出矽光子（Silicon Photonics）擁有實際營收支持，且是 Nvidia 主導的架構轉變。目前市場主要業者產能已極度緊缺，如 Lumentum（LITE）未來兩年產能售罄，Coherent（COHR）面臨產能瓶頸。因此擁有獨立連續波（CW）雷射產能的業者（如 AAOI、SIVE）將成為稀缺資源，長遠基本面強勁。",
+      "plain_zh": "矽光子技術是未來 AI 晶片傳輸的趨勢，且有實質營收支撐，不像量子公司大多只有概念。現在做關鍵組件（CW 雷射）的大廠（Lumentum、Coherent）產能全滿甚至要向同行拉貨。這讓有獨立產能的小廠（如 AAOI、SIVE）變得非常吃香。近期市場因媒體報導 Meta 等消息引發下跌是市場誤解，基本面最終會反應產能滿載的利多。",
+      "core_thesis": "矽光子技術為 AI 必經的架構轉變，CW 雷射產能極度稀缺將帶動供應鏈業者（特別是有獨立產能者）強勁的基本面爆發。",
+      "why_it_matters": "AI 算力擴展（Scale out / Scale up）對光學元件的需求帶來高倍數的 TAM 成長與價值提升。光學組件產能緊缺代表相關供應鏈具有極高的定價權與業績能見度。",
+      "history_note": "歷史貼文不足，無法進行觀點比較。",
+      "catalysts": [
+        "主要光學廠商（LITE、AAOI等）未來季報業績兌現與產能釋出",
+        "超大型雲端業者（Hyperscalers）簽署長約（LTA）",
+        "AMD 等晶片大廠與 AAOI 等供應商的合作進展"
+      ],
+      "risks": [
+        "媒體報導（如 Bloomberg）引發的短期半導體市場恐慌性拋售",
+        "產能擴充瓶頸或良率不如預期"
+      ],
+      "confidence": 90,
+      "ai_status": "ok",
       "favorite_count": 2239,
       "retweet_count": 190
     },
@@ -6871,16 +6905,25 @@
       "url": "https://x.com/aleabitoreddit/status/2070179074048409662",
       "sentiment": "Bullish",
       "importance": 5,
-      "thesis_change": "UPDATE",
-      "summary_zh": "",
-      "plain_zh": "",
-      "core_thesis": "",
-      "why_it_matters": "",
-      "history_note": "",
-      "catalysts": [],
-      "risks": [],
-      "confidence": 0,
-      "ai_status": "",
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "summary_zh": "作者表示隨著股價下跌，他對光子學領域的 Sivers ($SIVE) 與 AAOI ($AAOI) 態度更加看好。Sivers 作為雷射 bottleneck，受惠於 NVLink 系統 CPO 升級及 pluggable 光收發器需求，且近期股票增發授權主因納斯達克上市與 M&A。AAOI 則具備端到端雷射產能且預計 2027 上半年月營收將達 4.71 億美元，當前修正類似於先前 NBIS 暴跌後大漲的歷史經驗。",
+      "plain_zh": "作者認為 Sivers 和 AAOI 最近的股價下跌是買進良機。Sivers 的關鍵雷射技術進入多家巨頭（如 NVIDIA 生態系）的供應鏈，毛利率高達 60%，瑞典媒體的偏空報導與賣空機器人造成了短期噪音。AAOI 則有強勁的營收展望與極高現金儲備，光子學產業雖然波動劇烈，但隨量產時程推進，預計將迎來強勁復甦。",
+      "core_thesis": "光子學板塊短期因市場噪音與總體環境大幅拉回，但 Sivers 與 AAOI 擁有關鍵技術 Bottleneck 與強勁的營收展望，長期看好趨勢不變。",
+      "why_it_matters": "光通訊與矽光子（CPO、1.6T+ 光收發器）是超大規模資料中心與 AI 算力擴展的核心瓶頸，Sivers 與 AAOI 在供應鏈中占據戰略高地。",
+      "history_note": "由於本機資料庫無可用歷史貼文，無法進行歷史觀點比較。",
+      "catalysts": [
+        "Sivers 在 NASDAQ 上市升格，擺脫瑞典在地媒體與賣空者噪音",
+        "Win Semi 及其他合作夥伴的雷射產能開出與產量提升（volume ramp）",
+        "AAOI 與 AMD 等其他 Hyperscaler 簽訂長期供應協議（LTA）",
+        "AAOI 進入 2027 年 H2 前實現高額月營收目標（預計每月 4.71 億美元）"
+      ],
+      "risks": [
+        "光子學（Photonics）類股整體價格波動度極高",
+        "AAOI 管理層承諾與營收展望可能無法兌現（management BS）",
+        "1.40 億美元可轉換公司債（Convertible Note）及 15% 股權稀釋帶來的短期賣壓與市場焦慮"
+      ],
+      "confidence": 85,
+      "ai_status": "ok",
       "favorite_count": 2212,
       "retweet_count": 154
     },

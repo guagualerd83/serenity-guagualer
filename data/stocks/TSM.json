@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T06:31:35.602327Z",
+  "generated_at": "2026-08-11T07:14:05.626629Z",
   "symbol": "TSM",
   "summary": {
     "primary_count": 52,
@@ -1548,13 +1548,13 @@
       "neutral_count": 1,
       "mixed_count": 0,
       "mention_count": 2,
-      "bull_weight": 3.0,
+      "bull_weight": 4.25,
       "bear_weight": 0.0,
       "bull_share": 1.0,
       "importance": 5,
-      "confidence": 0,
-      "thesis_change": "UPDATE",
-      "core_thesis": "",
+      "confidence": 85,
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "core_thesis": "作者過去對 AI 與光學供應鏈標的之早期佈局獲市場驗證，建議關注目前市值類似早期 AAOI 的潛在標的（如 SIVE）。",
       "url": "https://x.com/aleabitoreddit/status/2065289672356745561",
       "tweet_id": "2065289672356745561",
       "items": [
@@ -1568,16 +1568,22 @@
           "url": "https://x.com/aleabitoreddit/status/2065289672356745561",
           "sentiment": "Bullish",
           "importance": 5,
-          "thesis_change": "UPDATE",
-          "summary_zh": "",
-          "plain_zh": "",
-          "core_thesis": "",
-          "why_it_matters": "",
-          "history_note": "",
-          "catalysts": [],
-          "risks": [],
-          "confidence": 0,
-          "ai_status": "",
+          "thesis_change": "INSUFFICIENT_HISTORY",
+          "summary_zh": "作者回顧了其 2025 年的核心高確信度投資觀點，指出 ALAB、LITE 和 AAOI 等標的皆實現了大幅增長，同時提及 NBIS、RKLB 與 TSM 等公司的優異表現。雖然作者承認在資訊公開前曾因光學轉型等細節而一度對 ALAB 失去信心，但整體構想獲得驗證。最後作者提議目前市值在類似區間的標的（如 SIVE）可能值得更多關注。",
+          "plain_zh": "作者在慶幸自己先前看好的科技股（包含晶片連接介面、光通訊與半導體代工等）過去表現非常亮眼，市值大幅成長。雖然中途曾因技術轉型而短暫動搖，但整體邏輯最終獲得市場驗證。作者建議投資人可以留意目前市值較小、處於類似早期階段的公司（例如 SIVE）。",
+          "core_thesis": "作者過去對 AI 與光學供應鏈標的之早期佈局獲市場驗證，建議關注目前市值類似早期 AAOI 的潛在標的（如 SIVE）。",
+          "why_it_matters": "這展現了作者在 AI 供應鏈與光電領域的早期選股能力與勝率，並點名 SIVE 作為下一個可能具備高成長潛力的關注對象。",
+          "history_note": "由於本機資料庫無可用的歷史貼文，無法進行歷史觀點的前後對比。",
+          "catalysts": [
+            "市場對早期投資邏輯的逐漸驗證與認可",
+            "小型股隨產業趨勢擴張為大市值公司"
+          ],
+          "risks": [
+            "光學技術轉型（Optical transitions）可能導致短期信心動搖或基本面判斷偏差",
+            "早期小型股的波動度與執行風險較高"
+          ],
+          "confidence": 85,
+          "ai_status": "ok",
           "favorite_count": 1453,
           "retweet_count": 75
         },
@@ -1814,13 +1820,13 @@
       "neutral_count": 0,
       "mixed_count": 0,
       "mention_count": 1,
-      "bull_weight": 3.0,
+      "bull_weight": 4.5,
       "bear_weight": 0.0,
       "bull_share": 1.0,
       "importance": 5,
-      "confidence": 0,
-      "thesis_change": "UPDATE",
-      "core_thesis": "",
+      "confidence": 90,
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "core_thesis": "無差別的主題性拋售與散戶恐慌賣壓並未改變矽光子及 AI 供應鏈長期營收與營運利潤成長的基本面。",
       "url": "https://x.com/aleabitoreddit/status/2075496116481884524",
       "tweet_id": "2075496116481884524",
       "items": [
@@ -1834,16 +1840,25 @@
           "url": "https://x.com/aleabitoreddit/status/2075496116481884524",
           "sentiment": "Bullish",
           "importance": 5,
-          "thesis_change": "UPDATE",
-          "summary_zh": "",
-          "plain_zh": "",
-          "core_thesis": "",
-          "why_it_matters": "",
-          "history_note": "",
-          "catalysts": [],
-          "risks": [],
-          "confidence": 0,
-          "ai_status": "",
+          "thesis_change": "INSUFFICIENT_HISTORY",
+          "summary_zh": "作者指出近期矽光子與 AI 供應鏈概念股的回檔主因是市場謠言導致散戶恐慌棄守，但 Meta 算力新聞已獲內部備忘錄澄清，Nvidia 延遲報導亦遭官方否認。作者強調 Nvidia 及光波導/光子學路線圖未變，核心供應商（LITE、SIVE、TSM、AAOI、IQE、AXTI 等）長期營收展望依然穩健，機構投資人正在低接買進。",
+          "plain_zh": "這篇貼文主要是想告訴投資人，最近光通訊與半導體類股的大跌是因為假新聞和恐慌情緒，而不是公司基本面變壞。散戶往往看股價下跌就失去信念而出清，但機構法人反而會趁這種無理性的拋售掛單撿便宜。只要公司的長期訂單（如 LITE 產能排到 2029 年、AAOI 2027 年的營收預期等）沒變，就不該被短期的市場波動動搖信念。",
+          "core_thesis": "無差別的主題性拋售與散戶恐慌賣壓並未改變矽光子及 AI 供應鏈長期營收與營運利潤成長的基本面。",
+          "why_it_matters": "澄清了近期引發光通訊與 AI 概念股賣壓的市場謠言，並詳細盤點矽光子路線圖上關鍵廠商（LITE、SIVE、TSM、AAOI、IQE、AXTI）的訂單能見度與供應鏈地位，有助於區分情緒性波動與真實基本面。",
+          "history_note": "貼文本身未提供歷史貼文資料，無法進行歷史觀點比較。",
+          "catalysts": [
+            "Nvidia 官方否認晶片延遲報導並重申技術路線圖",
+            "Meta 內部備忘錄澄清算力需求疑慮",
+            "SIVE 與 GlobalFoundries、Jabil 等夥伴開始進入量產爬升期",
+            "機構投資人抄底掛單成交推升股價回穩"
+          ],
+          "risks": [
+            "散戶恐慌拋售情緒蔓延導致短期股價進一步超跌",
+            "宏觀地緣政治或供應鏈事件引發無差別主題性清算",
+            "廠商未來實際量產進度或營收兌現時程不及貼文中所述之預估"
+          ],
+          "confidence": 90,
+          "ai_status": "ok",
           "favorite_count": 1694,
           "retweet_count": 138
         }
@@ -1969,13 +1984,13 @@
       "neutral_count": 0,
       "mixed_count": 0,
       "mention_count": 1,
-      "bull_weight": 3.0,
+      "bull_weight": 4.5,
       "bear_weight": 0.0,
       "bull_share": 1.0,
       "importance": 5,
-      "confidence": 0,
-      "thesis_change": "MENTION",
-      "core_thesis": "",
+      "confidence": 90,
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "core_thesis": "中際旭創的巨大獲利上修證明 AI 光通訊需求成長與技術升級超乎預期，整體光通訊生態系將顯著受益。",
       "url": "https://x.com/aleabitoreddit/status/2078228019584668121",
       "tweet_id": "2078228019584668121",
       "items": [
@@ -1989,16 +2004,23 @@
           "url": "https://x.com/aleabitoreddit/status/2078228019584668121",
           "sentiment": "Bullish",
           "importance": 5,
-          "thesis_change": "MENTION",
-          "summary_zh": "",
-          "plain_zh": "",
-          "core_thesis": "",
-          "why_it_matters": "",
-          "history_note": "",
-          "catalysts": [],
-          "risks": [],
-          "confidence": 0,
-          "ai_status": "",
+          "thesis_change": "INSUFFICIENT_HISTORY",
+          "summary_zh": "高盛調升中際旭創（Innolight）目標價至 2581 人民幣，並大幅上調其 2026-2028 年獲利預測（分別達 65%、108% 與 119%）。主因矽光子模組出貨量增加、1.6T/3.2T 提升產品平均售價（ASP）與毛利，以及 AI 資本支出成長。作者認為中際旭創對於光學領域具有類似台積電對半導體資本支出的指標意義，帶動光通訊產業鏈整體正面前景。",
+          "plain_zh": "高盛大幅看好光收發模組龍頭中際旭創（Innolight），大幅調升未來幾年的獲利預算。這代表整個 AI 光通訊產業的需求非常強勁，包含矽光子滲透率提升、新世代（1.6T/3.2T）產品推升單價，以及 800G 需求超乎預期。這對提供 CW 雷射的 SIVE、矽晶圓的 SOI，以及 AAOI 和 LITE 等同業都是極大的正面訊號。",
+          "core_thesis": "中際旭創的巨大獲利上修證明 AI 光通訊需求成長與技術升級超乎預期，整體光通訊生態系將顯著受益。",
+          "why_it_matters": "在大盤或類股經歷大幅拉回時，高盛對光通訊龍頭給予大幅上修的獲利預估，顯示基本面依然非常強勁，為即將到來的財報季奠定樂觀基調。",
+          "history_note": "沒有可用的歷史貼文，因此無法進行歷史觀點比較。",
+          "catalysts": [
+            "高盛大幅調升中際旭創 2026-2028 年獲利預測",
+            "矽光子（Silicon Photonics）滲透率提高與 1.6T/3.2T 升級帶動 ASP 與毛利升降",
+            "中際旭創法說會提及 800G 需求成長遠超預期",
+            "各大廠 AI 資本支出（AI Capex）持續增加"
+          ],
+          "risks": [
+            "貼文提到當前市場處於大規模修正期（massive corrections），短期股價可能受宏觀情緒波動影響"
+          ],
+          "confidence": 90,
+          "ai_status": "ok",
           "favorite_count": 1110,
           "retweet_count": 91
         }
@@ -2211,7 +2233,7 @@
         },
         {
           "date": "2025-12-30",
-          "close": 298.0402
+          "close": 298.0403
         },
         {
           "date": "2025-12-31",
@@ -2259,7 +2281,7 @@
         },
         {
           "date": "2026-01-16",
-          "close": 340.6402
+          "close": 340.6401
         },
         {
           "date": "2026-01-20",
@@ -2303,7 +2325,7 @@
         },
         {
           "date": "2026-02-03",
-          "close": 334.0244
+          "close": 334.0243
         },
         {
           "date": "2026-02-04",
@@ -2339,7 +2361,7 @@
         },
         {
           "date": "2026-02-17",
-          "close": 362.3282
+          "close": 362.3281
         },
         {
           "date": "2026-02-18",
@@ -2403,7 +2425,7 @@
         },
         {
           "date": "2026-03-11",
-          "close": 352.7377
+          "close": 352.7376
         },
         {
           "date": "2026-03-12",
@@ -2415,7 +2437,7 @@
         },
         {
           "date": "2026-03-16",
-          "close": 338.4814
+          "close": 338.4813
         },
         {
           "date": "2026-03-17",
@@ -2840,7 +2862,7 @@
             "raw_return": -0.59,
             "score_return": -0.59,
             "exit_date": "2026-02-17",
-            "exit_price": 362.3282,
+            "exit_price": 362.3281,
             "hit": false
           },
           "7d": {
@@ -2854,7 +2876,7 @@
             "raw_return": -7.13,
             "score_return": -7.13,
             "exit_date": "2026-03-16",
-            "exit_price": 338.4814,
+            "exit_price": 338.4813,
             "hit": false
           },
           "now": {
@@ -2894,7 +2916,7 @@
             "raw_return": -0.81,
             "score_return": 0.81,
             "exit_date": "2026-03-11",
-            "exit_price": 352.7377,
+            "exit_price": 352.7376,
             "hit": true
           },
           "30d": {
@@ -2941,7 +2963,7 @@
             "raw_return": -2.43,
             "score_return": 2.43,
             "exit_date": "2026-03-16",
-            "exit_price": 338.4814,
+            "exit_price": 338.4813,
             "hit": true
           },
           "30d": {
@@ -2975,7 +2997,7 @@
         "thesis_change": "UPDATE",
         "core_thesis": "",
         "entry_date": "2026-03-11",
-        "entry_price": 352.7377,
+        "entry_price": 352.7376,
         "returns": {
           "1d": {
             "raw_return": -5.03,
@@ -3581,10 +3603,10 @@
         "created_at": "2026-06-12T04:26:43Z",
         "url": "https://x.com/aleabitoreddit/status/2065289672356745561",
         "sentiment": "Bullish",
-        "confidence": 0,
+        "confidence": 85,
         "importance": 5,
-        "thesis_change": "UPDATE",
-        "core_thesis": "",
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "作者過去對 AI 與光學供應鏈標的之早期佈局獲市場驗證，建議關注目前市值類似早期 AAOI 的潛在標的（如 SIVE）。",
         "entry_date": "2026-06-12",
         "entry_price": 423.93,
         "returns": {
@@ -3628,10 +3650,10 @@
         "created_at": "2026-07-10T08:23:29Z",
         "url": "https://x.com/aleabitoreddit/status/2075496116481884524",
         "sentiment": "Bullish",
-        "confidence": 0,
+        "confidence": 90,
         "importance": 5,
-        "thesis_change": "UPDATE",
-        "core_thesis": "",
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "無差別的主題性拋售與散戶恐慌賣壓並未改變矽光子及 AI 供應鏈長期營收與營運利潤成長的基本面。",
         "entry_date": "2026-07-10",
         "entry_price": 434.11,
         "returns": {
@@ -3675,10 +3697,10 @@
         "created_at": "2026-07-17T21:19:06Z",
         "url": "https://x.com/aleabitoreddit/status/2078228019584668121",
         "sentiment": "Bullish",
-        "confidence": 0,
+        "confidence": 90,
         "importance": 5,
-        "thesis_change": "MENTION",
-        "core_thesis": "",
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "中際旭創的巨大獲利上修證明 AI 光通訊需求成長與技術升級超乎預期，整體光通訊生態系將顯著受益。",
         "entry_date": "2026-07-17",
         "entry_price": 398.37,
         "returns": {
@@ -5392,13 +5414,13 @@
         "neutral_count": 1,
         "mixed_count": 0,
         "mention_count": 2,
-        "bull_weight": 3.0,
+        "bull_weight": 4.25,
         "bear_weight": 0.0,
         "bull_share": 1.0,
         "importance": 5,
-        "confidence": 0,
-        "thesis_change": "UPDATE",
-        "core_thesis": "",
+        "confidence": 85,
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "作者過去對 AI 與光學供應鏈標的之早期佈局獲市場驗證，建議關注目前市值類似早期 AAOI 的潛在標的（如 SIVE）。",
         "url": "https://x.com/aleabitoreddit/status/2065289672356745561",
         "tweet_id": "2065289672356745561",
         "items": [
@@ -5412,16 +5434,22 @@
             "url": "https://x.com/aleabitoreddit/status/2065289672356745561",
             "sentiment": "Bullish",
             "importance": 5,
-            "thesis_change": "UPDATE",
-            "summary_zh": "",
-            "plain_zh": "",
-            "core_thesis": "",
-            "why_it_matters": "",
-            "history_note": "",
-            "catalysts": [],
-            "risks": [],
-            "confidence": 0,
-            "ai_status": "",
+            "thesis_change": "INSUFFICIENT_HISTORY",
+            "summary_zh": "作者回顧了其 2025 年的核心高確信度投資觀點，指出 ALAB、LITE 和 AAOI 等標的皆實現了大幅增長，同時提及 NBIS、RKLB 與 TSM 等公司的優異表現。雖然作者承認在資訊公開前曾因光學轉型等細節而一度對 ALAB 失去信心，但整體構想獲得驗證。最後作者提議目前市值在類似區間的標的（如 SIVE）可能值得更多關注。",
+            "plain_zh": "作者在慶幸自己先前看好的科技股（包含晶片連接介面、光通訊與半導體代工等）過去表現非常亮眼，市值大幅成長。雖然中途曾因技術轉型而短暫動搖，但整體邏輯最終獲得市場驗證。作者建議投資人可以留意目前市值較小、處於類似早期階段的公司（例如 SIVE）。",
+            "core_thesis": "作者過去對 AI 與光學供應鏈標的之早期佈局獲市場驗證，建議關注目前市值類似早期 AAOI 的潛在標的（如 SIVE）。",
+            "why_it_matters": "這展現了作者在 AI 供應鏈與光電領域的早期選股能力與勝率，並點名 SIVE 作為下一個可能具備高成長潛力的關注對象。",
+            "history_note": "由於本機資料庫無可用的歷史貼文，無法進行歷史觀點的前後對比。",
+            "catalysts": [
+              "市場對早期投資邏輯的逐漸驗證與認可",
+              "小型股隨產業趨勢擴張為大市值公司"
+            ],
+            "risks": [
+              "光學技術轉型（Optical transitions）可能導致短期信心動搖或基本面判斷偏差",
+              "早期小型股的波動度與執行風險較高"
+            ],
+            "confidence": 85,
+            "ai_status": "ok",
             "favorite_count": 1453,
             "retweet_count": 75
           },
@@ -5658,13 +5686,13 @@
         "neutral_count": 0,
         "mixed_count": 0,
         "mention_count": 1,
-        "bull_weight": 3.0,
+        "bull_weight": 4.5,
         "bear_weight": 0.0,
         "bull_share": 1.0,
         "importance": 5,
-        "confidence": 0,
-        "thesis_change": "UPDATE",
-        "core_thesis": "",
+        "confidence": 90,
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "無差別的主題性拋售與散戶恐慌賣壓並未改變矽光子及 AI 供應鏈長期營收與營運利潤成長的基本面。",
         "url": "https://x.com/aleabitoreddit/status/2075496116481884524",
         "tweet_id": "2075496116481884524",
         "items": [
@@ -5678,16 +5706,25 @@
             "url": "https://x.com/aleabitoreddit/status/2075496116481884524",
             "sentiment": "Bullish",
             "importance": 5,
-            "thesis_change": "UPDATE",
-            "summary_zh": "",
-            "plain_zh": "",
-            "core_thesis": "",
-            "why_it_matters": "",
-            "history_note": "",
-            "catalysts": [],
-            "risks": [],
-            "confidence": 0,
-            "ai_status": "",
+            "thesis_change": "INSUFFICIENT_HISTORY",
+            "summary_zh": "作者指出近期矽光子與 AI 供應鏈概念股的回檔主因是市場謠言導致散戶恐慌棄守，但 Meta 算力新聞已獲內部備忘錄澄清，Nvidia 延遲報導亦遭官方否認。作者強調 Nvidia 及光波導/光子學路線圖未變，核心供應商（LITE、SIVE、TSM、AAOI、IQE、AXTI 等）長期營收展望依然穩健，機構投資人正在低接買進。",
+            "plain_zh": "這篇貼文主要是想告訴投資人，最近光通訊與半導體類股的大跌是因為假新聞和恐慌情緒，而不是公司基本面變壞。散戶往往看股價下跌就失去信念而出清，但機構法人反而會趁這種無理性的拋售掛單撿便宜。只要公司的長期訂單（如 LITE 產能排到 2029 年、AAOI 2027 年的營收預期等）沒變，就不該被短期的市場波動動搖信念。",
+            "core_thesis": "無差別的主題性拋售與散戶恐慌賣壓並未改變矽光子及 AI 供應鏈長期營收與營運利潤成長的基本面。",
+            "why_it_matters": "澄清了近期引發光通訊與 AI 概念股賣壓的市場謠言，並詳細盤點矽光子路線圖上關鍵廠商（LITE、SIVE、TSM、AAOI、IQE、AXTI）的訂單能見度與供應鏈地位，有助於區分情緒性波動與真實基本面。",
+            "history_note": "貼文本身未提供歷史貼文資料，無法進行歷史觀點比較。",
+            "catalysts": [
+              "Nvidia 官方否認晶片延遲報導並重申技術路線圖",
+              "Meta 內部備忘錄澄清算力需求疑慮",
+              "SIVE 與 GlobalFoundries、Jabil 等夥伴開始進入量產爬升期",
+              "機構投資人抄底掛單成交推升股價回穩"
+            ],
+            "risks": [
+              "散戶恐慌拋售情緒蔓延導致短期股價進一步超跌",
+              "宏觀地緣政治或供應鏈事件引發無差別主題性清算",
+              "廠商未來實際量產進度或營收兌現時程不及貼文中所述之預估"
+            ],
+            "confidence": 90,
+            "ai_status": "ok",
             "favorite_count": 1694,
             "retweet_count": 138
           }
@@ -5813,13 +5850,13 @@
         "neutral_count": 0,
         "mixed_count": 0,
         "mention_count": 1,
-        "bull_weight": 3.0,
+        "bull_weight": 4.5,
         "bear_weight": 0.0,
         "bull_share": 1.0,
         "importance": 5,
-        "confidence": 0,
-        "thesis_change": "MENTION",
-        "core_thesis": "",
+        "confidence": 90,
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "中際旭創的巨大獲利上修證明 AI 光通訊需求成長與技術升級超乎預期，整體光通訊生態系將顯著受益。",
         "url": "https://x.com/aleabitoreddit/status/2078228019584668121",
         "tweet_id": "2078228019584668121",
         "items": [
@@ -5833,16 +5870,23 @@
             "url": "https://x.com/aleabitoreddit/status/2078228019584668121",
             "sentiment": "Bullish",
             "importance": 5,
-            "thesis_change": "MENTION",
-            "summary_zh": "",
-            "plain_zh": "",
-            "core_thesis": "",
-            "why_it_matters": "",
-            "history_note": "",
-            "catalysts": [],
-            "risks": [],
-            "confidence": 0,
-            "ai_status": "",
+            "thesis_change": "INSUFFICIENT_HISTORY",
+            "summary_zh": "高盛調升中際旭創（Innolight）目標價至 2581 人民幣，並大幅上調其 2026-2028 年獲利預測（分別達 65%、108% 與 119%）。主因矽光子模組出貨量增加、1.6T/3.2T 提升產品平均售價（ASP）與毛利，以及 AI 資本支出成長。作者認為中際旭創對於光學領域具有類似台積電對半導體資本支出的指標意義，帶動光通訊產業鏈整體正面前景。",
+            "plain_zh": "高盛大幅看好光收發模組龍頭中際旭創（Innolight），大幅調升未來幾年的獲利預算。這代表整個 AI 光通訊產業的需求非常強勁，包含矽光子滲透率提升、新世代（1.6T/3.2T）產品推升單價，以及 800G 需求超乎預期。這對提供 CW 雷射的 SIVE、矽晶圓的 SOI，以及 AAOI 和 LITE 等同業都是極大的正面訊號。",
+            "core_thesis": "中際旭創的巨大獲利上修證明 AI 光通訊需求成長與技術升級超乎預期，整體光通訊生態系將顯著受益。",
+            "why_it_matters": "在大盤或類股經歷大幅拉回時，高盛對光通訊龍頭給予大幅上修的獲利預估，顯示基本面依然非常強勁，為即將到來的財報季奠定樂觀基調。",
+            "history_note": "沒有可用的歷史貼文，因此無法進行歷史觀點比較。",
+            "catalysts": [
+              "高盛大幅調升中際旭創 2026-2028 年獲利預測",
+              "矽光子（Silicon Photonics）滲透率提高與 1.6T/3.2T 升級帶動 ASP 與毛利升降",
+              "中際旭創法說會提及 800G 需求成長遠超預期",
+              "各大廠 AI 資本支出（AI Capex）持續增加"
+            ],
+            "risks": [
+              "貼文提到當前市場處於大規模修正期（massive corrections），短期股價可能受宏觀情緒波動影響"
+            ],
+            "confidence": 90,
+            "ai_status": "ok",
             "favorite_count": 1110,
             "retweet_count": 91
           }
@@ -6091,16 +6135,23 @@
       "url": "https://x.com/aleabitoreddit/status/2078228019584668121",
       "sentiment": "Bullish",
       "importance": 5,
-      "thesis_change": "MENTION",
-      "summary_zh": "",
-      "plain_zh": "",
-      "core_thesis": "",
-      "why_it_matters": "",
-      "history_note": "",
-      "catalysts": [],
-      "risks": [],
-      "confidence": 0,
-      "ai_status": "",
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "summary_zh": "高盛調升中際旭創（Innolight）目標價至 2581 人民幣，並大幅上調其 2026-2028 年獲利預測（分別達 65%、108% 與 119%）。主因矽光子模組出貨量增加、1.6T/3.2T 提升產品平均售價（ASP）與毛利，以及 AI 資本支出成長。作者認為中際旭創對於光學領域具有類似台積電對半導體資本支出的指標意義，帶動光通訊產業鏈整體正面前景。",
+      "plain_zh": "高盛大幅看好光收發模組龍頭中際旭創（Innolight），大幅調升未來幾年的獲利預算。這代表整個 AI 光通訊產業的需求非常強勁，包含矽光子滲透率提升、新世代（1.6T/3.2T）產品推升單價，以及 800G 需求超乎預期。這對提供 CW 雷射的 SIVE、矽晶圓的 SOI，以及 AAOI 和 LITE 等同業都是極大的正面訊號。",
+      "core_thesis": "中際旭創的巨大獲利上修證明 AI 光通訊需求成長與技術升級超乎預期，整體光通訊生態系將顯著受益。",
+      "why_it_matters": "在大盤或類股經歷大幅拉回時，高盛對光通訊龍頭給予大幅上修的獲利預估，顯示基本面依然非常強勁，為即將到來的財報季奠定樂觀基調。",
+      "history_note": "沒有可用的歷史貼文，因此無法進行歷史觀點比較。",
+      "catalysts": [
+        "高盛大幅調升中際旭創 2026-2028 年獲利預測",
+        "矽光子（Silicon Photonics）滲透率提高與 1.6T/3.2T 升級帶動 ASP 與毛利升降",
+        "中際旭創法說會提及 800G 需求成長遠超預期",
+        "各大廠 AI 資本支出（AI Capex）持續增加"
+      ],
+      "risks": [
+        "貼文提到當前市場處於大規模修正期（massive corrections），短期股價可能受宏觀情緒波動影響"
+      ],
+      "confidence": 90,
+      "ai_status": "ok",
       "favorite_count": 1110,
       "retweet_count": 91
     },
@@ -6183,16 +6234,25 @@
       "url": "https://x.com/aleabitoreddit/status/2075496116481884524",
       "sentiment": "Bullish",
       "importance": 5,
-      "thesis_change": "UPDATE",
-      "summary_zh": "",
-      "plain_zh": "",
-      "core_thesis": "",
-      "why_it_matters": "",
-      "history_note": "",
-      "catalysts": [],
-      "risks": [],
-      "confidence": 0,
-      "ai_status": "",
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "summary_zh": "作者指出近期矽光子與 AI 供應鏈概念股的回檔主因是市場謠言導致散戶恐慌棄守，但 Meta 算力新聞已獲內部備忘錄澄清，Nvidia 延遲報導亦遭官方否認。作者強調 Nvidia 及光波導/光子學路線圖未變，核心供應商（LITE、SIVE、TSM、AAOI、IQE、AXTI 等）長期營收展望依然穩健，機構投資人正在低接買進。",
+      "plain_zh": "這篇貼文主要是想告訴投資人，最近光通訊與半導體類股的大跌是因為假新聞和恐慌情緒，而不是公司基本面變壞。散戶往往看股價下跌就失去信念而出清，但機構法人反而會趁這種無理性的拋售掛單撿便宜。只要公司的長期訂單（如 LITE 產能排到 2029 年、AAOI 2027 年的營收預期等）沒變，就不該被短期的市場波動動搖信念。",
+      "core_thesis": "無差別的主題性拋售與散戶恐慌賣壓並未改變矽光子及 AI 供應鏈長期營收與營運利潤成長的基本面。",
+      "why_it_matters": "澄清了近期引發光通訊與 AI 概念股賣壓的市場謠言，並詳細盤點矽光子路線圖上關鍵廠商（LITE、SIVE、TSM、AAOI、IQE、AXTI）的訂單能見度與供應鏈地位，有助於區分情緒性波動與真實基本面。",
+      "history_note": "貼文本身未提供歷史貼文資料，無法進行歷史觀點比較。",
+      "catalysts": [
+        "Nvidia 官方否認晶片延遲報導並重申技術路線圖",
+        "Meta 內部備忘錄澄清算力需求疑慮",
+        "SIVE 與 GlobalFoundries、Jabil 等夥伴開始進入量產爬升期",
+        "機構投資人抄底掛單成交推升股價回穩"
+      ],
+      "risks": [
+        "散戶恐慌拋售情緒蔓延導致短期股價進一步超跌",
+        "宏觀地緣政治或供應鏈事件引發無差別主題性清算",
+        "廠商未來實際量產進度或營收兌現時程不及貼文中所述之預估"
+      ],
+      "confidence": 90,
+      "ai_status": "ok",
       "favorite_count": 1694,
       "retweet_count": 138
     },
@@ -6344,16 +6404,22 @@
       "url": "https://x.com/aleabitoreddit/status/2065289672356745561",
       "sentiment": "Bullish",
       "importance": 5,
-      "thesis_change": "UPDATE",
-      "summary_zh": "",
-      "plain_zh": "",
-      "core_thesis": "",
-      "why_it_matters": "",
-      "history_note": "",
-      "catalysts": [],
-      "risks": [],
-      "confidence": 0,
-      "ai_status": "",
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "summary_zh": "作者回顧了其 2025 年的核心高確信度投資觀點，指出 ALAB、LITE 和 AAOI 等標的皆實現了大幅增長，同時提及 NBIS、RKLB 與 TSM 等公司的優異表現。雖然作者承認在資訊公開前曾因光學轉型等細節而一度對 ALAB 失去信心，但整體構想獲得驗證。最後作者提議目前市值在類似區間的標的（如 SIVE）可能值得更多關注。",
+      "plain_zh": "作者在慶幸自己先前看好的科技股（包含晶片連接介面、光通訊與半導體代工等）過去表現非常亮眼，市值大幅成長。雖然中途曾因技術轉型而短暫動搖，但整體邏輯最終獲得市場驗證。作者建議投資人可以留意目前市值較小、處於類似早期階段的公司（例如 SIVE）。",
+      "core_thesis": "作者過去對 AI 與光學供應鏈標的之早期佈局獲市場驗證，建議關注目前市值類似早期 AAOI 的潛在標的（如 SIVE）。",
+      "why_it_matters": "這展現了作者在 AI 供應鏈與光電領域的早期選股能力與勝率，並點名 SIVE 作為下一個可能具備高成長潛力的關注對象。",
+      "history_note": "由於本機資料庫無可用的歷史貼文，無法進行歷史觀點的前後對比。",
+      "catalysts": [
+        "市場對早期投資邏輯的逐漸驗證與認可",
+        "小型股隨產業趨勢擴張為大市值公司"
+      ],
+      "risks": [
+        "光學技術轉型（Optical transitions）可能導致短期信心動搖或基本面判斷偏差",
+        "早期小型股的波動度與執行風險較高"
+      ],
+      "confidence": 85,
+      "ai_status": "ok",
       "favorite_count": 1453,
       "retweet_count": 75
     },

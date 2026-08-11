@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T06:31:35.602327Z",
+  "generated_at": "2026-08-11T07:14:05.626629Z",
   "symbol": "META",
   "summary": {
     "primary_count": 54,
@@ -1060,13 +1060,13 @@
       "neutral_count": 0,
       "mixed_count": 0,
       "mention_count": 1,
-      "bull_weight": 3.0,
+      "bull_weight": 4.25,
       "bear_weight": 0.0,
       "bull_share": 1.0,
       "importance": 5,
-      "confidence": 0,
-      "thesis_change": "UPDATE",
-      "core_thesis": "",
+      "confidence": 85,
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "core_thesis": "三大核心主線（新興雲端能源、記憶體、矽光子）中長期邏輯依然穩固，投資應以數月的中期時間軸評估而非受短期波動干擾。",
       "url": "https://x.com/aleabitoreddit/status/2067945397923037693",
       "tweet_id": "2067945397923037693",
       "items": [
@@ -1080,16 +1080,23 @@
           "url": "https://x.com/aleabitoreddit/status/2067945397923037693",
           "sentiment": "Bullish",
           "importance": 5,
-          "thesis_change": "UPDATE",
-          "summary_zh": "",
-          "plain_zh": "",
-          "core_thesis": "",
-          "why_it_matters": "",
-          "history_note": "",
-          "catalysts": [],
-          "risks": [],
-          "confidence": 0,
-          "ai_status": "",
+          "thesis_change": "INSUFFICIENT_HISTORY",
+          "summary_zh": "作者回顧其投資組合表現，重申三大核心主題為新興雲端/能源（Neoclouds）、記憶體（Memory）與光電/矽光子（Photonics）。雖然部分台灣 CPO 供應鏈受虛假報告影響出現虧損，且韓國市場因高波動性讓人心生戒心，但整體中長期個股多數回報優異。作者強調投資觀點應以數月的「中長期」時間軸來評估，而非數週的短期波動。",
+          "plain_zh": "作者總結了近期投資的成敗。他的核心看好方向是 AI 新興雲端能源、記憶體和光通訊技術（如 CPO）。雖然中間被市場傳聞和短期暴跌（例如部分台灣封測與光通訊小股、韓國供應鏈）傷到，但大型股像美光、邁威爾、ARM 以及多數中小型股整體表現依然非常亮眼。他提醒大家買入點位很關鍵，且投資應該看幾個月的中期趨勢，而不是幾天幾週的短期震盪。",
+          "core_thesis": "三大核心主線（新興雲端能源、記憶體、矽光子）中長期邏輯依然穩固，投資應以數月的中期時間軸評估而非受短期波動干擾。",
+          "why_it_matters": "貼文梳理了作者在 AI 供應鏈（尤其是光通訊 CPO 與記憶體）的持股績效與心態，揭示了雖然台灣與韓國中小型供應鏈短期波動劇烈，但整體 AI 基礎建設的主線趨勢仍然強勁。",
+          "history_note": "由於沒有歷史貼文可供對照，本篇作為作者目前投資組合狀況與三大核心主題（Neoclouds, Memory, Photonics）的基準紀錄。",
+          "catalysts": [
+            "SK 海力士與三星的產品認證（Qualifications）與高容量量產（HVM）",
+            "未來日本供應鏈可能的關閉/轉移效益"
+          ],
+          "risks": [
+            "關於 CPO 延遲等虛假分析師報告導致的短期股價暴跌",
+            "韓國市場與中小型供應鏈個股過高的波動性",
+            "宏觀地緣政治事件（如伊朗衝突）影響降息預期"
+          ],
+          "confidence": 85,
+          "ai_status": "ok",
           "favorite_count": 2369,
           "retweet_count": 147
         }
@@ -1282,13 +1289,13 @@
       "neutral_count": 2,
       "mixed_count": 0,
       "mention_count": 3,
-      "bull_weight": 3.0,
+      "bull_weight": 4.5,
       "bear_weight": 0.0,
       "bull_share": 1.0,
       "importance": 5,
-      "confidence": 0,
-      "thesis_change": "UPDATE",
-      "core_thesis": "",
+      "confidence": 90,
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "core_thesis": "矽光子技術為 AI 必經的架構轉變，CW 雷射產能極度稀缺將帶動供應鏈業者（特別是有獨立產能者）強勁的基本面爆發。",
       "url": "https://x.com/aleabitoreddit/status/2072726120706007465",
       "tweet_id": "2072726120706007465",
       "items": [
@@ -1325,16 +1332,23 @@
           "url": "https://x.com/aleabitoreddit/status/2072726120706007465",
           "sentiment": "Bullish",
           "importance": 5,
-          "thesis_change": "UPDATE",
-          "summary_zh": "",
-          "plain_zh": "",
-          "core_thesis": "",
-          "why_it_matters": "",
-          "history_note": "",
-          "catalysts": [],
-          "risks": [],
-          "confidence": 0,
-          "ai_status": "",
+          "thesis_change": "INSUFFICIENT_HISTORY",
+          "summary_zh": "作者指出矽光子（Silicon Photonics）擁有實際營收支持，且是 Nvidia 主導的架構轉變。目前市場主要業者產能已極度緊缺，如 Lumentum（LITE）未來兩年產能售罄，Coherent（COHR）面臨產能瓶頸。因此擁有獨立連續波（CW）雷射產能的業者（如 AAOI、SIVE）將成為稀缺資源，長遠基本面強勁。",
+          "plain_zh": "矽光子技術是未來 AI 晶片傳輸的趨勢，且有實質營收支撐，不像量子公司大多只有概念。現在做關鍵組件（CW 雷射）的大廠（Lumentum、Coherent）產能全滿甚至要向同行拉貨。這讓有獨立產能的小廠（如 AAOI、SIVE）變得非常吃香。近期市場因媒體報導 Meta 等消息引發下跌是市場誤解，基本面最終會反應產能滿載的利多。",
+          "core_thesis": "矽光子技術為 AI 必經的架構轉變，CW 雷射產能極度稀缺將帶動供應鏈業者（特別是有獨立產能者）強勁的基本面爆發。",
+          "why_it_matters": "AI 算力擴展（Scale out / Scale up）對光學元件的需求帶來高倍數的 TAM 成長與價值提升。光學組件產能緊缺代表相關供應鏈具有極高的定價權與業績能見度。",
+          "history_note": "歷史貼文不足，無法進行觀點比較。",
+          "catalysts": [
+            "主要光學廠商（LITE、AAOI等）未來季報業績兌現與產能釋出",
+            "超大型雲端業者（Hyperscalers）簽署長約（LTA）",
+            "AMD 等晶片大廠與 AAOI 等供應商的合作進展"
+          ],
+          "risks": [
+            "媒體報導（如 Bloomberg）引發的短期半導體市場恐慌性拋售",
+            "產能擴充瓶頸或良率不如預期"
+          ],
+          "confidence": 90,
+          "ai_status": "ok",
           "favorite_count": 2239,
           "retweet_count": 190
         },
@@ -1969,13 +1983,13 @@
       "neutral_count": 0,
       "mixed_count": 0,
       "mention_count": 1,
-      "bull_weight": 3.0,
+      "bull_weight": 4.5,
       "bear_weight": 0.0,
       "bull_share": 1.0,
       "importance": 5,
-      "confidence": 0,
-      "thesis_change": "UPDATE",
-      "core_thesis": "",
+      "confidence": 90,
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "core_thesis": "近期科技股拉回屬於過度的短期去槓桿，AI 雲端巨頭資本支出調升與強勁財報顯示 AI 加速發展的長期論點依然穩固。",
       "url": "https://x.com/aleabitoreddit/status/2082230983487803755",
       "tweet_id": "2082230983487803755",
       "items": [
@@ -1989,16 +2003,23 @@
           "url": "https://x.com/aleabitoreddit/status/2082230983487803755",
           "sentiment": "Bullish",
           "importance": 5,
-          "thesis_change": "UPDATE",
-          "summary_zh": "",
-          "plain_zh": "",
-          "core_thesis": "",
-          "why_it_matters": "",
-          "history_note": "",
-          "catalysts": [],
-          "risks": [],
-          "confidence": 0,
-          "ai_status": "",
+          "thesis_change": "INSUFFICIENT_HISTORY",
+          "summary_zh": "作者認為近期科技股的下跌是過度的短期去槓桿行為，市場基本面依然強勁。從 BE 和 TER 強勁的財報、中國光學大廠的預告，到 Alphabet 大幅調升資本支出至 1,950 億至 2,050 億美元，均顯示 AI 需求與營收正在加速。作者重申對光學互連、記憶體和近雲/AI雲端等主題的強烈信心。",
+          "plain_zh": "最近市場大跌，作者認為這只是短期槓桿清理過度，而不是 AI 泡沫破裂。事實上，最新公佈的企業財報（如 Bloom Energy、Teradyne）以及科技巨頭 Alphabet 的資本支出（高達約兩千億美元）都證明了 AI 需求仍在爆發增長。作者建議投資人專注於企業營收與獲利是否加速成長，而不是被市場恐慌情緒影響。",
+          "core_thesis": "近期科技股拉回屬於過度的短期去槓桿，AI 雲端巨頭資本支出調升與強勁財報顯示 AI 加速發展的長期論點依然穩固。",
+          "why_it_matters": "Alphabet 顯著提升 Capex 是美股 AI 供應鏈需求最強烈的訊號，且 Bloom Energy 與 Teradyne 等亮眼財報證明 AI 基礎建設的營收轉化正在發生。此外，市場對中國產能過剩和升息的恐懼被誇大。",
+          "history_note": "由於缺乏歷史貼文對照，無法進行長期論點轉變的比較；但基於本篇貼文，作者對 AI 相關主題維持強烈的看多態度。",
+          "catalysts": [
+            "Alphabet 調升資本支出至 1,950 億至 2,050 億美元",
+            "即將到來的 LITE、SNDK / SK Hynix 財報發布",
+            "聯準會可能的降息預期與利率壓力的舒緩"
+          ],
+          "risks": [
+            "市場短期偏好現有加速表現而非遠期成長，導致如 AMKR 等股票遭修正",
+            "市場短期整體去槓桿與情緒驅動的無差別拋售"
+          ],
+          "confidence": 90,
+          "ai_status": "ok",
           "favorite_count": 2580,
           "retweet_count": 165
         }
@@ -2205,7 +2226,7 @@
         },
         {
           "date": "2025-11-18",
-          "close": 596.1396
+          "close": 596.1395
         },
         {
           "date": "2025-11-19",
@@ -2213,11 +2234,11 @@
         },
         {
           "date": "2025-11-20",
-          "close": 587.6217
+          "close": 587.6218
         },
         {
           "date": "2025-11-21",
-          "close": 592.7085
+          "close": 592.7084
         },
         {
           "date": "2025-11-24",
@@ -2237,11 +2258,11 @@
         },
         {
           "date": "2025-12-01",
-          "close": 639.2075
+          "close": 639.2076
         },
         {
           "date": "2025-12-02",
-          "close": 645.4214
+          "close": 645.4213
         },
         {
           "date": "2025-12-03",
@@ -2289,7 +2310,7 @@
         },
         {
           "date": "2025-12-18",
-          "close": 663.2669
+          "close": 663.2668
         },
         {
           "date": "2025-12-19",
@@ -2305,7 +2326,7 @@
         },
         {
           "date": "2025-12-24",
-          "close": 666.3614
+          "close": 666.3613
         },
         {
           "date": "2025-12-26",
@@ -2321,11 +2342,11 @@
         },
         {
           "date": "2025-12-31",
-          "close": 658.9147
+          "close": 658.9146
         },
         {
           "date": "2026-01-02",
-          "close": 649.2519
+          "close": 649.2518
         },
         {
           "date": "2026-01-05",
@@ -2337,7 +2358,7 @@
         },
         {
           "date": "2026-01-07",
-          "close": 647.535
+          "close": 647.5349
         },
         {
           "date": "2026-01-08",
@@ -2345,11 +2366,11 @@
         },
         {
           "date": "2026-01-09",
-          "close": 651.8971
+          "close": 651.8972
         },
         {
           "date": "2026-01-12",
-          "close": 640.8269
+          "close": 640.8268
         },
         {
           "date": "2026-01-13",
@@ -2385,7 +2406,7 @@
         },
         {
           "date": "2026-01-26",
-          "close": 671.1628
+          "close": 671.1627
         },
         {
           "date": "2026-01-27",
@@ -2417,7 +2438,7 @@
         },
         {
           "date": "2026-02-05",
-          "close": 669.0166
+          "close": 669.0167
         },
         {
           "date": "2026-02-06",
@@ -2429,7 +2450,7 @@
         },
         {
           "date": "2026-02-10",
-          "close": 669.5257
+          "close": 669.5256
         },
         {
           "date": "2026-02-11",
@@ -2441,11 +2462,11 @@
         },
         {
           "date": "2026-02-13",
-          "close": 638.6309
+          "close": 638.6308
         },
         {
           "date": "2026-02-17",
-          "close": 638.1516
+          "close": 638.1517
         },
         {
           "date": "2026-02-18",
@@ -2457,19 +2478,19 @@
         },
         {
           "date": "2026-02-20",
-          "close": 654.4925
+          "close": 654.4926
         },
         {
           "date": "2026-02-23",
-          "close": 636.1153
+          "close": 636.1154
         },
         {
           "date": "2026-02-24",
-          "close": 638.1616
+          "close": 638.1617
         },
         {
           "date": "2026-02-25",
-          "close": 652.5261
+          "close": 652.526
         },
         {
           "date": "2026-02-26",
@@ -2477,7 +2498,7 @@
         },
         {
           "date": "2026-02-27",
-          "close": 647.0259
+          "close": 647.0258
         },
         {
           "date": "2026-03-02",
@@ -2501,19 +2522,19 @@
         },
         {
           "date": "2026-03-09",
-          "close": 646.2373
+          "close": 646.2372
         },
         {
           "date": "2026-03-10",
-          "close": 652.9053
+          "close": 652.9054
         },
         {
           "date": "2026-03-11",
-          "close": 653.6939
+          "close": 653.694
         },
         {
           "date": "2026-03-12",
-          "close": 637.0436
+          "close": 637.0437
         },
         {
           "date": "2026-03-13",
@@ -2946,7 +2967,7 @@
             "raw_return": -0.72,
             "score_return": -0.72,
             "exit_date": "2025-11-18",
-            "exit_price": 596.1396,
+            "exit_price": 596.1395,
             "hit": false
           },
           "7d": {
@@ -3000,14 +3021,14 @@
             "raw_return": 4.54,
             "score_return": 4.54,
             "exit_date": "2025-12-01",
-            "exit_price": 639.2075,
+            "exit_price": 639.2076,
             "hit": true
           },
           "30d": {
             "raw_return": 8.98,
             "score_return": 8.98,
             "exit_date": "2025-12-24",
-            "exit_price": 666.3614,
+            "exit_price": 666.3613,
             "hit": true
           },
           "now": {
@@ -3358,10 +3379,10 @@
         "created_at": "2026-06-19T12:19:38Z",
         "url": "https://x.com/aleabitoreddit/status/2067945397923037693",
         "sentiment": "Bullish",
-        "confidence": 0,
+        "confidence": 85,
         "importance": 5,
-        "thesis_change": "UPDATE",
-        "core_thesis": "",
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "三大核心主線（新興雲端能源、記憶體、矽光子）中長期邏輯依然穩固，投資應以數月的中期時間軸評估而非受短期波動干擾。",
         "entry_date": "2026-06-22",
         "entry_price": 563.85,
         "returns": {
@@ -3452,10 +3473,10 @@
         "created_at": "2026-07-02T16:56:31Z",
         "url": "https://x.com/aleabitoreddit/status/2072726120706007465",
         "sentiment": "Bullish",
-        "confidence": 0,
+        "confidence": 90,
         "importance": 5,
-        "thesis_change": "UPDATE",
-        "core_thesis": "",
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "矽光子技術為 AI 必經的架構轉變，CW 雷射產能極度稀缺將帶動供應鏈業者（特別是有獨立產能者）強勁的基本面爆發。",
         "entry_date": "2026-07-02",
         "entry_price": 582.9,
         "returns": {
@@ -3687,10 +3708,10 @@
         "created_at": "2026-07-28T22:25:27Z",
         "url": "https://x.com/aleabitoreddit/status/2082230983487803755",
         "sentiment": "Bullish",
-        "confidence": 0,
+        "confidence": 90,
         "importance": 5,
-        "thesis_change": "UPDATE",
-        "core_thesis": "",
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "近期科技股拉回屬於過度的短期去槓桿，AI 雲端巨頭資本支出調升與強勁財報顯示 AI 加速發展的長期論點依然穩固。",
         "entry_date": "2026-07-28",
         "entry_price": 593.41,
         "returns": {
@@ -4822,13 +4843,13 @@
         "neutral_count": 0,
         "mixed_count": 0,
         "mention_count": 1,
-        "bull_weight": 3.0,
+        "bull_weight": 4.25,
         "bear_weight": 0.0,
         "bull_share": 1.0,
         "importance": 5,
-        "confidence": 0,
-        "thesis_change": "UPDATE",
-        "core_thesis": "",
+        "confidence": 85,
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "三大核心主線（新興雲端能源、記憶體、矽光子）中長期邏輯依然穩固，投資應以數月的中期時間軸評估而非受短期波動干擾。",
         "url": "https://x.com/aleabitoreddit/status/2067945397923037693",
         "tweet_id": "2067945397923037693",
         "items": [
@@ -4842,16 +4863,23 @@
             "url": "https://x.com/aleabitoreddit/status/2067945397923037693",
             "sentiment": "Bullish",
             "importance": 5,
-            "thesis_change": "UPDATE",
-            "summary_zh": "",
-            "plain_zh": "",
-            "core_thesis": "",
-            "why_it_matters": "",
-            "history_note": "",
-            "catalysts": [],
-            "risks": [],
-            "confidence": 0,
-            "ai_status": "",
+            "thesis_change": "INSUFFICIENT_HISTORY",
+            "summary_zh": "作者回顧其投資組合表現，重申三大核心主題為新興雲端/能源（Neoclouds）、記憶體（Memory）與光電/矽光子（Photonics）。雖然部分台灣 CPO 供應鏈受虛假報告影響出現虧損，且韓國市場因高波動性讓人心生戒心，但整體中長期個股多數回報優異。作者強調投資觀點應以數月的「中長期」時間軸來評估，而非數週的短期波動。",
+            "plain_zh": "作者總結了近期投資的成敗。他的核心看好方向是 AI 新興雲端能源、記憶體和光通訊技術（如 CPO）。雖然中間被市場傳聞和短期暴跌（例如部分台灣封測與光通訊小股、韓國供應鏈）傷到，但大型股像美光、邁威爾、ARM 以及多數中小型股整體表現依然非常亮眼。他提醒大家買入點位很關鍵，且投資應該看幾個月的中期趨勢，而不是幾天幾週的短期震盪。",
+            "core_thesis": "三大核心主線（新興雲端能源、記憶體、矽光子）中長期邏輯依然穩固，投資應以數月的中期時間軸評估而非受短期波動干擾。",
+            "why_it_matters": "貼文梳理了作者在 AI 供應鏈（尤其是光通訊 CPO 與記憶體）的持股績效與心態，揭示了雖然台灣與韓國中小型供應鏈短期波動劇烈，但整體 AI 基礎建設的主線趨勢仍然強勁。",
+            "history_note": "由於沒有歷史貼文可供對照，本篇作為作者目前投資組合狀況與三大核心主題（Neoclouds, Memory, Photonics）的基準紀錄。",
+            "catalysts": [
+              "SK 海力士與三星的產品認證（Qualifications）與高容量量產（HVM）",
+              "未來日本供應鏈可能的關閉/轉移效益"
+            ],
+            "risks": [
+              "關於 CPO 延遲等虛假分析師報告導致的短期股價暴跌",
+              "韓國市場與中小型供應鏈個股過高的波動性",
+              "宏觀地緣政治事件（如伊朗衝突）影響降息預期"
+            ],
+            "confidence": 85,
+            "ai_status": "ok",
             "favorite_count": 2369,
             "retweet_count": 147
           }
@@ -5044,13 +5072,13 @@
         "neutral_count": 2,
         "mixed_count": 0,
         "mention_count": 3,
-        "bull_weight": 3.0,
+        "bull_weight": 4.5,
         "bear_weight": 0.0,
         "bull_share": 1.0,
         "importance": 5,
-        "confidence": 0,
-        "thesis_change": "UPDATE",
-        "core_thesis": "",
+        "confidence": 90,
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "矽光子技術為 AI 必經的架構轉變，CW 雷射產能極度稀缺將帶動供應鏈業者（特別是有獨立產能者）強勁的基本面爆發。",
         "url": "https://x.com/aleabitoreddit/status/2072726120706007465",
         "tweet_id": "2072726120706007465",
         "items": [
@@ -5087,16 +5115,23 @@
             "url": "https://x.com/aleabitoreddit/status/2072726120706007465",
             "sentiment": "Bullish",
             "importance": 5,
-            "thesis_change": "UPDATE",
-            "summary_zh": "",
-            "plain_zh": "",
-            "core_thesis": "",
-            "why_it_matters": "",
-            "history_note": "",
-            "catalysts": [],
-            "risks": [],
-            "confidence": 0,
-            "ai_status": "",
+            "thesis_change": "INSUFFICIENT_HISTORY",
+            "summary_zh": "作者指出矽光子（Silicon Photonics）擁有實際營收支持，且是 Nvidia 主導的架構轉變。目前市場主要業者產能已極度緊缺，如 Lumentum（LITE）未來兩年產能售罄，Coherent（COHR）面臨產能瓶頸。因此擁有獨立連續波（CW）雷射產能的業者（如 AAOI、SIVE）將成為稀缺資源，長遠基本面強勁。",
+            "plain_zh": "矽光子技術是未來 AI 晶片傳輸的趨勢，且有實質營收支撐，不像量子公司大多只有概念。現在做關鍵組件（CW 雷射）的大廠（Lumentum、Coherent）產能全滿甚至要向同行拉貨。這讓有獨立產能的小廠（如 AAOI、SIVE）變得非常吃香。近期市場因媒體報導 Meta 等消息引發下跌是市場誤解，基本面最終會反應產能滿載的利多。",
+            "core_thesis": "矽光子技術為 AI 必經的架構轉變，CW 雷射產能極度稀缺將帶動供應鏈業者（特別是有獨立產能者）強勁的基本面爆發。",
+            "why_it_matters": "AI 算力擴展（Scale out / Scale up）對光學元件的需求帶來高倍數的 TAM 成長與價值提升。光學組件產能緊缺代表相關供應鏈具有極高的定價權與業績能見度。",
+            "history_note": "歷史貼文不足，無法進行觀點比較。",
+            "catalysts": [
+              "主要光學廠商（LITE、AAOI等）未來季報業績兌現與產能釋出",
+              "超大型雲端業者（Hyperscalers）簽署長約（LTA）",
+              "AMD 等晶片大廠與 AAOI 等供應商的合作進展"
+            ],
+            "risks": [
+              "媒體報導（如 Bloomberg）引發的短期半導體市場恐慌性拋售",
+              "產能擴充瓶頸或良率不如預期"
+            ],
+            "confidence": 90,
+            "ai_status": "ok",
             "favorite_count": 2239,
             "retweet_count": 190
           },
@@ -5731,13 +5766,13 @@
         "neutral_count": 0,
         "mixed_count": 0,
         "mention_count": 1,
-        "bull_weight": 3.0,
+        "bull_weight": 4.5,
         "bear_weight": 0.0,
         "bull_share": 1.0,
         "importance": 5,
-        "confidence": 0,
-        "thesis_change": "UPDATE",
-        "core_thesis": "",
+        "confidence": 90,
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "近期科技股拉回屬於過度的短期去槓桿，AI 雲端巨頭資本支出調升與強勁財報顯示 AI 加速發展的長期論點依然穩固。",
         "url": "https://x.com/aleabitoreddit/status/2082230983487803755",
         "tweet_id": "2082230983487803755",
         "items": [
@@ -5751,16 +5786,23 @@
             "url": "https://x.com/aleabitoreddit/status/2082230983487803755",
             "sentiment": "Bullish",
             "importance": 5,
-            "thesis_change": "UPDATE",
-            "summary_zh": "",
-            "plain_zh": "",
-            "core_thesis": "",
-            "why_it_matters": "",
-            "history_note": "",
-            "catalysts": [],
-            "risks": [],
-            "confidence": 0,
-            "ai_status": "",
+            "thesis_change": "INSUFFICIENT_HISTORY",
+            "summary_zh": "作者認為近期科技股的下跌是過度的短期去槓桿行為，市場基本面依然強勁。從 BE 和 TER 強勁的財報、中國光學大廠的預告，到 Alphabet 大幅調升資本支出至 1,950 億至 2,050 億美元，均顯示 AI 需求與營收正在加速。作者重申對光學互連、記憶體和近雲/AI雲端等主題的強烈信心。",
+            "plain_zh": "最近市場大跌，作者認為這只是短期槓桿清理過度，而不是 AI 泡沫破裂。事實上，最新公佈的企業財報（如 Bloom Energy、Teradyne）以及科技巨頭 Alphabet 的資本支出（高達約兩千億美元）都證明了 AI 需求仍在爆發增長。作者建議投資人專注於企業營收與獲利是否加速成長，而不是被市場恐慌情緒影響。",
+            "core_thesis": "近期科技股拉回屬於過度的短期去槓桿，AI 雲端巨頭資本支出調升與強勁財報顯示 AI 加速發展的長期論點依然穩固。",
+            "why_it_matters": "Alphabet 顯著提升 Capex 是美股 AI 供應鏈需求最強烈的訊號，且 Bloom Energy 與 Teradyne 等亮眼財報證明 AI 基礎建設的營收轉化正在發生。此外，市場對中國產能過剩和升息的恐懼被誇大。",
+            "history_note": "由於缺乏歷史貼文對照，無法進行長期論點轉變的比較；但基於本篇貼文，作者對 AI 相關主題維持強烈的看多態度。",
+            "catalysts": [
+              "Alphabet 調升資本支出至 1,950 億至 2,050 億美元",
+              "即將到來的 LITE、SNDK / SK Hynix 財報發布",
+              "聯準會可能的降息預期與利率壓力的舒緩"
+            ],
+            "risks": [
+              "市場短期偏好現有加速表現而非遠期成長，導致如 AMKR 等股票遭修正",
+              "市場短期整體去槓桿與情緒驅動的無差別拋售"
+            ],
+            "confidence": 90,
+            "ai_status": "ok",
             "favorite_count": 2580,
             "retweet_count": 165
           }
@@ -6101,16 +6143,23 @@
       "url": "https://x.com/aleabitoreddit/status/2082230983487803755",
       "sentiment": "Bullish",
       "importance": 5,
-      "thesis_change": "UPDATE",
-      "summary_zh": "",
-      "plain_zh": "",
-      "core_thesis": "",
-      "why_it_matters": "",
-      "history_note": "",
-      "catalysts": [],
-      "risks": [],
-      "confidence": 0,
-      "ai_status": "",
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "summary_zh": "作者認為近期科技股的下跌是過度的短期去槓桿行為，市場基本面依然強勁。從 BE 和 TER 強勁的財報、中國光學大廠的預告，到 Alphabet 大幅調升資本支出至 1,950 億至 2,050 億美元，均顯示 AI 需求與營收正在加速。作者重申對光學互連、記憶體和近雲/AI雲端等主題的強烈信心。",
+      "plain_zh": "最近市場大跌，作者認為這只是短期槓桿清理過度，而不是 AI 泡沫破裂。事實上，最新公佈的企業財報（如 Bloom Energy、Teradyne）以及科技巨頭 Alphabet 的資本支出（高達約兩千億美元）都證明了 AI 需求仍在爆發增長。作者建議投資人專注於企業營收與獲利是否加速成長，而不是被市場恐慌情緒影響。",
+      "core_thesis": "近期科技股拉回屬於過度的短期去槓桿，AI 雲端巨頭資本支出調升與強勁財報顯示 AI 加速發展的長期論點依然穩固。",
+      "why_it_matters": "Alphabet 顯著提升 Capex 是美股 AI 供應鏈需求最強烈的訊號，且 Bloom Energy 與 Teradyne 等亮眼財報證明 AI 基礎建設的營收轉化正在發生。此外，市場對中國產能過剩和升息的恐懼被誇大。",
+      "history_note": "由於缺乏歷史貼文對照，無法進行長期論點轉變的比較；但基於本篇貼文，作者對 AI 相關主題維持強烈的看多態度。",
+      "catalysts": [
+        "Alphabet 調升資本支出至 1,950 億至 2,050 億美元",
+        "即將到來的 LITE、SNDK / SK Hynix 財報發布",
+        "聯準會可能的降息預期與利率壓力的舒緩"
+      ],
+      "risks": [
+        "市場短期偏好現有加速表現而非遠期成長，導致如 AMKR 等股票遭修正",
+        "市場短期整體去槓桿與情緒驅動的無差別拋售"
+      ],
+      "confidence": 90,
+      "ai_status": "ok",
       "favorite_count": 2580,
       "retweet_count": 165
     },
@@ -6492,16 +6541,23 @@
       "url": "https://x.com/aleabitoreddit/status/2072726120706007465",
       "sentiment": "Bullish",
       "importance": 5,
-      "thesis_change": "UPDATE",
-      "summary_zh": "",
-      "plain_zh": "",
-      "core_thesis": "",
-      "why_it_matters": "",
-      "history_note": "",
-      "catalysts": [],
-      "risks": [],
-      "confidence": 0,
-      "ai_status": "",
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "summary_zh": "作者指出矽光子（Silicon Photonics）擁有實際營收支持，且是 Nvidia 主導的架構轉變。目前市場主要業者產能已極度緊缺，如 Lumentum（LITE）未來兩年產能售罄，Coherent（COHR）面臨產能瓶頸。因此擁有獨立連續波（CW）雷射產能的業者（如 AAOI、SIVE）將成為稀缺資源，長遠基本面強勁。",
+      "plain_zh": "矽光子技術是未來 AI 晶片傳輸的趨勢，且有實質營收支撐，不像量子公司大多只有概念。現在做關鍵組件（CW 雷射）的大廠（Lumentum、Coherent）產能全滿甚至要向同行拉貨。這讓有獨立產能的小廠（如 AAOI、SIVE）變得非常吃香。近期市場因媒體報導 Meta 等消息引發下跌是市場誤解，基本面最終會反應產能滿載的利多。",
+      "core_thesis": "矽光子技術為 AI 必經的架構轉變，CW 雷射產能極度稀缺將帶動供應鏈業者（特別是有獨立產能者）強勁的基本面爆發。",
+      "why_it_matters": "AI 算力擴展（Scale out / Scale up）對光學元件的需求帶來高倍數的 TAM 成長與價值提升。光學組件產能緊缺代表相關供應鏈具有極高的定價權與業績能見度。",
+      "history_note": "歷史貼文不足，無法進行觀點比較。",
+      "catalysts": [
+        "主要光學廠商（LITE、AAOI等）未來季報業績兌現與產能釋出",
+        "超大型雲端業者（Hyperscalers）簽署長約（LTA）",
+        "AMD 等晶片大廠與 AAOI 等供應商的合作進展"
+      ],
+      "risks": [
+        "媒體報導（如 Bloomberg）引發的短期半導體市場恐慌性拋售",
+        "產能擴充瓶頸或良率不如預期"
+      ],
+      "confidence": 90,
+      "ai_status": "ok",
       "favorite_count": 2239,
       "retweet_count": 190
     },
@@ -6653,16 +6709,23 @@
       "url": "https://x.com/aleabitoreddit/status/2067945397923037693",
       "sentiment": "Bullish",
       "importance": 5,
-      "thesis_change": "UPDATE",
-      "summary_zh": "",
-      "plain_zh": "",
-      "core_thesis": "",
-      "why_it_matters": "",
-      "history_note": "",
-      "catalysts": [],
-      "risks": [],
-      "confidence": 0,
-      "ai_status": "",
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "summary_zh": "作者回顧其投資組合表現，重申三大核心主題為新興雲端/能源（Neoclouds）、記憶體（Memory）與光電/矽光子（Photonics）。雖然部分台灣 CPO 供應鏈受虛假報告影響出現虧損，且韓國市場因高波動性讓人心生戒心，但整體中長期個股多數回報優異。作者強調投資觀點應以數月的「中長期」時間軸來評估，而非數週的短期波動。",
+      "plain_zh": "作者總結了近期投資的成敗。他的核心看好方向是 AI 新興雲端能源、記憶體和光通訊技術（如 CPO）。雖然中間被市場傳聞和短期暴跌（例如部分台灣封測與光通訊小股、韓國供應鏈）傷到，但大型股像美光、邁威爾、ARM 以及多數中小型股整體表現依然非常亮眼。他提醒大家買入點位很關鍵，且投資應該看幾個月的中期趨勢，而不是幾天幾週的短期震盪。",
+      "core_thesis": "三大核心主線（新興雲端能源、記憶體、矽光子）中長期邏輯依然穩固，投資應以數月的中期時間軸評估而非受短期波動干擾。",
+      "why_it_matters": "貼文梳理了作者在 AI 供應鏈（尤其是光通訊 CPO 與記憶體）的持股績效與心態，揭示了雖然台灣與韓國中小型供應鏈短期波動劇烈，但整體 AI 基礎建設的主線趨勢仍然強勁。",
+      "history_note": "由於沒有歷史貼文可供對照，本篇作為作者目前投資組合狀況與三大核心主題（Neoclouds, Memory, Photonics）的基準紀錄。",
+      "catalysts": [
+        "SK 海力士與三星的產品認證（Qualifications）與高容量量產（HVM）",
+        "未來日本供應鏈可能的關閉/轉移效益"
+      ],
+      "risks": [
+        "關於 CPO 延遲等虛假分析師報告導致的短期股價暴跌",
+        "韓國市場與中小型供應鏈個股過高的波動性",
+        "宏觀地緣政治事件（如伊朗衝突）影響降息預期"
+      ],
+      "confidence": 85,
+      "ai_status": "ok",
       "favorite_count": 2369,
       "retweet_count": 147
     },

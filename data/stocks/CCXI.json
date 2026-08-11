@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T06:31:35.602327Z",
+  "generated_at": "2026-08-11T07:14:05.626629Z",
   "symbol": "CCXI",
   "summary": {
     "primary_count": 20,
@@ -445,13 +445,13 @@
       "neutral_count": 0,
       "mixed_count": 0,
       "mention_count": 1,
-      "bull_weight": 3.0,
+      "bull_weight": 4.5,
       "bear_weight": 0.0,
       "bull_share": 1.0,
       "importance": 5,
-      "confidence": 0,
-      "thesis_change": "UPDATE",
-      "core_thesis": "",
+      "confidence": 90,
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "core_thesis": "股價大幅拉回若未改變核心投資論點，即是以更低估值建立下一代科技超級週期（AI、光學、機器人）核心資產長期部位的時機。",
       "url": "https://x.com/aleabitoreddit/status/2074951295027568736",
       "tweet_id": "2074951295027568736",
       "items": [
@@ -465,16 +465,23 @@
           "url": "https://x.com/aleabitoreddit/status/2074951295027568736",
           "sentiment": "Bullish",
           "importance": 5,
-          "thesis_change": "UPDATE",
-          "summary_zh": "",
-          "plain_zh": "",
-          "core_thesis": "",
-          "why_it_matters": "",
-          "history_note": "",
-          "catalysts": [],
-          "risks": [],
-          "confidence": 0,
-          "ai_status": "",
+          "thesis_change": "INSUFFICIENT_HISTORY",
+          "summary_zh": "作者認為散戶常將 30-60% 的股價拉回視為不可救藥的下跌而恐慌拋售，但他將其視為以更便宜估值獲取長期優質資產的機會。他點名了 NBIS（下一代 Hyperscaler）、AXTI（InP 供應鏈）、SIVE（CW DFB 激光器光學技術）與 CCXI（美國人形機器人）等關鍵領域。儘管可能透過降低槓桿或對沖來管理風險，但在核心投資論點未改變前他不會恐慌，並認為機構亦透過人為波動來最大化長期暴險。",
+          "plain_zh": "當優質科技股大跌 30% 到 60% 時，一般散戶往往因為看技術分析或市場恐慌而停損賣出。但作者認為，只要公司的基本面與核心優勢（如獨占供應鏈、下一代 AI 或機器人技術）沒有改變，大跌反而是以便宜價格買入長期超級週期（Supercycles）股票的好機會。投資人應根據自身風險承受度調整，不要盲目跟風。",
+          "core_thesis": "股價大幅拉回若未改變核心投資論點，即是以更低估值建立下一代科技超級週期（AI、光學、機器人）核心資產長期部位的時機。",
+          "why_it_matters": "貼文揭示了機構投資者與散戶在面對高波動新興科技股時的心態差異，並具體列出作者看好的四家具備技術瓶頸或領先地位的關鍵標的（NBIS、AXTI、SIVE、CCXI）。",
+          "history_note": "由於沒有可用的歷史貼文，無法進行歷史觀點比較。",
+          "catalysts": [
+            "NBIS 預計於第四季達成 $7-9B 的年經常性收入 (ARR)",
+            "下一代光學轉型 (optical shift) 採用 CW DFB 激光器技術",
+            "人形機器人產業成長為兆元級市場"
+          ],
+          "risks": [
+            "短線價格大幅下挫（30-60% 跌幅）導致的流動性與保證金壓力",
+            "散戶因資金需求（如學費、房租）被迫在低點停損恐慌性拋售"
+          ],
+          "confidence": 90,
+          "ai_status": "ok",
           "favorite_count": 2570,
           "retweet_count": 181
         }
@@ -834,8 +841,8 @@
           ],
           "confidence": 85,
           "ai_status": "ok",
-          "favorite_count": 602,
-          "retweet_count": 24
+          "favorite_count": 671,
+          "retweet_count": 30
         }
       ]
     }
@@ -980,10 +987,10 @@
         "created_at": "2026-07-08T20:18:34Z",
         "url": "https://x.com/aleabitoreddit/status/2074951295027568736",
         "sentiment": "Bullish",
-        "confidence": 0,
+        "confidence": 90,
         "importance": 5,
-        "thesis_change": "UPDATE",
-        "core_thesis": "",
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "股價大幅拉回若未改變核心投資論點，即是以更低估值建立下一代科技超級週期（AI、光學、機器人）核心資產長期部位的時機。",
         "entry_date": "2026-07-08",
         "entry_price": 15.26,
         "returns": {
@@ -1501,13 +1508,13 @@
         "neutral_count": 0,
         "mixed_count": 0,
         "mention_count": 1,
-        "bull_weight": 3.0,
+        "bull_weight": 4.5,
         "bear_weight": 0.0,
         "bull_share": 1.0,
         "importance": 5,
-        "confidence": 0,
-        "thesis_change": "UPDATE",
-        "core_thesis": "",
+        "confidence": 90,
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "股價大幅拉回若未改變核心投資論點，即是以更低估值建立下一代科技超級週期（AI、光學、機器人）核心資產長期部位的時機。",
         "url": "https://x.com/aleabitoreddit/status/2074951295027568736",
         "tweet_id": "2074951295027568736",
         "items": [
@@ -1521,16 +1528,23 @@
             "url": "https://x.com/aleabitoreddit/status/2074951295027568736",
             "sentiment": "Bullish",
             "importance": 5,
-            "thesis_change": "UPDATE",
-            "summary_zh": "",
-            "plain_zh": "",
-            "core_thesis": "",
-            "why_it_matters": "",
-            "history_note": "",
-            "catalysts": [],
-            "risks": [],
-            "confidence": 0,
-            "ai_status": "",
+            "thesis_change": "INSUFFICIENT_HISTORY",
+            "summary_zh": "作者認為散戶常將 30-60% 的股價拉回視為不可救藥的下跌而恐慌拋售，但他將其視為以更便宜估值獲取長期優質資產的機會。他點名了 NBIS（下一代 Hyperscaler）、AXTI（InP 供應鏈）、SIVE（CW DFB 激光器光學技術）與 CCXI（美國人形機器人）等關鍵領域。儘管可能透過降低槓桿或對沖來管理風險，但在核心投資論點未改變前他不會恐慌，並認為機構亦透過人為波動來最大化長期暴險。",
+            "plain_zh": "當優質科技股大跌 30% 到 60% 時，一般散戶往往因為看技術分析或市場恐慌而停損賣出。但作者認為，只要公司的基本面與核心優勢（如獨占供應鏈、下一代 AI 或機器人技術）沒有改變，大跌反而是以便宜價格買入長期超級週期（Supercycles）股票的好機會。投資人應根據自身風險承受度調整，不要盲目跟風。",
+            "core_thesis": "股價大幅拉回若未改變核心投資論點，即是以更低估值建立下一代科技超級週期（AI、光學、機器人）核心資產長期部位的時機。",
+            "why_it_matters": "貼文揭示了機構投資者與散戶在面對高波動新興科技股時的心態差異，並具體列出作者看好的四家具備技術瓶頸或領先地位的關鍵標的（NBIS、AXTI、SIVE、CCXI）。",
+            "history_note": "由於沒有可用的歷史貼文，無法進行歷史觀點比較。",
+            "catalysts": [
+              "NBIS 預計於第四季達成 $7-9B 的年經常性收入 (ARR)",
+              "下一代光學轉型 (optical shift) 採用 CW DFB 激光器技術",
+              "人形機器人產業成長為兆元級市場"
+            ],
+            "risks": [
+              "短線價格大幅下挫（30-60% 跌幅）導致的流動性與保證金壓力",
+              "散戶因資金需求（如學費、房租）被迫在低點停損恐慌性拋售"
+            ],
+            "confidence": 90,
+            "ai_status": "ok",
             "favorite_count": 2570,
             "retweet_count": 181
           }
@@ -1890,8 +1904,8 @@
             ],
             "confidence": 85,
             "ai_status": "ok",
-            "favorite_count": 602,
-            "retweet_count": 24
+            "favorite_count": 671,
+            "retweet_count": 30
           }
         ]
       }
@@ -1954,8 +1968,8 @@
       ],
       "confidence": 85,
       "ai_status": "ok",
-      "favorite_count": 602,
-      "retweet_count": 24
+      "favorite_count": 671,
+      "retweet_count": 30
     },
     {
       "tweet_id": "2086634510935118161",
@@ -2128,16 +2142,23 @@
       "url": "https://x.com/aleabitoreddit/status/2074951295027568736",
       "sentiment": "Bullish",
       "importance": 5,
-      "thesis_change": "UPDATE",
-      "summary_zh": "",
-      "plain_zh": "",
-      "core_thesis": "",
-      "why_it_matters": "",
-      "history_note": "",
-      "catalysts": [],
-      "risks": [],
-      "confidence": 0,
-      "ai_status": "",
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "summary_zh": "作者認為散戶常將 30-60% 的股價拉回視為不可救藥的下跌而恐慌拋售，但他將其視為以更便宜估值獲取長期優質資產的機會。他點名了 NBIS（下一代 Hyperscaler）、AXTI（InP 供應鏈）、SIVE（CW DFB 激光器光學技術）與 CCXI（美國人形機器人）等關鍵領域。儘管可能透過降低槓桿或對沖來管理風險，但在核心投資論點未改變前他不會恐慌，並認為機構亦透過人為波動來最大化長期暴險。",
+      "plain_zh": "當優質科技股大跌 30% 到 60% 時，一般散戶往往因為看技術分析或市場恐慌而停損賣出。但作者認為，只要公司的基本面與核心優勢（如獨占供應鏈、下一代 AI 或機器人技術）沒有改變，大跌反而是以便宜價格買入長期超級週期（Supercycles）股票的好機會。投資人應根據自身風險承受度調整，不要盲目跟風。",
+      "core_thesis": "股價大幅拉回若未改變核心投資論點，即是以更低估值建立下一代科技超級週期（AI、光學、機器人）核心資產長期部位的時機。",
+      "why_it_matters": "貼文揭示了機構投資者與散戶在面對高波動新興科技股時的心態差異，並具體列出作者看好的四家具備技術瓶頸或領先地位的關鍵標的（NBIS、AXTI、SIVE、CCXI）。",
+      "history_note": "由於沒有可用的歷史貼文，無法進行歷史觀點比較。",
+      "catalysts": [
+        "NBIS 預計於第四季達成 $7-9B 的年經常性收入 (ARR)",
+        "下一代光學轉型 (optical shift) 採用 CW DFB 激光器技術",
+        "人形機器人產業成長為兆元級市場"
+      ],
+      "risks": [
+        "短線價格大幅下挫（30-60% 跌幅）導致的流動性與保證金壓力",
+        "散戶因資金需求（如學費、房租）被迫在低點停損恐慌性拋售"
+      ],
+      "confidence": 90,
+      "ai_status": "ok",
       "favorite_count": 2570,
       "retweet_count": 181
     },

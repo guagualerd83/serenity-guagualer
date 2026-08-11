@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T06:31:35.602327Z",
+  "generated_at": "2026-08-11T07:14:05.626629Z",
   "symbol": "XFAB",
   "summary": {
     "primary_count": 27,
@@ -11,8 +11,8 @@
     "latest_change": "NEW",
     "sentiments": {
       "Bullish": 23,
-      "Neutral": 23,
-      "Bearish": 2
+      "Neutral": 24,
+      "Bearish": 1
     }
   },
   "daily_stances": [
@@ -716,13 +716,13 @@
       "neutral_count": 0,
       "mixed_count": 0,
       "mention_count": 1,
-      "bull_weight": 3.0,
+      "bull_weight": 4.5,
       "bear_weight": 0.0,
       "bull_share": 1.0,
       "importance": 5,
-      "confidence": 0,
-      "thesis_change": "UPDATE",
-      "core_thesis": "",
+      "confidence": 90,
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "core_thesis": "歐洲半導體與光子學供應鏈在矽光子、玻璃基板及邊緣 AI 領域具備關鍵壟斷與供應優勢，目前價值仍被市場普遍低估。",
       "url": "https://x.com/aleabitoreddit/status/2066535221554733278",
       "tweet_id": "2066535221554733278",
       "items": [
@@ -736,16 +736,25 @@
           "url": "https://x.com/aleabitoreddit/status/2066535221554733278",
           "sentiment": "Bullish",
           "importance": 5,
-          "thesis_change": "UPDATE",
-          "summary_zh": "",
-          "plain_zh": "",
-          "core_thesis": "",
-          "why_it_matters": "",
-          "history_note": "",
-          "catalysts": [],
-          "risks": [],
-          "confidence": 0,
-          "ai_status": "",
+          "thesis_change": "INSUFFICIENT_HISTORY",
+          "summary_zh": "作者彙整其核心歐洲長線投資組合，包含 Sivers ($SIVE)、LPKF ($LPK/ALRIB)、Soitec ($SOI)、Raspberry Pi ($RPI)、IQE ($IQE)、Riber ($RPI) 與 X-Fab ($XFAB)。這些標的主要聚焦於矽光子（Silicon Photonics）、玻璃基板（Glass Substrates）、化合物半導體與邊緣 AI 供應鏈。作者認為多數公司具備關鍵壟斷地位或受惠於科技巨頭（如 Nvidia、Microsoft）的評估與合作，潛在重估空間巨大。",
+          "plain_zh": "這篇文章整理了作者看好的歐洲科技股票清單。作者認為未來幾年 AI 與先進晶片製造需要大量「光傳輸技術」（矽光子）和「新型玻璃基板」，而這些歐洲中小型公司在供應鏈中佔據了獨特且關鍵的壟斷或關鍵供應商位置。雖然部分公司短期仍在轉型或測試階段，但已有微軟、輝達等巨頭進場驗證，因此作者看好其長期重新估值的潛力。",
+          "core_thesis": "歐洲半導體與光子學供應鏈在矽光子、玻璃基板及邊緣 AI 領域具備關鍵壟斷與供應優勢，目前價值仍被市場普遍低估。",
+          "why_it_matters": "矽光子與玻璃基板是下一代 AI 數據中心與算力升級（如 1.6T 及 CPO 技術）的底層核心。作者點名了關鍵材料與設備供應商，對了解美股科技巨頭（如 Nvidia、Microsoft、Ayar）的二階供應鏈極具參考價值。",
+          "history_note": "由於本機資料庫無相關歷史貼文，無法進行歷史觀點比較。",
+          "catalysts": [
+            "Sivers ($SIVE) 激光晶片在 2027 年前的產能爬坡與客戶認證通過",
+            "X-Fab ($XFAB) 矽光子晶圓代工通過 Nvidia 的直接評估認證",
+            "IQE 與 Tower Semiconductor 簽署長期協議並釋放潛在產能",
+            "Riber ($RPI) 獲得微軟量子運算團隊採購 MBE 設備的持續驗證"
+          ],
+          "risks": [
+            "矽光子與 CPO 大規模商業化時程延後（如 2027 年後才顯著貢獻營收）",
+            "IQE 等轉型期公司若產能轉化不如預期可能面臨財務壓力",
+            "歐洲半導體代工與材料供應商的市場流動性及估值折價風險"
+          ],
+          "confidence": 90,
+          "ai_status": "ok",
           "favorite_count": 2579,
           "retweet_count": 326
         }
@@ -865,19 +874,19 @@
     {
       "date": "2026-06-30",
       "created_at": "2026-06-30T01:10:57Z",
-      "sentiment": "Bearish",
+      "sentiment": "Neutral",
       "bull_count": 0,
-      "bear_count": 1,
-      "neutral_count": 0,
+      "bear_count": 0,
+      "neutral_count": 1,
       "mixed_count": 0,
       "mention_count": 1,
       "bull_weight": 0.0,
-      "bear_weight": 3.0,
-      "bull_share": 0.0,
+      "bear_weight": 0.0,
+      "bull_share": null,
       "importance": 5,
-      "confidence": 0,
-      "thesis_change": "UPDATE",
-      "core_thesis": "",
+      "confidence": 95,
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "core_thesis": "作者澄清其研究核心為 AI 供應鏈瓶頸與基本面分析而非迷因股操縱，並因應高關注度採取盤後發布與合規審查機制。",
       "url": "https://x.com/aleabitoreddit/status/2071763387948859506",
       "tweet_id": "2071763387948859506",
       "items": [
@@ -889,18 +898,24 @@
           "created_at": "2026-06-30T01:10:57Z",
           "text": "I've reached 900k followers, thank you everyone!\n\nJust some reflection, it's actually a nightmare at higher counts...\n\nWhich is new to me, since I started at almost nothing earlier this year.\n\n1. Threats of safety, which I don't enjoy.\n\n- Random new accounts sending personal threats\n- Mysterious foreign accounts, sending coercive messages the moment I mention a foreign ticker\n\nIf I hold an opinion about a stock, I'd prefer not to have anyone show up on the street with a knife at night since it's safety risk at this point...\n\nNever felt like I'd have to take that into consideration for holding an opinion.\n\n2. Egregious media narratives\n\n- Lot of outlets try to dismiss my ideas like $RPI or $SIVE as \"meme stocks\" or me as \"meme trader\" when I talk about supply chain chokepoints or fundamental catalysts to revenue due to AI.\n\nWithout ever covering the core ideas or hyperscaler mapping I've done.\n\nI let success validate my ideas, but it's annoying when they can just pretend their claims like \"___ will imminently crash as a fact\" which ends up not happening.\n\nOr that \"___\" is just a retail meme stock without mentioning $JBL, Ayar, $GFS or others for CPO scale up or pluggables.\n\nI'm grateful to some outlets, like in Belgium for $XFAB coverage, but many others try and paint their own narrative rather than covering a very nuanced thesis objectively.\n\n- When I mention a ticker in a foreign market, some try to frame me as some \"adversarial account\"!\n\nI'm just sharing ideas, and I'll always disclose positions/financial interest if I have them.\n\nIf I say I have none, they just make up some narrative that I'm some foreign institution or random group inside their country that does.\n\nSome have even tried hilariously forging screenshots of me to harm my reputation, which was annoying to deal with. Since it's easier to textedit a photo and spread it around than it is to dispel disinformation.\n\nLot of institutions know me personally by now.\n\nI just don't go broadcasting my identity to random people in the media/public, since personal security gets expensive and I just want to live about my day.\n\n3. Endless X bot spam\n\n- I have endless hundreds of comments a day trying to link external communities pretending they're me.\n\nI manually delete, and block thousands of these accounts, sometimes hit regular people by accident.\n\nAnd it's extremely exhausting to the point my fingers cramp certain days. \n\nEven if I give the most blatant warnings in bio, people still get scammed and think it's me. Then I get blamed for it too.\n\nI actually had a conversation where someone asked if a scammer was me.\n\nI said no verbatim, then they double checked like 2-3 more times because they didn't believe I said no because someone had the same username on another scam platform.\n\nIn another world, maybe we'll get automod type tools. But until then,  it's mentally exhausting dealing with all of this. But I do so anyways since I don't want my followers to get scammed. \n\n4. Endless engagement baiting\n\n- I have tons of people making up fake stuff about me, tagging me in posts, randomly bashing my ideas while missing any technical nuance in order to get me to comment or farm views.\n\nIt's a catch 22 since the moment I reply, they get a lot of views, which was their goal. And if I don't reply it just looks like I'm avoiding something (which is not true).\n\nI'm very transparent, I always try and entertain people who disagree first. But when it gets into personal attacks or leading questions/disinformation rather than substance then I don't engage.\n\nIt's a little sad though when people I've interacted with end up caring more about engagement over relationships down the road. \n\n5. People missing the nuance\n\n- I share ideas pretty often and I always maintain I don't want people to copytrade or blindly follow, which is why I haven't set up any copytrading apps.\n\nBefore it was just posting with a few $RDDT friends on ideas like $AXTI, $NBIS, or $ALAB, and people were more knowledgeable traders. \n\nThen seeing if markets validate my guesses like with InP substrate bottlenecks. \n\nBut because many turned out directionally right, to the point it became a central talking point between China/US trade relations, lot of random folks started to follow my account last few months.\n\nBut many of them miss nuances with float dilution, or material updates along the way such as rate hikes, and I get blamed if a thesis changes.\n\nNow since there's so many random people, even if I share an idea about $CBRS last Friday.\n\nAt market open I had people panicking over a 2% drop, asking me if I did something to a $44B+ company, even if it went up 20%+ today.\n\nNow I have compliance review for posts, which delays things a lot but makes sure people don't get the wrong idea. And I have to be careful about my timing, so I post new ideas when markets close.\n\nBefore, it was just sharing ideas the moment I had them during lunch or in the shower, so this is becoming a headache.\n\n6. I post my core ideas for free. And I've always said this from the start.\n\nI actually made my subscribers chat literally by accident, and set the bare minimum amount on purpose since I didn't want to take people's money. But kept it so I could avoid the bots and not spam the main timeline with random thoughts/scrapped research.\n\nI think me becoming the #1 most subscribed to person on X was literally by accident.\n\nBut lot of weird narratives out there when media or others don't believe that I just genuinely want to share my ideas for free.\n\nAnd that people shouldn't need to pay $300 in a paywalled community to see them.\n\n_\n\nNot sure if people want to read it all, but just some things I've gone through.\n\nIt's not as much fun at higher numbers and it would be nice to go back to when I was smaller.\n\nRegardless, I'd rather not turn this into a job, or make it feel like one.\n\nWill probably take a break when I hit 1M as a milestone and do something else that will help out the community like sharing my research pipelines and such.\n\nThink a lot of my friends at 10-50K follower counts, seem to experience some of these issues too. But problems get magnified a lot at this level.\n\nI never needed the X creator fees or anything, just wanted to share ideas for fun if people wanted to listen.\n\nAnd didn't expect any popularity, but it's nice to see that people find my ideas compelling.",
           "url": "https://x.com/aleabitoreddit/status/2071763387948859506",
-          "sentiment": "Bearish",
+          "sentiment": "Neutral",
           "importance": 5,
-          "thesis_change": "UPDATE",
-          "summary_zh": "",
-          "plain_zh": "",
-          "core_thesis": "",
-          "why_it_matters": "",
-          "history_note": "",
-          "catalysts": [],
-          "risks": [],
-          "confidence": 0,
-          "ai_status": "",
+          "thesis_change": "INSUFFICIENT_HISTORY",
+          "summary_zh": "作者在達到 90 萬追蹤者後分享社群經營心路歷程，指出高追蹤數帶來的安全威脅、媒體歪曲報導（將其供應鏈分析誤導為迷因股）、機器人詐騙與情緒化追高殺低等困擾。他強調自己堅持免費分享 AI 供應鏈 bottleneck 與基本面研究（如 CPO、InP 襯底等），未經營付費社群或 Copytrade。為了合規與降低市場干擾，他現在貼文會經過審查並選擇在盤後發布，並預計在達 100 萬追蹤時暫時休息，改為分享研究流程工具。",
+          "plain_zh": "這是一篇作者達到 90 萬追蹤後的感言與澄清貼文。他表示自己並非靠操縱「迷因股」獲利，而是專注於 AI 供應鏈關鍵瓶頸（例如 CPO 技術、InP 襯底等基本面分析）。隨著關注度大幅增加，他面臨媒體誤解、假帳號詐騙與安全威脅，因此現在貼文會進行合規審查並改在盤後發布，未來達百萬追蹤後打算暫時休息。",
+          "core_thesis": "作者澄清其研究核心為 AI 供應鏈瓶頸與基本面分析而非迷因股操縱，並因應高關注度採取盤後發布與合規審查機制。",
+          "why_it_matters": "此貼文解釋了作者近期發文時間點改為「盤後」的原因（因應合規審查與避免引發盤中散戶恐慌），並重申其過往看好的科技與 AI 供應鏈技術（如 CPO、InP 襯底）係基於基本面瓶頸而非短線迷因炒作。",
+          "history_note": "由於缺乏歷史貼文對比，無法確認歷史論點變化；但貼文本身屬於個人經營近況與個人發布流程之澄清，非具體單一個股的新看多/看空報告。",
+          "catalysts": [
+            "預計達到 100 萬追蹤者時暫停發文，並轉為分享研究管道與工具（Research pipelines）"
+          ],
+          "risks": [
+            "合規審查（Compliance review）導致研究想法發布時間延遲",
+            "個人安全疑慮與媒體不實報導對作者聲譽造成影響",
+            "散戶忽視股本稀釋與總體經濟改變等細節導致誤判"
+          ],
+          "confidence": 95,
+          "ai_status": "ok",
           "favorite_count": 3563,
           "retweet_count": 68
         }
@@ -1705,10 +1720,10 @@
         "created_at": "2026-06-15T14:56:05Z",
         "url": "https://x.com/aleabitoreddit/status/2066535221554733278",
         "sentiment": "Bullish",
-        "confidence": 0,
+        "confidence": 90,
         "importance": 5,
-        "thesis_change": "UPDATE",
-        "core_thesis": "",
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "歐洲半導體與光子學供應鏈在矽光子、玻璃基板及邊緣 AI 領域具備關鍵壟斷與供應優勢，目前價值仍被市場普遍低估。",
         "entry_date": "2026-06-15",
         "entry_price": 10.15,
         "returns": {
@@ -1793,53 +1808,6 @@
         "bear_count": 0,
         "neutral_count": 0,
         "bull_share": 1.0
-      },
-      {
-        "date": "2026-06-30",
-        "created_at": "2026-06-30T01:10:57Z",
-        "url": "https://x.com/aleabitoreddit/status/2071763387948859506",
-        "sentiment": "Bearish",
-        "confidence": 0,
-        "importance": 5,
-        "thesis_change": "UPDATE",
-        "core_thesis": "",
-        "entry_date": "2026-06-30",
-        "entry_price": 7.915,
-        "returns": {
-          "1d": {
-            "raw_return": -4.04,
-            "score_return": 4.04,
-            "exit_date": "2026-07-01",
-            "exit_price": 7.595,
-            "hit": true
-          },
-          "7d": {
-            "raw_return": -2.4,
-            "score_return": 2.4,
-            "exit_date": "2026-07-07",
-            "exit_price": 7.725,
-            "hit": true
-          },
-          "30d": {
-            "raw_return": -14.34,
-            "score_return": 14.34,
-            "exit_date": "2026-07-30",
-            "exit_price": 6.78,
-            "hit": true
-          },
-          "now": {
-            "raw_return": -11.18,
-            "score_return": 11.18,
-            "exit_date": "2026-08-07",
-            "exit_price": 7.03,
-            "hit": true
-          }
-        },
-        "mention_count": 1,
-        "bull_count": 0,
-        "bear_count": 1,
-        "neutral_count": 0,
-        "bull_share": 0.0
       },
       {
         "date": "2026-07-06",
@@ -2637,13 +2605,13 @@
         "neutral_count": 0,
         "mixed_count": 0,
         "mention_count": 1,
-        "bull_weight": 3.0,
+        "bull_weight": 4.5,
         "bear_weight": 0.0,
         "bull_share": 1.0,
         "importance": 5,
-        "confidence": 0,
-        "thesis_change": "UPDATE",
-        "core_thesis": "",
+        "confidence": 90,
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "歐洲半導體與光子學供應鏈在矽光子、玻璃基板及邊緣 AI 領域具備關鍵壟斷與供應優勢，目前價值仍被市場普遍低估。",
         "url": "https://x.com/aleabitoreddit/status/2066535221554733278",
         "tweet_id": "2066535221554733278",
         "items": [
@@ -2657,16 +2625,25 @@
             "url": "https://x.com/aleabitoreddit/status/2066535221554733278",
             "sentiment": "Bullish",
             "importance": 5,
-            "thesis_change": "UPDATE",
-            "summary_zh": "",
-            "plain_zh": "",
-            "core_thesis": "",
-            "why_it_matters": "",
-            "history_note": "",
-            "catalysts": [],
-            "risks": [],
-            "confidence": 0,
-            "ai_status": "",
+            "thesis_change": "INSUFFICIENT_HISTORY",
+            "summary_zh": "作者彙整其核心歐洲長線投資組合，包含 Sivers ($SIVE)、LPKF ($LPK/ALRIB)、Soitec ($SOI)、Raspberry Pi ($RPI)、IQE ($IQE)、Riber ($RPI) 與 X-Fab ($XFAB)。這些標的主要聚焦於矽光子（Silicon Photonics）、玻璃基板（Glass Substrates）、化合物半導體與邊緣 AI 供應鏈。作者認為多數公司具備關鍵壟斷地位或受惠於科技巨頭（如 Nvidia、Microsoft）的評估與合作，潛在重估空間巨大。",
+            "plain_zh": "這篇文章整理了作者看好的歐洲科技股票清單。作者認為未來幾年 AI 與先進晶片製造需要大量「光傳輸技術」（矽光子）和「新型玻璃基板」，而這些歐洲中小型公司在供應鏈中佔據了獨特且關鍵的壟斷或關鍵供應商位置。雖然部分公司短期仍在轉型或測試階段，但已有微軟、輝達等巨頭進場驗證，因此作者看好其長期重新估值的潛力。",
+            "core_thesis": "歐洲半導體與光子學供應鏈在矽光子、玻璃基板及邊緣 AI 領域具備關鍵壟斷與供應優勢，目前價值仍被市場普遍低估。",
+            "why_it_matters": "矽光子與玻璃基板是下一代 AI 數據中心與算力升級（如 1.6T 及 CPO 技術）的底層核心。作者點名了關鍵材料與設備供應商，對了解美股科技巨頭（如 Nvidia、Microsoft、Ayar）的二階供應鏈極具參考價值。",
+            "history_note": "由於本機資料庫無相關歷史貼文，無法進行歷史觀點比較。",
+            "catalysts": [
+              "Sivers ($SIVE) 激光晶片在 2027 年前的產能爬坡與客戶認證通過",
+              "X-Fab ($XFAB) 矽光子晶圓代工通過 Nvidia 的直接評估認證",
+              "IQE 與 Tower Semiconductor 簽署長期協議並釋放潛在產能",
+              "Riber ($RPI) 獲得微軟量子運算團隊採購 MBE 設備的持續驗證"
+            ],
+            "risks": [
+              "矽光子與 CPO 大規模商業化時程延後（如 2027 年後才顯著貢獻營收）",
+              "IQE 等轉型期公司若產能轉化不如預期可能面臨財務壓力",
+              "歐洲半導體代工與材料供應商的市場流動性及估值折價風險"
+            ],
+            "confidence": 90,
+            "ai_status": "ok",
             "favorite_count": 2579,
             "retweet_count": 326
           }
@@ -2786,19 +2763,19 @@
       {
         "date": "2026-06-30",
         "created_at": "2026-06-30T01:10:57Z",
-        "sentiment": "Bearish",
+        "sentiment": "Neutral",
         "bull_count": 0,
-        "bear_count": 1,
-        "neutral_count": 0,
+        "bear_count": 0,
+        "neutral_count": 1,
         "mixed_count": 0,
         "mention_count": 1,
         "bull_weight": 0.0,
-        "bear_weight": 3.0,
-        "bull_share": 0.0,
+        "bear_weight": 0.0,
+        "bull_share": null,
         "importance": 5,
-        "confidence": 0,
-        "thesis_change": "UPDATE",
-        "core_thesis": "",
+        "confidence": 95,
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "作者澄清其研究核心為 AI 供應鏈瓶頸與基本面分析而非迷因股操縱，並因應高關注度採取盤後發布與合規審查機制。",
         "url": "https://x.com/aleabitoreddit/status/2071763387948859506",
         "tweet_id": "2071763387948859506",
         "items": [
@@ -2810,18 +2787,24 @@
             "created_at": "2026-06-30T01:10:57Z",
             "text": "I've reached 900k followers, thank you everyone!\n\nJust some reflection, it's actually a nightmare at higher counts...\n\nWhich is new to me, since I started at almost nothing earlier this year.\n\n1. Threats of safety, which I don't enjoy.\n\n- Random new accounts sending personal threats\n- Mysterious foreign accounts, sending coercive messages the moment I mention a foreign ticker\n\nIf I hold an opinion about a stock, I'd prefer not to have anyone show up on the street with a knife at night since it's safety risk at this point...\n\nNever felt like I'd have to take that into consideration for holding an opinion.\n\n2. Egregious media narratives\n\n- Lot of outlets try to dismiss my ideas like $RPI or $SIVE as \"meme stocks\" or me as \"meme trader\" when I talk about supply chain chokepoints or fundamental catalysts to revenue due to AI.\n\nWithout ever covering the core ideas or hyperscaler mapping I've done.\n\nI let success validate my ideas, but it's annoying when they can just pretend their claims like \"___ will imminently crash as a fact\" which ends up not happening.\n\nOr that \"___\" is just a retail meme stock without mentioning $JBL, Ayar, $GFS or others for CPO scale up or pluggables.\n\nI'm grateful to some outlets, like in Belgium for $XFAB coverage, but many others try and paint their own narrative rather than covering a very nuanced thesis objectively.\n\n- When I mention a ticker in a foreign market, some try to frame me as some \"adversarial account\"!\n\nI'm just sharing ideas, and I'll always disclose positions/financial interest if I have them.\n\nIf I say I have none, they just make up some narrative that I'm some foreign institution or random group inside their country that does.\n\nSome have even tried hilariously forging screenshots of me to harm my reputation, which was annoying to deal with. Since it's easier to textedit a photo and spread it around than it is to dispel disinformation.\n\nLot of institutions know me personally by now.\n\nI just don't go broadcasting my identity to random people in the media/public, since personal security gets expensive and I just want to live about my day.\n\n3. Endless X bot spam\n\n- I have endless hundreds of comments a day trying to link external communities pretending they're me.\n\nI manually delete, and block thousands of these accounts, sometimes hit regular people by accident.\n\nAnd it's extremely exhausting to the point my fingers cramp certain days. \n\nEven if I give the most blatant warnings in bio, people still get scammed and think it's me. Then I get blamed for it too.\n\nI actually had a conversation where someone asked if a scammer was me.\n\nI said no verbatim, then they double checked like 2-3 more times because they didn't believe I said no because someone had the same username on another scam platform.\n\nIn another world, maybe we'll get automod type tools. But until then,  it's mentally exhausting dealing with all of this. But I do so anyways since I don't want my followers to get scammed. \n\n4. Endless engagement baiting\n\n- I have tons of people making up fake stuff about me, tagging me in posts, randomly bashing my ideas while missing any technical nuance in order to get me to comment or farm views.\n\nIt's a catch 22 since the moment I reply, they get a lot of views, which was their goal. And if I don't reply it just looks like I'm avoiding something (which is not true).\n\nI'm very transparent, I always try and entertain people who disagree first. But when it gets into personal attacks or leading questions/disinformation rather than substance then I don't engage.\n\nIt's a little sad though when people I've interacted with end up caring more about engagement over relationships down the road. \n\n5. People missing the nuance\n\n- I share ideas pretty often and I always maintain I don't want people to copytrade or blindly follow, which is why I haven't set up any copytrading apps.\n\nBefore it was just posting with a few $RDDT friends on ideas like $AXTI, $NBIS, or $ALAB, and people were more knowledgeable traders. \n\nThen seeing if markets validate my guesses like with InP substrate bottlenecks. \n\nBut because many turned out directionally right, to the point it became a central talking point between China/US trade relations, lot of random folks started to follow my account last few months.\n\nBut many of them miss nuances with float dilution, or material updates along the way such as rate hikes, and I get blamed if a thesis changes.\n\nNow since there's so many random people, even if I share an idea about $CBRS last Friday.\n\nAt market open I had people panicking over a 2% drop, asking me if I did something to a $44B+ company, even if it went up 20%+ today.\n\nNow I have compliance review for posts, which delays things a lot but makes sure people don't get the wrong idea. And I have to be careful about my timing, so I post new ideas when markets close.\n\nBefore, it was just sharing ideas the moment I had them during lunch or in the shower, so this is becoming a headache.\n\n6. I post my core ideas for free. And I've always said this from the start.\n\nI actually made my subscribers chat literally by accident, and set the bare minimum amount on purpose since I didn't want to take people's money. But kept it so I could avoid the bots and not spam the main timeline with random thoughts/scrapped research.\n\nI think me becoming the #1 most subscribed to person on X was literally by accident.\n\nBut lot of weird narratives out there when media or others don't believe that I just genuinely want to share my ideas for free.\n\nAnd that people shouldn't need to pay $300 in a paywalled community to see them.\n\n_\n\nNot sure if people want to read it all, but just some things I've gone through.\n\nIt's not as much fun at higher numbers and it would be nice to go back to when I was smaller.\n\nRegardless, I'd rather not turn this into a job, or make it feel like one.\n\nWill probably take a break when I hit 1M as a milestone and do something else that will help out the community like sharing my research pipelines and such.\n\nThink a lot of my friends at 10-50K follower counts, seem to experience some of these issues too. But problems get magnified a lot at this level.\n\nI never needed the X creator fees or anything, just wanted to share ideas for fun if people wanted to listen.\n\nAnd didn't expect any popularity, but it's nice to see that people find my ideas compelling.",
             "url": "https://x.com/aleabitoreddit/status/2071763387948859506",
-            "sentiment": "Bearish",
+            "sentiment": "Neutral",
             "importance": 5,
-            "thesis_change": "UPDATE",
-            "summary_zh": "",
-            "plain_zh": "",
-            "core_thesis": "",
-            "why_it_matters": "",
-            "history_note": "",
-            "catalysts": [],
-            "risks": [],
-            "confidence": 0,
-            "ai_status": "",
+            "thesis_change": "INSUFFICIENT_HISTORY",
+            "summary_zh": "作者在達到 90 萬追蹤者後分享社群經營心路歷程，指出高追蹤數帶來的安全威脅、媒體歪曲報導（將其供應鏈分析誤導為迷因股）、機器人詐騙與情緒化追高殺低等困擾。他強調自己堅持免費分享 AI 供應鏈 bottleneck 與基本面研究（如 CPO、InP 襯底等），未經營付費社群或 Copytrade。為了合規與降低市場干擾，他現在貼文會經過審查並選擇在盤後發布，並預計在達 100 萬追蹤時暫時休息，改為分享研究流程工具。",
+            "plain_zh": "這是一篇作者達到 90 萬追蹤後的感言與澄清貼文。他表示自己並非靠操縱「迷因股」獲利，而是專注於 AI 供應鏈關鍵瓶頸（例如 CPO 技術、InP 襯底等基本面分析）。隨著關注度大幅增加，他面臨媒體誤解、假帳號詐騙與安全威脅，因此現在貼文會進行合規審查並改在盤後發布，未來達百萬追蹤後打算暫時休息。",
+            "core_thesis": "作者澄清其研究核心為 AI 供應鏈瓶頸與基本面分析而非迷因股操縱，並因應高關注度採取盤後發布與合規審查機制。",
+            "why_it_matters": "此貼文解釋了作者近期發文時間點改為「盤後」的原因（因應合規審查與避免引發盤中散戶恐慌），並重申其過往看好的科技與 AI 供應鏈技術（如 CPO、InP 襯底）係基於基本面瓶頸而非短線迷因炒作。",
+            "history_note": "由於缺乏歷史貼文對比，無法確認歷史論點變化；但貼文本身屬於個人經營近況與個人發布流程之澄清，非具體單一個股的新看多/看空報告。",
+            "catalysts": [
+              "預計達到 100 萬追蹤者時暫停發文，並轉為分享研究管道與工具（Research pipelines）"
+            ],
+            "risks": [
+              "合規審查（Compliance review）導致研究想法發布時間延遲",
+              "個人安全疑慮與媒體不實報導對作者聲譽造成影響",
+              "散戶忽視股本稀釋與總體經濟改變等細節導致誤判"
+            ],
+            "confidence": 95,
+            "ai_status": "ok",
             "favorite_count": 3563,
             "retweet_count": 68
           }
@@ -2916,29 +2899,29 @@
         ]
       }
     ],
-    "excluded_days": 2,
+    "excluded_days": 3,
     "summary": {
-      "signals": 15,
+      "signals": 14,
       "horizons": {
         "1d": {
-          "sample": 15,
-          "avg_score_return": -2.36,
-          "hit_rate": 20.0
-        },
-        "7d": {
-          "sample": 15,
-          "avg_score_return": -1.62,
-          "hit_rate": 40.0
-        },
-        "30d": {
           "sample": 14,
-          "avg_score_return": -17.56,
+          "avg_score_return": -2.82,
           "hit_rate": 14.3
         },
+        "7d": {
+          "sample": 14,
+          "avg_score_return": -1.91,
+          "hit_rate": 35.7
+        },
+        "30d": {
+          "sample": 13,
+          "avg_score_return": -20.01,
+          "hit_rate": 7.7
+        },
         "now": {
-          "sample": 15,
-          "avg_score_return": -22.0,
-          "hit_rate": 20.0
+          "sample": 14,
+          "avg_score_return": -24.37,
+          "hit_rate": 14.3
         }
       }
     },
@@ -3001,18 +2984,24 @@
       "created_at": "2026-06-30T01:10:57Z",
       "text": "I've reached 900k followers, thank you everyone!\n\nJust some reflection, it's actually a nightmare at higher counts...\n\nWhich is new to me, since I started at almost nothing earlier this year.\n\n1. Threats of safety, which I don't enjoy.\n\n- Random new accounts sending personal threats\n- Mysterious foreign accounts, sending coercive messages the moment I mention a foreign ticker\n\nIf I hold an opinion about a stock, I'd prefer not to have anyone show up on the street with a knife at night since it's safety risk at this point...\n\nNever felt like I'd have to take that into consideration for holding an opinion.\n\n2. Egregious media narratives\n\n- Lot of outlets try to dismiss my ideas like $RPI or $SIVE as \"meme stocks\" or me as \"meme trader\" when I talk about supply chain chokepoints or fundamental catalysts to revenue due to AI.\n\nWithout ever covering the core ideas or hyperscaler mapping I've done.\n\nI let success validate my ideas, but it's annoying when they can just pretend their claims like \"___ will imminently crash as a fact\" which ends up not happening.\n\nOr that \"___\" is just a retail meme stock without mentioning $JBL, Ayar, $GFS or others for CPO scale up or pluggables.\n\nI'm grateful to some outlets, like in Belgium for $XFAB coverage, but many others try and paint their own narrative rather than covering a very nuanced thesis objectively.\n\n- When I mention a ticker in a foreign market, some try to frame me as some \"adversarial account\"!\n\nI'm just sharing ideas, and I'll always disclose positions/financial interest if I have them.\n\nIf I say I have none, they just make up some narrative that I'm some foreign institution or random group inside their country that does.\n\nSome have even tried hilariously forging screenshots of me to harm my reputation, which was annoying to deal with. Since it's easier to textedit a photo and spread it around than it is to dispel disinformation.\n\nLot of institutions know me personally by now.\n\nI just don't go broadcasting my identity to random people in the media/public, since personal security gets expensive and I just want to live about my day.\n\n3. Endless X bot spam\n\n- I have endless hundreds of comments a day trying to link external communities pretending they're me.\n\nI manually delete, and block thousands of these accounts, sometimes hit regular people by accident.\n\nAnd it's extremely exhausting to the point my fingers cramp certain days. \n\nEven if I give the most blatant warnings in bio, people still get scammed and think it's me. Then I get blamed for it too.\n\nI actually had a conversation where someone asked if a scammer was me.\n\nI said no verbatim, then they double checked like 2-3 more times because they didn't believe I said no because someone had the same username on another scam platform.\n\nIn another world, maybe we'll get automod type tools. But until then,  it's mentally exhausting dealing with all of this. But I do so anyways since I don't want my followers to get scammed. \n\n4. Endless engagement baiting\n\n- I have tons of people making up fake stuff about me, tagging me in posts, randomly bashing my ideas while missing any technical nuance in order to get me to comment or farm views.\n\nIt's a catch 22 since the moment I reply, they get a lot of views, which was their goal. And if I don't reply it just looks like I'm avoiding something (which is not true).\n\nI'm very transparent, I always try and entertain people who disagree first. But when it gets into personal attacks or leading questions/disinformation rather than substance then I don't engage.\n\nIt's a little sad though when people I've interacted with end up caring more about engagement over relationships down the road. \n\n5. People missing the nuance\n\n- I share ideas pretty often and I always maintain I don't want people to copytrade or blindly follow, which is why I haven't set up any copytrading apps.\n\nBefore it was just posting with a few $RDDT friends on ideas like $AXTI, $NBIS, or $ALAB, and people were more knowledgeable traders. \n\nThen seeing if markets validate my guesses like with InP substrate bottlenecks. \n\nBut because many turned out directionally right, to the point it became a central talking point between China/US trade relations, lot of random folks started to follow my account last few months.\n\nBut many of them miss nuances with float dilution, or material updates along the way such as rate hikes, and I get blamed if a thesis changes.\n\nNow since there's so many random people, even if I share an idea about $CBRS last Friday.\n\nAt market open I had people panicking over a 2% drop, asking me if I did something to a $44B+ company, even if it went up 20%+ today.\n\nNow I have compliance review for posts, which delays things a lot but makes sure people don't get the wrong idea. And I have to be careful about my timing, so I post new ideas when markets close.\n\nBefore, it was just sharing ideas the moment I had them during lunch or in the shower, so this is becoming a headache.\n\n6. I post my core ideas for free. And I've always said this from the start.\n\nI actually made my subscribers chat literally by accident, and set the bare minimum amount on purpose since I didn't want to take people's money. But kept it so I could avoid the bots and not spam the main timeline with random thoughts/scrapped research.\n\nI think me becoming the #1 most subscribed to person on X was literally by accident.\n\nBut lot of weird narratives out there when media or others don't believe that I just genuinely want to share my ideas for free.\n\nAnd that people shouldn't need to pay $300 in a paywalled community to see them.\n\n_\n\nNot sure if people want to read it all, but just some things I've gone through.\n\nIt's not as much fun at higher numbers and it would be nice to go back to when I was smaller.\n\nRegardless, I'd rather not turn this into a job, or make it feel like one.\n\nWill probably take a break when I hit 1M as a milestone and do something else that will help out the community like sharing my research pipelines and such.\n\nThink a lot of my friends at 10-50K follower counts, seem to experience some of these issues too. But problems get magnified a lot at this level.\n\nI never needed the X creator fees or anything, just wanted to share ideas for fun if people wanted to listen.\n\nAnd didn't expect any popularity, but it's nice to see that people find my ideas compelling.",
       "url": "https://x.com/aleabitoreddit/status/2071763387948859506",
-      "sentiment": "Bearish",
+      "sentiment": "Neutral",
       "importance": 5,
-      "thesis_change": "UPDATE",
-      "summary_zh": "",
-      "plain_zh": "",
-      "core_thesis": "",
-      "why_it_matters": "",
-      "history_note": "",
-      "catalysts": [],
-      "risks": [],
-      "confidence": 0,
-      "ai_status": "",
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "summary_zh": "作者在達到 90 萬追蹤者後分享社群經營心路歷程，指出高追蹤數帶來的安全威脅、媒體歪曲報導（將其供應鏈分析誤導為迷因股）、機器人詐騙與情緒化追高殺低等困擾。他強調自己堅持免費分享 AI 供應鏈 bottleneck 與基本面研究（如 CPO、InP 襯底等），未經營付費社群或 Copytrade。為了合規與降低市場干擾，他現在貼文會經過審查並選擇在盤後發布，並預計在達 100 萬追蹤時暫時休息，改為分享研究流程工具。",
+      "plain_zh": "這是一篇作者達到 90 萬追蹤後的感言與澄清貼文。他表示自己並非靠操縱「迷因股」獲利，而是專注於 AI 供應鏈關鍵瓶頸（例如 CPO 技術、InP 襯底等基本面分析）。隨著關注度大幅增加，他面臨媒體誤解、假帳號詐騙與安全威脅，因此現在貼文會進行合規審查並改在盤後發布，未來達百萬追蹤後打算暫時休息。",
+      "core_thesis": "作者澄清其研究核心為 AI 供應鏈瓶頸與基本面分析而非迷因股操縱，並因應高關注度採取盤後發布與合規審查機制。",
+      "why_it_matters": "此貼文解釋了作者近期發文時間點改為「盤後」的原因（因應合規審查與避免引發盤中散戶恐慌），並重申其過往看好的科技與 AI 供應鏈技術（如 CPO、InP 襯底）係基於基本面瓶頸而非短線迷因炒作。",
+      "history_note": "由於缺乏歷史貼文對比，無法確認歷史論點變化；但貼文本身屬於個人經營近況與個人發布流程之澄清，非具體單一個股的新看多/看空報告。",
+      "catalysts": [
+        "預計達到 100 萬追蹤者時暫停發文，並轉為分享研究管道與工具（Research pipelines）"
+      ],
+      "risks": [
+        "合規審查（Compliance review）導致研究想法發布時間延遲",
+        "個人安全疑慮與媒體不實報導對作者聲譽造成影響",
+        "散戶忽視股本稀釋與總體經濟改變等細節導致誤判"
+      ],
+      "confidence": 95,
+      "ai_status": "ok",
       "favorite_count": 3563,
       "retweet_count": 68
     },
@@ -3095,16 +3084,25 @@
       "url": "https://x.com/aleabitoreddit/status/2066535221554733278",
       "sentiment": "Bullish",
       "importance": 5,
-      "thesis_change": "UPDATE",
-      "summary_zh": "",
-      "plain_zh": "",
-      "core_thesis": "",
-      "why_it_matters": "",
-      "history_note": "",
-      "catalysts": [],
-      "risks": [],
-      "confidence": 0,
-      "ai_status": "",
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "summary_zh": "作者彙整其核心歐洲長線投資組合，包含 Sivers ($SIVE)、LPKF ($LPK/ALRIB)、Soitec ($SOI)、Raspberry Pi ($RPI)、IQE ($IQE)、Riber ($RPI) 與 X-Fab ($XFAB)。這些標的主要聚焦於矽光子（Silicon Photonics）、玻璃基板（Glass Substrates）、化合物半導體與邊緣 AI 供應鏈。作者認為多數公司具備關鍵壟斷地位或受惠於科技巨頭（如 Nvidia、Microsoft）的評估與合作，潛在重估空間巨大。",
+      "plain_zh": "這篇文章整理了作者看好的歐洲科技股票清單。作者認為未來幾年 AI 與先進晶片製造需要大量「光傳輸技術」（矽光子）和「新型玻璃基板」，而這些歐洲中小型公司在供應鏈中佔據了獨特且關鍵的壟斷或關鍵供應商位置。雖然部分公司短期仍在轉型或測試階段，但已有微軟、輝達等巨頭進場驗證，因此作者看好其長期重新估值的潛力。",
+      "core_thesis": "歐洲半導體與光子學供應鏈在矽光子、玻璃基板及邊緣 AI 領域具備關鍵壟斷與供應優勢，目前價值仍被市場普遍低估。",
+      "why_it_matters": "矽光子與玻璃基板是下一代 AI 數據中心與算力升級（如 1.6T 及 CPO 技術）的底層核心。作者點名了關鍵材料與設備供應商，對了解美股科技巨頭（如 Nvidia、Microsoft、Ayar）的二階供應鏈極具參考價值。",
+      "history_note": "由於本機資料庫無相關歷史貼文，無法進行歷史觀點比較。",
+      "catalysts": [
+        "Sivers ($SIVE) 激光晶片在 2027 年前的產能爬坡與客戶認證通過",
+        "X-Fab ($XFAB) 矽光子晶圓代工通過 Nvidia 的直接評估認證",
+        "IQE 與 Tower Semiconductor 簽署長期協議並釋放潛在產能",
+        "Riber ($RPI) 獲得微軟量子運算團隊採購 MBE 設備的持續驗證"
+      ],
+      "risks": [
+        "矽光子與 CPO 大規模商業化時程延後（如 2027 年後才顯著貢獻營收）",
+        "IQE 等轉型期公司若產能轉化不如預期可能面臨財務壓力",
+        "歐洲半導體代工與材料供應商的市場流動性及估值折價風險"
+      ],
+      "confidence": 90,
+      "ai_status": "ok",
       "favorite_count": 2579,
       "retweet_count": 326
     },

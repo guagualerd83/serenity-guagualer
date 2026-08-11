@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T06:31:35.602327Z",
+  "generated_at": "2026-08-11T07:14:05.626629Z",
   "symbol": "MU",
   "summary": {
     "primary_count": 50,
@@ -12,7 +12,8 @@
     "sentiments": {
       "Bearish": 8,
       "Neutral": 42,
-      "Bullish": 16
+      "Bullish": 15,
+      "Mixed": 1
     }
   },
   "daily_stances": [
@@ -1175,13 +1176,13 @@
       "neutral_count": 0,
       "mixed_count": 0,
       "mention_count": 1,
-      "bull_weight": 3.0,
+      "bull_weight": 4.25,
       "bear_weight": 0.0,
       "bull_share": 1.0,
       "importance": 5,
-      "confidence": 0,
-      "thesis_change": "UPDATE",
-      "core_thesis": "",
+      "confidence": 85,
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "core_thesis": "三大核心主線（新興雲端能源、記憶體、矽光子）中長期邏輯依然穩固，投資應以數月的中期時間軸評估而非受短期波動干擾。",
       "url": "https://x.com/aleabitoreddit/status/2067945397923037693",
       "tweet_id": "2067945397923037693",
       "items": [
@@ -1195,16 +1196,23 @@
           "url": "https://x.com/aleabitoreddit/status/2067945397923037693",
           "sentiment": "Bullish",
           "importance": 5,
-          "thesis_change": "UPDATE",
-          "summary_zh": "",
-          "plain_zh": "",
-          "core_thesis": "",
-          "why_it_matters": "",
-          "history_note": "",
-          "catalysts": [],
-          "risks": [],
-          "confidence": 0,
-          "ai_status": "",
+          "thesis_change": "INSUFFICIENT_HISTORY",
+          "summary_zh": "作者回顧其投資組合表現，重申三大核心主題為新興雲端/能源（Neoclouds）、記憶體（Memory）與光電/矽光子（Photonics）。雖然部分台灣 CPO 供應鏈受虛假報告影響出現虧損，且韓國市場因高波動性讓人心生戒心，但整體中長期個股多數回報優異。作者強調投資觀點應以數月的「中長期」時間軸來評估，而非數週的短期波動。",
+          "plain_zh": "作者總結了近期投資的成敗。他的核心看好方向是 AI 新興雲端能源、記憶體和光通訊技術（如 CPO）。雖然中間被市場傳聞和短期暴跌（例如部分台灣封測與光通訊小股、韓國供應鏈）傷到，但大型股像美光、邁威爾、ARM 以及多數中小型股整體表現依然非常亮眼。他提醒大家買入點位很關鍵，且投資應該看幾個月的中期趨勢，而不是幾天幾週的短期震盪。",
+          "core_thesis": "三大核心主線（新興雲端能源、記憶體、矽光子）中長期邏輯依然穩固，投資應以數月的中期時間軸評估而非受短期波動干擾。",
+          "why_it_matters": "貼文梳理了作者在 AI 供應鏈（尤其是光通訊 CPO 與記憶體）的持股績效與心態，揭示了雖然台灣與韓國中小型供應鏈短期波動劇烈，但整體 AI 基礎建設的主線趨勢仍然強勁。",
+          "history_note": "由於沒有歷史貼文可供對照，本篇作為作者目前投資組合狀況與三大核心主題（Neoclouds, Memory, Photonics）的基準紀錄。",
+          "catalysts": [
+            "SK 海力士與三星的產品認證（Qualifications）與高容量量產（HVM）",
+            "未來日本供應鏈可能的關閉/轉移效益"
+          ],
+          "risks": [
+            "關於 CPO 延遲等虛假分析師報告導致的短期股價暴跌",
+            "韓國市場與中小型供應鏈個股過高的波動性",
+            "宏觀地緣政治事件（如伊朗衝突）影響降息預期"
+          ],
+          "confidence": 85,
+          "ai_status": "ok",
           "favorite_count": 2369,
           "retweet_count": 147
         }
@@ -1301,19 +1309,19 @@
     {
       "date": "2026-06-25",
       "created_at": "2026-06-25T14:51:04Z",
-      "sentiment": "Bullish",
-      "bull_count": 1,
+      "sentiment": "Mixed",
+      "bull_count": 0,
       "bear_count": 0,
       "neutral_count": 2,
-      "mixed_count": 0,
+      "mixed_count": 1,
       "mention_count": 3,
-      "bull_weight": 3.0,
+      "bull_weight": 0.0,
       "bear_weight": 0.0,
-      "bull_share": 1.0,
+      "bull_share": null,
       "importance": 5,
-      "confidence": 0,
-      "thesis_change": "MENTION",
-      "core_thesis": "",
+      "confidence": 85,
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "core_thesis": "雖然鷹派貨幣政策與潛在升息引發流動性平倉潮並打壓高估值科技股，但長期來看 AI 資本支出的基本面仍將克服短期流動性衝擊。",
       "url": "https://x.com/aleabitoreddit/status/2070157835137434015",
       "tweet_id": "2070157835137434015",
       "items": [
@@ -1348,18 +1356,23 @@
           "created_at": "2026-06-25T14:51:04Z",
           "text": "Feels like the only thing that hasn’t crashed…\n\nIs memory like $MU, indexes, or large cap semis like Intel so far.\n\n- Photonics from $AXTI to $SIVE down 40%.\n\n- Space from $ASTS and $RKLB down 40% 1M. \n\n- Popular AI names like $PLTR is down ~35% YTD. \n\n- Software like $CRM down -40%.\n\n- Bitcoin sub <60k, Ethereum sub <$16k.\n\nNot a fun time with a hawkish fed narrative and potential rate hikes. \n\nHowever this does sorta feel overshot due to margin liquidations on less liquid assets compared to mega caps.\n\nBut we’ll see what happens, usually fundamentals override liquidity shock in the longer run.\n\nI’m still personally bullish on the AI buildout + upstream AI capex beneficiaries, but 1-2 potential rate hikes certainly don’t help.",
           "url": "https://x.com/aleabitoreddit/status/2070157835137434015",
-          "sentiment": "Bullish",
+          "sentiment": "Mixed",
           "importance": 5,
-          "thesis_change": "MENTION",
-          "summary_zh": "",
-          "plain_zh": "",
-          "core_thesis": "",
-          "why_it_matters": "",
-          "history_note": "",
-          "catalysts": [],
-          "risks": [],
-          "confidence": 0,
-          "ai_status": "",
+          "thesis_change": "INSUFFICIENT_HISTORY",
+          "summary_zh": "作者指出當前市場除了記憶體（如 MU）、大盤指數與大型半導體外，其餘熱門板塊如光電（AXTI、SIVE）、太空（ASTS、RKLB）、熱門 AI 股（PLTR）及軟體股（CRM）皆出現 35% 至 40% 不等的顯著拉回。此波拋售主要受到鷹派聯準會與降息預期破滅（甚至可能升息）的影響，流動性較差的資產遭遇保證金平倉（margin liquidation）而過度下挫。長遠來看基本面將戰勝流動性衝擊，作者個人仍看好 AI 建設及上游 AI 資本支出受益者。",
+          "plain_zh": "近期市場除了少數大型股與記憶體相對抗跌外，許多中小型科技股、軟體、光電及加密貨幣都遭遇大幅修正。這主要是因為市場擔心聯準會可能再度升息，引發槓桿資金強制平倉。但作者認為這屬於短期流動性過度反應，長期來看，優質的 AI 產業鏈與基本面最終還是會帶領股價回歸正常。",
+          "core_thesis": "雖然鷹派貨幣政策與潛在升息引發流動性平倉潮並打壓高估值科技股，但長期來看 AI 資本支出的基本面仍將克服短期流動性衝擊。",
+          "why_it_matters": "貼文點出當前市場修正主要由流動性緊縮與槓桿平倉驅動，而非 AI 產業基本面惡化。這有助於投資人區分短期資金面震撼與長期產業趨勢。",
+          "history_note": "歷史資料庫中沒有可用的歷史貼文，因此無法進行歷史觀點比較。",
+          "catalysts": [
+            "長遠來看基本面重新主導市場（Fundamentals override liquidity shock）"
+          ],
+          "risks": [
+            "聯準會鷹派立場及潛在的 1-2 次升息",
+            "低流動性資產引發的保證金強制平倉（Margin liquidations）"
+          ],
+          "confidence": 85,
+          "ai_status": "ok",
           "favorite_count": 3020,
           "retweet_count": 191
         },
@@ -1860,13 +1873,13 @@
       "neutral_count": 0,
       "mixed_count": 0,
       "mention_count": 1,
-      "bull_weight": 3.0,
+      "bull_weight": 4.5,
       "bear_weight": 0.0,
       "bull_share": 1.0,
       "importance": 5,
-      "confidence": 0,
-      "thesis_change": "UPDATE",
-      "core_thesis": "",
+      "confidence": 90,
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "core_thesis": "近期科技股拉回屬於過度的短期去槓桿，AI 雲端巨頭資本支出調升與強勁財報顯示 AI 加速發展的長期論點依然穩固。",
       "url": "https://x.com/aleabitoreddit/status/2082230983487803755",
       "tweet_id": "2082230983487803755",
       "items": [
@@ -1880,16 +1893,23 @@
           "url": "https://x.com/aleabitoreddit/status/2082230983487803755",
           "sentiment": "Bullish",
           "importance": 5,
-          "thesis_change": "UPDATE",
-          "summary_zh": "",
-          "plain_zh": "",
-          "core_thesis": "",
-          "why_it_matters": "",
-          "history_note": "",
-          "catalysts": [],
-          "risks": [],
-          "confidence": 0,
-          "ai_status": "",
+          "thesis_change": "INSUFFICIENT_HISTORY",
+          "summary_zh": "作者認為近期科技股的下跌是過度的短期去槓桿行為，市場基本面依然強勁。從 BE 和 TER 強勁的財報、中國光學大廠的預告，到 Alphabet 大幅調升資本支出至 1,950 億至 2,050 億美元，均顯示 AI 需求與營收正在加速。作者重申對光學互連、記憶體和近雲/AI雲端等主題的強烈信心。",
+          "plain_zh": "最近市場大跌，作者認為這只是短期槓桿清理過度，而不是 AI 泡沫破裂。事實上，最新公佈的企業財報（如 Bloom Energy、Teradyne）以及科技巨頭 Alphabet 的資本支出（高達約兩千億美元）都證明了 AI 需求仍在爆發增長。作者建議投資人專注於企業營收與獲利是否加速成長，而不是被市場恐慌情緒影響。",
+          "core_thesis": "近期科技股拉回屬於過度的短期去槓桿，AI 雲端巨頭資本支出調升與強勁財報顯示 AI 加速發展的長期論點依然穩固。",
+          "why_it_matters": "Alphabet 顯著提升 Capex 是美股 AI 供應鏈需求最強烈的訊號，且 Bloom Energy 與 Teradyne 等亮眼財報證明 AI 基礎建設的營收轉化正在發生。此外，市場對中國產能過剩和升息的恐懼被誇大。",
+          "history_note": "由於缺乏歷史貼文對照，無法進行長期論點轉變的比較；但基於本篇貼文，作者對 AI 相關主題維持強烈的看多態度。",
+          "catalysts": [
+            "Alphabet 調升資本支出至 1,950 億至 2,050 億美元",
+            "即將到來的 LITE、SNDK / SK Hynix 財報發布",
+            "聯準會可能的降息預期與利率壓力的舒緩"
+          ],
+          "risks": [
+            "市場短期偏好現有加速表現而非遠期成長，導致如 AMKR 等股票遭修正",
+            "市場短期整體去槓桿與情緒驅動的無差別拋售"
+          ],
+          "confidence": 90,
+          "ai_status": "ok",
           "favorite_count": 2580,
           "retweet_count": 165
         }
@@ -2022,7 +2042,7 @@
           "risks": [],
           "confidence": 0,
           "ai_status": "",
-          "favorite_count": 3060,
+          "favorite_count": 3062,
           "retweet_count": 236
         }
       ]
@@ -3125,10 +3145,10 @@
         "created_at": "2026-06-19T12:19:38Z",
         "url": "https://x.com/aleabitoreddit/status/2067945397923037693",
         "sentiment": "Bullish",
-        "confidence": 0,
+        "confidence": 85,
         "importance": 5,
-        "thesis_change": "UPDATE",
-        "core_thesis": "",
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "三大核心主線（新興雲端能源、記憶體、矽光子）中長期邏輯依然穩固，投資應以數月的中期時間軸評估而非受短期波動干擾。",
         "entry_date": "2026-06-22",
         "entry_price": 1211.1937,
         "returns": {
@@ -3165,53 +3185,6 @@
         "bull_count": 1,
         "bear_count": 0,
         "neutral_count": 0,
-        "bull_share": 1.0
-      },
-      {
-        "date": "2026-06-25",
-        "created_at": "2026-06-25T14:51:04Z",
-        "url": "https://x.com/aleabitoreddit/status/2070157835137434015",
-        "sentiment": "Bullish",
-        "confidence": 0,
-        "importance": 5,
-        "thesis_change": "MENTION",
-        "core_thesis": "",
-        "entry_date": "2026-06-25",
-        "entry_price": 1213.3734,
-        "returns": {
-          "1d": {
-            "raw_return": -6.69,
-            "score_return": -6.69,
-            "exit_date": "2026-06-26",
-            "exit_price": 1132.1559,
-            "hit": false
-          },
-          "7d": {
-            "raw_return": -19.61,
-            "score_return": -19.61,
-            "exit_date": "2026-07-02",
-            "exit_price": 975.41,
-            "hit": false
-          },
-          "30d": {
-            "raw_return": -25.81,
-            "score_return": -25.81,
-            "exit_date": "2026-07-27",
-            "exit_price": 900.2,
-            "hit": false
-          },
-          "now": {
-            "raw_return": -29.04,
-            "score_return": -29.04,
-            "exit_date": "2026-08-10",
-            "exit_price": 861.0,
-            "hit": false
-          }
-        },
-        "mention_count": 3,
-        "bull_count": 1,
-        "bear_count": 0,
-        "neutral_count": 2,
         "bull_share": 1.0
       },
       {
@@ -3407,10 +3380,10 @@
         "created_at": "2026-07-28T22:25:27Z",
         "url": "https://x.com/aleabitoreddit/status/2082230983487803755",
         "sentiment": "Bullish",
-        "confidence": 0,
+        "confidence": 90,
         "importance": 5,
-        "thesis_change": "UPDATE",
-        "core_thesis": "",
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "近期科技股拉回屬於過度的短期去槓桿，AI 雲端巨頭資本支出調升與強勁財報顯示 AI 加速發展的長期論點依然穩固。",
         "entry_date": "2026-07-28",
         "entry_price": 820.53,
         "returns": {
@@ -4704,13 +4677,13 @@
         "neutral_count": 0,
         "mixed_count": 0,
         "mention_count": 1,
-        "bull_weight": 3.0,
+        "bull_weight": 4.25,
         "bear_weight": 0.0,
         "bull_share": 1.0,
         "importance": 5,
-        "confidence": 0,
-        "thesis_change": "UPDATE",
-        "core_thesis": "",
+        "confidence": 85,
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "三大核心主線（新興雲端能源、記憶體、矽光子）中長期邏輯依然穩固，投資應以數月的中期時間軸評估而非受短期波動干擾。",
         "url": "https://x.com/aleabitoreddit/status/2067945397923037693",
         "tweet_id": "2067945397923037693",
         "items": [
@@ -4724,16 +4697,23 @@
             "url": "https://x.com/aleabitoreddit/status/2067945397923037693",
             "sentiment": "Bullish",
             "importance": 5,
-            "thesis_change": "UPDATE",
-            "summary_zh": "",
-            "plain_zh": "",
-            "core_thesis": "",
-            "why_it_matters": "",
-            "history_note": "",
-            "catalysts": [],
-            "risks": [],
-            "confidence": 0,
-            "ai_status": "",
+            "thesis_change": "INSUFFICIENT_HISTORY",
+            "summary_zh": "作者回顧其投資組合表現，重申三大核心主題為新興雲端/能源（Neoclouds）、記憶體（Memory）與光電/矽光子（Photonics）。雖然部分台灣 CPO 供應鏈受虛假報告影響出現虧損，且韓國市場因高波動性讓人心生戒心，但整體中長期個股多數回報優異。作者強調投資觀點應以數月的「中長期」時間軸來評估，而非數週的短期波動。",
+            "plain_zh": "作者總結了近期投資的成敗。他的核心看好方向是 AI 新興雲端能源、記憶體和光通訊技術（如 CPO）。雖然中間被市場傳聞和短期暴跌（例如部分台灣封測與光通訊小股、韓國供應鏈）傷到，但大型股像美光、邁威爾、ARM 以及多數中小型股整體表現依然非常亮眼。他提醒大家買入點位很關鍵，且投資應該看幾個月的中期趨勢，而不是幾天幾週的短期震盪。",
+            "core_thesis": "三大核心主線（新興雲端能源、記憶體、矽光子）中長期邏輯依然穩固，投資應以數月的中期時間軸評估而非受短期波動干擾。",
+            "why_it_matters": "貼文梳理了作者在 AI 供應鏈（尤其是光通訊 CPO 與記憶體）的持股績效與心態，揭示了雖然台灣與韓國中小型供應鏈短期波動劇烈，但整體 AI 基礎建設的主線趨勢仍然強勁。",
+            "history_note": "由於沒有歷史貼文可供對照，本篇作為作者目前投資組合狀況與三大核心主題（Neoclouds, Memory, Photonics）的基準紀錄。",
+            "catalysts": [
+              "SK 海力士與三星的產品認證（Qualifications）與高容量量產（HVM）",
+              "未來日本供應鏈可能的關閉/轉移效益"
+            ],
+            "risks": [
+              "關於 CPO 延遲等虛假分析師報告導致的短期股價暴跌",
+              "韓國市場與中小型供應鏈個股過高的波動性",
+              "宏觀地緣政治事件（如伊朗衝突）影響降息預期"
+            ],
+            "confidence": 85,
+            "ai_status": "ok",
             "favorite_count": 2369,
             "retweet_count": 147
           }
@@ -4830,19 +4810,19 @@
       {
         "date": "2026-06-25",
         "created_at": "2026-06-25T14:51:04Z",
-        "sentiment": "Bullish",
-        "bull_count": 1,
+        "sentiment": "Mixed",
+        "bull_count": 0,
         "bear_count": 0,
         "neutral_count": 2,
-        "mixed_count": 0,
+        "mixed_count": 1,
         "mention_count": 3,
-        "bull_weight": 3.0,
+        "bull_weight": 0.0,
         "bear_weight": 0.0,
-        "bull_share": 1.0,
+        "bull_share": null,
         "importance": 5,
-        "confidence": 0,
-        "thesis_change": "MENTION",
-        "core_thesis": "",
+        "confidence": 85,
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "雖然鷹派貨幣政策與潛在升息引發流動性平倉潮並打壓高估值科技股，但長期來看 AI 資本支出的基本面仍將克服短期流動性衝擊。",
         "url": "https://x.com/aleabitoreddit/status/2070157835137434015",
         "tweet_id": "2070157835137434015",
         "items": [
@@ -4877,18 +4857,23 @@
             "created_at": "2026-06-25T14:51:04Z",
             "text": "Feels like the only thing that hasn’t crashed…\n\nIs memory like $MU, indexes, or large cap semis like Intel so far.\n\n- Photonics from $AXTI to $SIVE down 40%.\n\n- Space from $ASTS and $RKLB down 40% 1M. \n\n- Popular AI names like $PLTR is down ~35% YTD. \n\n- Software like $CRM down -40%.\n\n- Bitcoin sub <60k, Ethereum sub <$16k.\n\nNot a fun time with a hawkish fed narrative and potential rate hikes. \n\nHowever this does sorta feel overshot due to margin liquidations on less liquid assets compared to mega caps.\n\nBut we’ll see what happens, usually fundamentals override liquidity shock in the longer run.\n\nI’m still personally bullish on the AI buildout + upstream AI capex beneficiaries, but 1-2 potential rate hikes certainly don’t help.",
             "url": "https://x.com/aleabitoreddit/status/2070157835137434015",
-            "sentiment": "Bullish",
+            "sentiment": "Mixed",
             "importance": 5,
-            "thesis_change": "MENTION",
-            "summary_zh": "",
-            "plain_zh": "",
-            "core_thesis": "",
-            "why_it_matters": "",
-            "history_note": "",
-            "catalysts": [],
-            "risks": [],
-            "confidence": 0,
-            "ai_status": "",
+            "thesis_change": "INSUFFICIENT_HISTORY",
+            "summary_zh": "作者指出當前市場除了記憶體（如 MU）、大盤指數與大型半導體外，其餘熱門板塊如光電（AXTI、SIVE）、太空（ASTS、RKLB）、熱門 AI 股（PLTR）及軟體股（CRM）皆出現 35% 至 40% 不等的顯著拉回。此波拋售主要受到鷹派聯準會與降息預期破滅（甚至可能升息）的影響，流動性較差的資產遭遇保證金平倉（margin liquidation）而過度下挫。長遠來看基本面將戰勝流動性衝擊，作者個人仍看好 AI 建設及上游 AI 資本支出受益者。",
+            "plain_zh": "近期市場除了少數大型股與記憶體相對抗跌外，許多中小型科技股、軟體、光電及加密貨幣都遭遇大幅修正。這主要是因為市場擔心聯準會可能再度升息，引發槓桿資金強制平倉。但作者認為這屬於短期流動性過度反應，長期來看，優質的 AI 產業鏈與基本面最終還是會帶領股價回歸正常。",
+            "core_thesis": "雖然鷹派貨幣政策與潛在升息引發流動性平倉潮並打壓高估值科技股，但長期來看 AI 資本支出的基本面仍將克服短期流動性衝擊。",
+            "why_it_matters": "貼文點出當前市場修正主要由流動性緊縮與槓桿平倉驅動，而非 AI 產業基本面惡化。這有助於投資人區分短期資金面震撼與長期產業趨勢。",
+            "history_note": "歷史資料庫中沒有可用的歷史貼文，因此無法進行歷史觀點比較。",
+            "catalysts": [
+              "長遠來看基本面重新主導市場（Fundamentals override liquidity shock）"
+            ],
+            "risks": [
+              "聯準會鷹派立場及潛在的 1-2 次升息",
+              "低流動性資產引發的保證金強制平倉（Margin liquidations）"
+            ],
+            "confidence": 85,
+            "ai_status": "ok",
             "favorite_count": 3020,
             "retweet_count": 191
           },
@@ -5389,13 +5374,13 @@
         "neutral_count": 0,
         "mixed_count": 0,
         "mention_count": 1,
-        "bull_weight": 3.0,
+        "bull_weight": 4.5,
         "bear_weight": 0.0,
         "bull_share": 1.0,
         "importance": 5,
-        "confidence": 0,
-        "thesis_change": "UPDATE",
-        "core_thesis": "",
+        "confidence": 90,
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "近期科技股拉回屬於過度的短期去槓桿，AI 雲端巨頭資本支出調升與強勁財報顯示 AI 加速發展的長期論點依然穩固。",
         "url": "https://x.com/aleabitoreddit/status/2082230983487803755",
         "tweet_id": "2082230983487803755",
         "items": [
@@ -5409,16 +5394,23 @@
             "url": "https://x.com/aleabitoreddit/status/2082230983487803755",
             "sentiment": "Bullish",
             "importance": 5,
-            "thesis_change": "UPDATE",
-            "summary_zh": "",
-            "plain_zh": "",
-            "core_thesis": "",
-            "why_it_matters": "",
-            "history_note": "",
-            "catalysts": [],
-            "risks": [],
-            "confidence": 0,
-            "ai_status": "",
+            "thesis_change": "INSUFFICIENT_HISTORY",
+            "summary_zh": "作者認為近期科技股的下跌是過度的短期去槓桿行為，市場基本面依然強勁。從 BE 和 TER 強勁的財報、中國光學大廠的預告，到 Alphabet 大幅調升資本支出至 1,950 億至 2,050 億美元，均顯示 AI 需求與營收正在加速。作者重申對光學互連、記憶體和近雲/AI雲端等主題的強烈信心。",
+            "plain_zh": "最近市場大跌，作者認為這只是短期槓桿清理過度，而不是 AI 泡沫破裂。事實上，最新公佈的企業財報（如 Bloom Energy、Teradyne）以及科技巨頭 Alphabet 的資本支出（高達約兩千億美元）都證明了 AI 需求仍在爆發增長。作者建議投資人專注於企業營收與獲利是否加速成長，而不是被市場恐慌情緒影響。",
+            "core_thesis": "近期科技股拉回屬於過度的短期去槓桿，AI 雲端巨頭資本支出調升與強勁財報顯示 AI 加速發展的長期論點依然穩固。",
+            "why_it_matters": "Alphabet 顯著提升 Capex 是美股 AI 供應鏈需求最強烈的訊號，且 Bloom Energy 與 Teradyne 等亮眼財報證明 AI 基礎建設的營收轉化正在發生。此外，市場對中國產能過剩和升息的恐懼被誇大。",
+            "history_note": "由於缺乏歷史貼文對照，無法進行長期論點轉變的比較；但基於本篇貼文，作者對 AI 相關主題維持強烈的看多態度。",
+            "catalysts": [
+              "Alphabet 調升資本支出至 1,950 億至 2,050 億美元",
+              "即將到來的 LITE、SNDK / SK Hynix 財報發布",
+              "聯準會可能的降息預期與利率壓力的舒緩"
+            ],
+            "risks": [
+              "市場短期偏好現有加速表現而非遠期成長，導致如 AMKR 等股票遭修正",
+              "市場短期整體去槓桿與情緒驅動的無差別拋售"
+            ],
+            "confidence": 90,
+            "ai_status": "ok",
             "favorite_count": 2580,
             "retweet_count": 165
           }
@@ -5551,35 +5543,35 @@
             "risks": [],
             "confidence": 0,
             "ai_status": "",
-            "favorite_count": 3060,
+            "favorite_count": 3062,
             "retweet_count": 236
           }
         ]
       }
     ],
-    "excluded_days": 21,
+    "excluded_days": 22,
     "summary": {
-      "signals": 20,
+      "signals": 19,
       "horizons": {
         "1d": {
-          "sample": 20,
-          "avg_score_return": -0.8,
-          "hit_rate": 25.0
+          "sample": 19,
+          "avg_score_return": -0.49,
+          "hit_rate": 26.3
         },
         "7d": {
-          "sample": 19,
-          "avg_score_return": 1.23,
-          "hit_rate": 47.4
+          "sample": 18,
+          "avg_score_return": 2.39,
+          "hit_rate": 50.0
         },
         "30d": {
-          "sample": 15,
-          "avg_score_return": -4.13,
-          "hit_rate": 40.0
+          "sample": 14,
+          "avg_score_return": -2.58,
+          "hit_rate": 42.9
         },
         "now": {
-          "sample": 20,
-          "avg_score_return": -6.27,
-          "hit_rate": 30.0
+          "sample": 19,
+          "avg_score_return": -5.07,
+          "hit_rate": 31.6
         }
       }
     },
@@ -5608,7 +5600,7 @@
       "risks": [],
       "confidence": 0,
       "ai_status": "",
-      "favorite_count": 3060,
+      "favorite_count": 3062,
       "retweet_count": 236
     },
     {
@@ -5667,16 +5659,23 @@
       "url": "https://x.com/aleabitoreddit/status/2082230983487803755",
       "sentiment": "Bullish",
       "importance": 5,
-      "thesis_change": "UPDATE",
-      "summary_zh": "",
-      "plain_zh": "",
-      "core_thesis": "",
-      "why_it_matters": "",
-      "history_note": "",
-      "catalysts": [],
-      "risks": [],
-      "confidence": 0,
-      "ai_status": "",
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "summary_zh": "作者認為近期科技股的下跌是過度的短期去槓桿行為，市場基本面依然強勁。從 BE 和 TER 強勁的財報、中國光學大廠的預告，到 Alphabet 大幅調升資本支出至 1,950 億至 2,050 億美元，均顯示 AI 需求與營收正在加速。作者重申對光學互連、記憶體和近雲/AI雲端等主題的強烈信心。",
+      "plain_zh": "最近市場大跌，作者認為這只是短期槓桿清理過度，而不是 AI 泡沫破裂。事實上，最新公佈的企業財報（如 Bloom Energy、Teradyne）以及科技巨頭 Alphabet 的資本支出（高達約兩千億美元）都證明了 AI 需求仍在爆發增長。作者建議投資人專注於企業營收與獲利是否加速成長，而不是被市場恐慌情緒影響。",
+      "core_thesis": "近期科技股拉回屬於過度的短期去槓桿，AI 雲端巨頭資本支出調升與強勁財報顯示 AI 加速發展的長期論點依然穩固。",
+      "why_it_matters": "Alphabet 顯著提升 Capex 是美股 AI 供應鏈需求最強烈的訊號，且 Bloom Energy 與 Teradyne 等亮眼財報證明 AI 基礎建設的營收轉化正在發生。此外，市場對中國產能過剩和升息的恐懼被誇大。",
+      "history_note": "由於缺乏歷史貼文對照，無法進行長期論點轉變的比較；但基於本篇貼文，作者對 AI 相關主題維持強烈的看多態度。",
+      "catalysts": [
+        "Alphabet 調升資本支出至 1,950 億至 2,050 億美元",
+        "即將到來的 LITE、SNDK / SK Hynix 財報發布",
+        "聯準會可能的降息預期與利率壓力的舒緩"
+      ],
+      "risks": [
+        "市場短期偏好現有加速表現而非遠期成長，導致如 AMKR 等股票遭修正",
+        "市場短期整體去槓桿與情緒驅動的無差別拋售"
+      ],
+      "confidence": 90,
+      "ai_status": "ok",
       "favorite_count": 2580,
       "retweet_count": 165
     },
@@ -5964,18 +5963,23 @@
       "created_at": "2026-06-25T14:51:04Z",
       "text": "Feels like the only thing that hasn’t crashed…\n\nIs memory like $MU, indexes, or large cap semis like Intel so far.\n\n- Photonics from $AXTI to $SIVE down 40%.\n\n- Space from $ASTS and $RKLB down 40% 1M. \n\n- Popular AI names like $PLTR is down ~35% YTD. \n\n- Software like $CRM down -40%.\n\n- Bitcoin sub <60k, Ethereum sub <$16k.\n\nNot a fun time with a hawkish fed narrative and potential rate hikes. \n\nHowever this does sorta feel overshot due to margin liquidations on less liquid assets compared to mega caps.\n\nBut we’ll see what happens, usually fundamentals override liquidity shock in the longer run.\n\nI’m still personally bullish on the AI buildout + upstream AI capex beneficiaries, but 1-2 potential rate hikes certainly don’t help.",
       "url": "https://x.com/aleabitoreddit/status/2070157835137434015",
-      "sentiment": "Bullish",
+      "sentiment": "Mixed",
       "importance": 5,
-      "thesis_change": "MENTION",
-      "summary_zh": "",
-      "plain_zh": "",
-      "core_thesis": "",
-      "why_it_matters": "",
-      "history_note": "",
-      "catalysts": [],
-      "risks": [],
-      "confidence": 0,
-      "ai_status": "",
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "summary_zh": "作者指出當前市場除了記憶體（如 MU）、大盤指數與大型半導體外，其餘熱門板塊如光電（AXTI、SIVE）、太空（ASTS、RKLB）、熱門 AI 股（PLTR）及軟體股（CRM）皆出現 35% 至 40% 不等的顯著拉回。此波拋售主要受到鷹派聯準會與降息預期破滅（甚至可能升息）的影響，流動性較差的資產遭遇保證金平倉（margin liquidation）而過度下挫。長遠來看基本面將戰勝流動性衝擊，作者個人仍看好 AI 建設及上游 AI 資本支出受益者。",
+      "plain_zh": "近期市場除了少數大型股與記憶體相對抗跌外，許多中小型科技股、軟體、光電及加密貨幣都遭遇大幅修正。這主要是因為市場擔心聯準會可能再度升息，引發槓桿資金強制平倉。但作者認為這屬於短期流動性過度反應，長期來看，優質的 AI 產業鏈與基本面最終還是會帶領股價回歸正常。",
+      "core_thesis": "雖然鷹派貨幣政策與潛在升息引發流動性平倉潮並打壓高估值科技股，但長期來看 AI 資本支出的基本面仍將克服短期流動性衝擊。",
+      "why_it_matters": "貼文點出當前市場修正主要由流動性緊縮與槓桿平倉驅動，而非 AI 產業基本面惡化。這有助於投資人區分短期資金面震撼與長期產業趨勢。",
+      "history_note": "歷史資料庫中沒有可用的歷史貼文，因此無法進行歷史觀點比較。",
+      "catalysts": [
+        "長遠來看基本面重新主導市場（Fundamentals override liquidity shock）"
+      ],
+      "risks": [
+        "聯準會鷹派立場及潛在的 1-2 次升息",
+        "低流動性資產引發的保證金強制平倉（Margin liquidations）"
+      ],
+      "confidence": 85,
+      "ai_status": "ok",
       "favorite_count": 3020,
       "retweet_count": 191
     },
@@ -6058,16 +6062,23 @@
       "url": "https://x.com/aleabitoreddit/status/2067945397923037693",
       "sentiment": "Bullish",
       "importance": 5,
-      "thesis_change": "UPDATE",
-      "summary_zh": "",
-      "plain_zh": "",
-      "core_thesis": "",
-      "why_it_matters": "",
-      "history_note": "",
-      "catalysts": [],
-      "risks": [],
-      "confidence": 0,
-      "ai_status": "",
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "summary_zh": "作者回顧其投資組合表現，重申三大核心主題為新興雲端/能源（Neoclouds）、記憶體（Memory）與光電/矽光子（Photonics）。雖然部分台灣 CPO 供應鏈受虛假報告影響出現虧損，且韓國市場因高波動性讓人心生戒心，但整體中長期個股多數回報優異。作者強調投資觀點應以數月的「中長期」時間軸來評估，而非數週的短期波動。",
+      "plain_zh": "作者總結了近期投資的成敗。他的核心看好方向是 AI 新興雲端能源、記憶體和光通訊技術（如 CPO）。雖然中間被市場傳聞和短期暴跌（例如部分台灣封測與光通訊小股、韓國供應鏈）傷到，但大型股像美光、邁威爾、ARM 以及多數中小型股整體表現依然非常亮眼。他提醒大家買入點位很關鍵，且投資應該看幾個月的中期趨勢，而不是幾天幾週的短期震盪。",
+      "core_thesis": "三大核心主線（新興雲端能源、記憶體、矽光子）中長期邏輯依然穩固，投資應以數月的中期時間軸評估而非受短期波動干擾。",
+      "why_it_matters": "貼文梳理了作者在 AI 供應鏈（尤其是光通訊 CPO 與記憶體）的持股績效與心態，揭示了雖然台灣與韓國中小型供應鏈短期波動劇烈，但整體 AI 基礎建設的主線趨勢仍然強勁。",
+      "history_note": "由於沒有歷史貼文可供對照，本篇作為作者目前投資組合狀況與三大核心主題（Neoclouds, Memory, Photonics）的基準紀錄。",
+      "catalysts": [
+        "SK 海力士與三星的產品認證（Qualifications）與高容量量產（HVM）",
+        "未來日本供應鏈可能的關閉/轉移效益"
+      ],
+      "risks": [
+        "關於 CPO 延遲等虛假分析師報告導致的短期股價暴跌",
+        "韓國市場與中小型供應鏈個股過高的波動性",
+        "宏觀地緣政治事件（如伊朗衝突）影響降息預期"
+      ],
+      "confidence": 85,
+      "ai_status": "ok",
       "favorite_count": 2369,
       "retweet_count": 147
     },
