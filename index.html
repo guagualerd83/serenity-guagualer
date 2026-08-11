@@ -36,125 +36,817 @@
 </main>
 <footer class="wrap footer">公開資訊彙整，不構成投資建議。</footer>
 <script>
-const esc=s=>(s??"").toString().replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]));
-const qs=new URLSearchParams(location.search), SYMBOL=(qs.get("symbol")||"").toUpperCase();
-const PERIOD=["daily","weekly","monthly","quarterly"].includes(qs.get("period"))?qs.get("period"):"quarterly";
-const PERIOD_DAYS={daily:1,weekly:7,monthly:28,quarterly:90};
-const PERIOD_LABEL={daily:"每日",weekly:"每週",monthly:"每月",quarterly:"每季"};
-const fmt=v=>v?new Date(v).toLocaleDateString("zh-TW"):"—";
-const fmtPrice=v=>Number.isFinite(+v)?(+v).toFixed(2):"—";
+const esc=s=>(s??"").toString().replace(/[&<>"']/g,m=>({
+  "&":"&amp;",
+  "<":"&lt;",
+  ">":"&gt;",
+  '"':"&quot;",
+  "'":"&#39;"
+}[m]));
+
+const qs=new URLSearchParams(location.search);
+const SYMBOL=(qs.get("symbol")||"").toUpperCase();
+
+const PERIOD=["daily","weekly","monthly","quarterly"].includes(qs.get("period"))
+  ? qs.get("period")
+  : "quarterly";
+
+const PERIOD_LABEL={
+  daily:"每日",
+  weekly:"每週",
+  monthly:"每月",
+  quarterly:"每季"
+};
+
+const fmt=v=>v
+  ? new Date(v).toLocaleDateString("zh-TW")
+  : "—";
+
+const fmtPrice=v=>Number.isFinite(+v)
+  ? (+v).toFixed(2)
+  : "—";
+
+
 async function init(){
- if(!SYMBOL) throw new Error("Missing symbol");
- const d=await fetch("../data/stocks/"+encodeURIComponent(SYMBOL)+".json",{cache:"no-store"}).then(r=>{if(!r.ok)throw new Error("Stock data unavailable");return r.json()});
- document.title=SYMBOL+" · Serenity Research"; symbol.textContent=SYMBOL;
- const s=d.summary||{}; stance.textContent=s.latest_sentiment||"Neutral"; stance.className="sentiment "+(s.latest_sentiment||"Neutral");
- metrics.innerHTML=`<div>Primary<b>${s.primary_count||0}</b></div><div>Replies context<b>${s.reply_count||0}</b></div><div>First mention<b>${fmt(s.first_mentioned_at)}</b></div>`;
- thesis.textContent=s.latest_thesis||"尚無 AI thesis。";
- renderPerf(d.performance||{}); renderChart(d.performance||{},d.daily_stances||[]);
- posts.innerHTML=renderRows(d.primary_posts||[]);
- replies.innerHTML=renderRows(d.reply_context||[]);
+  if(!SYMBOL) throw new Error("Missing symbol");
 
- // AI addon only reads the data the original page already loaded.
- // If the addon fails, everything above remains unaffected.
- window.__SERENITY_STOCK__=d;
- window.dispatchEvent(new CustomEvent("serenity-stock-ready",{detail:d}));
+  const d=await fetch(
+    "../data/stocks/"+encodeURIComponent(SYMBOL)+".json",
+    {cache:"no-store"}
+  ).then(r=>{
+    if(!r.ok) throw new Error("Stock data unavailable");
+    return r.json();
+  });
+
+  document.title=SYMBOL+" · Serenity Research";
+  symbol.textContent=SYMBOL;
+
+  const s=d.summary||{};
+
+  stance.textContent=s.latest_sentiment||"Neutral";
+  stance.className="sentiment "+(s.latest_sentiment||"Neutral");
+
+  metrics.innerHTML=`
+    <div>
+      Primary
+      <b>${s.primary_count||0}</b>
+    </div>
+
+    <div>
+      Replies context
+      <b>${s.reply_count||0}</b>
+    </div>
+
+    <div>
+      First mention
+      <b>${fmt(s.first_mentioned_at)}</b>
+    </div>
+  `;
+
+  thesis.textContent=s.latest_thesis||"尚無 AI thesis。";
+
+  renderPerf(d.performance||{});
+  renderChart(d.performance||{},d.daily_stances||[]);
+
+  posts.innerHTML=renderRows(d.primary_posts||[]);
+  replies.innerHTML=renderRows(d.reply_context||[]);
+
+  // 給 AI addon 使用
+  window.__SERENITY_STOCK__=d;
+
+  window.dispatchEvent(
+    new CustomEvent(
+      "serenity-stock-ready",
+      {detail:d}
+    )
+  );
 }
-function renderRows(rows){return rows.map(x=>`<div class="post-row"><div class="small">${fmt(x.created_at)} · ${esc(x.sentiment||"Neutral")} · ★${x.importance||1}</div><p>${esc(x.summary_zh||x.core_thesis||x.text||"")}</p><a href="${esc(x.url)}" target="_blank" rel="noopener">原文 ↗</a></div>`).join("")||`<div class="muted">沒有資料。</div>`}
+
+
+function renderRows(rows){
+  return rows.map(x=>`
+    <div class="post-row">
+
+      <div class="small">
+        ${fmt(x.created_at)}
+        · ${esc(x.sentiment||"Neutral")}
+        · ★${x.importance||1}
+      </div>
+
+      <p>
+        ${esc(
+          x.summary_zh||
+          x.core_thesis||
+          x.text||
+          ""
+        )}
+      </p>
+
+      <a
+        href="${esc(x.url)}"
+        target="_blank"
+        rel="noopener"
+      >
+        原文 ↗
+      </a>
+
+    </div>
+  `).join("")
+  ||
+  `<div class="muted">沒有資料。</div>`;
+}
+
+
 function renderPerf(p){
- const h=((p.summary||{}).horizons)||{};
- const one=k=>{const x=h[k]||{};return `<div><span class="small">${k.toUpperCase()}</span><br><strong>${x.hit_rate==null?"—":x.hit_rate+"%"}</strong><br><span class="small">n=${x.sample||0} · avg ${x.avg_score_return==null?"—":x.avg_score_return+"%"}</span></div>`}
- performance.innerHTML=`<div class="metrics">${one("7d")}${one("30d")}${one("now")}</div>`;
+
+  const h=((p.summary||{}).horizons)||{};
+
+  const one=k=>{
+
+    const x=h[k]||{};
+
+    return `
+      <div>
+
+        <span class="small">
+          ${k.toUpperCase()}
+        </span>
+
+        <br>
+
+        <strong>
+          ${
+            x.hit_rate==null
+              ?"—"
+              :x.hit_rate+"%"
+          }
+        </strong>
+
+        <br>
+
+        <span class="small">
+          n=${x.sample||0}
+          · avg
+          ${
+            x.avg_score_return==null
+              ?"—"
+              :x.avg_score_return+"%"
+          }
+        </span>
+
+      </div>
+    `;
+  };
+
+  performance.innerHTML=`
+    <div class="metrics">
+      ${one("7d")}
+      ${one("30d")}
+      ${one("now")}
+    </div>
+  `;
 }
+
+
+/* =========================
+   PRICE AGGREGATION
+   ========================= */
+
+function monthKey(dateStr){
+  return String(dateStr).slice(0,7);
+}
+
+
+function quarterKey(dateStr){
+
+  const year=String(dateStr).slice(0,4);
+
+  const month=parseInt(
+    String(dateStr).slice(5,7),
+    10
+  );
+
+  const quarter=
+    Math.floor((month-1)/3)+1;
+
+  return `${year}-Q${quarter}`;
+}
+
+
+function weekKey(dateStr){
+
+  const d=new Date(
+    dateStr+"T12:00:00Z"
+  );
+
+  // 以 Monday 為每週起點
+  const day=d.getUTCDay();
+
+  const offset=
+    day===0
+      ?6
+      :day-1;
+
+  d.setUTCDate(
+    d.getUTCDate()-offset
+  );
+
+  return d
+    .toISOString()
+    .slice(0,10);
+}
+
+
+function collapsePoints(points,period){
+
+  /*
+    daily:
+    最近 30 個交易日
+
+    weekly:
+    最近 26 週
+    每週最後一個交易日
+
+    monthly:
+    最近 18 個月
+    每月最後一個交易日
+
+    quarterly:
+    最近 12 季
+    每季最後一個交易日
+  */
+
+  if(period==="daily"){
+    return points.slice(-30);
+  }
+
+  const groups=new Map();
+
+  for(const pt of points){
+
+    let key=pt.date;
+
+    if(period==="weekly"){
+      key=weekKey(pt.date);
+    }
+
+    if(period==="monthly"){
+      key=monthKey(pt.date);
+    }
+
+    if(period==="quarterly"){
+      key=quarterKey(pt.date);
+    }
+
+    // points 已按日期排序
+    // 所以最後留下的就是
+    // 該週 / 月 / 季最後一個交易日
+    groups.set(key,pt);
+  }
+
+  let result=
+    Array.from(groups.values());
+
+  if(period==="weekly"){
+    result=result.slice(-26);
+  }
+
+  if(period==="monthly"){
+    result=result.slice(-18);
+  }
+
+  if(period==="quarterly"){
+    result=result.slice(-12);
+  }
+
+  return result;
+}
+
+
+/* =========================
+   CHART
+   ========================= */
+
 function renderChart(p,stances){
- const svg=document.querySelector("#chart"), meta=document.querySelector("#chartMeta");
- const all=(((p.price||{}).points)||[])
-   .filter(x=>x&&x.date&&Number.isFinite(+x.close))
-   .slice()
-   .sort((a,b)=>String(a.date).localeCompare(String(b.date)));
 
- if(!all.length){
-   meta.textContent=`${PERIOD_LABEL[PERIOD]} · 無價格資料`;
-   svg.innerHTML='<text x="40" y="70" fill="#85877f">Price data unavailable</text>';
-   return;
- }
+  const svg=
+    document.querySelector("#chart");
 
- // Follow the period already selected on the dashboard URL.
- const latest=all[all.length-1].date;
- const end=new Date(latest+"T12:00:00Z");
- const start=new Date(end);
- start.setUTCDate(start.getUTCDate()-(PERIOD_DAYS[PERIOD]-1));
- const startKey=start.toISOString().slice(0,10);
- const points=all.filter(x=>String(x.date)>=startKey&&String(x.date)<=latest);
+  const meta=
+    document.querySelector("#chartMeta");
 
- const first=+points[0].close, last=+points[points.length-1].close;
- const change=first?((last/first)-1)*100:null;
- meta.textContent=`${PERIOD_LABEL[PERIOD]} · ${fmt(points[0].date)} ～ ${fmt(points[points.length-1].date)} · 最新 $${fmtPrice(last)}${change==null?"":` · 區間 ${(change>=0?"+":"")}${change.toFixed(2)}%`}`;
 
- const W=1000,H=340,L=62,R=24,T=22,B=42;
+  const all=
+    (((p.price||{}).points)||[])
 
- // A 1-day range can legitimately contain one daily close.
- if(points.length===1){
-   const pt=points[0], s=stances.find(x=>x.date===pt.date);
-   let c="#9a8465";
-   if(s?.sentiment==="Bullish")c="#718370";
-   if(s?.sentiment==="Bearish")c="#a35e52";
-   svg.innerHTML=`
-     <line x1="${L}" y1="${H-B}" x2="${W-R}" y2="${H-B}" stroke="#ded8ca" stroke-width="1"/>
-     <circle cx="${(L+W-R)/2}" cy="${(T+H-B)/2}" r="7" fill="${c}" stroke="#f7f4ed" stroke-width="3">
-       <title>${esc(pt.date+" · $"+fmtPrice(pt.close)+(s?" · "+s.sentiment:""))}</title>
-     </circle>
-     <text x="${L}" y="${T+4}" fill="#85877f" font-size="13">$${fmtPrice(pt.close)}</text>
-     <text x="${(L+W-R)/2}" y="${H-12}" text-anchor="middle" fill="#85877f" font-size="13">${esc(fmt(pt.date))}</text>`;
-   return;
- }
+      .filter(x=>
+        x &&
+        x.date &&
+        Number.isFinite(+x.close)
+      )
 
- const vals=points.map(x=>+x.close);
- const rawMin=Math.min(...vals),rawMax=Math.max(...vals),rawSpan=rawMax-rawMin||1;
- const min=rawMin-rawSpan*.06,max=rawMax+rawSpan*.06,span=max-min||1;
- const xy=(pt,i)=>[
-   L+i/(points.length-1)*(W-L-R),
-   H-B-(+pt.close-min)/span*(H-T-B)
- ];
+      .slice()
 
- let html="";
+      .sort(
+        (a,b)=>
+          String(a.date)
+            .localeCompare(
+              String(b.date)
+            )
+      );
 
- // Price labels / horizontal grid.
- for(let i=0;i<5;i++){
-   const value=max-(span*i/4),y=T+i*(H-T-B)/4;
-   html+=`<line x1="${L}" y1="${y}" x2="${W-R}" y2="${y}" stroke="#e3ded2" stroke-width="1"/>`;
-   html+=`<text x="${L-8}" y="${y+4}" text-anchor="end" fill="#85877f" font-size="12">$${fmtPrice(value)}</text>`;
- }
 
- // Date labels.
- const tickCount=Math.min(5,points.length);
- for(let k=0;k<tickCount;k++){
-   const i=Math.round(k*(points.length-1)/(tickCount-1));
-   const [x]=xy(points[i],i);
-   html+=`<text x="${x}" y="${H-12}" text-anchor="middle" fill="#85877f" font-size="12">${esc(fmt(points[i].date))}</text>`;
- }
+  if(!all.length){
 
- const line=points.map((pt,i)=>{
-   const [x,y]=xy(pt,i);
-   return `${i?"L":"M"}${x.toFixed(1)},${y.toFixed(1)}`;
- }).join(" ");
- html+=`<path d="${line}" fill="none" stroke="#718370" stroke-width="3" vector-effect="non-scaling-stroke"/>`;
+    if(meta){
+      meta.textContent=
+        `${PERIOD_LABEL[PERIOD]} · 無價格資料`;
+    }
 
- const byDate=Object.fromEntries(stances.map(s=>[s.date,s]));
- points.forEach((pt,i)=>{
-   const [x,y]=xy(pt,i),s=byDate[pt.date];
+    svg.innerHTML=`
+      <text
+        x="40"
+        y="70"
+        fill="#85877f"
+      >
+        Price data unavailable
+      </text>
+    `;
 
-   // Every trading-day point exposes date + close through the native SVG tooltip.
-   html+=`<circle cx="${x}" cy="${y}" r="10" fill="transparent"><title>${esc(pt.date+" · $"+fmtPrice(pt.close)+(s?" · "+s.sentiment:""))}</title></circle>`;
+    return;
+  }
 
-   if(!s)return;
-   let c="#9a8465";
-   if(s.sentiment==="Bullish")c="#718370";
-   if(s.sentiment==="Bearish")c="#a35e52";
-   html+=`<circle cx="${x}" cy="${y}" r="6" fill="${c}" stroke="#f7f4ed" stroke-width="3"><title>${esc(pt.date+" · $"+fmtPrice(pt.close)+" · "+s.sentiment+" · "+(s.mention_count||1)+" mentions")}</title></circle>`;
- });
- svg.innerHTML=html;
+
+  const points=
+    collapsePoints(
+      all,
+      PERIOD
+    );
+
+
+  if(!points.length){
+
+    if(meta){
+      meta.textContent=
+        `${PERIOD_LABEL[PERIOD]} · 無價格資料`;
+    }
+
+    return;
+  }
+
+
+  const first=
+    +points[0].close;
+
+  const last=
+    +points[
+      points.length-1
+    ].close;
+
+
+  const change=
+    first
+      ?((last/first)-1)*100
+      :null;
+
+
+  if(meta){
+
+    meta.textContent=
+      `${PERIOD_LABEL[PERIOD]}`
+      +
+      ` · ${fmt(points[0].date)}`
+      +
+      ` ～ ${fmt(points[points.length-1].date)}`
+      +
+      ` · 最新 ${fmtPrice(last)} SEK`
+      +
+      (
+        change==null
+          ?""
+          :
+          ` · 區間 `
+          +
+          `${change>=0?"+":""}`
+          +
+          `${change.toFixed(2)}%`
+      );
+  }
+
+
+  const W=1000;
+  const H=340;
+
+  const L=70;
+  const R=24;
+  const T=22;
+  const B=46;
+
+
+  /*
+    單點情況
+  */
+
+  if(points.length===1){
+
+    const pt=points[0];
+
+    const s=
+      (stances||[])
+        .find(
+          x=>x.date===pt.date
+        );
+
+    let color="#9a8465";
+
+    if(s?.sentiment==="Bullish"){
+      color="#718370";
+    }
+
+    if(s?.sentiment==="Bearish"){
+      color="#a35e52";
+    }
+
+
+    svg.innerHTML=`
+
+      <line
+        x1="${L}"
+        y1="${H-B}"
+        x2="${W-R}"
+        y2="${H-B}"
+        stroke="#ded8ca"
+        stroke-width="1"
+      />
+
+      <circle
+        cx="${(L+W-R)/2}"
+        cy="${(T+H-B)/2}"
+        r="7"
+        fill="${color}"
+        stroke="#f7f4ed"
+        stroke-width="3"
+      >
+        <title>
+          ${esc(
+            pt.date
+            +" · "
+            +fmtPrice(pt.close)
+            +" SEK"
+            +(s
+              ?" · "+s.sentiment
+              :""
+            )
+          )}
+        </title>
+      </circle>
+
+      <text
+        x="${L}"
+        y="${T+4}"
+        fill="#85877f"
+        font-size="13"
+      >
+        ${fmtPrice(pt.close)} SEK
+      </text>
+
+      <text
+        x="${(L+W-R)/2}"
+        y="${H-12}"
+        text-anchor="middle"
+        fill="#85877f"
+        font-size="13"
+      >
+        ${esc(fmt(pt.date))}
+      </text>
+
+    `;
+
+    return;
+  }
+
+
+  /*
+    PRICE RANGE
+  */
+
+  const vals=
+    points.map(
+      x=>+x.close
+    );
+
+  const rawMin=
+    Math.min(...vals);
+
+  const rawMax=
+    Math.max(...vals);
+
+  const rawSpan=
+    rawMax-rawMin||1;
+
+
+  const min=
+    rawMin-
+    rawSpan*0.06;
+
+  const max=
+    rawMax+
+    rawSpan*0.06;
+
+  const span=
+    max-min||1;
+
+
+  const xy=(pt,i)=>[
+
+    L
+    +
+    i/(points.length-1)
+    *(W-L-R),
+
+    H-B
+    -
+    (
+      (+pt.close-min)
+      /span
+    )
+    *(H-T-B)
+
+  ];
+
+
+  let html="";
+
+
+  /*
+    Y AXIS
+  */
+
+  const yTicks=5;
+
+  for(
+    let i=0;
+    i<yTicks;
+    i++
+  ){
+
+    const value=
+      max
+      -
+      span*i/(yTicks-1);
+
+    const y=
+      T
+      +
+      i*(H-T-B)
+      /(yTicks-1);
+
+
+    html+=`
+
+      <line
+        x1="${L}"
+        y1="${y}"
+        x2="${W-R}"
+        y2="${y}"
+        stroke="#e3ded2"
+        stroke-width="1"
+      />
+
+      <text
+        x="${L-8}"
+        y="${y+4}"
+        text-anchor="end"
+        fill="#85877f"
+        font-size="12"
+      >
+        ${fmtPrice(value)}
+      </text>
+
+    `;
+  }
+
+
+  /*
+    X AXIS
+  */
+
+  const tickCount=
+    Math.min(
+      5,
+      points.length
+    );
+
+
+  for(
+    let k=0;
+    k<tickCount;
+    k++
+  ){
+
+    const i=
+      tickCount===1
+        ?0
+        :
+        Math.round(
+          k
+          *(points.length-1)
+          /(tickCount-1)
+        );
+
+
+    const [x]=
+      xy(
+        points[i],
+        i
+      );
+
+
+    html+=`
+
+      <text
+        x="${x}"
+        y="${H-12}"
+        text-anchor="middle"
+        fill="#85877f"
+        font-size="12"
+      >
+        ${esc(
+          fmt(
+            points[i].date
+          )
+        )}
+      </text>
+
+    `;
+  }
+
+
+  /*
+    PRICE LINE
+  */
+
+  const line=
+    points.map(
+      (pt,i)=>{
+
+        const [x,y]=
+          xy(pt,i);
+
+        return (
+          `${i?"L":"M"}`
+          +
+          `${x.toFixed(1)},`
+          +
+          `${y.toFixed(1)}`
+        );
+
+      }
+    ).join(" ");
+
+
+  html+=`
+
+    <path
+      d="${line}"
+      fill="none"
+      stroke="#718370"
+      stroke-width="3"
+      vector-effect="non-scaling-stroke"
+    />
+
+  `;
+
+
+  /*
+    SIGNAL LOOKUP
+  */
+
+  const byDate=
+    Object.fromEntries(
+      (stances||[])
+        .map(
+          s=>[
+            s.date,
+            s
+          ]
+        )
+    );
+
+
+  /*
+    POINTS + TOOLTIP
+  */
+
+  points.forEach(
+    (pt,i)=>{
+
+      const [x,y]=
+        xy(pt,i);
+
+      const s=
+        byDate[pt.date];
+
+
+      // invisible hover target
+
+      html+=`
+
+        <circle
+          cx="${x}"
+          cy="${y}"
+          r="11"
+          fill="transparent"
+        >
+
+          <title>
+            ${esc(
+              pt.date
+              +" · "
+              +fmtPrice(pt.close)
+              +" SEK"
+              +
+              (
+                s
+                  ?" · "+s.sentiment
+                  :""
+              )
+            )}
+          </title>
+
+        </circle>
+
+      `;
+
+
+      if(!s){
+        return;
+      }
+
+
+      let color="#9a8465";
+
+      if(
+        s.sentiment==="Bullish"
+      ){
+        color="#718370";
+      }
+
+      if(
+        s.sentiment==="Bearish"
+      ){
+        color="#a35e52";
+      }
+
+
+      html+=`
+
+        <circle
+          cx="${x}"
+          cy="${y}"
+          r="6"
+          fill="${color}"
+          stroke="#f7f4ed"
+          stroke-width="3"
+        >
+
+          <title>
+            ${esc(
+              pt.date
+              +" · "
+              +fmtPrice(pt.close)
+              +" SEK"
+              +" · "
+              +s.sentiment
+              +" · "
+              +(s.mention_count||1)
+              +" mentions"
+            )}
+          </title>
+
+        </circle>
+
+      `;
+
+    }
+  );
+
+
+  svg.innerHTML=html;
 }
-init().catch(e=>document.querySelector("main").innerHTML+=`<p>${esc(e.message)}</p>`);
+
+
+init().catch(e=>{
+
+  document
+    .querySelector("main")
+    .innerHTML+=`
+      <p>
+        ${esc(e.message)}
+      </p>
+    `;
+
+});
 </script>
 <script src="ai-research.js"></script>
 </body></html>

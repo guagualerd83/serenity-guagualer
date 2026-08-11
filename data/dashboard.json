@@ -2,7 +2,7 @@
   "site": {
     "title": "Serenity Research",
     "subtitle": "Public research dashboard based on Serenity's public X posts.",
-    "generated_at": "2026-08-11T08:11:55.490286Z",
+    "generated_at": "2026-08-11T13:15:00.355301Z",
     "disclaimer": "Public-post aggregation for research only. Not investment advice."
   },
   "periods": {
@@ -11,7 +11,7 @@
       "label": "每日",
       "days": 1,
       "start_at": "2026-08-10T16:00:00Z",
-      "generated_at": "2026-08-11T08:11:55.376106Z",
+      "generated_at": "2026-08-11T13:15:00.064336Z",
       "earliest_available_at": "2025-11-17T16:12:21Z",
       "traversed_until": "2026-04-13T02:42:25Z",
       "coverage_days": 120,
@@ -118,28 +118,28 @@
       "period": "weekly",
       "label": "每週",
       "days": 7,
-      "start_at": "2026-08-04T08:11:55.376106Z",
-      "generated_at": "2026-08-11T08:11:55.388128Z",
+      "start_at": "2026-08-04T13:15:00.064336Z",
+      "generated_at": "2026-08-11T13:15:00.082255Z",
       "earliest_available_at": "2025-11-17T16:12:21Z",
       "traversed_until": "2026-04-13T02:42:25Z",
       "coverage_days": 120,
       "coverage_complete": true,
-      "tweet_count": 26,
-      "primary_post_count": 26,
+      "tweet_count": 24,
+      "primary_post_count": 24,
       "reply_context_count": 20,
-      "all_collected_count": 46,
+      "all_collected_count": 44,
       "symbol_count": 34,
-      "high_importance_count": 14,
+      "high_importance_count": 13,
       "ai_analyzed_count": 5,
       "sentiments": {
-        "Neutral": 15,
+        "Neutral": 13,
         "Bullish": 10,
         "Bearish": 1
       },
       "symbols": [
         {
           "symbol": "AAOI",
-          "mentions": 10,
+          "mentions": 9,
           "dominant_sentiment": "Bullish",
           "sentiment_score": 5,
           "max_importance": 5,
@@ -149,13 +149,13 @@
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
             "Bullish": 6,
-            "Neutral": 3,
+            "Neutral": 2,
             "Bearish": 1
           }
         },
         {
           "symbol": "SIVE",
-          "mentions": 9,
+          "mentions": 8,
           "dominant_sentiment": "Neutral",
           "sentiment_score": 1,
           "max_importance": 5,
@@ -165,14 +165,14 @@
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
             "Bullish": 2,
-            "Neutral": 6,
+            "Neutral": 5,
             "Bearish": 1
           }
         },
         {
           "symbol": "LITE",
-          "mentions": 8,
-          "dominant_sentiment": "Neutral",
+          "mentions": 7,
+          "dominant_sentiment": "Bullish",
           "sentiment_score": 2,
           "max_importance": 5,
           "latest_at": "2026-08-10T08:26:02Z",
@@ -181,7 +181,7 @@
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
             "Bullish": 3,
-            "Neutral": 4,
+            "Neutral": 3,
             "Bearish": 1
           }
         },
@@ -633,8 +633,8 @@
       "period": "monthly",
       "label": "每月",
       "days": 28,
-      "start_at": "2026-07-14T08:11:55.388128Z",
-      "generated_at": "2026-08-11T08:11:55.403132Z",
+      "start_at": "2026-07-14T13:15:00.082255Z",
+      "generated_at": "2026-08-11T13:15:00.113487Z",
       "earliest_available_at": "2025-11-17T16:12:21Z",
       "traversed_until": "2026-04-13T02:42:25Z",
       "coverage_days": 120,
@@ -1664,29 +1664,29 @@
       "period": "quarterly",
       "label": "每季",
       "days": 90,
-      "start_at": "2026-05-13T08:11:55.403132Z",
-      "generated_at": "2026-08-11T08:11:55.474405Z",
+      "start_at": "2026-05-13T13:15:00.113993Z",
+      "generated_at": "2026-08-11T13:15:00.304402Z",
       "earliest_available_at": "2025-11-17T16:12:21Z",
       "traversed_until": "2026-04-13T02:42:25Z",
       "coverage_days": 120,
       "coverage_complete": true,
-      "tweet_count": 554,
-      "primary_post_count": 554,
-      "reply_context_count": 732,
-      "all_collected_count": 1286,
+      "tweet_count": 550,
+      "primary_post_count": 550,
+      "reply_context_count": 726,
+      "all_collected_count": 1276,
       "symbol_count": 172,
       "high_importance_count": 191,
       "ai_analyzed_count": 18,
       "sentiments": {
-        "Neutral": 377,
-        "Bullish": 145,
+        "Neutral": 374,
+        "Bullish": 144,
         "Bearish": 31,
         "Mixed": 1
       },
       "symbols": [
         {
           "symbol": "SIVE",
-          "mentions": 143,
+          "mentions": 141,
           "dominant_sentiment": "Neutral",
           "sentiment_score": 39,
           "max_importance": 5,
@@ -1696,30 +1696,30 @@
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
             "Bullish": 51,
-            "Neutral": 79,
+            "Neutral": 77,
             "Bearish": 12,
             "Mixed": 1
           }
         },
         {
           "symbol": "NVDA",
-          "mentions": 99,
+          "mentions": 98,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 35,
+          "sentiment_score": 34,
           "max_importance": 5,
           "latest_at": "2026-08-11T02:19:36Z",
           "latest_thesis": "宇樹科技 IPO 的極端超額認購凸顯市場對人形機器人板塊的強烈渴望，其高估值上市將為估值相對較低的美國同業帶來外溢效應與重新定價機會。",
           "latest_summary_zh": "宇樹科技（Unitree）IPO 獲得散戶超額認購超過 8000 倍，顯示市場對純人形機器人標的的需求極度狂熱。作者指出自己透過 CCXI 參與投資美國人形機器人公司 Agility Robotics（前輪估值約 25 億美元），並認為宇樹若以 300 億美元以上的估值開盤，將在未來一至兩週內吸引資金關注美國領先的人形機器人業者。",
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bullish": 43,
+            "Bullish": 42,
             "Neutral": 48,
             "Bearish": 8
           }
         },
         {
           "symbol": "LITE",
-          "mentions": 80,
+          "mentions": 79,
           "dominant_sentiment": "Neutral",
           "sentiment_score": 23,
           "max_importance": 5,
@@ -1729,7 +1729,7 @@
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
             "Bullish": 31,
-            "Neutral": 41,
+            "Neutral": 40,
             "Bearish": 8
           }
         },
@@ -1751,9 +1751,9 @@
         },
         {
           "symbol": "NBIS",
-          "mentions": 46,
+          "mentions": 45,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 10,
+          "sentiment_score": 9,
           "max_importance": 5,
           "latest_at": "2026-08-10T02:03:29Z",
           "latest_thesis": "Just some near term events:  - OCP APAC tomorrow (Ayar, Lightmatter, $AMD, $NVDA) and your CPO players are giving announcements/updates.  This should be a catalyst for certain o...",
@@ -1761,7 +1761,7 @@
           "latest_change": "NEW",
           "sentiments": {
             "Neutral": 30,
-            "Bullish": 13,
+            "Bullish": 12,
             "Bearish": 3
           }
         },
@@ -1800,7 +1800,7 @@
         },
         {
           "symbol": "SOI",
-          "mentions": 40,
+          "mentions": 39,
           "dominant_sentiment": "Neutral",
           "sentiment_score": 10,
           "max_importance": 5,
@@ -1809,7 +1809,7 @@
           "latest_summary_zh": "",
           "latest_change": "UPDATE",
           "sentiments": {
-            "Neutral": 24,
+            "Neutral": 23,
             "Bullish": 13,
             "Bearish": 3
           }
@@ -2024,22 +2024,6 @@
           }
         },
         {
-          "symbol": "TSEM",
-          "mentions": 23,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 5,
-          "max_importance": 5,
-          "latest_at": "2026-07-21T17:41:05Z",
-          "latest_thesis": "Wow, a historic single day recovery.  $SIVEF +30.89% $IQEF +28.6% $AEHR +26.53% $CIFR +17.82% $NBIS +17.3% $AAOI +15.6% $LPK +14.48% $AXTI +14.12% $MU +12.54% $SNDK +12.8% $SOI...",
-          "latest_summary_zh": "",
-          "latest_change": "MENTION",
-          "sentiments": {
-            "Neutral": 12,
-            "Bearish": 3,
-            "Bullish": 8
-          }
-        },
-        {
           "symbol": "GFS",
           "mentions": 22,
           "dominant_sentiment": "Neutral",
@@ -2068,6 +2052,22 @@
           "sentiments": {
             "Bullish": 6,
             "Neutral": 16
+          }
+        },
+        {
+          "symbol": "TSEM",
+          "mentions": 22,
+          "dominant_sentiment": "Neutral",
+          "sentiment_score": 5,
+          "max_importance": 5,
+          "latest_at": "2026-07-21T17:41:05Z",
+          "latest_thesis": "Wow, a historic single day recovery.  $SIVEF +30.89% $IQEF +28.6% $AEHR +26.53% $CIFR +17.82% $NBIS +17.3% $AAOI +15.6% $LPK +14.48% $AXTI +14.12% $MU +12.54% $SNDK +12.8% $SOI...",
+          "latest_summary_zh": "",
+          "latest_change": "MENTION",
+          "sentiments": {
+            "Neutral": 11,
+            "Bearish": 3,
+            "Bullish": 8
           }
         },
         {
@@ -4737,9 +4737,9 @@
     "SPCX",
     "IQE",
     "POET",
-    "TSEM",
     "GFS",
     "IREN",
+    "TSEM",
     "TSLA",
     "CCXI",
     "COHR",
