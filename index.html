@@ -1,1 +1,53 @@
-<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Serenity Research</title><meta name="description" content="Public research dashboard for Serenity's market views and performance."><link rel="stylesheet" href="style.css"></head><body><main class="wrap"><header><div><h1>Serenity Research</h1><div class="sub">把公開市場觀點整理成可追蹤的研究筆記。</div></div><div id="updated" class="updated">更新 —</div></header><nav class="tabs"><button class="tab active" data-period="daily">每日</button><button class="tab" data-period="weekly">每週</button><button class="tab" data-period="monthly">每月</button><button class="tab" data-period="quarterly">每季</button></nav><div id="summary" class="summary"></div><section id="list" class="list"></section><footer>僅彙整公開資訊與研究筆記，不構成投資建議。公開網站不包含 X 登入資訊、API Key 或私人資料庫。</footer></main><script src="app.js"></script></body></html>
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Serenity Research</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="wrap top">
+  <div>
+    <div class="eyebrow">PUBLIC RESEARCH NOTES</div>
+    <h1>Serenity Research</h1>
+    <p>把公開貼文整理成更容易閱讀的市場研究筆記。</p>
+  </div>
+  <div id="updated" class="muted"></div>
+</header>
+
+<main class="wrap">
+  <nav class="periods">
+    <button data-period="daily">每日</button>
+    <button data-period="weekly">每週</button>
+    <button data-period="monthly">每月</button>
+    <button data-period="quarterly" class="active">每季</button>
+  </nav>
+
+  <section class="numbers" id="numbers"></section>
+
+  <section>
+    <div class="section-head">
+      <div>
+        <div class="eyebrow">MOST DISCUSSED</div>
+        <h2>主要股票</h2>
+      </div>
+    </div>
+    <div id="symbols" class="symbol-list"></div>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <div>
+        <div class="eyebrow">LATEST PRIMARY POSTS</div>
+        <h2>最新觀點</h2>
+      </div>
+    </div>
+    <div id="posts" class="notes"></div>
+  </section>
+</main>
+
+<footer class="wrap footer">僅整理公開資訊，不構成投資建議。</footer>
+<script src="app.js"></script>
+</body>
+</html>

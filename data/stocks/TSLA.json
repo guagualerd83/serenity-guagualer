@@ -1,0 +1,3896 @@
+{
+  "generated_at": "2026-08-11T03:43:10.140854Z",
+  "symbol": "TSLA",
+  "summary": {
+    "primary_count": 24,
+    "reply_count": 7,
+    "first_mentioned_at": "2025-11-24T15:51:33Z",
+    "last_mentioned_at": "2026-07-23T04:35:37Z",
+    "latest_sentiment": "Bullish",
+    "latest_thesis": "",
+    "latest_change": "UPDATE",
+    "sentiments": {
+      "Bullish": 9,
+      "Neutral": 21,
+      "Bearish": 1
+    }
+  },
+  "daily_stances": [
+    {
+      "date": "2025-11-24",
+      "created_at": "2025-11-24T15:51:33Z",
+      "sentiment": "Bullish",
+      "bull_count": 1,
+      "bear_count": 0,
+      "neutral_count": 0,
+      "mixed_count": 0,
+      "mention_count": 1,
+      "bull_weight": 3.0,
+      "bear_weight": 0.0,
+      "bull_share": 1.0,
+      "importance": 5,
+      "confidence": 0,
+      "thesis_change": "MENTION",
+      "core_thesis": "",
+      "url": "https://x.com/aleabitoreddit/status/1992984440960921604",
+      "tweet_id": "1992984440960921604",
+      "items": [
+        {
+          "tweet_id": "1992984440960921604",
+          "is_reply": false,
+          "kind": "post",
+          "reply_signal_eligible": false,
+          "created_at": "2025-11-24T15:51:33Z",
+          "text": "Nebius [ $NBIS ] is the most undervalued growth company right now. \n\nAnd it has the potential to become the next $GOOGL at a $21B market cap. There's one simple reason:\n\nIt's portfolio companies are mindblowing.\n\nThe most incredible example on this concept is the company $FTX. Here's the story:\n\nWhen we look at how $META grew into a $1T+ company, it wasn't just Facebook. It was their portfolio companies Instagram, Whatsapp, and others made Meta dominate the social media landscape.\n\n$FTX was doing something similar, but in digital assets and frontier technologies. \n\nFour years ago, in 2021, $FTX invested $5.8B into a large basket of assets. And put a large chunk into these three core companies:\n\n1. Anthropic, 13.56% at a $2.5 Billion valuation.\n2. Robinhood [ $HOOD ] 7.6% at a $8.54B valuation\n3. Solana [ $SOL ], 41M+ tokens. \n\nFast forward to today, that would have been:\n\n· Anthropic in it's latest round is worth $350B. That stake would have been worth ~$47.4B.\n\n· Robinhood is now worth over $100B. That stake would be worth ~$7.6B.\n\n· Solana is now worth  $131.5 per token, making the stake well over $5.7B. \n\nThose three companies alone generated well over $55B+ in value in 4 years time, and this is not even including FTX's tens of billions of dollars + hundreds of other investments + holdings in Chime, Layerzero, Aptos, Hidden Road (bought by $COIN), and crypto.\n\nTheir portfolio companies outlasted their core business (and imagine, how much it would have been worth if the core business kept scaling like $GOOGL search did alongside Youtube). \n\n$NBIS now has the same setup as $FTX did in crypto, $META in social media, but in artificial intelligence with a legitimate and incredibly rapidly growing core business. \n\nNebius owns:\n\n1. Clickhouse, 28% at a ~$7B valuation ($6.3 H1 2025)\n2. Avride, 83% at a ~$6B valuation. (post Uber raise)\n3. Toloka AI, ~65% at a ~$640 million valuation \n4. TripleTen, 100% at a ~$300m valuation.\n\n· Clickhouse powers Anthropic, $META, $TSLA, $NET, and many fortune 500 companies.\n\n· Avride is a self-driving car robotaxi company, spun out of Yandex that $UBER invested in a $375M round in to compete with Waymo.\n\n· Toloka is a AI labeling platform that Amazon, Microsoft, Anthropic, and Shopify uses. \n\n$1.96B + $4.96B + $416M + $300m = $7.6B valuation in portfolio companies that are growing faster than most public growth companies. \n\nBut if we look at their core business that is scaling to 700%+ Y/Y to $7-9B ARR, with $4.8B in cash, powering $META, $MSFT, Cursor, governments, and many more... \n\nThis might be the last month it's under $90 before it receives hundreds of millions to low billions of extra inflows from MSCI inclusion today. There's no other datacenter growth company that has this type of portfolio if we look at crowd favorites like $IREN or $CIFR. \n\n$NBIS is only valued at $21B and the market is sleeping on this opportunity.",
+          "url": "https://x.com/aleabitoreddit/status/1992984440960921604",
+          "sentiment": "Bullish",
+          "importance": 5,
+          "thesis_change": "MENTION",
+          "summary_zh": "",
+          "plain_zh": "",
+          "core_thesis": "",
+          "why_it_matters": "",
+          "history_note": "",
+          "catalysts": [],
+          "risks": [],
+          "confidence": 0,
+          "ai_status": "",
+          "favorite_count": 487,
+          "retweet_count": 66
+        }
+      ]
+    },
+    {
+      "date": "2026-04-18",
+      "created_at": "2026-04-18T18:10:59Z",
+      "sentiment": "Bullish",
+      "bull_count": 1,
+      "bear_count": 0,
+      "neutral_count": 0,
+      "mixed_count": 0,
+      "mention_count": 1,
+      "bull_weight": 3.0,
+      "bear_weight": 0.0,
+      "bull_share": 1.0,
+      "importance": 5,
+      "confidence": 0,
+      "thesis_change": "UPDATE",
+      "core_thesis": "",
+      "url": "https://x.com/aleabitoreddit/status/2045565771234021468",
+      "tweet_id": "2045565771234021468",
+      "items": [
+        {
+          "tweet_id": "2045565771234021468",
+          "is_reply": false,
+          "kind": "post",
+          "reply_signal_eligible": false,
+          "created_at": "2026-04-18T18:10:59Z",
+          "text": "Just some TLDRs to save you time: \n\n1. $ASML, $TSM earnings = Good Outlook. Semis + capex go brrr.\n\n2. Opus 4.7 + Anthropic go brrr. Software = sad.\n\n3. Samsung go brrr because of partly bc of $TSLA AI Chips.\n\n4. $UMC = price hike for foundry. foundries go brrr. \n\n5. Training = brrr in China. H100 rental increase go up. Neoclouds happy. \n\n6. Helium supply shortage = not significant... I've already said this before, but I'm not sure how many times $TSM needs to say this. \n\n7. MLCC, inductor prices = price hike. Will cover beneficiaries later.\n\n8. \"Taiwan's OSAT expansion could tighten global test capacity and raise costs\"\n\nI went long on Taiwan OSATs recently like Shunsin (6451) for a reason. Demand will just outstrip supply, even after expansion.  (cowos, sip, optical).",
+          "url": "https://x.com/aleabitoreddit/status/2045565771234021468",
+          "sentiment": "Bullish",
+          "importance": 5,
+          "thesis_change": "UPDATE",
+          "summary_zh": "",
+          "plain_zh": "",
+          "core_thesis": "",
+          "why_it_matters": "",
+          "history_note": "",
+          "catalysts": [],
+          "risks": [],
+          "confidence": 0,
+          "ai_status": "",
+          "favorite_count": 1762,
+          "retweet_count": 79
+        }
+      ]
+    },
+    {
+      "date": "2026-05-12",
+      "created_at": "2026-05-12T12:53:09Z",
+      "sentiment": "Neutral",
+      "bull_count": 0,
+      "bear_count": 0,
+      "neutral_count": 1,
+      "mixed_count": 0,
+      "mention_count": 1,
+      "bull_weight": 0.0,
+      "bear_weight": 0.0,
+      "bull_share": null,
+      "importance": 2,
+      "confidence": 0,
+      "thesis_change": "MENTION",
+      "core_thesis": "",
+      "url": "https://x.com/aleabitoreddit/status/2054183097470775339",
+      "tweet_id": "2054183097470775339",
+      "items": [
+        {
+          "tweet_id": "2054183097470775339",
+          "is_reply": false,
+          "kind": "post",
+          "reply_signal_eligible": false,
+          "created_at": "2026-05-12T12:53:09Z",
+          "text": "All right chat.\n\nI need some more ideas on the early $RKLB equivalent for humanoid exposure.\n\n10x+ potential returns only in the next 2 years and more pure play exposure than $TSLA.\n\nWhat’s your best ideas?",
+          "url": "https://x.com/aleabitoreddit/status/2054183097470775339",
+          "sentiment": "Neutral",
+          "importance": 2,
+          "thesis_change": "MENTION",
+          "summary_zh": "",
+          "plain_zh": "",
+          "core_thesis": "",
+          "why_it_matters": "",
+          "history_note": "",
+          "catalysts": [],
+          "risks": [],
+          "confidence": 0,
+          "ai_status": "",
+          "favorite_count": 2227,
+          "retweet_count": 80
+        }
+      ]
+    },
+    {
+      "date": "2026-05-13",
+      "created_at": "2026-05-13T22:53:50Z",
+      "sentiment": "Bullish",
+      "bull_count": 1,
+      "bear_count": 0,
+      "neutral_count": 0,
+      "mixed_count": 0,
+      "mention_count": 1,
+      "bull_weight": 1.8,
+      "bear_weight": 0.0,
+      "bull_share": 1.0,
+      "importance": 3,
+      "confidence": 0,
+      "thesis_change": "MENTION",
+      "core_thesis": "",
+      "url": "https://x.com/aleabitoreddit/status/2054696650539688271",
+      "tweet_id": "2054696650539688271",
+      "items": [
+        {
+          "tweet_id": "2054696650539688271",
+          "is_reply": false,
+          "kind": "post",
+          "reply_signal_eligible": false,
+          "created_at": "2026-05-13T22:53:50Z",
+          "text": "“Robotics may be the biggest product category of all time” - $CDNS CEO.\n\n“The projection is $25 trillion. The whole GDP of the world is $110 trillion. So this is huge if this happens.”\n\nExtremely bullish on robotics/humanoids directionally.\n\nBut maybe it’s time for $TSLA and America to really start prioritizing how we build it outside Chinese supply chains?",
+          "url": "https://x.com/aleabitoreddit/status/2054696650539688271",
+          "sentiment": "Bullish",
+          "importance": 3,
+          "thesis_change": "MENTION",
+          "summary_zh": "",
+          "plain_zh": "",
+          "core_thesis": "",
+          "why_it_matters": "",
+          "history_note": "",
+          "catalysts": [],
+          "risks": [],
+          "confidence": 0,
+          "ai_status": "",
+          "favorite_count": 1459,
+          "retweet_count": 86
+        }
+      ]
+    },
+    {
+      "date": "2026-05-15",
+      "created_at": "2026-05-15T02:41:09Z",
+      "sentiment": "Neutral",
+      "bull_count": 0,
+      "bear_count": 0,
+      "neutral_count": 1,
+      "mixed_count": 0,
+      "mention_count": 1,
+      "bull_weight": 0.0,
+      "bear_weight": 0.0,
+      "bull_share": null,
+      "importance": 4,
+      "confidence": 0,
+      "thesis_change": "MENTION",
+      "core_thesis": "",
+      "url": "https://x.com/aleabitoreddit/status/2055116243582247014",
+      "tweet_id": "2055116243582247014",
+      "items": [
+        {
+          "tweet_id": "2055116243582247014",
+          "is_reply": false,
+          "kind": "post",
+          "reply_signal_eligible": false,
+          "created_at": "2026-05-15T02:41:09Z",
+          "text": "I do like Harmonic Drive (6324) as the Western Leader (eg. harmonic reduction gear) at ~$4.2B MC.\n\nVery large part of robotics/humanoid BOM value.\n\nI actually like Leader Drive more (since it's cheaper for mass production, covers more parts). And maybe Sanhua for $TSLA Optimus. \n\nBut prefer to advance Western supply chains with my capital over ones in China. \n\nIt's not just profiting off markets, but what you want to get accomplished as well (helping advance US supply chains and Robotics leaders).",
+          "url": "https://x.com/aleabitoreddit/status/2055116243582247014",
+          "sentiment": "Neutral",
+          "importance": 4,
+          "thesis_change": "MENTION",
+          "summary_zh": "",
+          "plain_zh": "",
+          "core_thesis": "",
+          "why_it_matters": "",
+          "history_note": "",
+          "catalysts": [],
+          "risks": [],
+          "confidence": 0,
+          "ai_status": "",
+          "favorite_count": 701,
+          "retweet_count": 56
+        }
+      ]
+    },
+    {
+      "date": "2026-05-20",
+      "created_at": "2026-05-20T00:14:37Z",
+      "sentiment": "Neutral",
+      "bull_count": 0,
+      "bear_count": 0,
+      "neutral_count": 1,
+      "mixed_count": 0,
+      "mention_count": 1,
+      "bull_weight": 0.0,
+      "bear_weight": 0.0,
+      "bull_share": null,
+      "importance": 2,
+      "confidence": 0,
+      "thesis_change": "MENTION",
+      "core_thesis": "",
+      "url": "https://x.com/aleabitoreddit/status/2056891308934148253",
+      "tweet_id": "2056891308934148253",
+      "items": [
+        {
+          "tweet_id": "2056891308934148253",
+          "is_reply": false,
+          "kind": "post",
+          "reply_signal_eligible": false,
+          "created_at": "2026-05-20T00:14:37Z",
+          "text": "Who could have thought China was holding all the cards over humanoid mass production?\n\nReally if America sees a future in $TSLA or Figure robotics programs.\n\nMaybe it’s time to start pouring more funding sovereign rare earths supply chains.\n\nWhatever we’re doing now isnt enough. https://t.co/VQXh9otLMi",
+          "url": "https://x.com/aleabitoreddit/status/2056891308934148253",
+          "sentiment": "Neutral",
+          "importance": 2,
+          "thesis_change": "MENTION",
+          "summary_zh": "",
+          "plain_zh": "",
+          "core_thesis": "",
+          "why_it_matters": "",
+          "history_note": "",
+          "catalysts": [],
+          "risks": [],
+          "confidence": 0,
+          "ai_status": "",
+          "favorite_count": 1336,
+          "retweet_count": 123
+        }
+      ]
+    },
+    {
+      "date": "2026-05-25",
+      "created_at": "2026-05-25T17:49:06Z",
+      "sentiment": "Neutral",
+      "bull_count": 0,
+      "bear_count": 0,
+      "neutral_count": 1,
+      "mixed_count": 0,
+      "mention_count": 1,
+      "bull_weight": 0.0,
+      "bear_weight": 0.0,
+      "bull_share": null,
+      "importance": 3,
+      "confidence": 0,
+      "thesis_change": "MENTION",
+      "core_thesis": "",
+      "url": "https://x.com/aleabitoreddit/status/2058968617681899915",
+      "tweet_id": "2058968617681899915",
+      "items": [
+        {
+          "tweet_id": "2058968617681899915",
+          "is_reply": false,
+          "kind": "post",
+          "reply_signal_eligible": false,
+          "created_at": "2026-05-25T17:49:06Z",
+          "text": "I’m fully convinced the Stock Market secretly revolves around building the Death Star and Battle Droids:\n\n$RKLB / $SPCX / $PL = Death Star\n\n$LASR / $SIVE = Laser Beams\n\n$TSLA / Unitree = Battle Droids https://t.co/C53qKjWrS8",
+          "url": "https://x.com/aleabitoreddit/status/2058968617681899915",
+          "sentiment": "Neutral",
+          "importance": 3,
+          "thesis_change": "MENTION",
+          "summary_zh": "",
+          "plain_zh": "",
+          "core_thesis": "",
+          "why_it_matters": "",
+          "history_note": "",
+          "catalysts": [],
+          "risks": [],
+          "confidence": 0,
+          "ai_status": "",
+          "favorite_count": 2494,
+          "retweet_count": 147
+        }
+      ]
+    },
+    {
+      "date": "2026-05-26",
+      "created_at": "2026-05-26T14:28:43Z",
+      "sentiment": "Bearish",
+      "bull_count": 0,
+      "bear_count": 1,
+      "neutral_count": 0,
+      "mixed_count": 0,
+      "mention_count": 1,
+      "bull_weight": 0.0,
+      "bear_weight": 1.8,
+      "bull_share": 0.0,
+      "importance": 3,
+      "confidence": 0,
+      "thesis_change": "UPDATE",
+      "core_thesis": "",
+      "url": "https://x.com/aleabitoreddit/status/2059280575203328398",
+      "tweet_id": "2059280575203328398",
+      "items": [
+        {
+          "tweet_id": "2059280575203328398",
+          "is_reply": false,
+          "kind": "post",
+          "reply_signal_eligible": false,
+          "created_at": "2026-05-26T14:28:43Z",
+          "text": "Well $VPG ended up tripling since my thesis post.\n\nI got the ASP wrong in my original thesis, was $150 mass production rather than ~$750 midpoint quoted by management.\n\nAnd $TSLA design out risk made me cut concentration.\n\nBut 3x regardless not too shabby. https://t.co/ksB8ZrnnEg",
+          "url": "https://x.com/aleabitoreddit/status/2059280575203328398",
+          "sentiment": "Bearish",
+          "importance": 3,
+          "thesis_change": "UPDATE",
+          "summary_zh": "",
+          "plain_zh": "",
+          "core_thesis": "",
+          "why_it_matters": "",
+          "history_note": "",
+          "catalysts": [],
+          "risks": [],
+          "confidence": 0,
+          "ai_status": "",
+          "favorite_count": 692,
+          "retweet_count": 35
+        }
+      ]
+    },
+    {
+      "date": "2026-06-08",
+      "created_at": "2026-06-08T05:11:38Z",
+      "sentiment": "Neutral",
+      "bull_count": 0,
+      "bear_count": 0,
+      "neutral_count": 1,
+      "mixed_count": 0,
+      "mention_count": 1,
+      "bull_weight": 0.0,
+      "bear_weight": 0.0,
+      "bull_share": null,
+      "importance": 4,
+      "confidence": 0,
+      "thesis_change": "UPDATE",
+      "core_thesis": "",
+      "url": "https://x.com/aleabitoreddit/status/2063851425462173726",
+      "tweet_id": "2063851425462173726",
+      "items": [
+        {
+          "tweet_id": "2063851425462173726",
+          "is_reply": false,
+          "kind": "post",
+          "reply_signal_eligible": false,
+          "created_at": "2026-06-08T05:11:38Z",
+          "text": "I do think LeaderDrive (688017) is China's standout component leader in the robotics sector.\n\nI've done a lot of research on other robotics picks / $TSLA Optimus suppliers, but LeaderDrive is extremely unique.\n\nCompared to others doing lower margin assembly, or lower value components, with higher design out risk.\n\nWestern institutions like Goldman Sachs Research flags LeaderDrive many times:\n\n-> As a company with high technology barriers (eg. harmonic reduction gear).\n\n-> and likely capturing high component value costs like planetary roller screws of each humanoid produced.\n\nIn simpler terms with LeaderDrive, you cover:\n\n1. Many different components, with high barrier to entry\n2. High BOM of each humanoid made, if you combine them together\n3. Mass production capability at low cost.\n\nFor each humanoid made.\n\nPlease do your research on this topic before making your own decision; but long-term if you believe in humanoid sector growth: I think LeaderDrive (688017) is very compelling.\n\nRisk is mainly coming from other emerging Chinese companies taking over market share of different individual components. \n\nAs well as mass-production margins decreasing over time; as seen with $VPG going from $750 (for early stage pre-production) -> $150 for sensors. \n\nBut in general, I don't believe companies outside China like Harmonic Drive (6324) can achieve the same costs for mass production, which is why $TSLA Optimus is creating extensive supply chains from China.   \n\nSo we'll likely see supply chains be bifurcated with cheap mass production $15k-20K humanoids from Chinese supply chains. And higher cost humanoids from Western supply chains.\n\nAgain if you look at current P/E ratios and say it's high; a lot of it is misunderstanding comes from not looking at forward growth:\n\nNothing has been mass produced yet.  AGIbot has recently achieved 10k units produced back in March.\n\nBut in the next 3-5 years, the TAM of the humanoid/robotics sector forecasted by Elon Musk and others very large, if he's expecting millions of humanoids to be produced a year. \n\nSo my expectation is the current $10.65B MC would look very tiny in hindsight of LeaderDrive's market capture of the overall robotics market.\n\nSo I don't believe thesis like this should be measured in short term timeframes (or that people should actively trade names like these).\n\nMoreso a long term investment idea about how this company could capture a material part of the overall humanoid market that exponentially grows over the next few years.",
+          "url": "https://x.com/aleabitoreddit/status/2063851425462173726",
+          "sentiment": "Neutral",
+          "importance": 4,
+          "thesis_change": "UPDATE",
+          "summary_zh": "",
+          "plain_zh": "",
+          "core_thesis": "",
+          "why_it_matters": "",
+          "history_note": "",
+          "catalysts": [],
+          "risks": [],
+          "confidence": 0,
+          "ai_status": "",
+          "favorite_count": 1039,
+          "retweet_count": 82
+        }
+      ]
+    },
+    {
+      "date": "2026-06-24",
+      "created_at": "2026-06-24T05:36:52Z",
+      "sentiment": "Neutral",
+      "bull_count": 0,
+      "bear_count": 0,
+      "neutral_count": 1,
+      "mixed_count": 0,
+      "mention_count": 1,
+      "bull_weight": 0.0,
+      "bear_weight": 0.0,
+      "bull_share": null,
+      "importance": 4,
+      "confidence": 0,
+      "thesis_change": "UPDATE",
+      "core_thesis": "",
+      "url": "https://x.com/aleabitoreddit/status/2069655980456149142",
+      "tweet_id": "2069655980456149142",
+      "items": [
+        {
+          "tweet_id": "2069655980456149142",
+          "is_reply": false,
+          "kind": "post",
+          "reply_signal_eligible": false,
+          "created_at": "2026-06-24T05:36:52Z",
+          "text": "Don’t quite think “siphoned off” is the correct term. \n\nIt’s capex for massive revenue increase or margin increase down the line.\n\n$AMZN is probably my favorite hyperscaler right now and example to give.\n\nAmazon’s headcount is absurd, like ~1.57M. If the capex goes into automating their workforce with LLMs.\n\nThen transitioning into physical AI:\n\n- things from self driving (deliveries)\n- robotics (Amazon warehouses, shipping automation).\n\n+ revenue increase from building out AWS compute with Trainium and possibly selling chips too with the Neocloud strat.\n\nIt’s probably the clearest path forward compared to every hyperscaler out there. \n\n$TSLA optimus use case targets is extremely broad as a pitch, but Amazon already has a specific reason to scale robotics for internal opex optimization.\n\nAs for $GOOGL, probably 2nd right now, AI capex was necessary for defending its Google Search moat Gemini from ChatGPT\n\nThey also have Google Cloud revenue with efficient TPUs + can sell TPUs like Nvidia GPUs.\n\nGemini user volumes keep going up (despite the lack of contention in frontier benchmarks); and AI strategy to be working for ad optimization too.\n\nBut there’s less clear paths with physical AI stuff ig?\n\nMicrosoft and Meta are still trying to convince the market why capex is necessary, (we’re kinda seeing that in effect with Meta’s 30%+ Y/Y revenue growth), but doesn’t look like they’re convinced. \n\nAs for market narratives, Microsoft Maia seems to be behind, their AI development was stunted from OpenAi investments, so sentiment is kinda in the ground. \n\nBut think that will change down the road like the 180 with Google.\n\nI’m sure all the hyperscalers are seeing the leader effect right now:\n\nIf you have the leading LLM, people will keep using it. That LLM gets smarter from all the training data; and that gap might be structural.\n\nWhich is why everyone is kinda rushing the buildout right now, but for some the immediate incentives seem obvious.",
+          "url": "https://x.com/aleabitoreddit/status/2069655980456149142",
+          "sentiment": "Neutral",
+          "importance": 4,
+          "thesis_change": "UPDATE",
+          "summary_zh": "",
+          "plain_zh": "",
+          "core_thesis": "",
+          "why_it_matters": "",
+          "history_note": "",
+          "catalysts": [],
+          "risks": [],
+          "confidence": 0,
+          "ai_status": "",
+          "favorite_count": 954,
+          "retweet_count": 70
+        }
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "created_at": "2026-06-25T03:45:23Z",
+      "sentiment": "Neutral",
+      "bull_count": 0,
+      "bear_count": 0,
+      "neutral_count": 1,
+      "mixed_count": 0,
+      "mention_count": 1,
+      "bull_weight": 0.0,
+      "bear_weight": 0.0,
+      "bull_share": null,
+      "importance": 4,
+      "confidence": 0,
+      "thesis_change": "MENTION",
+      "core_thesis": "",
+      "url": "https://x.com/aleabitoreddit/status/2069990311296975133",
+      "tweet_id": "2069990311296975133",
+      "items": [
+        {
+          "tweet_id": "2069990311296975133",
+          "is_reply": false,
+          "kind": "post",
+          "reply_signal_eligible": false,
+          "created_at": "2026-06-25T03:45:23Z",
+          "text": "Very interesting statement today: $MU CEO predicts a multi-decade memory demand cycle driven by humanoid robots.\n\n\"Humanoid robots, he says, will require roughly ten times more memory than today’s Level 2+ autonomous vehicles.\"\n\n\"And that demand wave is set to begin before the decade is out.\"\n\nSomething as well as was \"Over time, we expect the value of on-device AI combined with pent-up unit replacement demand to drive memory demand growth\"\n\nWhich is also another trend (Apple Intelligence is currently dog, but I'm sure we'll see innovations with localized/edge AI). \n\nFeels like all the industry leaders from $TSM Chairman, $TSLA Elon Musk, to $MU CEO see humanoids as the next major trend so physical AI is probably next. \n\nI wonder if the world is going to have enough memory. Or if we'll see enough breakthroughs to shrink memory usage.",
+          "url": "https://x.com/aleabitoreddit/status/2069990311296975133",
+          "sentiment": "Neutral",
+          "importance": 4,
+          "thesis_change": "MENTION",
+          "summary_zh": "",
+          "plain_zh": "",
+          "core_thesis": "",
+          "why_it_matters": "",
+          "history_note": "",
+          "catalysts": [],
+          "risks": [],
+          "confidence": 0,
+          "ai_status": "",
+          "favorite_count": 3547,
+          "retweet_count": 389
+        }
+      ]
+    },
+    {
+      "date": "2026-06-27",
+      "created_at": "2026-06-27T08:42:45Z",
+      "sentiment": "Neutral",
+      "bull_count": 0,
+      "bear_count": 0,
+      "neutral_count": 1,
+      "mixed_count": 0,
+      "mention_count": 1,
+      "bull_weight": 0.0,
+      "bear_weight": 0.0,
+      "bull_share": null,
+      "importance": 3,
+      "confidence": 0,
+      "thesis_change": "MENTION",
+      "core_thesis": "",
+      "url": "https://x.com/aleabitoreddit/status/2070789923108798545",
+      "tweet_id": "2070789923108798545",
+      "items": [
+        {
+          "tweet_id": "2070789923108798545",
+          "is_reply": false,
+          "kind": "post",
+          "reply_signal_eligible": false,
+          "created_at": "2026-06-27T08:42:45Z",
+          "text": "Robotics is next. \n\nBoth deal count and investment amounts are skyrocketing per pitchbook March data (source: a16z)\n\nGood thing is: the same AI DC exposure often has cross-exposure to humanoid ramp.\n\nLike DRAM/NAND with memory (on humanoid inference/storage) or DFB lasers with photonics (FMCW LiDAR vision/sensing).\n\nRight now most exposure is upstream component parts… or programs within large players like $AMZN or $TSLA. \n\nSo global IPO season H2 into 2027 for pure play humanoids/robotics companies is going to be fun.",
+          "url": "https://x.com/aleabitoreddit/status/2070789923108798545",
+          "sentiment": "Neutral",
+          "importance": 3,
+          "thesis_change": "MENTION",
+          "summary_zh": "",
+          "plain_zh": "",
+          "core_thesis": "",
+          "why_it_matters": "",
+          "history_note": "",
+          "catalysts": [],
+          "risks": [],
+          "confidence": 0,
+          "ai_status": "",
+          "favorite_count": 4734,
+          "retweet_count": 504
+        }
+      ]
+    },
+    {
+      "date": "2026-06-28",
+      "created_at": "2026-06-28T09:32:04Z",
+      "sentiment": "Bullish",
+      "bull_count": 1,
+      "bear_count": 0,
+      "neutral_count": 0,
+      "mixed_count": 0,
+      "mention_count": 1,
+      "bull_weight": 3.0,
+      "bear_weight": 0.0,
+      "bull_share": 1.0,
+      "importance": 5,
+      "confidence": 0,
+      "thesis_change": "MENTION",
+      "core_thesis": "",
+      "url": "https://x.com/aleabitoreddit/status/2071164721299112316",
+      "tweet_id": "2071164721299112316",
+      "items": [
+        {
+          "tweet_id": "2071164721299112316",
+          "is_reply": false,
+          "kind": "post",
+          "reply_signal_eligible": false,
+          "created_at": "2026-06-28T09:32:04Z",
+          "text": "Yup, Schaeffler $SHA0 is the ideal example for automotive players.\n\n~ €7.47B MC auto player.\n- but also working with 45 humanoid players (extremely insane number, they do have €5.14b debt, EV is higher)\n- covers bearings, gearboxes, sensors/ECUs, actuators, power electronics.\n-ests. They can be roughly 50% BOM of a humanoid \n- targeting 10% market share of that.\n\nBut only projecting a few hundred million revenue by 2030 (extremely sandbagged) if we’re using Elon’s projections for the market.\n\nThen’s theres auto players like Nabtesco (6268) for joints. And then Sanhua in China for $TSLA Optimus.\n\nMany of them are trade at lower valuations from drag from auto.\n\nBut humanoids + AI Auto (TSM chairman cited this as a growth vector) should be a good catalyst past 2027 for automotive players. \n\nIMO there just needs to be a ChatGPT/Anthropic breakout downstream leader first for humanoids.\n\nThat brings up the entire ecosystem that has robotics exposure. \n\nBut as of now it’s probably like 1% of many of their overall revenue figures, and markets are focusing on immediate upside from bottlenecks like memory or MLCC.\n\nI’m sure we’ll see some random Toto-HBM type surprise as different humanoid architecture evolve.",
+          "url": "https://x.com/aleabitoreddit/status/2071164721299112316",
+          "sentiment": "Bullish",
+          "importance": 5,
+          "thesis_change": "MENTION",
+          "summary_zh": "",
+          "plain_zh": "",
+          "core_thesis": "",
+          "why_it_matters": "",
+          "history_note": "",
+          "catalysts": [],
+          "risks": [],
+          "confidence": 0,
+          "ai_status": "",
+          "favorite_count": 985,
+          "retweet_count": 74
+        }
+      ]
+    },
+    {
+      "date": "2026-06-29",
+      "created_at": "2026-06-29T05:26:31Z",
+      "sentiment": "Neutral",
+      "bull_count": 0,
+      "bear_count": 0,
+      "neutral_count": 1,
+      "mixed_count": 0,
+      "mention_count": 1,
+      "bull_weight": 0.0,
+      "bear_weight": 0.0,
+      "bull_share": null,
+      "importance": 3,
+      "confidence": 0,
+      "thesis_change": "MENTION",
+      "core_thesis": "",
+      "url": "https://x.com/aleabitoreddit/status/2071465314794233905",
+      "tweet_id": "2071465314794233905",
+      "items": [
+        {
+          "tweet_id": "2071465314794233905",
+          "is_reply": false,
+          "kind": "post",
+          "reply_signal_eligible": false,
+          "created_at": "2026-06-29T05:26:31Z",
+          "text": "Honestly this decade from 2020-2030 might be the most goated in human history.\n\n- Scaling massive reusable rockets for orbital compute with $RKLB to $SPCX.\n\n- on the cusp of ASI and recursive learning with Anthropic and OpenAI \n\n- Backflipping Boston Dynamics and Unitree humanoids to replace the human workforce\n\n- Star Wars laser beams from $EOS.ASX to AI DC lasers like $LITE.\n\n- Waymo and $TSLA self driving cars everywhere in urban cities\n\n- and we get industry Quantum commercialization end of decade\n\nThis is kinda crazy to be an investor in this timeframe. Feels like every movie from the Star Wars Death Star to Skynet is coming to life.\n\nWhat’s next?",
+          "url": "https://x.com/aleabitoreddit/status/2071465314794233905",
+          "sentiment": "Neutral",
+          "importance": 3,
+          "thesis_change": "MENTION",
+          "summary_zh": "",
+          "plain_zh": "",
+          "core_thesis": "",
+          "why_it_matters": "",
+          "history_note": "",
+          "catalysts": [],
+          "risks": [],
+          "confidence": 0,
+          "ai_status": "",
+          "favorite_count": 3003,
+          "retweet_count": 267
+        }
+      ]
+    },
+    {
+      "date": "2026-06-30",
+      "created_at": "2026-06-30T15:20:39Z",
+      "sentiment": "Neutral",
+      "bull_count": 0,
+      "bear_count": 0,
+      "neutral_count": 1,
+      "mixed_count": 0,
+      "mention_count": 1,
+      "bull_weight": 0.0,
+      "bear_weight": 0.0,
+      "bull_share": null,
+      "importance": 2,
+      "confidence": 0,
+      "thesis_change": "MENTION",
+      "core_thesis": "",
+      "url": "https://x.com/aleabitoreddit/status/2071977219002613768",
+      "tweet_id": "2071977219002613768",
+      "items": [
+        {
+          "tweet_id": "2071977219002613768",
+          "is_reply": false,
+          "kind": "post",
+          "reply_signal_eligible": false,
+          "created_at": "2026-06-30T15:20:39Z",
+          "text": "I wonder if humanoids is going to spark a new bottleneck/industry for robot cosmetics.\n\nLike a skin bottleneck. Or Aespa KPOP robot makeover as a service.\n\nSo if $TSLA Optimus makes tens of millions of humanoids:\n\nWho’s going to make them all look hot?",
+          "url": "https://x.com/aleabitoreddit/status/2071977219002613768",
+          "sentiment": "Neutral",
+          "importance": 2,
+          "thesis_change": "MENTION",
+          "summary_zh": "",
+          "plain_zh": "",
+          "core_thesis": "",
+          "why_it_matters": "",
+          "history_note": "",
+          "catalysts": [],
+          "risks": [],
+          "confidence": 0,
+          "ai_status": "",
+          "favorite_count": 1534,
+          "retweet_count": 57
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "created_at": "2026-07-01T17:09:49Z",
+      "sentiment": "Neutral",
+      "bull_count": 0,
+      "bear_count": 0,
+      "neutral_count": 1,
+      "mixed_count": 0,
+      "mention_count": 1,
+      "bull_weight": 0.0,
+      "bear_weight": 0.0,
+      "bull_share": null,
+      "importance": 4,
+      "confidence": 0,
+      "thesis_change": "MENTION",
+      "core_thesis": "",
+      "url": "https://x.com/aleabitoreddit/status/2072367082248040621",
+      "tweet_id": "2072367082248040621",
+      "items": [
+        {
+          "tweet_id": "2072367082248040621",
+          "is_reply": false,
+          "kind": "post",
+          "reply_signal_eligible": false,
+          "created_at": "2026-07-01T17:09:49Z",
+          "text": "Just dropping these 3 slides from Agility Robotics ( $CCXI ) presentations.\n\nFor the US robotic program doomposters:\n\n1. “75% of parts” - sourced from the USA\n\n2. Just eyeballing the graph, looks like <$30k BOM mass production.\n\nPeople were just looking at the ~$145K cost. \n\n3. 10,000 RoboFab capacity, and they build in Salem/Pittsburgh/Fremont (USA).\n\nSo looks like majority US supply chains with targets of <$30K mass production\n\nIt does help they’re backed by $AMZN / SoftBank / Foxconn / $NVDA as investors to get this done.\n\nJust personal thoughts as a shareholder in $CCXI (NFA):\n\nMy personal biggest fear were US humanoid leaders like $TSLA were just building out their entire supply chains in China.\n\nSo US robotics could just be export controlled/halted down the road.\n\neg. South China Morning Post: ‘Optimus chain’: Chinese suppliers form the backbone of Tesla’s humanoid robot initiative and engaged with hundreds of Chinese component suppliers. \n\nAnd that Western companies are not able to lower costs to a competitive level + are forced to use Chinese components. \n\nI'm still not sure how they're going to do it but if Agility can achieve those mass production targets with that BOM cost in the USA/West. \n\nIt would be a great validation for Made in America US robotics programs. \n\nIMO the top 5 US humanoid programs right now in terms of commercialization potential are:\n\n1. Tesla Optimus\n2. Figure\n3. Agility Robotics\n4. Boston Dynamics (yeah KR parent)\n5. Apptronik\n\nTesla is a $1T+ company. Figure is private and valued around ~$39B. Owning Boston Dynamics through Hyundai is a bit messy.\n\nAnd I’d prefer not to invest in adversarial programs just as a personal preference.\n\nSo I’ve been personally excited for Agility to be listed as early as September.",
+          "url": "https://x.com/aleabitoreddit/status/2072367082248040621",
+          "sentiment": "Neutral",
+          "importance": 4,
+          "thesis_change": "MENTION",
+          "summary_zh": "",
+          "plain_zh": "",
+          "core_thesis": "",
+          "why_it_matters": "",
+          "history_note": "",
+          "catalysts": [],
+          "risks": [],
+          "confidence": 0,
+          "ai_status": "",
+          "favorite_count": 1493,
+          "retweet_count": 151
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "created_at": "2026-07-02T17:57:47Z",
+      "sentiment": "Neutral",
+      "bull_count": 0,
+      "bear_count": 0,
+      "neutral_count": 2,
+      "mixed_count": 0,
+      "mention_count": 2,
+      "bull_weight": 0.0,
+      "bear_weight": 0.0,
+      "bull_share": null,
+      "importance": 3,
+      "confidence": 0,
+      "thesis_change": "MENTION",
+      "core_thesis": "",
+      "url": "https://x.com/aleabitoreddit/status/2072741541404406008",
+      "tweet_id": "2072741541404406008",
+      "items": [
+        {
+          "tweet_id": "2072630036600103340",
+          "is_reply": false,
+          "kind": "post",
+          "reply_signal_eligible": false,
+          "created_at": "2026-07-02T10:34:42Z",
+          "text": "I just realized Boston Dynamics CEO shared the same sentiment:\n\n“Robotics is next. America’s next 250 years will be built by robots”.\n\nHowever, currently China accounts for 54%+ of all global robotics deployments.\n\n- calls for Internet scaleable database of physical world (kinda got reminded of Niantic that has a huge dataset from Pokemon Go)\n\n- dedicated National robotics strategy to compete against China’s leadership in this space\n\n-  ISO + regulation for robotics safety \n\nThis is all high level:\n\nBut my prioritize thought process is how do we support and scale a Made in USA supply chain for robotics/humanoids?\n\nI’ve been hammering home rare earths for the longest time, that the US isn’t doing enough to subsidize or scale this industry.\n\nBut another thing to take note is subsidies for components, forcing $TSLA and others to use Chinese suppliers over Western ones, even if assembly is done in USA… to keep costs down.\n\nWhich is why I’ve liked Agility Robotics $CCXI since they source 75% of parts from the US, despite higher BOM to start out with.\n\nRegardless it’s pretty clear this Robotics is coming and becoming a national security priority:\n\nFrom the days of backflipping humanoid YT videos.",
+          "url": "https://x.com/aleabitoreddit/status/2072630036600103340",
+          "sentiment": "Neutral",
+          "importance": 3,
+          "thesis_change": "MENTION",
+          "summary_zh": "",
+          "plain_zh": "",
+          "core_thesis": "",
+          "why_it_matters": "",
+          "history_note": "",
+          "catalysts": [],
+          "risks": [],
+          "confidence": 0,
+          "ai_status": "",
+          "favorite_count": 1482,
+          "retweet_count": 130
+        },
+        {
+          "tweet_id": "2072741541404406008",
+          "is_reply": false,
+          "kind": "post",
+          "reply_signal_eligible": false,
+          "created_at": "2026-07-02T17:57:47Z",
+          "text": "Agility Robotics is literally the #1 humanoid player in the US in terms of commercialization today imo. \n\nPersonal Rankings:\n\n1. Agility Robotics via $CCXI \n2. $TSLA Optimus ($1T+ company)\n3. Figure at $39B from 2025, likely higher now.\n\nWith Tesla likely taking the lead a year from now. So at  $16, you have a ~$4B MC pre-money humanoid player.\n\nWhich is already inside $AMZN and $MELI (ideal use cases to start out, before step-functioning to general-use), with $AMZN, $NVDA, Softbank, Foxconn, and others as investors.\n\nNFA, but at those valuations... there's direct exposure for the first ever humanoid player today, that's likely further ahead than Figure for commercialization. \n\nNo hard feelings about Robostrategy, but it's over 4x+ NAV: \n\nWhich would value Figure at $156B...  \n\nWhile there's the #1 commercialized humanoid player with Agility at $4B today. \n\nSo my personal preference is $CCXI.",
+          "url": "https://x.com/aleabitoreddit/status/2072741541404406008",
+          "sentiment": "Neutral",
+          "importance": 3,
+          "thesis_change": "MENTION",
+          "summary_zh": "",
+          "plain_zh": "",
+          "core_thesis": "",
+          "why_it_matters": "",
+          "history_note": "",
+          "catalysts": [],
+          "risks": [],
+          "confidence": 0,
+          "ai_status": "",
+          "favorite_count": 1360,
+          "retweet_count": 107
+        }
+      ]
+    },
+    {
+      "date": "2026-07-05",
+      "created_at": "2026-07-05T20:32:55Z",
+      "sentiment": "Neutral",
+      "bull_count": 0,
+      "bear_count": 0,
+      "neutral_count": 1,
+      "mixed_count": 0,
+      "mention_count": 1,
+      "bull_weight": 0.0,
+      "bear_weight": 0.0,
+      "bull_share": null,
+      "importance": 3,
+      "confidence": 0,
+      "thesis_change": "MENTION",
+      "core_thesis": "",
+      "url": "https://x.com/aleabitoreddit/status/2073867745243127973",
+      "tweet_id": "2073867745243127973",
+      "items": [
+        {
+          "tweet_id": "2073867745243127973",
+          "is_reply": false,
+          "kind": "post",
+          "reply_signal_eligible": false,
+          "created_at": "2026-07-05T20:32:55Z",
+          "text": "Came across an interesting report from SVRC Research called \"State of Robotics 2026\", published in April. \n\nWhich listed:\n\n1. Figure AI \n2. Agility Robotics $CCXI\n3. Apptronik \n4. $TSLA \n5. Boston Dynamics\n6. Physical Intelligence \n7. 1X Technologies\n8. $AMZN Robotics\n9. Covariant\n10. Skild AI \n\nAs the National Champions of the United States robotics program. \n\n\"The United States leads the world in where robotics is heading: Fundation models, OpenAI-style scaling laws applied to action, autonomous vehicles. \n\nWhile losing the race on where robotics is shipping today.\" \n\nThen it frames:\n\n1. Rare Earths Exposure: from Neodymium for motors to samarium-cobalt for high-temp applications as a critical vulnerability.\n\n2. Actuator dependency. Series elastic actuators, quasi-direct-drive motors, and precision reducers overwhelmingly sourced from Japan, Germany, and China\n\nAs one of the main vulnerabilities alongside Manufacturing velocity/data collection cost/regulations. Then their take was: \n\n\"With at least six well-funded US humanoid companies competing for a market still in early formation, we expect at least two significant consolidation events (acquisition or merger) in 2027\". \n\nWith Logistics / E-commerce (like $AMZN / $FDX) and Automotive from $GM to $FORD as being the immediate top use cases for deployment.\n\nI think it's just interesting to see a lot of my points I've been talking about reiterated by research firms. Regardless, I do think it's going to be a major frontier race between the US and China. \n\nAgility Robotics (which I own), Tesla, Figure, and Apptronik as leaders representing the USA. Competing against Unitree, AGIbot, Ubtech, and others in China.",
+          "url": "https://x.com/aleabitoreddit/status/2073867745243127973",
+          "sentiment": "Neutral",
+          "importance": 3,
+          "thesis_change": "MENTION",
+          "summary_zh": "",
+          "plain_zh": "",
+          "core_thesis": "",
+          "why_it_matters": "",
+          "history_note": "",
+          "catalysts": [],
+          "risks": [],
+          "confidence": 0,
+          "ai_status": "",
+          "favorite_count": 1493,
+          "retweet_count": 150
+        }
+      ]
+    },
+    {
+      "date": "2026-07-07",
+      "created_at": "2026-07-07T17:39:23Z",
+      "sentiment": "Neutral",
+      "bull_count": 0,
+      "bear_count": 0,
+      "neutral_count": 1,
+      "mixed_count": 0,
+      "mention_count": 1,
+      "bull_weight": 0.0,
+      "bear_weight": 0.0,
+      "bull_share": null,
+      "importance": 3,
+      "confidence": 0,
+      "thesis_change": "MENTION",
+      "core_thesis": "",
+      "url": "https://x.com/aleabitoreddit/status/2074548850996707412",
+      "tweet_id": "2074548850996707412",
+      "items": [
+        {
+          "tweet_id": "2074548850996707412",
+          "is_reply": false,
+          "kind": "post",
+          "reply_signal_eligible": false,
+          "created_at": "2026-07-07T17:39:23Z",
+          "text": "How is the US so far behind?\n\nXinhua: China's output of humanoids are expected to hit 100,000+ this year. \n\nEven Morgan Stanley originally projected 14,000 for 2026... \n\nReally need Elon's $TSLA, $CCXI (Agility), Apptronik, and Figure to catchup. And for more US Gov. subsidies to pour into upstream supply chains + rare earths. \n\nCause this disparity between US vs. China mass production is getting ridiculous... \n\nBut it almost feels like the start of Russia/US Space race Sputnik Moment for robotics?",
+          "url": "https://x.com/aleabitoreddit/status/2074548850996707412",
+          "sentiment": "Neutral",
+          "importance": 3,
+          "thesis_change": "MENTION",
+          "summary_zh": "",
+          "plain_zh": "",
+          "core_thesis": "",
+          "why_it_matters": "",
+          "history_note": "",
+          "catalysts": [],
+          "risks": [],
+          "confidence": 0,
+          "ai_status": "",
+          "favorite_count": 1142,
+          "retweet_count": 71
+        }
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "created_at": "2026-07-09T19:35:56Z",
+      "sentiment": "Bullish",
+      "bull_count": 1,
+      "bear_count": 0,
+      "neutral_count": 0,
+      "mixed_count": 0,
+      "mention_count": 1,
+      "bull_weight": 1.8,
+      "bear_weight": 0.0,
+      "bull_share": 1.0,
+      "importance": 3,
+      "confidence": 0,
+      "thesis_change": "UPDATE",
+      "core_thesis": "",
+      "url": "https://x.com/aleabitoreddit/status/2075302956581449892",
+      "tweet_id": "2075302956581449892",
+      "items": [
+        {
+          "tweet_id": "2075302956581449892",
+          "is_reply": false,
+          "kind": "post",
+          "reply_signal_eligible": false,
+          "created_at": "2026-07-09T19:35:56Z",
+          "text": "\"China is shipping ~90% of the world's humanoid robots. We cannot keep taking them lightly.\"\n\nElon's comment: \"For now\"\n\nMeanwhile, 1X today posts a video of the most advanced humanoid hand.\n\nLooks like the inflection point for American humanoid programs is here?\n\nBoth technologically with players like 1X and with mass production with $TSLA? \n\nI'm am personally long on Agility through $CCXI targeting commercialization with Amazon and others. \n\nBut I'm proud to see American robotics as a whole go brrrr.",
+          "url": "https://x.com/aleabitoreddit/status/2075302956581449892",
+          "sentiment": "Bullish",
+          "importance": 3,
+          "thesis_change": "UPDATE",
+          "summary_zh": "",
+          "plain_zh": "",
+          "core_thesis": "",
+          "why_it_matters": "",
+          "history_note": "",
+          "catalysts": [],
+          "risks": [],
+          "confidence": 0,
+          "ai_status": "",
+          "favorite_count": 1824,
+          "retweet_count": 143
+        }
+      ]
+    },
+    {
+      "date": "2026-07-12",
+      "created_at": "2026-07-12T10:12:33Z",
+      "sentiment": "Neutral",
+      "bull_count": 0,
+      "bear_count": 0,
+      "neutral_count": 1,
+      "mixed_count": 0,
+      "mention_count": 1,
+      "bull_weight": 0.0,
+      "bear_weight": 0.0,
+      "bull_share": null,
+      "importance": 3,
+      "confidence": 0,
+      "thesis_change": "MENTION",
+      "core_thesis": "",
+      "url": "https://x.com/aleabitoreddit/status/2076248337863639506",
+      "tweet_id": "2076248337863639506",
+      "items": [
+        {
+          "tweet_id": "2076248337863639506",
+          "is_reply": false,
+          "kind": "post",
+          "reply_signal_eligible": false,
+          "created_at": "2026-07-12T10:12:33Z",
+          "text": "So there's a IBK Research report on Boston Dynamics value chains from last month. \n\nJust a summary: \n\nIBK maps these companies to Atlas as suppliers:\n- Hwashin (010690) / body, arms, legs\n- LG Energy (373220) / battery \n- Hyundai Autoever (307950) / integration\n- Hyundai Mobis (012330) / actuators\n\nAs for humanoid volume ramps: \n\nThey're modeling for, 11.29K in 2028, 20k 2029, 30k in 2030... 40k in 2031, and 50k in 2032. \n\nNot quite sure why IBK and other institutions are a fan of linearly modeling S-curve volume ramps... \n\nLike adding +10K per year, don't quite think it's volume ramp is going to work like that... if I had to guess it would look more like: \n\n- 15-20k 2028\n- 40k-70k 2029\n- 90k-140k for 2030\n\nSince Boston Dynamics is projecting 30k capacity by 2028 (I'm sure they'd aim to get more online by 2029-2030), as China collectively is already doing 100k EOY in 2026.  \n\nIn terms of competitive landscape they name:\n\n- $TSLA, Figure, Apptronik, $CCXI (Agility), as US  players. Then Boston Dynamics (Korea parent owned now)\n- Unitree, Fourier, AGibot, UBtech, $XPEV as the Chinese leaders. \n- Neura, Pal Robotics, Wandercraft, Oversonic, as the EU leaders.  \n\nThey also did quite a lot of valuation modeling around Hyundai Mobis/Hyundai Autoever/Glovis. \n\nRegarding the BD economic ownership from 27.9% from Hyundai Motor, 11.3% from Mobis, and 11.3% from Glovis. So at least institution are valuing humanoid segments inside companies lot more now. \n\nThen from report assumptions:\n- 31 actuators per Atlas\n- $1K per actuator in 2028\n- $134K Atlas ASP,\n\nWhich implies actuator cost of final selling price is roughly 23–28%. \n\nProbably the more interesting statement was IBK stated that actuator capacity is biggest signal for volume ramp. eg. every 310,000 units of actuator capacity supports 10,000 more robots. \n\nSo tracking actuator outputs, yields, ASP is a cleaner read on 2028-2030 ramp.\n\nI didn't have much personal takeaways, but hopefully others find it interesting, maybe around Hwashin as a core supplier or around actuator capacity as an indicator.",
+          "url": "https://x.com/aleabitoreddit/status/2076248337863639506",
+          "sentiment": "Neutral",
+          "importance": 3,
+          "thesis_change": "MENTION",
+          "summary_zh": "",
+          "plain_zh": "",
+          "core_thesis": "",
+          "why_it_matters": "",
+          "history_note": "",
+          "catalysts": [],
+          "risks": [],
+          "confidence": 0,
+          "ai_status": "",
+          "favorite_count": 753,
+          "retweet_count": 70
+        }
+      ]
+    },
+    {
+      "date": "2026-07-13",
+      "created_at": "2026-07-13T00:45:13Z",
+      "sentiment": "Neutral",
+      "bull_count": 0,
+      "bear_count": 0,
+      "neutral_count": 1,
+      "mixed_count": 0,
+      "mention_count": 1,
+      "bull_weight": 0.0,
+      "bear_weight": 0.0,
+      "bull_share": null,
+      "importance": 4,
+      "confidence": 0,
+      "thesis_change": "UPDATE",
+      "core_thesis": "",
+      "url": "https://x.com/aleabitoreddit/status/2076467953995071881",
+      "tweet_id": "2076467953995071881",
+      "items": [
+        {
+          "tweet_id": "2076467953995071881",
+          "is_reply": false,
+          "kind": "post",
+          "reply_signal_eligible": false,
+          "created_at": "2026-07-13T00:45:13Z",
+          "text": "Just a semi recap TLDR:\n\n- $GLW glass bridge per Morgan Stanley has potential, but hard to displace FAU (like FOCI) in short term\n\n- $SPCX Starlink Gen 3 is scaling to 100,000 units (10x prev gen) creating possible capacity constraints for suppliers of switches to CCL.\n\n- PCB supply shortages are projected to persist until 2028, and component shortages/price hikes are already forcing ODMs like Inventec to issue  conservative H2 shipment\n\n- DeepSeek and Zhipu are developing custom ASICs to bypass $NVDA (kinda expected by now). \n\n- Anthropic has achieved a $30B ARR and is projected to hit >$1B in Q3 profit. Turns out these frontier labs are more profitable than people think. \n\n- US admin pressured $AAPL to source from $INTC, in exchange for tariff exception. Kinda pressuring alignment away from TSM.  \n\n- $TSM plans a 30x expansion of its Photonic Integrated Circuit (PIC)  capacity by 2028, growing from 500 to 25,000 wafers per month\n\n- Hanmi Semiconductor is entering the CoWoS packaging equipment market\n\n- $NVDA and NTT hosting a conference July 24th to discuss CPO strategies. \n\n- 5x general NAND flash price hike this year, market size $489B by next year triggered by RAG/inference. Samsung and SK Hynix make emergency fab investments, NAND equipment suppliers go brrrr.  \n\n- Gas turbine bottleneck, 40% supply gap accompanied by staggering 5-year delivery cycles (mega-fabs need them for mass production).\n\n- AI probe card assembly has hit a severe bottleneck apparently. Which is attempted to by solved with things like Innovation Service's machines. \n\n- Nanya, 79.5% gross margins reported, memory go brr. 4x capex for capacity/advanced packaging. \n\n- CXMT's STAR Market IPO on July 16, so should bring a lot of attention to memory players in that supply chain. \n\n- KYEC $1.4B investment into US for $TSM Arizona output test facilities. Lot of these players like $AMKR and others should go brr in 2028.\n\n- $INTC CEO warned last month that helium could hinder the manufacturing costs and delivery times of AI chips\n\n- 3D NAND word lines are shifting from Tungsten to Molybdenum starting at the 375-layer node\n\n- SambaNova secured JPM for AI inference and raised $1B at an $11B valuation.\n\n- HBM prices projections to double in 2027 as $NVDA Rubin platform drives demand.\n\n- $MU provides $500 million in funding to support GlobalWafers' US manufacturing capacity \n\n- $META 'Iris' will enter mass production in September  via $AVGO and TSMC and Meta aims to double computing power to 14GW by 2027.\n\n- Largan Precision has secured its first CPO FAU order, mass production slated for middle of next year (kinda indication around Foci and others). \n\n- Samsung and SK Hynix have delayed the implementation of hybrid bonding packaging technology for HBM4 apparently \n\n- Memory costs (DRAM/NAND) have reached 60% of the BOM for sub-$400 smartphones, causing a severe volume contraction.\n\n- SK Hynix successfully rasied $26.5 billion through a Nasdaq ADR\n\n- $TSLA issued procurement guidelines requiring suppliers to reach weekly production of 1,000 units by September and double to 2,000-2,500 by year end for its 3rd gen Optimus robot. Apparently Alliance Technology and A-Link may be in this supply chain harmonic reducers and vision lenses?\n\nKinda go through all this stuff every day, but don't wanna be a news reporter so just consolidated stuff I found interesting.",
+          "url": "https://x.com/aleabitoreddit/status/2076467953995071881",
+          "sentiment": "Neutral",
+          "importance": 4,
+          "thesis_change": "UPDATE",
+          "summary_zh": "",
+          "plain_zh": "",
+          "core_thesis": "",
+          "why_it_matters": "",
+          "history_note": "",
+          "catalysts": [],
+          "risks": [],
+          "confidence": 0,
+          "ai_status": "",
+          "favorite_count": 2035,
+          "retweet_count": 171
+        }
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "created_at": "2026-07-23T04:35:37Z",
+      "sentiment": "Bullish",
+      "bull_count": 1,
+      "bear_count": 0,
+      "neutral_count": 0,
+      "mixed_count": 0,
+      "mention_count": 1,
+      "bull_weight": 3.0,
+      "bear_weight": 0.0,
+      "bull_share": 1.0,
+      "importance": 5,
+      "confidence": 0,
+      "thesis_change": "UPDATE",
+      "core_thesis": "",
+      "url": "https://x.com/aleabitoreddit/status/2080149813065396454",
+      "tweet_id": "2080149813065396454",
+      "items": [
+        {
+          "tweet_id": "2080149813065396454",
+          "is_reply": false,
+          "kind": "post",
+          "reply_signal_eligible": false,
+          "created_at": "2026-07-23T04:35:37Z",
+          "text": "Just some notes from $TSLA transcripts:\n\nElon Musk: \"I think Optimus will be the biggest product ever\" from Q2 earnings transcripts.\n\nEven from Q1, Elon Stated: \"I think Optimus will be our biggest product. Not just Tesla's biggest product ever, but probably the biggest product ever.\n\nAnd I remain convinced of that conclusion\". \n\nIt's very rare to see such high conviction reiterated from Elon regarding humanoids both directionally and TAM-wise.\n\nIn terms of upstream suppliers opportunities, Karn Budhiraj, VP of $TSLA supply chains stated: \n\n\"We’re seeing the same level of investment going to memory and also new specific items like metal injection molded parts, flexible printed circuits, and all sorts of nonlinear technologies...\" \n\nAnd that they had to build new supply chains from scratch. So would be interesting to look at for new supply chain supplier opportunities apart from the known ones.  \n\nJust pulled older slides and it looks like capacity targets for Fremont are 1M and Giga Texas was 10M, so at scale, $TSLA seems to be the clear US leader. If you're looking at that S-Curve opportunity ramp. \n\nOn a side note, Elon also gave a shoutout to $MU with likely reasonably priced LTAs, given his statement: \n\n\"We really appreciate Micron making room for Tesla in the years to come and giving us actually a very significant allocation on reasonable terms given the pretty insane pricing of memory these days.\" (Just for structural memory demand).  \n\nElon also gave a shoutout to Panasonic which had invested many billions in increasing battery cell production (will need to do deeper DD into Panasonic after this), then Samsung and $TSM. \n\nJust takeaways from Tesla earnings TLDR: \n\nElon tends to be directionally correct on where the future is heading, such as with EV or Space. \n\nHe seems extremely bullish on humanoids.",
+          "url": "https://x.com/aleabitoreddit/status/2080149813065396454",
+          "sentiment": "Bullish",
+          "importance": 5,
+          "thesis_change": "UPDATE",
+          "summary_zh": "",
+          "plain_zh": "",
+          "core_thesis": "",
+          "why_it_matters": "",
+          "history_note": "",
+          "catalysts": [],
+          "risks": [],
+          "confidence": 0,
+          "ai_status": "",
+          "favorite_count": 1817,
+          "retweet_count": 127
+        }
+      ]
+    }
+  ],
+  "performance": {
+    "symbol": "TSLA",
+    "price": {
+      "symbol": "TSLA",
+      "price_symbol": "TSLA",
+      "name": "Tesla, Inc.",
+      "currency": "USD",
+      "exchange": "NMS",
+      "source": "Yahoo Finance chart endpoint",
+      "resolver": "direct",
+      "available": true,
+      "points": [
+        {
+          "date": "2025-11-21",
+          "close": 391.09
+        },
+        {
+          "date": "2025-11-24",
+          "close": 417.78
+        },
+        {
+          "date": "2025-11-25",
+          "close": 419.4
+        },
+        {
+          "date": "2025-11-26",
+          "close": 426.58
+        },
+        {
+          "date": "2025-11-28",
+          "close": 430.17
+        },
+        {
+          "date": "2025-12-01",
+          "close": 430.14
+        },
+        {
+          "date": "2025-12-02",
+          "close": 429.24
+        },
+        {
+          "date": "2025-12-03",
+          "close": 446.74
+        },
+        {
+          "date": "2025-12-04",
+          "close": 454.53
+        },
+        {
+          "date": "2025-12-05",
+          "close": 455.0
+        },
+        {
+          "date": "2025-12-08",
+          "close": 439.58
+        },
+        {
+          "date": "2025-12-09",
+          "close": 445.17
+        },
+        {
+          "date": "2025-12-10",
+          "close": 451.45
+        },
+        {
+          "date": "2025-12-11",
+          "close": 446.89
+        },
+        {
+          "date": "2025-12-12",
+          "close": 458.96
+        },
+        {
+          "date": "2025-12-15",
+          "close": 475.31
+        },
+        {
+          "date": "2025-12-16",
+          "close": 489.88
+        },
+        {
+          "date": "2025-12-17",
+          "close": 467.26
+        },
+        {
+          "date": "2025-12-18",
+          "close": 483.37
+        },
+        {
+          "date": "2025-12-19",
+          "close": 481.2
+        },
+        {
+          "date": "2025-12-22",
+          "close": 488.73
+        },
+        {
+          "date": "2025-12-23",
+          "close": 485.56
+        },
+        {
+          "date": "2025-12-24",
+          "close": 485.4
+        },
+        {
+          "date": "2025-12-26",
+          "close": 475.19
+        },
+        {
+          "date": "2025-12-29",
+          "close": 459.64
+        },
+        {
+          "date": "2025-12-30",
+          "close": 454.43
+        },
+        {
+          "date": "2025-12-31",
+          "close": 449.72
+        },
+        {
+          "date": "2026-01-02",
+          "close": 438.07
+        },
+        {
+          "date": "2026-01-05",
+          "close": 451.67
+        },
+        {
+          "date": "2026-01-06",
+          "close": 432.96
+        },
+        {
+          "date": "2026-01-07",
+          "close": 431.41
+        },
+        {
+          "date": "2026-01-08",
+          "close": 435.8
+        },
+        {
+          "date": "2026-01-09",
+          "close": 445.01
+        },
+        {
+          "date": "2026-01-12",
+          "close": 448.96
+        },
+        {
+          "date": "2026-01-13",
+          "close": 447.2
+        },
+        {
+          "date": "2026-01-14",
+          "close": 439.2
+        },
+        {
+          "date": "2026-01-15",
+          "close": 438.57
+        },
+        {
+          "date": "2026-01-16",
+          "close": 437.5
+        },
+        {
+          "date": "2026-01-20",
+          "close": 419.25
+        },
+        {
+          "date": "2026-01-21",
+          "close": 431.44
+        },
+        {
+          "date": "2026-01-22",
+          "close": 449.36
+        },
+        {
+          "date": "2026-01-23",
+          "close": 449.06
+        },
+        {
+          "date": "2026-01-26",
+          "close": 435.2
+        },
+        {
+          "date": "2026-01-27",
+          "close": 430.9
+        },
+        {
+          "date": "2026-01-28",
+          "close": 431.46
+        },
+        {
+          "date": "2026-01-29",
+          "close": 416.56
+        },
+        {
+          "date": "2026-01-30",
+          "close": 430.41
+        },
+        {
+          "date": "2026-02-02",
+          "close": 421.81
+        },
+        {
+          "date": "2026-02-03",
+          "close": 421.96
+        },
+        {
+          "date": "2026-02-04",
+          "close": 406.01
+        },
+        {
+          "date": "2026-02-05",
+          "close": 397.21
+        },
+        {
+          "date": "2026-02-06",
+          "close": 411.11
+        },
+        {
+          "date": "2026-02-09",
+          "close": 417.32
+        },
+        {
+          "date": "2026-02-10",
+          "close": 425.21
+        },
+        {
+          "date": "2026-02-11",
+          "close": 428.27
+        },
+        {
+          "date": "2026-02-12",
+          "close": 417.07
+        },
+        {
+          "date": "2026-02-13",
+          "close": 417.44
+        },
+        {
+          "date": "2026-02-17",
+          "close": 410.63
+        },
+        {
+          "date": "2026-02-18",
+          "close": 411.32
+        },
+        {
+          "date": "2026-02-19",
+          "close": 411.71
+        },
+        {
+          "date": "2026-02-20",
+          "close": 411.82
+        },
+        {
+          "date": "2026-02-23",
+          "close": 399.83
+        },
+        {
+          "date": "2026-02-24",
+          "close": 409.38
+        },
+        {
+          "date": "2026-02-25",
+          "close": 417.4
+        },
+        {
+          "date": "2026-02-26",
+          "close": 408.58
+        },
+        {
+          "date": "2026-02-27",
+          "close": 402.51
+        },
+        {
+          "date": "2026-03-02",
+          "close": 403.32
+        },
+        {
+          "date": "2026-03-03",
+          "close": 392.43
+        },
+        {
+          "date": "2026-03-04",
+          "close": 405.94
+        },
+        {
+          "date": "2026-03-05",
+          "close": 405.55
+        },
+        {
+          "date": "2026-03-06",
+          "close": 396.73
+        },
+        {
+          "date": "2026-03-09",
+          "close": 398.68
+        },
+        {
+          "date": "2026-03-10",
+          "close": 399.24
+        },
+        {
+          "date": "2026-03-11",
+          "close": 407.82
+        },
+        {
+          "date": "2026-03-12",
+          "close": 395.01
+        },
+        {
+          "date": "2026-03-13",
+          "close": 391.2
+        },
+        {
+          "date": "2026-03-16",
+          "close": 395.56
+        },
+        {
+          "date": "2026-03-17",
+          "close": 399.27
+        },
+        {
+          "date": "2026-03-18",
+          "close": 392.78
+        },
+        {
+          "date": "2026-03-19",
+          "close": 380.3
+        },
+        {
+          "date": "2026-03-20",
+          "close": 367.96
+        },
+        {
+          "date": "2026-03-23",
+          "close": 380.85
+        },
+        {
+          "date": "2026-03-24",
+          "close": 383.03
+        },
+        {
+          "date": "2026-03-25",
+          "close": 385.95
+        },
+        {
+          "date": "2026-03-26",
+          "close": 372.11
+        },
+        {
+          "date": "2026-03-27",
+          "close": 361.83
+        },
+        {
+          "date": "2026-03-30",
+          "close": 355.28
+        },
+        {
+          "date": "2026-03-31",
+          "close": 371.75
+        },
+        {
+          "date": "2026-04-01",
+          "close": 381.26
+        },
+        {
+          "date": "2026-04-02",
+          "close": 360.59
+        },
+        {
+          "date": "2026-04-06",
+          "close": 352.82
+        },
+        {
+          "date": "2026-04-07",
+          "close": 346.65
+        },
+        {
+          "date": "2026-04-08",
+          "close": 343.25
+        },
+        {
+          "date": "2026-04-09",
+          "close": 345.62
+        },
+        {
+          "date": "2026-04-10",
+          "close": 348.95
+        },
+        {
+          "date": "2026-04-13",
+          "close": 352.42
+        },
+        {
+          "date": "2026-04-14",
+          "close": 364.2
+        },
+        {
+          "date": "2026-04-15",
+          "close": 391.95
+        },
+        {
+          "date": "2026-04-16",
+          "close": 388.9
+        },
+        {
+          "date": "2026-04-17",
+          "close": 400.62
+        },
+        {
+          "date": "2026-04-20",
+          "close": 392.5
+        },
+        {
+          "date": "2026-04-21",
+          "close": 386.42
+        },
+        {
+          "date": "2026-04-22",
+          "close": 387.51
+        },
+        {
+          "date": "2026-04-23",
+          "close": 373.72
+        },
+        {
+          "date": "2026-04-24",
+          "close": 376.3
+        },
+        {
+          "date": "2026-04-27",
+          "close": 378.67
+        },
+        {
+          "date": "2026-04-28",
+          "close": 376.02
+        },
+        {
+          "date": "2026-04-29",
+          "close": 372.8
+        },
+        {
+          "date": "2026-04-30",
+          "close": 381.63
+        },
+        {
+          "date": "2026-05-01",
+          "close": 390.82
+        },
+        {
+          "date": "2026-05-04",
+          "close": 392.51
+        },
+        {
+          "date": "2026-05-05",
+          "close": 389.37
+        },
+        {
+          "date": "2026-05-06",
+          "close": 398.73
+        },
+        {
+          "date": "2026-05-07",
+          "close": 411.79
+        },
+        {
+          "date": "2026-05-08",
+          "close": 428.35
+        },
+        {
+          "date": "2026-05-11",
+          "close": 445.0
+        },
+        {
+          "date": "2026-05-12",
+          "close": 433.45
+        },
+        {
+          "date": "2026-05-13",
+          "close": 445.27
+        },
+        {
+          "date": "2026-05-14",
+          "close": 443.3
+        },
+        {
+          "date": "2026-05-15",
+          "close": 422.24
+        },
+        {
+          "date": "2026-05-18",
+          "close": 409.99
+        },
+        {
+          "date": "2026-05-19",
+          "close": 404.11
+        },
+        {
+          "date": "2026-05-20",
+          "close": 417.26
+        },
+        {
+          "date": "2026-05-21",
+          "close": 417.85
+        },
+        {
+          "date": "2026-05-22",
+          "close": 426.01
+        },
+        {
+          "date": "2026-05-26",
+          "close": 433.59
+        },
+        {
+          "date": "2026-05-27",
+          "close": 440.36
+        },
+        {
+          "date": "2026-05-28",
+          "close": 442.1
+        },
+        {
+          "date": "2026-05-29",
+          "close": 435.79
+        },
+        {
+          "date": "2026-06-01",
+          "close": 415.88
+        },
+        {
+          "date": "2026-06-02",
+          "close": 423.74
+        },
+        {
+          "date": "2026-06-03",
+          "close": 423.7
+        },
+        {
+          "date": "2026-06-04",
+          "close": 418.45
+        },
+        {
+          "date": "2026-06-05",
+          "close": 391.0
+        },
+        {
+          "date": "2026-06-08",
+          "close": 408.95
+        },
+        {
+          "date": "2026-06-09",
+          "close": 396.68
+        },
+        {
+          "date": "2026-06-10",
+          "close": 381.59
+        },
+        {
+          "date": "2026-06-11",
+          "close": 399.15
+        },
+        {
+          "date": "2026-06-12",
+          "close": 406.43
+        },
+        {
+          "date": "2026-06-15",
+          "close": 411.15
+        },
+        {
+          "date": "2026-06-16",
+          "close": 404.66
+        },
+        {
+          "date": "2026-06-17",
+          "close": 396.38
+        },
+        {
+          "date": "2026-06-18",
+          "close": 400.49
+        },
+        {
+          "date": "2026-06-22",
+          "close": 405.05
+        },
+        {
+          "date": "2026-06-23",
+          "close": 381.61
+        },
+        {
+          "date": "2026-06-24",
+          "close": 375.53
+        },
+        {
+          "date": "2026-06-25",
+          "close": 375.12
+        },
+        {
+          "date": "2026-06-26",
+          "close": 379.71
+        },
+        {
+          "date": "2026-06-29",
+          "close": 411.84
+        },
+        {
+          "date": "2026-06-30",
+          "close": 420.6
+        },
+        {
+          "date": "2026-07-01",
+          "close": 425.3
+        },
+        {
+          "date": "2026-07-02",
+          "close": 393.45
+        },
+        {
+          "date": "2026-07-06",
+          "close": 419.77
+        },
+        {
+          "date": "2026-07-07",
+          "close": 402.9
+        },
+        {
+          "date": "2026-07-08",
+          "close": 394.06
+        },
+        {
+          "date": "2026-07-09",
+          "close": 406.55
+        },
+        {
+          "date": "2026-07-10",
+          "close": 407.76
+        },
+        {
+          "date": "2026-07-13",
+          "close": 394.76
+        },
+        {
+          "date": "2026-07-14",
+          "close": 396.18
+        },
+        {
+          "date": "2026-07-15",
+          "close": 394.46
+        },
+        {
+          "date": "2026-07-16",
+          "close": 391.06
+        },
+        {
+          "date": "2026-07-17",
+          "close": 380.84
+        },
+        {
+          "date": "2026-07-20",
+          "close": 369.57
+        },
+        {
+          "date": "2026-07-21",
+          "close": 378.93
+        },
+        {
+          "date": "2026-07-22",
+          "close": 374.01
+        },
+        {
+          "date": "2026-07-23",
+          "close": 319.69
+        },
+        {
+          "date": "2026-07-24",
+          "close": 313.03
+        },
+        {
+          "date": "2026-07-27",
+          "close": 309.22
+        },
+        {
+          "date": "2026-07-28",
+          "close": 307.44
+        },
+        {
+          "date": "2026-07-29",
+          "close": 298.32
+        },
+        {
+          "date": "2026-07-30",
+          "close": 308.85
+        },
+        {
+          "date": "2026-07-31",
+          "close": 311.21
+        },
+        {
+          "date": "2026-08-03",
+          "close": 322.08
+        },
+        {
+          "date": "2026-08-04",
+          "close": 327.35
+        },
+        {
+          "date": "2026-08-05",
+          "close": 321.55
+        },
+        {
+          "date": "2026-08-06",
+          "close": 319.53
+        },
+        {
+          "date": "2026-08-07",
+          "close": 328.58
+        },
+        {
+          "date": "2026-08-10",
+          "close": 330.88
+        }
+      ]
+    },
+    "signals": [
+      {
+        "date": "2025-11-24",
+        "created_at": "2025-11-24T15:51:33Z",
+        "url": "https://x.com/aleabitoreddit/status/1992984440960921604",
+        "sentiment": "Bullish",
+        "confidence": 0,
+        "importance": 5,
+        "thesis_change": "MENTION",
+        "core_thesis": "",
+        "entry_date": "2025-11-24",
+        "entry_price": 417.78,
+        "returns": {
+          "1d": {
+            "raw_return": 0.39,
+            "score_return": 0.39,
+            "exit_date": "2025-11-25",
+            "exit_price": 419.4,
+            "hit": true
+          },
+          "7d": {
+            "raw_return": 2.96,
+            "score_return": 2.96,
+            "exit_date": "2025-12-01",
+            "exit_price": 430.14,
+            "hit": true
+          },
+          "30d": {
+            "raw_return": 16.19,
+            "score_return": 16.19,
+            "exit_date": "2025-12-24",
+            "exit_price": 485.4,
+            "hit": true
+          },
+          "now": {
+            "raw_return": -20.8,
+            "score_return": -20.8,
+            "exit_date": "2026-08-10",
+            "exit_price": 330.88,
+            "hit": false
+          }
+        },
+        "mention_count": 1,
+        "bull_count": 1,
+        "bear_count": 0,
+        "neutral_count": 0,
+        "bull_share": 1.0
+      },
+      {
+        "date": "2026-04-18",
+        "created_at": "2026-04-18T18:10:59Z",
+        "url": "https://x.com/aleabitoreddit/status/2045565771234021468",
+        "sentiment": "Bullish",
+        "confidence": 0,
+        "importance": 5,
+        "thesis_change": "UPDATE",
+        "core_thesis": "",
+        "entry_date": "2026-04-20",
+        "entry_price": 392.5,
+        "returns": {
+          "1d": {
+            "raw_return": 0.0,
+            "score_return": 0.0,
+            "exit_date": "2026-04-20",
+            "exit_price": 392.5,
+            "hit": false
+          },
+          "7d": {
+            "raw_return": -3.52,
+            "score_return": -3.52,
+            "exit_date": "2026-04-27",
+            "exit_price": 378.67,
+            "hit": false
+          },
+          "30d": {
+            "raw_return": 4.46,
+            "score_return": 4.46,
+            "exit_date": "2026-05-18",
+            "exit_price": 409.99,
+            "hit": true
+          },
+          "now": {
+            "raw_return": -15.7,
+            "score_return": -15.7,
+            "exit_date": "2026-08-10",
+            "exit_price": 330.88,
+            "hit": false
+          }
+        },
+        "mention_count": 1,
+        "bull_count": 1,
+        "bear_count": 0,
+        "neutral_count": 0,
+        "bull_share": 1.0
+      },
+      {
+        "date": "2026-05-13",
+        "created_at": "2026-05-13T22:53:50Z",
+        "url": "https://x.com/aleabitoreddit/status/2054696650539688271",
+        "sentiment": "Bullish",
+        "confidence": 0,
+        "importance": 3,
+        "thesis_change": "MENTION",
+        "core_thesis": "",
+        "entry_date": "2026-05-13",
+        "entry_price": 445.27,
+        "returns": {
+          "1d": {
+            "raw_return": -0.44,
+            "score_return": -0.44,
+            "exit_date": "2026-05-14",
+            "exit_price": 443.3,
+            "hit": false
+          },
+          "7d": {
+            "raw_return": -6.29,
+            "score_return": -6.29,
+            "exit_date": "2026-05-20",
+            "exit_price": 417.26,
+            "hit": false
+          },
+          "30d": {
+            "raw_return": -8.72,
+            "score_return": -8.72,
+            "exit_date": "2026-06-12",
+            "exit_price": 406.43,
+            "hit": false
+          },
+          "now": {
+            "raw_return": -25.69,
+            "score_return": -25.69,
+            "exit_date": "2026-08-10",
+            "exit_price": 330.88,
+            "hit": false
+          }
+        },
+        "mention_count": 1,
+        "bull_count": 1,
+        "bear_count": 0,
+        "neutral_count": 0,
+        "bull_share": 1.0
+      },
+      {
+        "date": "2026-05-26",
+        "created_at": "2026-05-26T14:28:43Z",
+        "url": "https://x.com/aleabitoreddit/status/2059280575203328398",
+        "sentiment": "Bearish",
+        "confidence": 0,
+        "importance": 3,
+        "thesis_change": "UPDATE",
+        "core_thesis": "",
+        "entry_date": "2026-05-26",
+        "entry_price": 433.59,
+        "returns": {
+          "1d": {
+            "raw_return": 1.56,
+            "score_return": -1.56,
+            "exit_date": "2026-05-27",
+            "exit_price": 440.36,
+            "hit": false
+          },
+          "7d": {
+            "raw_return": -2.27,
+            "score_return": 2.27,
+            "exit_date": "2026-06-02",
+            "exit_price": 423.74,
+            "hit": true
+          },
+          "30d": {
+            "raw_return": -13.49,
+            "score_return": 13.49,
+            "exit_date": "2026-06-25",
+            "exit_price": 375.12,
+            "hit": true
+          },
+          "now": {
+            "raw_return": -23.69,
+            "score_return": 23.69,
+            "exit_date": "2026-08-10",
+            "exit_price": 330.88,
+            "hit": true
+          }
+        },
+        "mention_count": 1,
+        "bull_count": 0,
+        "bear_count": 1,
+        "neutral_count": 0,
+        "bull_share": 0.0
+      },
+      {
+        "date": "2026-06-28",
+        "created_at": "2026-06-28T09:32:04Z",
+        "url": "https://x.com/aleabitoreddit/status/2071164721299112316",
+        "sentiment": "Bullish",
+        "confidence": 0,
+        "importance": 5,
+        "thesis_change": "MENTION",
+        "core_thesis": "",
+        "entry_date": "2026-06-29",
+        "entry_price": 411.84,
+        "returns": {
+          "1d": {
+            "raw_return": 0.0,
+            "score_return": 0.0,
+            "exit_date": "2026-06-29",
+            "exit_price": 411.84,
+            "hit": false
+          },
+          "7d": {
+            "raw_return": 1.93,
+            "score_return": 1.93,
+            "exit_date": "2026-07-06",
+            "exit_price": 419.77,
+            "hit": true
+          },
+          "30d": {
+            "raw_return": -25.35,
+            "score_return": -25.35,
+            "exit_date": "2026-07-28",
+            "exit_price": 307.44,
+            "hit": false
+          },
+          "now": {
+            "raw_return": -19.66,
+            "score_return": -19.66,
+            "exit_date": "2026-08-10",
+            "exit_price": 330.88,
+            "hit": false
+          }
+        },
+        "mention_count": 1,
+        "bull_count": 1,
+        "bear_count": 0,
+        "neutral_count": 0,
+        "bull_share": 1.0
+      },
+      {
+        "date": "2026-07-09",
+        "created_at": "2026-07-09T19:35:56Z",
+        "url": "https://x.com/aleabitoreddit/status/2075302956581449892",
+        "sentiment": "Bullish",
+        "confidence": 0,
+        "importance": 3,
+        "thesis_change": "UPDATE",
+        "core_thesis": "",
+        "entry_date": "2026-07-09",
+        "entry_price": 406.55,
+        "returns": {
+          "1d": {
+            "raw_return": 0.3,
+            "score_return": 0.3,
+            "exit_date": "2026-07-10",
+            "exit_price": 407.76,
+            "hit": true
+          },
+          "7d": {
+            "raw_return": -3.81,
+            "score_return": -3.81,
+            "exit_date": "2026-07-16",
+            "exit_price": 391.06,
+            "hit": false
+          },
+          "30d": {
+            "raw_return": -18.61,
+            "score_return": -18.61,
+            "exit_date": "2026-08-10",
+            "exit_price": 330.88,
+            "hit": false
+          },
+          "now": {
+            "raw_return": -18.61,
+            "score_return": -18.61,
+            "exit_date": "2026-08-10",
+            "exit_price": 330.88,
+            "hit": false
+          }
+        },
+        "mention_count": 1,
+        "bull_count": 1,
+        "bear_count": 0,
+        "neutral_count": 0,
+        "bull_share": 1.0
+      },
+      {
+        "date": "2026-07-23",
+        "created_at": "2026-07-23T04:35:37Z",
+        "url": "https://x.com/aleabitoreddit/status/2080149813065396454",
+        "sentiment": "Bullish",
+        "confidence": 0,
+        "importance": 5,
+        "thesis_change": "UPDATE",
+        "core_thesis": "",
+        "entry_date": "2026-07-23",
+        "entry_price": 319.69,
+        "returns": {
+          "1d": {
+            "raw_return": -2.08,
+            "score_return": -2.08,
+            "exit_date": "2026-07-24",
+            "exit_price": 313.03,
+            "hit": false
+          },
+          "7d": {
+            "raw_return": -3.39,
+            "score_return": -3.39,
+            "exit_date": "2026-07-30",
+            "exit_price": 308.85,
+            "hit": false
+          },
+          "30d": {
+            "raw_return": null,
+            "score_return": null,
+            "exit_date": null,
+            "exit_price": null,
+            "hit": null
+          },
+          "now": {
+            "raw_return": 3.5,
+            "score_return": 3.5,
+            "exit_date": "2026-08-10",
+            "exit_price": 330.88,
+            "hit": true
+          }
+        },
+        "mention_count": 1,
+        "bull_count": 1,
+        "bear_count": 0,
+        "neutral_count": 0,
+        "bull_share": 1.0
+      }
+    ],
+    "daily_stances": [
+      {
+        "date": "2025-11-24",
+        "created_at": "2025-11-24T15:51:33Z",
+        "sentiment": "Bullish",
+        "bull_count": 1,
+        "bear_count": 0,
+        "neutral_count": 0,
+        "mixed_count": 0,
+        "mention_count": 1,
+        "bull_weight": 3.0,
+        "bear_weight": 0.0,
+        "bull_share": 1.0,
+        "importance": 5,
+        "confidence": 0,
+        "thesis_change": "MENTION",
+        "core_thesis": "",
+        "url": "https://x.com/aleabitoreddit/status/1992984440960921604",
+        "tweet_id": "1992984440960921604",
+        "items": [
+          {
+            "tweet_id": "1992984440960921604",
+            "is_reply": false,
+            "kind": "post",
+            "reply_signal_eligible": false,
+            "created_at": "2025-11-24T15:51:33Z",
+            "text": "Nebius [ $NBIS ] is the most undervalued growth company right now. \n\nAnd it has the potential to become the next $GOOGL at a $21B market cap. There's one simple reason:\n\nIt's portfolio companies are mindblowing.\n\nThe most incredible example on this concept is the company $FTX. Here's the story:\n\nWhen we look at how $META grew into a $1T+ company, it wasn't just Facebook. It was their portfolio companies Instagram, Whatsapp, and others made Meta dominate the social media landscape.\n\n$FTX was doing something similar, but in digital assets and frontier technologies. \n\nFour years ago, in 2021, $FTX invested $5.8B into a large basket of assets. And put a large chunk into these three core companies:\n\n1. Anthropic, 13.56% at a $2.5 Billion valuation.\n2. Robinhood [ $HOOD ] 7.6% at a $8.54B valuation\n3. Solana [ $SOL ], 41M+ tokens. \n\nFast forward to today, that would have been:\n\n· Anthropic in it's latest round is worth $350B. That stake would have been worth ~$47.4B.\n\n· Robinhood is now worth over $100B. That stake would be worth ~$7.6B.\n\n· Solana is now worth  $131.5 per token, making the stake well over $5.7B. \n\nThose three companies alone generated well over $55B+ in value in 4 years time, and this is not even including FTX's tens of billions of dollars + hundreds of other investments + holdings in Chime, Layerzero, Aptos, Hidden Road (bought by $COIN), and crypto.\n\nTheir portfolio companies outlasted their core business (and imagine, how much it would have been worth if the core business kept scaling like $GOOGL search did alongside Youtube). \n\n$NBIS now has the same setup as $FTX did in crypto, $META in social media, but in artificial intelligence with a legitimate and incredibly rapidly growing core business. \n\nNebius owns:\n\n1. Clickhouse, 28% at a ~$7B valuation ($6.3 H1 2025)\n2. Avride, 83% at a ~$6B valuation. (post Uber raise)\n3. Toloka AI, ~65% at a ~$640 million valuation \n4. TripleTen, 100% at a ~$300m valuation.\n\n· Clickhouse powers Anthropic, $META, $TSLA, $NET, and many fortune 500 companies.\n\n· Avride is a self-driving car robotaxi company, spun out of Yandex that $UBER invested in a $375M round in to compete with Waymo.\n\n· Toloka is a AI labeling platform that Amazon, Microsoft, Anthropic, and Shopify uses. \n\n$1.96B + $4.96B + $416M + $300m = $7.6B valuation in portfolio companies that are growing faster than most public growth companies. \n\nBut if we look at their core business that is scaling to 700%+ Y/Y to $7-9B ARR, with $4.8B in cash, powering $META, $MSFT, Cursor, governments, and many more... \n\nThis might be the last month it's under $90 before it receives hundreds of millions to low billions of extra inflows from MSCI inclusion today. There's no other datacenter growth company that has this type of portfolio if we look at crowd favorites like $IREN or $CIFR. \n\n$NBIS is only valued at $21B and the market is sleeping on this opportunity.",
+            "url": "https://x.com/aleabitoreddit/status/1992984440960921604",
+            "sentiment": "Bullish",
+            "importance": 5,
+            "thesis_change": "MENTION",
+            "summary_zh": "",
+            "plain_zh": "",
+            "core_thesis": "",
+            "why_it_matters": "",
+            "history_note": "",
+            "catalysts": [],
+            "risks": [],
+            "confidence": 0,
+            "ai_status": "",
+            "favorite_count": 487,
+            "retweet_count": 66
+          }
+        ]
+      },
+      {
+        "date": "2026-04-18",
+        "created_at": "2026-04-18T18:10:59Z",
+        "sentiment": "Bullish",
+        "bull_count": 1,
+        "bear_count": 0,
+        "neutral_count": 0,
+        "mixed_count": 0,
+        "mention_count": 1,
+        "bull_weight": 3.0,
+        "bear_weight": 0.0,
+        "bull_share": 1.0,
+        "importance": 5,
+        "confidence": 0,
+        "thesis_change": "UPDATE",
+        "core_thesis": "",
+        "url": "https://x.com/aleabitoreddit/status/2045565771234021468",
+        "tweet_id": "2045565771234021468",
+        "items": [
+          {
+            "tweet_id": "2045565771234021468",
+            "is_reply": false,
+            "kind": "post",
+            "reply_signal_eligible": false,
+            "created_at": "2026-04-18T18:10:59Z",
+            "text": "Just some TLDRs to save you time: \n\n1. $ASML, $TSM earnings = Good Outlook. Semis + capex go brrr.\n\n2. Opus 4.7 + Anthropic go brrr. Software = sad.\n\n3. Samsung go brrr because of partly bc of $TSLA AI Chips.\n\n4. $UMC = price hike for foundry. foundries go brrr. \n\n5. Training = brrr in China. H100 rental increase go up. Neoclouds happy. \n\n6. Helium supply shortage = not significant... I've already said this before, but I'm not sure how many times $TSM needs to say this. \n\n7. MLCC, inductor prices = price hike. Will cover beneficiaries later.\n\n8. \"Taiwan's OSAT expansion could tighten global test capacity and raise costs\"\n\nI went long on Taiwan OSATs recently like Shunsin (6451) for a reason. Demand will just outstrip supply, even after expansion.  (cowos, sip, optical).",
+            "url": "https://x.com/aleabitoreddit/status/2045565771234021468",
+            "sentiment": "Bullish",
+            "importance": 5,
+            "thesis_change": "UPDATE",
+            "summary_zh": "",
+            "plain_zh": "",
+            "core_thesis": "",
+            "why_it_matters": "",
+            "history_note": "",
+            "catalysts": [],
+            "risks": [],
+            "confidence": 0,
+            "ai_status": "",
+            "favorite_count": 1762,
+            "retweet_count": 79
+          }
+        ]
+      },
+      {
+        "date": "2026-05-12",
+        "created_at": "2026-05-12T12:53:09Z",
+        "sentiment": "Neutral",
+        "bull_count": 0,
+        "bear_count": 0,
+        "neutral_count": 1,
+        "mixed_count": 0,
+        "mention_count": 1,
+        "bull_weight": 0.0,
+        "bear_weight": 0.0,
+        "bull_share": null,
+        "importance": 2,
+        "confidence": 0,
+        "thesis_change": "MENTION",
+        "core_thesis": "",
+        "url": "https://x.com/aleabitoreddit/status/2054183097470775339",
+        "tweet_id": "2054183097470775339",
+        "items": [
+          {
+            "tweet_id": "2054183097470775339",
+            "is_reply": false,
+            "kind": "post",
+            "reply_signal_eligible": false,
+            "created_at": "2026-05-12T12:53:09Z",
+            "text": "All right chat.\n\nI need some more ideas on the early $RKLB equivalent for humanoid exposure.\n\n10x+ potential returns only in the next 2 years and more pure play exposure than $TSLA.\n\nWhat’s your best ideas?",
+            "url": "https://x.com/aleabitoreddit/status/2054183097470775339",
+            "sentiment": "Neutral",
+            "importance": 2,
+            "thesis_change": "MENTION",
+            "summary_zh": "",
+            "plain_zh": "",
+            "core_thesis": "",
+            "why_it_matters": "",
+            "history_note": "",
+            "catalysts": [],
+            "risks": [],
+            "confidence": 0,
+            "ai_status": "",
+            "favorite_count": 2227,
+            "retweet_count": 80
+          }
+        ]
+      },
+      {
+        "date": "2026-05-13",
+        "created_at": "2026-05-13T22:53:50Z",
+        "sentiment": "Bullish",
+        "bull_count": 1,
+        "bear_count": 0,
+        "neutral_count": 0,
+        "mixed_count": 0,
+        "mention_count": 1,
+        "bull_weight": 1.8,
+        "bear_weight": 0.0,
+        "bull_share": 1.0,
+        "importance": 3,
+        "confidence": 0,
+        "thesis_change": "MENTION",
+        "core_thesis": "",
+        "url": "https://x.com/aleabitoreddit/status/2054696650539688271",
+        "tweet_id": "2054696650539688271",
+        "items": [
+          {
+            "tweet_id": "2054696650539688271",
+            "is_reply": false,
+            "kind": "post",
+            "reply_signal_eligible": false,
+            "created_at": "2026-05-13T22:53:50Z",
+            "text": "“Robotics may be the biggest product category of all time” - $CDNS CEO.\n\n“The projection is $25 trillion. The whole GDP of the world is $110 trillion. So this is huge if this happens.”\n\nExtremely bullish on robotics/humanoids directionally.\n\nBut maybe it’s time for $TSLA and America to really start prioritizing how we build it outside Chinese supply chains?",
+            "url": "https://x.com/aleabitoreddit/status/2054696650539688271",
+            "sentiment": "Bullish",
+            "importance": 3,
+            "thesis_change": "MENTION",
+            "summary_zh": "",
+            "plain_zh": "",
+            "core_thesis": "",
+            "why_it_matters": "",
+            "history_note": "",
+            "catalysts": [],
+            "risks": [],
+            "confidence": 0,
+            "ai_status": "",
+            "favorite_count": 1459,
+            "retweet_count": 86
+          }
+        ]
+      },
+      {
+        "date": "2026-05-15",
+        "created_at": "2026-05-15T02:41:09Z",
+        "sentiment": "Neutral",
+        "bull_count": 0,
+        "bear_count": 0,
+        "neutral_count": 1,
+        "mixed_count": 0,
+        "mention_count": 1,
+        "bull_weight": 0.0,
+        "bear_weight": 0.0,
+        "bull_share": null,
+        "importance": 4,
+        "confidence": 0,
+        "thesis_change": "MENTION",
+        "core_thesis": "",
+        "url": "https://x.com/aleabitoreddit/status/2055116243582247014",
+        "tweet_id": "2055116243582247014",
+        "items": [
+          {
+            "tweet_id": "2055116243582247014",
+            "is_reply": false,
+            "kind": "post",
+            "reply_signal_eligible": false,
+            "created_at": "2026-05-15T02:41:09Z",
+            "text": "I do like Harmonic Drive (6324) as the Western Leader (eg. harmonic reduction gear) at ~$4.2B MC.\n\nVery large part of robotics/humanoid BOM value.\n\nI actually like Leader Drive more (since it's cheaper for mass production, covers more parts). And maybe Sanhua for $TSLA Optimus. \n\nBut prefer to advance Western supply chains with my capital over ones in China. \n\nIt's not just profiting off markets, but what you want to get accomplished as well (helping advance US supply chains and Robotics leaders).",
+            "url": "https://x.com/aleabitoreddit/status/2055116243582247014",
+            "sentiment": "Neutral",
+            "importance": 4,
+            "thesis_change": "MENTION",
+            "summary_zh": "",
+            "plain_zh": "",
+            "core_thesis": "",
+            "why_it_matters": "",
+            "history_note": "",
+            "catalysts": [],
+            "risks": [],
+            "confidence": 0,
+            "ai_status": "",
+            "favorite_count": 701,
+            "retweet_count": 56
+          }
+        ]
+      },
+      {
+        "date": "2026-05-20",
+        "created_at": "2026-05-20T00:14:37Z",
+        "sentiment": "Neutral",
+        "bull_count": 0,
+        "bear_count": 0,
+        "neutral_count": 1,
+        "mixed_count": 0,
+        "mention_count": 1,
+        "bull_weight": 0.0,
+        "bear_weight": 0.0,
+        "bull_share": null,
+        "importance": 2,
+        "confidence": 0,
+        "thesis_change": "MENTION",
+        "core_thesis": "",
+        "url": "https://x.com/aleabitoreddit/status/2056891308934148253",
+        "tweet_id": "2056891308934148253",
+        "items": [
+          {
+            "tweet_id": "2056891308934148253",
+            "is_reply": false,
+            "kind": "post",
+            "reply_signal_eligible": false,
+            "created_at": "2026-05-20T00:14:37Z",
+            "text": "Who could have thought China was holding all the cards over humanoid mass production?\n\nReally if America sees a future in $TSLA or Figure robotics programs.\n\nMaybe it’s time to start pouring more funding sovereign rare earths supply chains.\n\nWhatever we’re doing now isnt enough. https://t.co/VQXh9otLMi",
+            "url": "https://x.com/aleabitoreddit/status/2056891308934148253",
+            "sentiment": "Neutral",
+            "importance": 2,
+            "thesis_change": "MENTION",
+            "summary_zh": "",
+            "plain_zh": "",
+            "core_thesis": "",
+            "why_it_matters": "",
+            "history_note": "",
+            "catalysts": [],
+            "risks": [],
+            "confidence": 0,
+            "ai_status": "",
+            "favorite_count": 1336,
+            "retweet_count": 123
+          }
+        ]
+      },
+      {
+        "date": "2026-05-25",
+        "created_at": "2026-05-25T17:49:06Z",
+        "sentiment": "Neutral",
+        "bull_count": 0,
+        "bear_count": 0,
+        "neutral_count": 1,
+        "mixed_count": 0,
+        "mention_count": 1,
+        "bull_weight": 0.0,
+        "bear_weight": 0.0,
+        "bull_share": null,
+        "importance": 3,
+        "confidence": 0,
+        "thesis_change": "MENTION",
+        "core_thesis": "",
+        "url": "https://x.com/aleabitoreddit/status/2058968617681899915",
+        "tweet_id": "2058968617681899915",
+        "items": [
+          {
+            "tweet_id": "2058968617681899915",
+            "is_reply": false,
+            "kind": "post",
+            "reply_signal_eligible": false,
+            "created_at": "2026-05-25T17:49:06Z",
+            "text": "I’m fully convinced the Stock Market secretly revolves around building the Death Star and Battle Droids:\n\n$RKLB / $SPCX / $PL = Death Star\n\n$LASR / $SIVE = Laser Beams\n\n$TSLA / Unitree = Battle Droids https://t.co/C53qKjWrS8",
+            "url": "https://x.com/aleabitoreddit/status/2058968617681899915",
+            "sentiment": "Neutral",
+            "importance": 3,
+            "thesis_change": "MENTION",
+            "summary_zh": "",
+            "plain_zh": "",
+            "core_thesis": "",
+            "why_it_matters": "",
+            "history_note": "",
+            "catalysts": [],
+            "risks": [],
+            "confidence": 0,
+            "ai_status": "",
+            "favorite_count": 2494,
+            "retweet_count": 147
+          }
+        ]
+      },
+      {
+        "date": "2026-05-26",
+        "created_at": "2026-05-26T14:28:43Z",
+        "sentiment": "Bearish",
+        "bull_count": 0,
+        "bear_count": 1,
+        "neutral_count": 0,
+        "mixed_count": 0,
+        "mention_count": 1,
+        "bull_weight": 0.0,
+        "bear_weight": 1.8,
+        "bull_share": 0.0,
+        "importance": 3,
+        "confidence": 0,
+        "thesis_change": "UPDATE",
+        "core_thesis": "",
+        "url": "https://x.com/aleabitoreddit/status/2059280575203328398",
+        "tweet_id": "2059280575203328398",
+        "items": [
+          {
+            "tweet_id": "2059280575203328398",
+            "is_reply": false,
+            "kind": "post",
+            "reply_signal_eligible": false,
+            "created_at": "2026-05-26T14:28:43Z",
+            "text": "Well $VPG ended up tripling since my thesis post.\n\nI got the ASP wrong in my original thesis, was $150 mass production rather than ~$750 midpoint quoted by management.\n\nAnd $TSLA design out risk made me cut concentration.\n\nBut 3x regardless not too shabby. https://t.co/ksB8ZrnnEg",
+            "url": "https://x.com/aleabitoreddit/status/2059280575203328398",
+            "sentiment": "Bearish",
+            "importance": 3,
+            "thesis_change": "UPDATE",
+            "summary_zh": "",
+            "plain_zh": "",
+            "core_thesis": "",
+            "why_it_matters": "",
+            "history_note": "",
+            "catalysts": [],
+            "risks": [],
+            "confidence": 0,
+            "ai_status": "",
+            "favorite_count": 692,
+            "retweet_count": 35
+          }
+        ]
+      },
+      {
+        "date": "2026-06-08",
+        "created_at": "2026-06-08T05:11:38Z",
+        "sentiment": "Neutral",
+        "bull_count": 0,
+        "bear_count": 0,
+        "neutral_count": 1,
+        "mixed_count": 0,
+        "mention_count": 1,
+        "bull_weight": 0.0,
+        "bear_weight": 0.0,
+        "bull_share": null,
+        "importance": 4,
+        "confidence": 0,
+        "thesis_change": "UPDATE",
+        "core_thesis": "",
+        "url": "https://x.com/aleabitoreddit/status/2063851425462173726",
+        "tweet_id": "2063851425462173726",
+        "items": [
+          {
+            "tweet_id": "2063851425462173726",
+            "is_reply": false,
+            "kind": "post",
+            "reply_signal_eligible": false,
+            "created_at": "2026-06-08T05:11:38Z",
+            "text": "I do think LeaderDrive (688017) is China's standout component leader in the robotics sector.\n\nI've done a lot of research on other robotics picks / $TSLA Optimus suppliers, but LeaderDrive is extremely unique.\n\nCompared to others doing lower margin assembly, or lower value components, with higher design out risk.\n\nWestern institutions like Goldman Sachs Research flags LeaderDrive many times:\n\n-> As a company with high technology barriers (eg. harmonic reduction gear).\n\n-> and likely capturing high component value costs like planetary roller screws of each humanoid produced.\n\nIn simpler terms with LeaderDrive, you cover:\n\n1. Many different components, with high barrier to entry\n2. High BOM of each humanoid made, if you combine them together\n3. Mass production capability at low cost.\n\nFor each humanoid made.\n\nPlease do your research on this topic before making your own decision; but long-term if you believe in humanoid sector growth: I think LeaderDrive (688017) is very compelling.\n\nRisk is mainly coming from other emerging Chinese companies taking over market share of different individual components. \n\nAs well as mass-production margins decreasing over time; as seen with $VPG going from $750 (for early stage pre-production) -> $150 for sensors. \n\nBut in general, I don't believe companies outside China like Harmonic Drive (6324) can achieve the same costs for mass production, which is why $TSLA Optimus is creating extensive supply chains from China.   \n\nSo we'll likely see supply chains be bifurcated with cheap mass production $15k-20K humanoids from Chinese supply chains. And higher cost humanoids from Western supply chains.\n\nAgain if you look at current P/E ratios and say it's high; a lot of it is misunderstanding comes from not looking at forward growth:\n\nNothing has been mass produced yet.  AGIbot has recently achieved 10k units produced back in March.\n\nBut in the next 3-5 years, the TAM of the humanoid/robotics sector forecasted by Elon Musk and others very large, if he's expecting millions of humanoids to be produced a year. \n\nSo my expectation is the current $10.65B MC would look very tiny in hindsight of LeaderDrive's market capture of the overall robotics market.\n\nSo I don't believe thesis like this should be measured in short term timeframes (or that people should actively trade names like these).\n\nMoreso a long term investment idea about how this company could capture a material part of the overall humanoid market that exponentially grows over the next few years.",
+            "url": "https://x.com/aleabitoreddit/status/2063851425462173726",
+            "sentiment": "Neutral",
+            "importance": 4,
+            "thesis_change": "UPDATE",
+            "summary_zh": "",
+            "plain_zh": "",
+            "core_thesis": "",
+            "why_it_matters": "",
+            "history_note": "",
+            "catalysts": [],
+            "risks": [],
+            "confidence": 0,
+            "ai_status": "",
+            "favorite_count": 1039,
+            "retweet_count": 82
+          }
+        ]
+      },
+      {
+        "date": "2026-06-24",
+        "created_at": "2026-06-24T05:36:52Z",
+        "sentiment": "Neutral",
+        "bull_count": 0,
+        "bear_count": 0,
+        "neutral_count": 1,
+        "mixed_count": 0,
+        "mention_count": 1,
+        "bull_weight": 0.0,
+        "bear_weight": 0.0,
+        "bull_share": null,
+        "importance": 4,
+        "confidence": 0,
+        "thesis_change": "UPDATE",
+        "core_thesis": "",
+        "url": "https://x.com/aleabitoreddit/status/2069655980456149142",
+        "tweet_id": "2069655980456149142",
+        "items": [
+          {
+            "tweet_id": "2069655980456149142",
+            "is_reply": false,
+            "kind": "post",
+            "reply_signal_eligible": false,
+            "created_at": "2026-06-24T05:36:52Z",
+            "text": "Don’t quite think “siphoned off” is the correct term. \n\nIt’s capex for massive revenue increase or margin increase down the line.\n\n$AMZN is probably my favorite hyperscaler right now and example to give.\n\nAmazon’s headcount is absurd, like ~1.57M. If the capex goes into automating their workforce with LLMs.\n\nThen transitioning into physical AI:\n\n- things from self driving (deliveries)\n- robotics (Amazon warehouses, shipping automation).\n\n+ revenue increase from building out AWS compute with Trainium and possibly selling chips too with the Neocloud strat.\n\nIt’s probably the clearest path forward compared to every hyperscaler out there. \n\n$TSLA optimus use case targets is extremely broad as a pitch, but Amazon already has a specific reason to scale robotics for internal opex optimization.\n\nAs for $GOOGL, probably 2nd right now, AI capex was necessary for defending its Google Search moat Gemini from ChatGPT\n\nThey also have Google Cloud revenue with efficient TPUs + can sell TPUs like Nvidia GPUs.\n\nGemini user volumes keep going up (despite the lack of contention in frontier benchmarks); and AI strategy to be working for ad optimization too.\n\nBut there’s less clear paths with physical AI stuff ig?\n\nMicrosoft and Meta are still trying to convince the market why capex is necessary, (we’re kinda seeing that in effect with Meta’s 30%+ Y/Y revenue growth), but doesn’t look like they’re convinced. \n\nAs for market narratives, Microsoft Maia seems to be behind, their AI development was stunted from OpenAi investments, so sentiment is kinda in the ground. \n\nBut think that will change down the road like the 180 with Google.\n\nI’m sure all the hyperscalers are seeing the leader effect right now:\n\nIf you have the leading LLM, people will keep using it. That LLM gets smarter from all the training data; and that gap might be structural.\n\nWhich is why everyone is kinda rushing the buildout right now, but for some the immediate incentives seem obvious.",
+            "url": "https://x.com/aleabitoreddit/status/2069655980456149142",
+            "sentiment": "Neutral",
+            "importance": 4,
+            "thesis_change": "UPDATE",
+            "summary_zh": "",
+            "plain_zh": "",
+            "core_thesis": "",
+            "why_it_matters": "",
+            "history_note": "",
+            "catalysts": [],
+            "risks": [],
+            "confidence": 0,
+            "ai_status": "",
+            "favorite_count": 954,
+            "retweet_count": 70
+          }
+        ]
+      },
+      {
+        "date": "2026-06-25",
+        "created_at": "2026-06-25T03:45:23Z",
+        "sentiment": "Neutral",
+        "bull_count": 0,
+        "bear_count": 0,
+        "neutral_count": 1,
+        "mixed_count": 0,
+        "mention_count": 1,
+        "bull_weight": 0.0,
+        "bear_weight": 0.0,
+        "bull_share": null,
+        "importance": 4,
+        "confidence": 0,
+        "thesis_change": "MENTION",
+        "core_thesis": "",
+        "url": "https://x.com/aleabitoreddit/status/2069990311296975133",
+        "tweet_id": "2069990311296975133",
+        "items": [
+          {
+            "tweet_id": "2069990311296975133",
+            "is_reply": false,
+            "kind": "post",
+            "reply_signal_eligible": false,
+            "created_at": "2026-06-25T03:45:23Z",
+            "text": "Very interesting statement today: $MU CEO predicts a multi-decade memory demand cycle driven by humanoid robots.\n\n\"Humanoid robots, he says, will require roughly ten times more memory than today’s Level 2+ autonomous vehicles.\"\n\n\"And that demand wave is set to begin before the decade is out.\"\n\nSomething as well as was \"Over time, we expect the value of on-device AI combined with pent-up unit replacement demand to drive memory demand growth\"\n\nWhich is also another trend (Apple Intelligence is currently dog, but I'm sure we'll see innovations with localized/edge AI). \n\nFeels like all the industry leaders from $TSM Chairman, $TSLA Elon Musk, to $MU CEO see humanoids as the next major trend so physical AI is probably next. \n\nI wonder if the world is going to have enough memory. Or if we'll see enough breakthroughs to shrink memory usage.",
+            "url": "https://x.com/aleabitoreddit/status/2069990311296975133",
+            "sentiment": "Neutral",
+            "importance": 4,
+            "thesis_change": "MENTION",
+            "summary_zh": "",
+            "plain_zh": "",
+            "core_thesis": "",
+            "why_it_matters": "",
+            "history_note": "",
+            "catalysts": [],
+            "risks": [],
+            "confidence": 0,
+            "ai_status": "",
+            "favorite_count": 3547,
+            "retweet_count": 389
+          }
+        ]
+      },
+      {
+        "date": "2026-06-27",
+        "created_at": "2026-06-27T08:42:45Z",
+        "sentiment": "Neutral",
+        "bull_count": 0,
+        "bear_count": 0,
+        "neutral_count": 1,
+        "mixed_count": 0,
+        "mention_count": 1,
+        "bull_weight": 0.0,
+        "bear_weight": 0.0,
+        "bull_share": null,
+        "importance": 3,
+        "confidence": 0,
+        "thesis_change": "MENTION",
+        "core_thesis": "",
+        "url": "https://x.com/aleabitoreddit/status/2070789923108798545",
+        "tweet_id": "2070789923108798545",
+        "items": [
+          {
+            "tweet_id": "2070789923108798545",
+            "is_reply": false,
+            "kind": "post",
+            "reply_signal_eligible": false,
+            "created_at": "2026-06-27T08:42:45Z",
+            "text": "Robotics is next. \n\nBoth deal count and investment amounts are skyrocketing per pitchbook March data (source: a16z)\n\nGood thing is: the same AI DC exposure often has cross-exposure to humanoid ramp.\n\nLike DRAM/NAND with memory (on humanoid inference/storage) or DFB lasers with photonics (FMCW LiDAR vision/sensing).\n\nRight now most exposure is upstream component parts… or programs within large players like $AMZN or $TSLA. \n\nSo global IPO season H2 into 2027 for pure play humanoids/robotics companies is going to be fun.",
+            "url": "https://x.com/aleabitoreddit/status/2070789923108798545",
+            "sentiment": "Neutral",
+            "importance": 3,
+            "thesis_change": "MENTION",
+            "summary_zh": "",
+            "plain_zh": "",
+            "core_thesis": "",
+            "why_it_matters": "",
+            "history_note": "",
+            "catalysts": [],
+            "risks": [],
+            "confidence": 0,
+            "ai_status": "",
+            "favorite_count": 4734,
+            "retweet_count": 504
+          }
+        ]
+      },
+      {
+        "date": "2026-06-28",
+        "created_at": "2026-06-28T09:32:04Z",
+        "sentiment": "Bullish",
+        "bull_count": 1,
+        "bear_count": 0,
+        "neutral_count": 0,
+        "mixed_count": 0,
+        "mention_count": 1,
+        "bull_weight": 3.0,
+        "bear_weight": 0.0,
+        "bull_share": 1.0,
+        "importance": 5,
+        "confidence": 0,
+        "thesis_change": "MENTION",
+        "core_thesis": "",
+        "url": "https://x.com/aleabitoreddit/status/2071164721299112316",
+        "tweet_id": "2071164721299112316",
+        "items": [
+          {
+            "tweet_id": "2071164721299112316",
+            "is_reply": false,
+            "kind": "post",
+            "reply_signal_eligible": false,
+            "created_at": "2026-06-28T09:32:04Z",
+            "text": "Yup, Schaeffler $SHA0 is the ideal example for automotive players.\n\n~ €7.47B MC auto player.\n- but also working with 45 humanoid players (extremely insane number, they do have €5.14b debt, EV is higher)\n- covers bearings, gearboxes, sensors/ECUs, actuators, power electronics.\n-ests. They can be roughly 50% BOM of a humanoid \n- targeting 10% market share of that.\n\nBut only projecting a few hundred million revenue by 2030 (extremely sandbagged) if we’re using Elon’s projections for the market.\n\nThen’s theres auto players like Nabtesco (6268) for joints. And then Sanhua in China for $TSLA Optimus.\n\nMany of them are trade at lower valuations from drag from auto.\n\nBut humanoids + AI Auto (TSM chairman cited this as a growth vector) should be a good catalyst past 2027 for automotive players. \n\nIMO there just needs to be a ChatGPT/Anthropic breakout downstream leader first for humanoids.\n\nThat brings up the entire ecosystem that has robotics exposure. \n\nBut as of now it’s probably like 1% of many of their overall revenue figures, and markets are focusing on immediate upside from bottlenecks like memory or MLCC.\n\nI’m sure we’ll see some random Toto-HBM type surprise as different humanoid architecture evolve.",
+            "url": "https://x.com/aleabitoreddit/status/2071164721299112316",
+            "sentiment": "Bullish",
+            "importance": 5,
+            "thesis_change": "MENTION",
+            "summary_zh": "",
+            "plain_zh": "",
+            "core_thesis": "",
+            "why_it_matters": "",
+            "history_note": "",
+            "catalysts": [],
+            "risks": [],
+            "confidence": 0,
+            "ai_status": "",
+            "favorite_count": 985,
+            "retweet_count": 74
+          }
+        ]
+      },
+      {
+        "date": "2026-06-29",
+        "created_at": "2026-06-29T05:26:31Z",
+        "sentiment": "Neutral",
+        "bull_count": 0,
+        "bear_count": 0,
+        "neutral_count": 1,
+        "mixed_count": 0,
+        "mention_count": 1,
+        "bull_weight": 0.0,
+        "bear_weight": 0.0,
+        "bull_share": null,
+        "importance": 3,
+        "confidence": 0,
+        "thesis_change": "MENTION",
+        "core_thesis": "",
+        "url": "https://x.com/aleabitoreddit/status/2071465314794233905",
+        "tweet_id": "2071465314794233905",
+        "items": [
+          {
+            "tweet_id": "2071465314794233905",
+            "is_reply": false,
+            "kind": "post",
+            "reply_signal_eligible": false,
+            "created_at": "2026-06-29T05:26:31Z",
+            "text": "Honestly this decade from 2020-2030 might be the most goated in human history.\n\n- Scaling massive reusable rockets for orbital compute with $RKLB to $SPCX.\n\n- on the cusp of ASI and recursive learning with Anthropic and OpenAI \n\n- Backflipping Boston Dynamics and Unitree humanoids to replace the human workforce\n\n- Star Wars laser beams from $EOS.ASX to AI DC lasers like $LITE.\n\n- Waymo and $TSLA self driving cars everywhere in urban cities\n\n- and we get industry Quantum commercialization end of decade\n\nThis is kinda crazy to be an investor in this timeframe. Feels like every movie from the Star Wars Death Star to Skynet is coming to life.\n\nWhat’s next?",
+            "url": "https://x.com/aleabitoreddit/status/2071465314794233905",
+            "sentiment": "Neutral",
+            "importance": 3,
+            "thesis_change": "MENTION",
+            "summary_zh": "",
+            "plain_zh": "",
+            "core_thesis": "",
+            "why_it_matters": "",
+            "history_note": "",
+            "catalysts": [],
+            "risks": [],
+            "confidence": 0,
+            "ai_status": "",
+            "favorite_count": 3003,
+            "retweet_count": 267
+          }
+        ]
+      },
+      {
+        "date": "2026-06-30",
+        "created_at": "2026-06-30T15:20:39Z",
+        "sentiment": "Neutral",
+        "bull_count": 0,
+        "bear_count": 0,
+        "neutral_count": 1,
+        "mixed_count": 0,
+        "mention_count": 1,
+        "bull_weight": 0.0,
+        "bear_weight": 0.0,
+        "bull_share": null,
+        "importance": 2,
+        "confidence": 0,
+        "thesis_change": "MENTION",
+        "core_thesis": "",
+        "url": "https://x.com/aleabitoreddit/status/2071977219002613768",
+        "tweet_id": "2071977219002613768",
+        "items": [
+          {
+            "tweet_id": "2071977219002613768",
+            "is_reply": false,
+            "kind": "post",
+            "reply_signal_eligible": false,
+            "created_at": "2026-06-30T15:20:39Z",
+            "text": "I wonder if humanoids is going to spark a new bottleneck/industry for robot cosmetics.\n\nLike a skin bottleneck. Or Aespa KPOP robot makeover as a service.\n\nSo if $TSLA Optimus makes tens of millions of humanoids:\n\nWho’s going to make them all look hot?",
+            "url": "https://x.com/aleabitoreddit/status/2071977219002613768",
+            "sentiment": "Neutral",
+            "importance": 2,
+            "thesis_change": "MENTION",
+            "summary_zh": "",
+            "plain_zh": "",
+            "core_thesis": "",
+            "why_it_matters": "",
+            "history_note": "",
+            "catalysts": [],
+            "risks": [],
+            "confidence": 0,
+            "ai_status": "",
+            "favorite_count": 1534,
+            "retweet_count": 57
+          }
+        ]
+      },
+      {
+        "date": "2026-07-01",
+        "created_at": "2026-07-01T17:09:49Z",
+        "sentiment": "Neutral",
+        "bull_count": 0,
+        "bear_count": 0,
+        "neutral_count": 1,
+        "mixed_count": 0,
+        "mention_count": 1,
+        "bull_weight": 0.0,
+        "bear_weight": 0.0,
+        "bull_share": null,
+        "importance": 4,
+        "confidence": 0,
+        "thesis_change": "MENTION",
+        "core_thesis": "",
+        "url": "https://x.com/aleabitoreddit/status/2072367082248040621",
+        "tweet_id": "2072367082248040621",
+        "items": [
+          {
+            "tweet_id": "2072367082248040621",
+            "is_reply": false,
+            "kind": "post",
+            "reply_signal_eligible": false,
+            "created_at": "2026-07-01T17:09:49Z",
+            "text": "Just dropping these 3 slides from Agility Robotics ( $CCXI ) presentations.\n\nFor the US robotic program doomposters:\n\n1. “75% of parts” - sourced from the USA\n\n2. Just eyeballing the graph, looks like <$30k BOM mass production.\n\nPeople were just looking at the ~$145K cost. \n\n3. 10,000 RoboFab capacity, and they build in Salem/Pittsburgh/Fremont (USA).\n\nSo looks like majority US supply chains with targets of <$30K mass production\n\nIt does help they’re backed by $AMZN / SoftBank / Foxconn / $NVDA as investors to get this done.\n\nJust personal thoughts as a shareholder in $CCXI (NFA):\n\nMy personal biggest fear were US humanoid leaders like $TSLA were just building out their entire supply chains in China.\n\nSo US robotics could just be export controlled/halted down the road.\n\neg. South China Morning Post: ‘Optimus chain’: Chinese suppliers form the backbone of Tesla’s humanoid robot initiative and engaged with hundreds of Chinese component suppliers. \n\nAnd that Western companies are not able to lower costs to a competitive level + are forced to use Chinese components. \n\nI'm still not sure how they're going to do it but if Agility can achieve those mass production targets with that BOM cost in the USA/West. \n\nIt would be a great validation for Made in America US robotics programs. \n\nIMO the top 5 US humanoid programs right now in terms of commercialization potential are:\n\n1. Tesla Optimus\n2. Figure\n3. Agility Robotics\n4. Boston Dynamics (yeah KR parent)\n5. Apptronik\n\nTesla is a $1T+ company. Figure is private and valued around ~$39B. Owning Boston Dynamics through Hyundai is a bit messy.\n\nAnd I’d prefer not to invest in adversarial programs just as a personal preference.\n\nSo I’ve been personally excited for Agility to be listed as early as September.",
+            "url": "https://x.com/aleabitoreddit/status/2072367082248040621",
+            "sentiment": "Neutral",
+            "importance": 4,
+            "thesis_change": "MENTION",
+            "summary_zh": "",
+            "plain_zh": "",
+            "core_thesis": "",
+            "why_it_matters": "",
+            "history_note": "",
+            "catalysts": [],
+            "risks": [],
+            "confidence": 0,
+            "ai_status": "",
+            "favorite_count": 1493,
+            "retweet_count": 151
+          }
+        ]
+      },
+      {
+        "date": "2026-07-02",
+        "created_at": "2026-07-02T17:57:47Z",
+        "sentiment": "Neutral",
+        "bull_count": 0,
+        "bear_count": 0,
+        "neutral_count": 2,
+        "mixed_count": 0,
+        "mention_count": 2,
+        "bull_weight": 0.0,
+        "bear_weight": 0.0,
+        "bull_share": null,
+        "importance": 3,
+        "confidence": 0,
+        "thesis_change": "MENTION",
+        "core_thesis": "",
+        "url": "https://x.com/aleabitoreddit/status/2072741541404406008",
+        "tweet_id": "2072741541404406008",
+        "items": [
+          {
+            "tweet_id": "2072630036600103340",
+            "is_reply": false,
+            "kind": "post",
+            "reply_signal_eligible": false,
+            "created_at": "2026-07-02T10:34:42Z",
+            "text": "I just realized Boston Dynamics CEO shared the same sentiment:\n\n“Robotics is next. America’s next 250 years will be built by robots”.\n\nHowever, currently China accounts for 54%+ of all global robotics deployments.\n\n- calls for Internet scaleable database of physical world (kinda got reminded of Niantic that has a huge dataset from Pokemon Go)\n\n- dedicated National robotics strategy to compete against China’s leadership in this space\n\n-  ISO + regulation for robotics safety \n\nThis is all high level:\n\nBut my prioritize thought process is how do we support and scale a Made in USA supply chain for robotics/humanoids?\n\nI’ve been hammering home rare earths for the longest time, that the US isn’t doing enough to subsidize or scale this industry.\n\nBut another thing to take note is subsidies for components, forcing $TSLA and others to use Chinese suppliers over Western ones, even if assembly is done in USA… to keep costs down.\n\nWhich is why I’ve liked Agility Robotics $CCXI since they source 75% of parts from the US, despite higher BOM to start out with.\n\nRegardless it’s pretty clear this Robotics is coming and becoming a national security priority:\n\nFrom the days of backflipping humanoid YT videos.",
+            "url": "https://x.com/aleabitoreddit/status/2072630036600103340",
+            "sentiment": "Neutral",
+            "importance": 3,
+            "thesis_change": "MENTION",
+            "summary_zh": "",
+            "plain_zh": "",
+            "core_thesis": "",
+            "why_it_matters": "",
+            "history_note": "",
+            "catalysts": [],
+            "risks": [],
+            "confidence": 0,
+            "ai_status": "",
+            "favorite_count": 1482,
+            "retweet_count": 130
+          },
+          {
+            "tweet_id": "2072741541404406008",
+            "is_reply": false,
+            "kind": "post",
+            "reply_signal_eligible": false,
+            "created_at": "2026-07-02T17:57:47Z",
+            "text": "Agility Robotics is literally the #1 humanoid player in the US in terms of commercialization today imo. \n\nPersonal Rankings:\n\n1. Agility Robotics via $CCXI \n2. $TSLA Optimus ($1T+ company)\n3. Figure at $39B from 2025, likely higher now.\n\nWith Tesla likely taking the lead a year from now. So at  $16, you have a ~$4B MC pre-money humanoid player.\n\nWhich is already inside $AMZN and $MELI (ideal use cases to start out, before step-functioning to general-use), with $AMZN, $NVDA, Softbank, Foxconn, and others as investors.\n\nNFA, but at those valuations... there's direct exposure for the first ever humanoid player today, that's likely further ahead than Figure for commercialization. \n\nNo hard feelings about Robostrategy, but it's over 4x+ NAV: \n\nWhich would value Figure at $156B...  \n\nWhile there's the #1 commercialized humanoid player with Agility at $4B today. \n\nSo my personal preference is $CCXI.",
+            "url": "https://x.com/aleabitoreddit/status/2072741541404406008",
+            "sentiment": "Neutral",
+            "importance": 3,
+            "thesis_change": "MENTION",
+            "summary_zh": "",
+            "plain_zh": "",
+            "core_thesis": "",
+            "why_it_matters": "",
+            "history_note": "",
+            "catalysts": [],
+            "risks": [],
+            "confidence": 0,
+            "ai_status": "",
+            "favorite_count": 1360,
+            "retweet_count": 107
+          }
+        ]
+      },
+      {
+        "date": "2026-07-05",
+        "created_at": "2026-07-05T20:32:55Z",
+        "sentiment": "Neutral",
+        "bull_count": 0,
+        "bear_count": 0,
+        "neutral_count": 1,
+        "mixed_count": 0,
+        "mention_count": 1,
+        "bull_weight": 0.0,
+        "bear_weight": 0.0,
+        "bull_share": null,
+        "importance": 3,
+        "confidence": 0,
+        "thesis_change": "MENTION",
+        "core_thesis": "",
+        "url": "https://x.com/aleabitoreddit/status/2073867745243127973",
+        "tweet_id": "2073867745243127973",
+        "items": [
+          {
+            "tweet_id": "2073867745243127973",
+            "is_reply": false,
+            "kind": "post",
+            "reply_signal_eligible": false,
+            "created_at": "2026-07-05T20:32:55Z",
+            "text": "Came across an interesting report from SVRC Research called \"State of Robotics 2026\", published in April. \n\nWhich listed:\n\n1. Figure AI \n2. Agility Robotics $CCXI\n3. Apptronik \n4. $TSLA \n5. Boston Dynamics\n6. Physical Intelligence \n7. 1X Technologies\n8. $AMZN Robotics\n9. Covariant\n10. Skild AI \n\nAs the National Champions of the United States robotics program. \n\n\"The United States leads the world in where robotics is heading: Fundation models, OpenAI-style scaling laws applied to action, autonomous vehicles. \n\nWhile losing the race on where robotics is shipping today.\" \n\nThen it frames:\n\n1. Rare Earths Exposure: from Neodymium for motors to samarium-cobalt for high-temp applications as a critical vulnerability.\n\n2. Actuator dependency. Series elastic actuators, quasi-direct-drive motors, and precision reducers overwhelmingly sourced from Japan, Germany, and China\n\nAs one of the main vulnerabilities alongside Manufacturing velocity/data collection cost/regulations. Then their take was: \n\n\"With at least six well-funded US humanoid companies competing for a market still in early formation, we expect at least two significant consolidation events (acquisition or merger) in 2027\". \n\nWith Logistics / E-commerce (like $AMZN / $FDX) and Automotive from $GM to $FORD as being the immediate top use cases for deployment.\n\nI think it's just interesting to see a lot of my points I've been talking about reiterated by research firms. Regardless, I do think it's going to be a major frontier race between the US and China. \n\nAgility Robotics (which I own), Tesla, Figure, and Apptronik as leaders representing the USA. Competing against Unitree, AGIbot, Ubtech, and others in China.",
+            "url": "https://x.com/aleabitoreddit/status/2073867745243127973",
+            "sentiment": "Neutral",
+            "importance": 3,
+            "thesis_change": "MENTION",
+            "summary_zh": "",
+            "plain_zh": "",
+            "core_thesis": "",
+            "why_it_matters": "",
+            "history_note": "",
+            "catalysts": [],
+            "risks": [],
+            "confidence": 0,
+            "ai_status": "",
+            "favorite_count": 1493,
+            "retweet_count": 150
+          }
+        ]
+      },
+      {
+        "date": "2026-07-07",
+        "created_at": "2026-07-07T17:39:23Z",
+        "sentiment": "Neutral",
+        "bull_count": 0,
+        "bear_count": 0,
+        "neutral_count": 1,
+        "mixed_count": 0,
+        "mention_count": 1,
+        "bull_weight": 0.0,
+        "bear_weight": 0.0,
+        "bull_share": null,
+        "importance": 3,
+        "confidence": 0,
+        "thesis_change": "MENTION",
+        "core_thesis": "",
+        "url": "https://x.com/aleabitoreddit/status/2074548850996707412",
+        "tweet_id": "2074548850996707412",
+        "items": [
+          {
+            "tweet_id": "2074548850996707412",
+            "is_reply": false,
+            "kind": "post",
+            "reply_signal_eligible": false,
+            "created_at": "2026-07-07T17:39:23Z",
+            "text": "How is the US so far behind?\n\nXinhua: China's output of humanoids are expected to hit 100,000+ this year. \n\nEven Morgan Stanley originally projected 14,000 for 2026... \n\nReally need Elon's $TSLA, $CCXI (Agility), Apptronik, and Figure to catchup. And for more US Gov. subsidies to pour into upstream supply chains + rare earths. \n\nCause this disparity between US vs. China mass production is getting ridiculous... \n\nBut it almost feels like the start of Russia/US Space race Sputnik Moment for robotics?",
+            "url": "https://x.com/aleabitoreddit/status/2074548850996707412",
+            "sentiment": "Neutral",
+            "importance": 3,
+            "thesis_change": "MENTION",
+            "summary_zh": "",
+            "plain_zh": "",
+            "core_thesis": "",
+            "why_it_matters": "",
+            "history_note": "",
+            "catalysts": [],
+            "risks": [],
+            "confidence": 0,
+            "ai_status": "",
+            "favorite_count": 1142,
+            "retweet_count": 71
+          }
+        ]
+      },
+      {
+        "date": "2026-07-09",
+        "created_at": "2026-07-09T19:35:56Z",
+        "sentiment": "Bullish",
+        "bull_count": 1,
+        "bear_count": 0,
+        "neutral_count": 0,
+        "mixed_count": 0,
+        "mention_count": 1,
+        "bull_weight": 1.8,
+        "bear_weight": 0.0,
+        "bull_share": 1.0,
+        "importance": 3,
+        "confidence": 0,
+        "thesis_change": "UPDATE",
+        "core_thesis": "",
+        "url": "https://x.com/aleabitoreddit/status/2075302956581449892",
+        "tweet_id": "2075302956581449892",
+        "items": [
+          {
+            "tweet_id": "2075302956581449892",
+            "is_reply": false,
+            "kind": "post",
+            "reply_signal_eligible": false,
+            "created_at": "2026-07-09T19:35:56Z",
+            "text": "\"China is shipping ~90% of the world's humanoid robots. We cannot keep taking them lightly.\"\n\nElon's comment: \"For now\"\n\nMeanwhile, 1X today posts a video of the most advanced humanoid hand.\n\nLooks like the inflection point for American humanoid programs is here?\n\nBoth technologically with players like 1X and with mass production with $TSLA? \n\nI'm am personally long on Agility through $CCXI targeting commercialization with Amazon and others. \n\nBut I'm proud to see American robotics as a whole go brrrr.",
+            "url": "https://x.com/aleabitoreddit/status/2075302956581449892",
+            "sentiment": "Bullish",
+            "importance": 3,
+            "thesis_change": "UPDATE",
+            "summary_zh": "",
+            "plain_zh": "",
+            "core_thesis": "",
+            "why_it_matters": "",
+            "history_note": "",
+            "catalysts": [],
+            "risks": [],
+            "confidence": 0,
+            "ai_status": "",
+            "favorite_count": 1824,
+            "retweet_count": 143
+          }
+        ]
+      },
+      {
+        "date": "2026-07-12",
+        "created_at": "2026-07-12T10:12:33Z",
+        "sentiment": "Neutral",
+        "bull_count": 0,
+        "bear_count": 0,
+        "neutral_count": 1,
+        "mixed_count": 0,
+        "mention_count": 1,
+        "bull_weight": 0.0,
+        "bear_weight": 0.0,
+        "bull_share": null,
+        "importance": 3,
+        "confidence": 0,
+        "thesis_change": "MENTION",
+        "core_thesis": "",
+        "url": "https://x.com/aleabitoreddit/status/2076248337863639506",
+        "tweet_id": "2076248337863639506",
+        "items": [
+          {
+            "tweet_id": "2076248337863639506",
+            "is_reply": false,
+            "kind": "post",
+            "reply_signal_eligible": false,
+            "created_at": "2026-07-12T10:12:33Z",
+            "text": "So there's a IBK Research report on Boston Dynamics value chains from last month. \n\nJust a summary: \n\nIBK maps these companies to Atlas as suppliers:\n- Hwashin (010690) / body, arms, legs\n- LG Energy (373220) / battery \n- Hyundai Autoever (307950) / integration\n- Hyundai Mobis (012330) / actuators\n\nAs for humanoid volume ramps: \n\nThey're modeling for, 11.29K in 2028, 20k 2029, 30k in 2030... 40k in 2031, and 50k in 2032. \n\nNot quite sure why IBK and other institutions are a fan of linearly modeling S-curve volume ramps... \n\nLike adding +10K per year, don't quite think it's volume ramp is going to work like that... if I had to guess it would look more like: \n\n- 15-20k 2028\n- 40k-70k 2029\n- 90k-140k for 2030\n\nSince Boston Dynamics is projecting 30k capacity by 2028 (I'm sure they'd aim to get more online by 2029-2030), as China collectively is already doing 100k EOY in 2026.  \n\nIn terms of competitive landscape they name:\n\n- $TSLA, Figure, Apptronik, $CCXI (Agility), as US  players. Then Boston Dynamics (Korea parent owned now)\n- Unitree, Fourier, AGibot, UBtech, $XPEV as the Chinese leaders. \n- Neura, Pal Robotics, Wandercraft, Oversonic, as the EU leaders.  \n\nThey also did quite a lot of valuation modeling around Hyundai Mobis/Hyundai Autoever/Glovis. \n\nRegarding the BD economic ownership from 27.9% from Hyundai Motor, 11.3% from Mobis, and 11.3% from Glovis. So at least institution are valuing humanoid segments inside companies lot more now. \n\nThen from report assumptions:\n- 31 actuators per Atlas\n- $1K per actuator in 2028\n- $134K Atlas ASP,\n\nWhich implies actuator cost of final selling price is roughly 23–28%. \n\nProbably the more interesting statement was IBK stated that actuator capacity is biggest signal for volume ramp. eg. every 310,000 units of actuator capacity supports 10,000 more robots. \n\nSo tracking actuator outputs, yields, ASP is a cleaner read on 2028-2030 ramp.\n\nI didn't have much personal takeaways, but hopefully others find it interesting, maybe around Hwashin as a core supplier or around actuator capacity as an indicator.",
+            "url": "https://x.com/aleabitoreddit/status/2076248337863639506",
+            "sentiment": "Neutral",
+            "importance": 3,
+            "thesis_change": "MENTION",
+            "summary_zh": "",
+            "plain_zh": "",
+            "core_thesis": "",
+            "why_it_matters": "",
+            "history_note": "",
+            "catalysts": [],
+            "risks": [],
+            "confidence": 0,
+            "ai_status": "",
+            "favorite_count": 753,
+            "retweet_count": 70
+          }
+        ]
+      },
+      {
+        "date": "2026-07-13",
+        "created_at": "2026-07-13T00:45:13Z",
+        "sentiment": "Neutral",
+        "bull_count": 0,
+        "bear_count": 0,
+        "neutral_count": 1,
+        "mixed_count": 0,
+        "mention_count": 1,
+        "bull_weight": 0.0,
+        "bear_weight": 0.0,
+        "bull_share": null,
+        "importance": 4,
+        "confidence": 0,
+        "thesis_change": "UPDATE",
+        "core_thesis": "",
+        "url": "https://x.com/aleabitoreddit/status/2076467953995071881",
+        "tweet_id": "2076467953995071881",
+        "items": [
+          {
+            "tweet_id": "2076467953995071881",
+            "is_reply": false,
+            "kind": "post",
+            "reply_signal_eligible": false,
+            "created_at": "2026-07-13T00:45:13Z",
+            "text": "Just a semi recap TLDR:\n\n- $GLW glass bridge per Morgan Stanley has potential, but hard to displace FAU (like FOCI) in short term\n\n- $SPCX Starlink Gen 3 is scaling to 100,000 units (10x prev gen) creating possible capacity constraints for suppliers of switches to CCL.\n\n- PCB supply shortages are projected to persist until 2028, and component shortages/price hikes are already forcing ODMs like Inventec to issue  conservative H2 shipment\n\n- DeepSeek and Zhipu are developing custom ASICs to bypass $NVDA (kinda expected by now). \n\n- Anthropic has achieved a $30B ARR and is projected to hit >$1B in Q3 profit. Turns out these frontier labs are more profitable than people think. \n\n- US admin pressured $AAPL to source from $INTC, in exchange for tariff exception. Kinda pressuring alignment away from TSM.  \n\n- $TSM plans a 30x expansion of its Photonic Integrated Circuit (PIC)  capacity by 2028, growing from 500 to 25,000 wafers per month\n\n- Hanmi Semiconductor is entering the CoWoS packaging equipment market\n\n- $NVDA and NTT hosting a conference July 24th to discuss CPO strategies. \n\n- 5x general NAND flash price hike this year, market size $489B by next year triggered by RAG/inference. Samsung and SK Hynix make emergency fab investments, NAND equipment suppliers go brrrr.  \n\n- Gas turbine bottleneck, 40% supply gap accompanied by staggering 5-year delivery cycles (mega-fabs need them for mass production).\n\n- AI probe card assembly has hit a severe bottleneck apparently. Which is attempted to by solved with things like Innovation Service's machines. \n\n- Nanya, 79.5% gross margins reported, memory go brr. 4x capex for capacity/advanced packaging. \n\n- CXMT's STAR Market IPO on July 16, so should bring a lot of attention to memory players in that supply chain. \n\n- KYEC $1.4B investment into US for $TSM Arizona output test facilities. Lot of these players like $AMKR and others should go brr in 2028.\n\n- $INTC CEO warned last month that helium could hinder the manufacturing costs and delivery times of AI chips\n\n- 3D NAND word lines are shifting from Tungsten to Molybdenum starting at the 375-layer node\n\n- SambaNova secured JPM for AI inference and raised $1B at an $11B valuation.\n\n- HBM prices projections to double in 2027 as $NVDA Rubin platform drives demand.\n\n- $MU provides $500 million in funding to support GlobalWafers' US manufacturing capacity \n\n- $META 'Iris' will enter mass production in September  via $AVGO and TSMC and Meta aims to double computing power to 14GW by 2027.\n\n- Largan Precision has secured its first CPO FAU order, mass production slated for middle of next year (kinda indication around Foci and others). \n\n- Samsung and SK Hynix have delayed the implementation of hybrid bonding packaging technology for HBM4 apparently \n\n- Memory costs (DRAM/NAND) have reached 60% of the BOM for sub-$400 smartphones, causing a severe volume contraction.\n\n- SK Hynix successfully rasied $26.5 billion through a Nasdaq ADR\n\n- $TSLA issued procurement guidelines requiring suppliers to reach weekly production of 1,000 units by September and double to 2,000-2,500 by year end for its 3rd gen Optimus robot. Apparently Alliance Technology and A-Link may be in this supply chain harmonic reducers and vision lenses?\n\nKinda go through all this stuff every day, but don't wanna be a news reporter so just consolidated stuff I found interesting.",
+            "url": "https://x.com/aleabitoreddit/status/2076467953995071881",
+            "sentiment": "Neutral",
+            "importance": 4,
+            "thesis_change": "UPDATE",
+            "summary_zh": "",
+            "plain_zh": "",
+            "core_thesis": "",
+            "why_it_matters": "",
+            "history_note": "",
+            "catalysts": [],
+            "risks": [],
+            "confidence": 0,
+            "ai_status": "",
+            "favorite_count": 2035,
+            "retweet_count": 171
+          }
+        ]
+      },
+      {
+        "date": "2026-07-23",
+        "created_at": "2026-07-23T04:35:37Z",
+        "sentiment": "Bullish",
+        "bull_count": 1,
+        "bear_count": 0,
+        "neutral_count": 0,
+        "mixed_count": 0,
+        "mention_count": 1,
+        "bull_weight": 3.0,
+        "bear_weight": 0.0,
+        "bull_share": 1.0,
+        "importance": 5,
+        "confidence": 0,
+        "thesis_change": "UPDATE",
+        "core_thesis": "",
+        "url": "https://x.com/aleabitoreddit/status/2080149813065396454",
+        "tweet_id": "2080149813065396454",
+        "items": [
+          {
+            "tweet_id": "2080149813065396454",
+            "is_reply": false,
+            "kind": "post",
+            "reply_signal_eligible": false,
+            "created_at": "2026-07-23T04:35:37Z",
+            "text": "Just some notes from $TSLA transcripts:\n\nElon Musk: \"I think Optimus will be the biggest product ever\" from Q2 earnings transcripts.\n\nEven from Q1, Elon Stated: \"I think Optimus will be our biggest product. Not just Tesla's biggest product ever, but probably the biggest product ever.\n\nAnd I remain convinced of that conclusion\". \n\nIt's very rare to see such high conviction reiterated from Elon regarding humanoids both directionally and TAM-wise.\n\nIn terms of upstream suppliers opportunities, Karn Budhiraj, VP of $TSLA supply chains stated: \n\n\"We’re seeing the same level of investment going to memory and also new specific items like metal injection molded parts, flexible printed circuits, and all sorts of nonlinear technologies...\" \n\nAnd that they had to build new supply chains from scratch. So would be interesting to look at for new supply chain supplier opportunities apart from the known ones.  \n\nJust pulled older slides and it looks like capacity targets for Fremont are 1M and Giga Texas was 10M, so at scale, $TSLA seems to be the clear US leader. If you're looking at that S-Curve opportunity ramp. \n\nOn a side note, Elon also gave a shoutout to $MU with likely reasonably priced LTAs, given his statement: \n\n\"We really appreciate Micron making room for Tesla in the years to come and giving us actually a very significant allocation on reasonable terms given the pretty insane pricing of memory these days.\" (Just for structural memory demand).  \n\nElon also gave a shoutout to Panasonic which had invested many billions in increasing battery cell production (will need to do deeper DD into Panasonic after this), then Samsung and $TSM. \n\nJust takeaways from Tesla earnings TLDR: \n\nElon tends to be directionally correct on where the future is heading, such as with EV or Space. \n\nHe seems extremely bullish on humanoids.",
+            "url": "https://x.com/aleabitoreddit/status/2080149813065396454",
+            "sentiment": "Bullish",
+            "importance": 5,
+            "thesis_change": "UPDATE",
+            "summary_zh": "",
+            "plain_zh": "",
+            "core_thesis": "",
+            "why_it_matters": "",
+            "history_note": "",
+            "catalysts": [],
+            "risks": [],
+            "confidence": 0,
+            "ai_status": "",
+            "favorite_count": 1817,
+            "retweet_count": 127
+          }
+        ]
+      }
+    ],
+    "excluded_days": 16,
+    "summary": {
+      "signals": 7,
+      "horizons": {
+        "1d": {
+          "sample": 7,
+          "avg_score_return": -0.48,
+          "hit_rate": 28.6
+        },
+        "7d": {
+          "sample": 7,
+          "avg_score_return": -1.41,
+          "hit_rate": 42.9
+        },
+        "30d": {
+          "sample": 6,
+          "avg_score_return": -3.09,
+          "hit_rate": 50.0
+        },
+        "now": {
+          "sample": 7,
+          "avg_score_return": -10.47,
+          "hit_rate": 28.6
+        }
+      }
+    },
+    "available": true,
+    "method": "daily_net_stance_primary_only",
+    "include_replies": false
+  },
+  "primary_posts": [
+    {
+      "tweet_id": "2080149813065396454",
+      "is_reply": false,
+      "kind": "post",
+      "reply_signal_eligible": false,
+      "created_at": "2026-07-23T04:35:37Z",
+      "text": "Just some notes from $TSLA transcripts:\n\nElon Musk: \"I think Optimus will be the biggest product ever\" from Q2 earnings transcripts.\n\nEven from Q1, Elon Stated: \"I think Optimus will be our biggest product. Not just Tesla's biggest product ever, but probably the biggest product ever.\n\nAnd I remain convinced of that conclusion\". \n\nIt's very rare to see such high conviction reiterated from Elon regarding humanoids both directionally and TAM-wise.\n\nIn terms of upstream suppliers opportunities, Karn Budhiraj, VP of $TSLA supply chains stated: \n\n\"We’re seeing the same level of investment going to memory and also new specific items like metal injection molded parts, flexible printed circuits, and all sorts of nonlinear technologies...\" \n\nAnd that they had to build new supply chains from scratch. So would be interesting to look at for new supply chain supplier opportunities apart from the known ones.  \n\nJust pulled older slides and it looks like capacity targets for Fremont are 1M and Giga Texas was 10M, so at scale, $TSLA seems to be the clear US leader. If you're looking at that S-Curve opportunity ramp. \n\nOn a side note, Elon also gave a shoutout to $MU with likely reasonably priced LTAs, given his statement: \n\n\"We really appreciate Micron making room for Tesla in the years to come and giving us actually a very significant allocation on reasonable terms given the pretty insane pricing of memory these days.\" (Just for structural memory demand).  \n\nElon also gave a shoutout to Panasonic which had invested many billions in increasing battery cell production (will need to do deeper DD into Panasonic after this), then Samsung and $TSM. \n\nJust takeaways from Tesla earnings TLDR: \n\nElon tends to be directionally correct on where the future is heading, such as with EV or Space. \n\nHe seems extremely bullish on humanoids.",
+      "url": "https://x.com/aleabitoreddit/status/2080149813065396454",
+      "sentiment": "Bullish",
+      "importance": 5,
+      "thesis_change": "UPDATE",
+      "summary_zh": "",
+      "plain_zh": "",
+      "core_thesis": "",
+      "why_it_matters": "",
+      "history_note": "",
+      "catalysts": [],
+      "risks": [],
+      "confidence": 0,
+      "ai_status": "",
+      "favorite_count": 1817,
+      "retweet_count": 127
+    },
+    {
+      "tweet_id": "2076467953995071881",
+      "is_reply": false,
+      "kind": "post",
+      "reply_signal_eligible": false,
+      "created_at": "2026-07-13T00:45:13Z",
+      "text": "Just a semi recap TLDR:\n\n- $GLW glass bridge per Morgan Stanley has potential, but hard to displace FAU (like FOCI) in short term\n\n- $SPCX Starlink Gen 3 is scaling to 100,000 units (10x prev gen) creating possible capacity constraints for suppliers of switches to CCL.\n\n- PCB supply shortages are projected to persist until 2028, and component shortages/price hikes are already forcing ODMs like Inventec to issue  conservative H2 shipment\n\n- DeepSeek and Zhipu are developing custom ASICs to bypass $NVDA (kinda expected by now). \n\n- Anthropic has achieved a $30B ARR and is projected to hit >$1B in Q3 profit. Turns out these frontier labs are more profitable than people think. \n\n- US admin pressured $AAPL to source from $INTC, in exchange for tariff exception. Kinda pressuring alignment away from TSM.  \n\n- $TSM plans a 30x expansion of its Photonic Integrated Circuit (PIC)  capacity by 2028, growing from 500 to 25,000 wafers per month\n\n- Hanmi Semiconductor is entering the CoWoS packaging equipment market\n\n- $NVDA and NTT hosting a conference July 24th to discuss CPO strategies. \n\n- 5x general NAND flash price hike this year, market size $489B by next year triggered by RAG/inference. Samsung and SK Hynix make emergency fab investments, NAND equipment suppliers go brrrr.  \n\n- Gas turbine bottleneck, 40% supply gap accompanied by staggering 5-year delivery cycles (mega-fabs need them for mass production).\n\n- AI probe card assembly has hit a severe bottleneck apparently. Which is attempted to by solved with things like Innovation Service's machines. \n\n- Nanya, 79.5% gross margins reported, memory go brr. 4x capex for capacity/advanced packaging. \n\n- CXMT's STAR Market IPO on July 16, so should bring a lot of attention to memory players in that supply chain. \n\n- KYEC $1.4B investment into US for $TSM Arizona output test facilities. Lot of these players like $AMKR and others should go brr in 2028.\n\n- $INTC CEO warned last month that helium could hinder the manufacturing costs and delivery times of AI chips\n\n- 3D NAND word lines are shifting from Tungsten to Molybdenum starting at the 375-layer node\n\n- SambaNova secured JPM for AI inference and raised $1B at an $11B valuation.\n\n- HBM prices projections to double in 2027 as $NVDA Rubin platform drives demand.\n\n- $MU provides $500 million in funding to support GlobalWafers' US manufacturing capacity \n\n- $META 'Iris' will enter mass production in September  via $AVGO and TSMC and Meta aims to double computing power to 14GW by 2027.\n\n- Largan Precision has secured its first CPO FAU order, mass production slated for middle of next year (kinda indication around Foci and others). \n\n- Samsung and SK Hynix have delayed the implementation of hybrid bonding packaging technology for HBM4 apparently \n\n- Memory costs (DRAM/NAND) have reached 60% of the BOM for sub-$400 smartphones, causing a severe volume contraction.\n\n- SK Hynix successfully rasied $26.5 billion through a Nasdaq ADR\n\n- $TSLA issued procurement guidelines requiring suppliers to reach weekly production of 1,000 units by September and double to 2,000-2,500 by year end for its 3rd gen Optimus robot. Apparently Alliance Technology and A-Link may be in this supply chain harmonic reducers and vision lenses?\n\nKinda go through all this stuff every day, but don't wanna be a news reporter so just consolidated stuff I found interesting.",
+      "url": "https://x.com/aleabitoreddit/status/2076467953995071881",
+      "sentiment": "Neutral",
+      "importance": 4,
+      "thesis_change": "UPDATE",
+      "summary_zh": "",
+      "plain_zh": "",
+      "core_thesis": "",
+      "why_it_matters": "",
+      "history_note": "",
+      "catalysts": [],
+      "risks": [],
+      "confidence": 0,
+      "ai_status": "",
+      "favorite_count": 2035,
+      "retweet_count": 171
+    },
+    {
+      "tweet_id": "2076248337863639506",
+      "is_reply": false,
+      "kind": "post",
+      "reply_signal_eligible": false,
+      "created_at": "2026-07-12T10:12:33Z",
+      "text": "So there's a IBK Research report on Boston Dynamics value chains from last month. \n\nJust a summary: \n\nIBK maps these companies to Atlas as suppliers:\n- Hwashin (010690) / body, arms, legs\n- LG Energy (373220) / battery \n- Hyundai Autoever (307950) / integration\n- Hyundai Mobis (012330) / actuators\n\nAs for humanoid volume ramps: \n\nThey're modeling for, 11.29K in 2028, 20k 2029, 30k in 2030... 40k in 2031, and 50k in 2032. \n\nNot quite sure why IBK and other institutions are a fan of linearly modeling S-curve volume ramps... \n\nLike adding +10K per year, don't quite think it's volume ramp is going to work like that... if I had to guess it would look more like: \n\n- 15-20k 2028\n- 40k-70k 2029\n- 90k-140k for 2030\n\nSince Boston Dynamics is projecting 30k capacity by 2028 (I'm sure they'd aim to get more online by 2029-2030), as China collectively is already doing 100k EOY in 2026.  \n\nIn terms of competitive landscape they name:\n\n- $TSLA, Figure, Apptronik, $CCXI (Agility), as US  players. Then Boston Dynamics (Korea parent owned now)\n- Unitree, Fourier, AGibot, UBtech, $XPEV as the Chinese leaders. \n- Neura, Pal Robotics, Wandercraft, Oversonic, as the EU leaders.  \n\nThey also did quite a lot of valuation modeling around Hyundai Mobis/Hyundai Autoever/Glovis. \n\nRegarding the BD economic ownership from 27.9% from Hyundai Motor, 11.3% from Mobis, and 11.3% from Glovis. So at least institution are valuing humanoid segments inside companies lot more now. \n\nThen from report assumptions:\n- 31 actuators per Atlas\n- $1K per actuator in 2028\n- $134K Atlas ASP,\n\nWhich implies actuator cost of final selling price is roughly 23–28%. \n\nProbably the more interesting statement was IBK stated that actuator capacity is biggest signal for volume ramp. eg. every 310,000 units of actuator capacity supports 10,000 more robots. \n\nSo tracking actuator outputs, yields, ASP is a cleaner read on 2028-2030 ramp.\n\nI didn't have much personal takeaways, but hopefully others find it interesting, maybe around Hwashin as a core supplier or around actuator capacity as an indicator.",
+      "url": "https://x.com/aleabitoreddit/status/2076248337863639506",
+      "sentiment": "Neutral",
+      "importance": 3,
+      "thesis_change": "MENTION",
+      "summary_zh": "",
+      "plain_zh": "",
+      "core_thesis": "",
+      "why_it_matters": "",
+      "history_note": "",
+      "catalysts": [],
+      "risks": [],
+      "confidence": 0,
+      "ai_status": "",
+      "favorite_count": 753,
+      "retweet_count": 70
+    },
+    {
+      "tweet_id": "2075302956581449892",
+      "is_reply": false,
+      "kind": "post",
+      "reply_signal_eligible": false,
+      "created_at": "2026-07-09T19:35:56Z",
+      "text": "\"China is shipping ~90% of the world's humanoid robots. We cannot keep taking them lightly.\"\n\nElon's comment: \"For now\"\n\nMeanwhile, 1X today posts a video of the most advanced humanoid hand.\n\nLooks like the inflection point for American humanoid programs is here?\n\nBoth technologically with players like 1X and with mass production with $TSLA? \n\nI'm am personally long on Agility through $CCXI targeting commercialization with Amazon and others. \n\nBut I'm proud to see American robotics as a whole go brrrr.",
+      "url": "https://x.com/aleabitoreddit/status/2075302956581449892",
+      "sentiment": "Bullish",
+      "importance": 3,
+      "thesis_change": "UPDATE",
+      "summary_zh": "",
+      "plain_zh": "",
+      "core_thesis": "",
+      "why_it_matters": "",
+      "history_note": "",
+      "catalysts": [],
+      "risks": [],
+      "confidence": 0,
+      "ai_status": "",
+      "favorite_count": 1824,
+      "retweet_count": 143
+    },
+    {
+      "tweet_id": "2074548850996707412",
+      "is_reply": false,
+      "kind": "post",
+      "reply_signal_eligible": false,
+      "created_at": "2026-07-07T17:39:23Z",
+      "text": "How is the US so far behind?\n\nXinhua: China's output of humanoids are expected to hit 100,000+ this year. \n\nEven Morgan Stanley originally projected 14,000 for 2026... \n\nReally need Elon's $TSLA, $CCXI (Agility), Apptronik, and Figure to catchup. And for more US Gov. subsidies to pour into upstream supply chains + rare earths. \n\nCause this disparity between US vs. China mass production is getting ridiculous... \n\nBut it almost feels like the start of Russia/US Space race Sputnik Moment for robotics?",
+      "url": "https://x.com/aleabitoreddit/status/2074548850996707412",
+      "sentiment": "Neutral",
+      "importance": 3,
+      "thesis_change": "MENTION",
+      "summary_zh": "",
+      "plain_zh": "",
+      "core_thesis": "",
+      "why_it_matters": "",
+      "history_note": "",
+      "catalysts": [],
+      "risks": [],
+      "confidence": 0,
+      "ai_status": "",
+      "favorite_count": 1142,
+      "retweet_count": 71
+    },
+    {
+      "tweet_id": "2073867745243127973",
+      "is_reply": false,
+      "kind": "post",
+      "reply_signal_eligible": false,
+      "created_at": "2026-07-05T20:32:55Z",
+      "text": "Came across an interesting report from SVRC Research called \"State of Robotics 2026\", published in April. \n\nWhich listed:\n\n1. Figure AI \n2. Agility Robotics $CCXI\n3. Apptronik \n4. $TSLA \n5. Boston Dynamics\n6. Physical Intelligence \n7. 1X Technologies\n8. $AMZN Robotics\n9. Covariant\n10. Skild AI \n\nAs the National Champions of the United States robotics program. \n\n\"The United States leads the world in where robotics is heading: Fundation models, OpenAI-style scaling laws applied to action, autonomous vehicles. \n\nWhile losing the race on where robotics is shipping today.\" \n\nThen it frames:\n\n1. Rare Earths Exposure: from Neodymium for motors to samarium-cobalt for high-temp applications as a critical vulnerability.\n\n2. Actuator dependency. Series elastic actuators, quasi-direct-drive motors, and precision reducers overwhelmingly sourced from Japan, Germany, and China\n\nAs one of the main vulnerabilities alongside Manufacturing velocity/data collection cost/regulations. Then their take was: \n\n\"With at least six well-funded US humanoid companies competing for a market still in early formation, we expect at least two significant consolidation events (acquisition or merger) in 2027\". \n\nWith Logistics / E-commerce (like $AMZN / $FDX) and Automotive from $GM to $FORD as being the immediate top use cases for deployment.\n\nI think it's just interesting to see a lot of my points I've been talking about reiterated by research firms. Regardless, I do think it's going to be a major frontier race between the US and China. \n\nAgility Robotics (which I own), Tesla, Figure, and Apptronik as leaders representing the USA. Competing against Unitree, AGIbot, Ubtech, and others in China.",
+      "url": "https://x.com/aleabitoreddit/status/2073867745243127973",
+      "sentiment": "Neutral",
+      "importance": 3,
+      "thesis_change": "MENTION",
+      "summary_zh": "",
+      "plain_zh": "",
+      "core_thesis": "",
+      "why_it_matters": "",
+      "history_note": "",
+      "catalysts": [],
+      "risks": [],
+      "confidence": 0,
+      "ai_status": "",
+      "favorite_count": 1493,
+      "retweet_count": 150
+    },
+    {
+      "tweet_id": "2072741541404406008",
+      "is_reply": false,
+      "kind": "post",
+      "reply_signal_eligible": false,
+      "created_at": "2026-07-02T17:57:47Z",
+      "text": "Agility Robotics is literally the #1 humanoid player in the US in terms of commercialization today imo. \n\nPersonal Rankings:\n\n1. Agility Robotics via $CCXI \n2. $TSLA Optimus ($1T+ company)\n3. Figure at $39B from 2025, likely higher now.\n\nWith Tesla likely taking the lead a year from now. So at  $16, you have a ~$4B MC pre-money humanoid player.\n\nWhich is already inside $AMZN and $MELI (ideal use cases to start out, before step-functioning to general-use), with $AMZN, $NVDA, Softbank, Foxconn, and others as investors.\n\nNFA, but at those valuations... there's direct exposure for the first ever humanoid player today, that's likely further ahead than Figure for commercialization. \n\nNo hard feelings about Robostrategy, but it's over 4x+ NAV: \n\nWhich would value Figure at $156B...  \n\nWhile there's the #1 commercialized humanoid player with Agility at $4B today. \n\nSo my personal preference is $CCXI.",
+      "url": "https://x.com/aleabitoreddit/status/2072741541404406008",
+      "sentiment": "Neutral",
+      "importance": 3,
+      "thesis_change": "MENTION",
+      "summary_zh": "",
+      "plain_zh": "",
+      "core_thesis": "",
+      "why_it_matters": "",
+      "history_note": "",
+      "catalysts": [],
+      "risks": [],
+      "confidence": 0,
+      "ai_status": "",
+      "favorite_count": 1360,
+      "retweet_count": 107
+    },
+    {
+      "tweet_id": "2072630036600103340",
+      "is_reply": false,
+      "kind": "post",
+      "reply_signal_eligible": false,
+      "created_at": "2026-07-02T10:34:42Z",
+      "text": "I just realized Boston Dynamics CEO shared the same sentiment:\n\n“Robotics is next. America’s next 250 years will be built by robots”.\n\nHowever, currently China accounts for 54%+ of all global robotics deployments.\n\n- calls for Internet scaleable database of physical world (kinda got reminded of Niantic that has a huge dataset from Pokemon Go)\n\n- dedicated National robotics strategy to compete against China’s leadership in this space\n\n-  ISO + regulation for robotics safety \n\nThis is all high level:\n\nBut my prioritize thought process is how do we support and scale a Made in USA supply chain for robotics/humanoids?\n\nI’ve been hammering home rare earths for the longest time, that the US isn’t doing enough to subsidize or scale this industry.\n\nBut another thing to take note is subsidies for components, forcing $TSLA and others to use Chinese suppliers over Western ones, even if assembly is done in USA… to keep costs down.\n\nWhich is why I’ve liked Agility Robotics $CCXI since they source 75% of parts from the US, despite higher BOM to start out with.\n\nRegardless it’s pretty clear this Robotics is coming and becoming a national security priority:\n\nFrom the days of backflipping humanoid YT videos.",
+      "url": "https://x.com/aleabitoreddit/status/2072630036600103340",
+      "sentiment": "Neutral",
+      "importance": 3,
+      "thesis_change": "MENTION",
+      "summary_zh": "",
+      "plain_zh": "",
+      "core_thesis": "",
+      "why_it_matters": "",
+      "history_note": "",
+      "catalysts": [],
+      "risks": [],
+      "confidence": 0,
+      "ai_status": "",
+      "favorite_count": 1482,
+      "retweet_count": 130
+    },
+    {
+      "tweet_id": "2072367082248040621",
+      "is_reply": false,
+      "kind": "post",
+      "reply_signal_eligible": false,
+      "created_at": "2026-07-01T17:09:49Z",
+      "text": "Just dropping these 3 slides from Agility Robotics ( $CCXI ) presentations.\n\nFor the US robotic program doomposters:\n\n1. “75% of parts” - sourced from the USA\n\n2. Just eyeballing the graph, looks like <$30k BOM mass production.\n\nPeople were just looking at the ~$145K cost. \n\n3. 10,000 RoboFab capacity, and they build in Salem/Pittsburgh/Fremont (USA).\n\nSo looks like majority US supply chains with targets of <$30K mass production\n\nIt does help they’re backed by $AMZN / SoftBank / Foxconn / $NVDA as investors to get this done.\n\nJust personal thoughts as a shareholder in $CCXI (NFA):\n\nMy personal biggest fear were US humanoid leaders like $TSLA were just building out their entire supply chains in China.\n\nSo US robotics could just be export controlled/halted down the road.\n\neg. South China Morning Post: ‘Optimus chain’: Chinese suppliers form the backbone of Tesla’s humanoid robot initiative and engaged with hundreds of Chinese component suppliers. \n\nAnd that Western companies are not able to lower costs to a competitive level + are forced to use Chinese components. \n\nI'm still not sure how they're going to do it but if Agility can achieve those mass production targets with that BOM cost in the USA/West. \n\nIt would be a great validation for Made in America US robotics programs. \n\nIMO the top 5 US humanoid programs right now in terms of commercialization potential are:\n\n1. Tesla Optimus\n2. Figure\n3. Agility Robotics\n4. Boston Dynamics (yeah KR parent)\n5. Apptronik\n\nTesla is a $1T+ company. Figure is private and valued around ~$39B. Owning Boston Dynamics through Hyundai is a bit messy.\n\nAnd I’d prefer not to invest in adversarial programs just as a personal preference.\n\nSo I’ve been personally excited for Agility to be listed as early as September.",
+      "url": "https://x.com/aleabitoreddit/status/2072367082248040621",
+      "sentiment": "Neutral",
+      "importance": 4,
+      "thesis_change": "MENTION",
+      "summary_zh": "",
+      "plain_zh": "",
+      "core_thesis": "",
+      "why_it_matters": "",
+      "history_note": "",
+      "catalysts": [],
+      "risks": [],
+      "confidence": 0,
+      "ai_status": "",
+      "favorite_count": 1493,
+      "retweet_count": 151
+    },
+    {
+      "tweet_id": "2071977219002613768",
+      "is_reply": false,
+      "kind": "post",
+      "reply_signal_eligible": false,
+      "created_at": "2026-06-30T15:20:39Z",
+      "text": "I wonder if humanoids is going to spark a new bottleneck/industry for robot cosmetics.\n\nLike a skin bottleneck. Or Aespa KPOP robot makeover as a service.\n\nSo if $TSLA Optimus makes tens of millions of humanoids:\n\nWho’s going to make them all look hot?",
+      "url": "https://x.com/aleabitoreddit/status/2071977219002613768",
+      "sentiment": "Neutral",
+      "importance": 2,
+      "thesis_change": "MENTION",
+      "summary_zh": "",
+      "plain_zh": "",
+      "core_thesis": "",
+      "why_it_matters": "",
+      "history_note": "",
+      "catalysts": [],
+      "risks": [],
+      "confidence": 0,
+      "ai_status": "",
+      "favorite_count": 1534,
+      "retweet_count": 57
+    },
+    {
+      "tweet_id": "2071465314794233905",
+      "is_reply": false,
+      "kind": "post",
+      "reply_signal_eligible": false,
+      "created_at": "2026-06-29T05:26:31Z",
+      "text": "Honestly this decade from 2020-2030 might be the most goated in human history.\n\n- Scaling massive reusable rockets for orbital compute with $RKLB to $SPCX.\n\n- on the cusp of ASI and recursive learning with Anthropic and OpenAI \n\n- Backflipping Boston Dynamics and Unitree humanoids to replace the human workforce\n\n- Star Wars laser beams from $EOS.ASX to AI DC lasers like $LITE.\n\n- Waymo and $TSLA self driving cars everywhere in urban cities\n\n- and we get industry Quantum commercialization end of decade\n\nThis is kinda crazy to be an investor in this timeframe. Feels like every movie from the Star Wars Death Star to Skynet is coming to life.\n\nWhat’s next?",
+      "url": "https://x.com/aleabitoreddit/status/2071465314794233905",
+      "sentiment": "Neutral",
+      "importance": 3,
+      "thesis_change": "MENTION",
+      "summary_zh": "",
+      "plain_zh": "",
+      "core_thesis": "",
+      "why_it_matters": "",
+      "history_note": "",
+      "catalysts": [],
+      "risks": [],
+      "confidence": 0,
+      "ai_status": "",
+      "favorite_count": 3003,
+      "retweet_count": 267
+    },
+    {
+      "tweet_id": "2071164721299112316",
+      "is_reply": false,
+      "kind": "post",
+      "reply_signal_eligible": false,
+      "created_at": "2026-06-28T09:32:04Z",
+      "text": "Yup, Schaeffler $SHA0 is the ideal example for automotive players.\n\n~ €7.47B MC auto player.\n- but also working with 45 humanoid players (extremely insane number, they do have €5.14b debt, EV is higher)\n- covers bearings, gearboxes, sensors/ECUs, actuators, power electronics.\n-ests. They can be roughly 50% BOM of a humanoid \n- targeting 10% market share of that.\n\nBut only projecting a few hundred million revenue by 2030 (extremely sandbagged) if we’re using Elon’s projections for the market.\n\nThen’s theres auto players like Nabtesco (6268) for joints. And then Sanhua in China for $TSLA Optimus.\n\nMany of them are trade at lower valuations from drag from auto.\n\nBut humanoids + AI Auto (TSM chairman cited this as a growth vector) should be a good catalyst past 2027 for automotive players. \n\nIMO there just needs to be a ChatGPT/Anthropic breakout downstream leader first for humanoids.\n\nThat brings up the entire ecosystem that has robotics exposure. \n\nBut as of now it’s probably like 1% of many of their overall revenue figures, and markets are focusing on immediate upside from bottlenecks like memory or MLCC.\n\nI’m sure we’ll see some random Toto-HBM type surprise as different humanoid architecture evolve.",
+      "url": "https://x.com/aleabitoreddit/status/2071164721299112316",
+      "sentiment": "Bullish",
+      "importance": 5,
+      "thesis_change": "MENTION",
+      "summary_zh": "",
+      "plain_zh": "",
+      "core_thesis": "",
+      "why_it_matters": "",
+      "history_note": "",
+      "catalysts": [],
+      "risks": [],
+      "confidence": 0,
+      "ai_status": "",
+      "favorite_count": 985,
+      "retweet_count": 74
+    },
+    {
+      "tweet_id": "2070789923108798545",
+      "is_reply": false,
+      "kind": "post",
+      "reply_signal_eligible": false,
+      "created_at": "2026-06-27T08:42:45Z",
+      "text": "Robotics is next. \n\nBoth deal count and investment amounts are skyrocketing per pitchbook March data (source: a16z)\n\nGood thing is: the same AI DC exposure often has cross-exposure to humanoid ramp.\n\nLike DRAM/NAND with memory (on humanoid inference/storage) or DFB lasers with photonics (FMCW LiDAR vision/sensing).\n\nRight now most exposure is upstream component parts… or programs within large players like $AMZN or $TSLA. \n\nSo global IPO season H2 into 2027 for pure play humanoids/robotics companies is going to be fun.",
+      "url": "https://x.com/aleabitoreddit/status/2070789923108798545",
+      "sentiment": "Neutral",
+      "importance": 3,
+      "thesis_change": "MENTION",
+      "summary_zh": "",
+      "plain_zh": "",
+      "core_thesis": "",
+      "why_it_matters": "",
+      "history_note": "",
+      "catalysts": [],
+      "risks": [],
+      "confidence": 0,
+      "ai_status": "",
+      "favorite_count": 4734,
+      "retweet_count": 504
+    },
+    {
+      "tweet_id": "2069990311296975133",
+      "is_reply": false,
+      "kind": "post",
+      "reply_signal_eligible": false,
+      "created_at": "2026-06-25T03:45:23Z",
+      "text": "Very interesting statement today: $MU CEO predicts a multi-decade memory demand cycle driven by humanoid robots.\n\n\"Humanoid robots, he says, will require roughly ten times more memory than today’s Level 2+ autonomous vehicles.\"\n\n\"And that demand wave is set to begin before the decade is out.\"\n\nSomething as well as was \"Over time, we expect the value of on-device AI combined with pent-up unit replacement demand to drive memory demand growth\"\n\nWhich is also another trend (Apple Intelligence is currently dog, but I'm sure we'll see innovations with localized/edge AI). \n\nFeels like all the industry leaders from $TSM Chairman, $TSLA Elon Musk, to $MU CEO see humanoids as the next major trend so physical AI is probably next. \n\nI wonder if the world is going to have enough memory. Or if we'll see enough breakthroughs to shrink memory usage.",
+      "url": "https://x.com/aleabitoreddit/status/2069990311296975133",
+      "sentiment": "Neutral",
+      "importance": 4,
+      "thesis_change": "MENTION",
+      "summary_zh": "",
+      "plain_zh": "",
+      "core_thesis": "",
+      "why_it_matters": "",
+      "history_note": "",
+      "catalysts": [],
+      "risks": [],
+      "confidence": 0,
+      "ai_status": "",
+      "favorite_count": 3547,
+      "retweet_count": 389
+    },
+    {
+      "tweet_id": "2069655980456149142",
+      "is_reply": false,
+      "kind": "post",
+      "reply_signal_eligible": false,
+      "created_at": "2026-06-24T05:36:52Z",
+      "text": "Don’t quite think “siphoned off” is the correct term. \n\nIt’s capex for massive revenue increase or margin increase down the line.\n\n$AMZN is probably my favorite hyperscaler right now and example to give.\n\nAmazon’s headcount is absurd, like ~1.57M. If the capex goes into automating their workforce with LLMs.\n\nThen transitioning into physical AI:\n\n- things from self driving (deliveries)\n- robotics (Amazon warehouses, shipping automation).\n\n+ revenue increase from building out AWS compute with Trainium and possibly selling chips too with the Neocloud strat.\n\nIt’s probably the clearest path forward compared to every hyperscaler out there. \n\n$TSLA optimus use case targets is extremely broad as a pitch, but Amazon already has a specific reason to scale robotics for internal opex optimization.\n\nAs for $GOOGL, probably 2nd right now, AI capex was necessary for defending its Google Search moat Gemini from ChatGPT\n\nThey also have Google Cloud revenue with efficient TPUs + can sell TPUs like Nvidia GPUs.\n\nGemini user volumes keep going up (despite the lack of contention in frontier benchmarks); and AI strategy to be working for ad optimization too.\n\nBut there’s less clear paths with physical AI stuff ig?\n\nMicrosoft and Meta are still trying to convince the market why capex is necessary, (we’re kinda seeing that in effect with Meta’s 30%+ Y/Y revenue growth), but doesn’t look like they’re convinced. \n\nAs for market narratives, Microsoft Maia seems to be behind, their AI development was stunted from OpenAi investments, so sentiment is kinda in the ground. \n\nBut think that will change down the road like the 180 with Google.\n\nI’m sure all the hyperscalers are seeing the leader effect right now:\n\nIf you have the leading LLM, people will keep using it. That LLM gets smarter from all the training data; and that gap might be structural.\n\nWhich is why everyone is kinda rushing the buildout right now, but for some the immediate incentives seem obvious.",
+      "url": "https://x.com/aleabitoreddit/status/2069655980456149142",
+      "sentiment": "Neutral",
+      "importance": 4,
+      "thesis_change": "UPDATE",
+      "summary_zh": "",
+      "plain_zh": "",
+      "core_thesis": "",
+      "why_it_matters": "",
+      "history_note": "",
+      "catalysts": [],
+      "risks": [],
+      "confidence": 0,
+      "ai_status": "",
+      "favorite_count": 954,
+      "retweet_count": 70
+    },
+    {
+      "tweet_id": "2063851425462173726",
+      "is_reply": false,
+      "kind": "post",
+      "reply_signal_eligible": false,
+      "created_at": "2026-06-08T05:11:38Z",
+      "text": "I do think LeaderDrive (688017) is China's standout component leader in the robotics sector.\n\nI've done a lot of research on other robotics picks / $TSLA Optimus suppliers, but LeaderDrive is extremely unique.\n\nCompared to others doing lower margin assembly, or lower value components, with higher design out risk.\n\nWestern institutions like Goldman Sachs Research flags LeaderDrive many times:\n\n-> As a company with high technology barriers (eg. harmonic reduction gear).\n\n-> and likely capturing high component value costs like planetary roller screws of each humanoid produced.\n\nIn simpler terms with LeaderDrive, you cover:\n\n1. Many different components, with high barrier to entry\n2. High BOM of each humanoid made, if you combine them together\n3. Mass production capability at low cost.\n\nFor each humanoid made.\n\nPlease do your research on this topic before making your own decision; but long-term if you believe in humanoid sector growth: I think LeaderDrive (688017) is very compelling.\n\nRisk is mainly coming from other emerging Chinese companies taking over market share of different individual components. \n\nAs well as mass-production margins decreasing over time; as seen with $VPG going from $750 (for early stage pre-production) -> $150 for sensors. \n\nBut in general, I don't believe companies outside China like Harmonic Drive (6324) can achieve the same costs for mass production, which is why $TSLA Optimus is creating extensive supply chains from China.   \n\nSo we'll likely see supply chains be bifurcated with cheap mass production $15k-20K humanoids from Chinese supply chains. And higher cost humanoids from Western supply chains.\n\nAgain if you look at current P/E ratios and say it's high; a lot of it is misunderstanding comes from not looking at forward growth:\n\nNothing has been mass produced yet.  AGIbot has recently achieved 10k units produced back in March.\n\nBut in the next 3-5 years, the TAM of the humanoid/robotics sector forecasted by Elon Musk and others very large, if he's expecting millions of humanoids to be produced a year. \n\nSo my expectation is the current $10.65B MC would look very tiny in hindsight of LeaderDrive's market capture of the overall robotics market.\n\nSo I don't believe thesis like this should be measured in short term timeframes (or that people should actively trade names like these).\n\nMoreso a long term investment idea about how this company could capture a material part of the overall humanoid market that exponentially grows over the next few years.",
+      "url": "https://x.com/aleabitoreddit/status/2063851425462173726",
+      "sentiment": "Neutral",
+      "importance": 4,
+      "thesis_change": "UPDATE",
+      "summary_zh": "",
+      "plain_zh": "",
+      "core_thesis": "",
+      "why_it_matters": "",
+      "history_note": "",
+      "catalysts": [],
+      "risks": [],
+      "confidence": 0,
+      "ai_status": "",
+      "favorite_count": 1039,
+      "retweet_count": 82
+    },
+    {
+      "tweet_id": "2059280575203328398",
+      "is_reply": false,
+      "kind": "post",
+      "reply_signal_eligible": false,
+      "created_at": "2026-05-26T14:28:43Z",
+      "text": "Well $VPG ended up tripling since my thesis post.\n\nI got the ASP wrong in my original thesis, was $150 mass production rather than ~$750 midpoint quoted by management.\n\nAnd $TSLA design out risk made me cut concentration.\n\nBut 3x regardless not too shabby. https://t.co/ksB8ZrnnEg",
+      "url": "https://x.com/aleabitoreddit/status/2059280575203328398",
+      "sentiment": "Bearish",
+      "importance": 3,
+      "thesis_change": "UPDATE",
+      "summary_zh": "",
+      "plain_zh": "",
+      "core_thesis": "",
+      "why_it_matters": "",
+      "history_note": "",
+      "catalysts": [],
+      "risks": [],
+      "confidence": 0,
+      "ai_status": "",
+      "favorite_count": 692,
+      "retweet_count": 35
+    },
+    {
+      "tweet_id": "2058968617681899915",
+      "is_reply": false,
+      "kind": "post",
+      "reply_signal_eligible": false,
+      "created_at": "2026-05-25T17:49:06Z",
+      "text": "I’m fully convinced the Stock Market secretly revolves around building the Death Star and Battle Droids:\n\n$RKLB / $SPCX / $PL = Death Star\n\n$LASR / $SIVE = Laser Beams\n\n$TSLA / Unitree = Battle Droids https://t.co/C53qKjWrS8",
+      "url": "https://x.com/aleabitoreddit/status/2058968617681899915",
+      "sentiment": "Neutral",
+      "importance": 3,
+      "thesis_change": "MENTION",
+      "summary_zh": "",
+      "plain_zh": "",
+      "core_thesis": "",
+      "why_it_matters": "",
+      "history_note": "",
+      "catalysts": [],
+      "risks": [],
+      "confidence": 0,
+      "ai_status": "",
+      "favorite_count": 2494,
+      "retweet_count": 147
+    },
+    {
+      "tweet_id": "2056891308934148253",
+      "is_reply": false,
+      "kind": "post",
+      "reply_signal_eligible": false,
+      "created_at": "2026-05-20T00:14:37Z",
+      "text": "Who could have thought China was holding all the cards over humanoid mass production?\n\nReally if America sees a future in $TSLA or Figure robotics programs.\n\nMaybe it’s time to start pouring more funding sovereign rare earths supply chains.\n\nWhatever we’re doing now isnt enough. https://t.co/VQXh9otLMi",
+      "url": "https://x.com/aleabitoreddit/status/2056891308934148253",
+      "sentiment": "Neutral",
+      "importance": 2,
+      "thesis_change": "MENTION",
+      "summary_zh": "",
+      "plain_zh": "",
+      "core_thesis": "",
+      "why_it_matters": "",
+      "history_note": "",
+      "catalysts": [],
+      "risks": [],
+      "confidence": 0,
+      "ai_status": "",
+      "favorite_count": 1336,
+      "retweet_count": 123
+    },
+    {
+      "tweet_id": "2055116243582247014",
+      "is_reply": false,
+      "kind": "post",
+      "reply_signal_eligible": false,
+      "created_at": "2026-05-15T02:41:09Z",
+      "text": "I do like Harmonic Drive (6324) as the Western Leader (eg. harmonic reduction gear) at ~$4.2B MC.\n\nVery large part of robotics/humanoid BOM value.\n\nI actually like Leader Drive more (since it's cheaper for mass production, covers more parts). And maybe Sanhua for $TSLA Optimus. \n\nBut prefer to advance Western supply chains with my capital over ones in China. \n\nIt's not just profiting off markets, but what you want to get accomplished as well (helping advance US supply chains and Robotics leaders).",
+      "url": "https://x.com/aleabitoreddit/status/2055116243582247014",
+      "sentiment": "Neutral",
+      "importance": 4,
+      "thesis_change": "MENTION",
+      "summary_zh": "",
+      "plain_zh": "",
+      "core_thesis": "",
+      "why_it_matters": "",
+      "history_note": "",
+      "catalysts": [],
+      "risks": [],
+      "confidence": 0,
+      "ai_status": "",
+      "favorite_count": 701,
+      "retweet_count": 56
+    },
+    {
+      "tweet_id": "2054696650539688271",
+      "is_reply": false,
+      "kind": "post",
+      "reply_signal_eligible": false,
+      "created_at": "2026-05-13T22:53:50Z",
+      "text": "“Robotics may be the biggest product category of all time” - $CDNS CEO.\n\n“The projection is $25 trillion. The whole GDP of the world is $110 trillion. So this is huge if this happens.”\n\nExtremely bullish on robotics/humanoids directionally.\n\nBut maybe it’s time for $TSLA and America to really start prioritizing how we build it outside Chinese supply chains?",
+      "url": "https://x.com/aleabitoreddit/status/2054696650539688271",
+      "sentiment": "Bullish",
+      "importance": 3,
+      "thesis_change": "MENTION",
+      "summary_zh": "",
+      "plain_zh": "",
+      "core_thesis": "",
+      "why_it_matters": "",
+      "history_note": "",
+      "catalysts": [],
+      "risks": [],
+      "confidence": 0,
+      "ai_status": "",
+      "favorite_count": 1459,
+      "retweet_count": 86
+    },
+    {
+      "tweet_id": "2054183097470775339",
+      "is_reply": false,
+      "kind": "post",
+      "reply_signal_eligible": false,
+      "created_at": "2026-05-12T12:53:09Z",
+      "text": "All right chat.\n\nI need some more ideas on the early $RKLB equivalent for humanoid exposure.\n\n10x+ potential returns only in the next 2 years and more pure play exposure than $TSLA.\n\nWhat’s your best ideas?",
+      "url": "https://x.com/aleabitoreddit/status/2054183097470775339",
+      "sentiment": "Neutral",
+      "importance": 2,
+      "thesis_change": "MENTION",
+      "summary_zh": "",
+      "plain_zh": "",
+      "core_thesis": "",
+      "why_it_matters": "",
+      "history_note": "",
+      "catalysts": [],
+      "risks": [],
+      "confidence": 0,
+      "ai_status": "",
+      "favorite_count": 2227,
+      "retweet_count": 80
+    },
+    {
+      "tweet_id": "2045565771234021468",
+      "is_reply": false,
+      "kind": "post",
+      "reply_signal_eligible": false,
+      "created_at": "2026-04-18T18:10:59Z",
+      "text": "Just some TLDRs to save you time: \n\n1. $ASML, $TSM earnings = Good Outlook. Semis + capex go brrr.\n\n2. Opus 4.7 + Anthropic go brrr. Software = sad.\n\n3. Samsung go brrr because of partly bc of $TSLA AI Chips.\n\n4. $UMC = price hike for foundry. foundries go brrr. \n\n5. Training = brrr in China. H100 rental increase go up. Neoclouds happy. \n\n6. Helium supply shortage = not significant... I've already said this before, but I'm not sure how many times $TSM needs to say this. \n\n7. MLCC, inductor prices = price hike. Will cover beneficiaries later.\n\n8. \"Taiwan's OSAT expansion could tighten global test capacity and raise costs\"\n\nI went long on Taiwan OSATs recently like Shunsin (6451) for a reason. Demand will just outstrip supply, even after expansion.  (cowos, sip, optical).",
+      "url": "https://x.com/aleabitoreddit/status/2045565771234021468",
+      "sentiment": "Bullish",
+      "importance": 5,
+      "thesis_change": "UPDATE",
+      "summary_zh": "",
+      "plain_zh": "",
+      "core_thesis": "",
+      "why_it_matters": "",
+      "history_note": "",
+      "catalysts": [],
+      "risks": [],
+      "confidence": 0,
+      "ai_status": "",
+      "favorite_count": 1762,
+      "retweet_count": 79
+    },
+    {
+      "tweet_id": "1992984440960921604",
+      "is_reply": false,
+      "kind": "post",
+      "reply_signal_eligible": false,
+      "created_at": "2025-11-24T15:51:33Z",
+      "text": "Nebius [ $NBIS ] is the most undervalued growth company right now. \n\nAnd it has the potential to become the next $GOOGL at a $21B market cap. There's one simple reason:\n\nIt's portfolio companies are mindblowing.\n\nThe most incredible example on this concept is the company $FTX. Here's the story:\n\nWhen we look at how $META grew into a $1T+ company, it wasn't just Facebook. It was their portfolio companies Instagram, Whatsapp, and others made Meta dominate the social media landscape.\n\n$FTX was doing something similar, but in digital assets and frontier technologies. \n\nFour years ago, in 2021, $FTX invested $5.8B into a large basket of assets. And put a large chunk into these three core companies:\n\n1. Anthropic, 13.56% at a $2.5 Billion valuation.\n2. Robinhood [ $HOOD ] 7.6% at a $8.54B valuation\n3. Solana [ $SOL ], 41M+ tokens. \n\nFast forward to today, that would have been:\n\n· Anthropic in it's latest round is worth $350B. That stake would have been worth ~$47.4B.\n\n· Robinhood is now worth over $100B. That stake would be worth ~$7.6B.\n\n· Solana is now worth  $131.5 per token, making the stake well over $5.7B. \n\nThose three companies alone generated well over $55B+ in value in 4 years time, and this is not even including FTX's tens of billions of dollars + hundreds of other investments + holdings in Chime, Layerzero, Aptos, Hidden Road (bought by $COIN), and crypto.\n\nTheir portfolio companies outlasted their core business (and imagine, how much it would have been worth if the core business kept scaling like $GOOGL search did alongside Youtube). \n\n$NBIS now has the same setup as $FTX did in crypto, $META in social media, but in artificial intelligence with a legitimate and incredibly rapidly growing core business. \n\nNebius owns:\n\n1. Clickhouse, 28% at a ~$7B valuation ($6.3 H1 2025)\n2. Avride, 83% at a ~$6B valuation. (post Uber raise)\n3. Toloka AI, ~65% at a ~$640 million valuation \n4. TripleTen, 100% at a ~$300m valuation.\n\n· Clickhouse powers Anthropic, $META, $TSLA, $NET, and many fortune 500 companies.\n\n· Avride is a self-driving car robotaxi company, spun out of Yandex that $UBER invested in a $375M round in to compete with Waymo.\n\n· Toloka is a AI labeling platform that Amazon, Microsoft, Anthropic, and Shopify uses. \n\n$1.96B + $4.96B + $416M + $300m = $7.6B valuation in portfolio companies that are growing faster than most public growth companies. \n\nBut if we look at their core business that is scaling to 700%+ Y/Y to $7-9B ARR, with $4.8B in cash, powering $META, $MSFT, Cursor, governments, and many more... \n\nThis might be the last month it's under $90 before it receives hundreds of millions to low billions of extra inflows from MSCI inclusion today. There's no other datacenter growth company that has this type of portfolio if we look at crowd favorites like $IREN or $CIFR. \n\n$NBIS is only valued at $21B and the market is sleeping on this opportunity.",
+      "url": "https://x.com/aleabitoreddit/status/1992984440960921604",
+      "sentiment": "Bullish",
+      "importance": 5,
+      "thesis_change": "MENTION",
+      "summary_zh": "",
+      "plain_zh": "",
+      "core_thesis": "",
+      "why_it_matters": "",
+      "history_note": "",
+      "catalysts": [],
+      "risks": [],
+      "confidence": 0,
+      "ai_status": "",
+      "favorite_count": 487,
+      "retweet_count": 66
+    }
+  ],
+  "reply_context": [
+    {
+      "tweet_id": "2080754547757391897",
+      "is_reply": true,
+      "kind": "reply",
+      "reply_signal_eligible": false,
+      "created_at": "2026-07-24T20:38:37Z",
+      "text": "Feels like every other car you see in SF is a Waymo.\n\nShort-medium term I see it as negligible impact to $UBER and $LYFT. \n\nLong term I see them cooked in US markets unless they act…\n\nSince autonomous vehicles can compress cost/margins of human ride shares by a lot. Then robotics can compress cost of delivery if Waymo launches a competitor to Uber Eats.\n\nJust like how people compare uber/lyft costs before rides, what people care about is lowest cost out of the bunch, and directionally Waymo/$TSLA would likely win there",
+      "url": "https://x.com/aleabitoreddit/status/2080754547757391897",
+      "sentiment": "Bullish",
+      "importance": 4,
+      "thesis_change": "UPDATE",
+      "summary_zh": "",
+      "plain_zh": "",
+      "core_thesis": "",
+      "why_it_matters": "",
+      "history_note": "",
+      "catalysts": [],
+      "risks": [],
+      "confidence": 0,
+      "ai_status": "",
+      "favorite_count": 86,
+      "retweet_count": 2
+    },
+    {
+      "tweet_id": "2075896028323254679",
+      "is_reply": true,
+      "kind": "reply",
+      "reply_signal_eligible": false,
+      "created_at": "2026-07-11T10:52:36Z",
+      "text": "He wouldn't have build a $1T company without pulling off all those moves.\n\n- Gets funding from Elon -> Pisses off $TSLA going independent\n- Gets funding from $MSFT -> Pisses of Microsoft by diluting them with other hyperscaler funding\n- Gets funding from $NVDA -> Builds their competing chip and funds Cerebras competitors for inference\n- Works with $AAPL on Apple Intelligence? -> Create their competing devices. \n- Potential lack of funding? -> Sign a lot of LTAs so the entire industry lives or dies off OpenAI succeeding.\n\nWhatever he's doing is working lol.",
+      "url": "https://x.com/aleabitoreddit/status/2075896028323254679",
+      "sentiment": "Neutral",
+      "importance": 3,
+      "thesis_change": "MENTION",
+      "summary_zh": "",
+      "plain_zh": "",
+      "core_thesis": "",
+      "why_it_matters": "",
+      "history_note": "",
+      "catalysts": [],
+      "risks": [],
+      "confidence": 0,
+      "ai_status": "",
+      "favorite_count": 237,
+      "retweet_count": 9
+    },
+    {
+      "tweet_id": "2075306506585813108",
+      "is_reply": true,
+      "kind": "reply",
+      "reply_signal_eligible": false,
+      "created_at": "2026-07-09T19:50:03Z",
+      "text": "It's nuanced, IMO: \n\n- $TSLA has the clearest path to close the gap between US/China in mass production. But to get this done, majority of components seem sourced from China? \n\n- $CCXI right now has a RoboFab for 10K+ units/year, and 75%+ of components sourced from the US. \n\nSo they're probably the leader in terms of Made in America supply chains + commercialization. But can't get to China scale yet through just US supply chains. \n\nFigure is probably the other one with 12,000 target capacity, but can't comment much since their supply chain visibility isn't very public. I don't consider Hyundai/Boston Dynamics to be very American anymore so didn't include them.",
+      "url": "https://x.com/aleabitoreddit/status/2075306506585813108",
+      "sentiment": "Neutral",
+      "importance": 4,
+      "thesis_change": "MENTION",
+      "summary_zh": "",
+      "plain_zh": "",
+      "core_thesis": "",
+      "why_it_matters": "",
+      "history_note": "",
+      "catalysts": [],
+      "risks": [],
+      "confidence": 0,
+      "ai_status": "",
+      "favorite_count": 117,
+      "retweet_count": 5
+    },
+    {
+      "tweet_id": "2074552062382338069",
+      "is_reply": true,
+      "kind": "reply",
+      "reply_signal_eligible": false,
+      "created_at": "2026-07-07T17:52:09Z",
+      "text": "Literally just Elon. \n\n- The guy + $SPCX is basically the only reason why US is in the lead with Space.\n- $TSLA led EV commercialization in US\n\nHe's sometimes off with timeframes, but right directionally, so pretty sure he can make US robotics #1 again. \n\nI personally own $CCXI though since I think Agility currently has more pure play exposure for mass production/commercialization through US supply chains + $MELI/ $AMZN.",
+      "url": "https://x.com/aleabitoreddit/status/2074552062382338069",
+      "sentiment": "Neutral",
+      "importance": 3,
+      "thesis_change": "MENTION",
+      "summary_zh": "",
+      "plain_zh": "",
+      "core_thesis": "",
+      "why_it_matters": "",
+      "history_note": "",
+      "catalysts": [],
+      "risks": [],
+      "confidence": 0,
+      "ai_status": "",
+      "favorite_count": 121,
+      "retweet_count": 4
+    },
+    {
+      "tweet_id": "2074223485921243237",
+      "is_reply": true,
+      "kind": "reply",
+      "reply_signal_eligible": false,
+      "created_at": "2026-07-06T20:06:30Z",
+      "text": "1. I don't think they're in a dire need for financing. \n\nMy take is half geopolitical, half valuation scarcity as the first pure play humanoid player. The latter is likely more valuable than private funding in my view for momentum. \n\nUnitree was going public in China and there's no pure play US humanoid exposure. SPAC structure is used for faster listing to give investors exposure, and they're both going public around the same timeframe. \n\nOtherwise a ton of Western capital inflow would have went over to China if there's no US humanoid exposure. \nI don't quite think it's coincidence in timing. \n\n2. I'm citing last private valuations for Figure. I personally don't believe it's worth $39B. \n\nBut if it goes public, I do believe it would remain around that valuation in US markets, looking at what $SPCX did at $1.75T, just due to valuation anchoring psychology. \n\nEven so, investors are still paying 4x+ NAV to access Figure with CEFs and I'm amused by the logic behind that. \n\nI personally wouldn't assign it that value comparing it to Unitree at at $6B. (But I do think Unitree is undervaluing itself, probably ends up $12B+). But if you look at how $TSLA got their $1T+ valuation, a lot of it is anchored to the humanoid mission, so hard to value the sector. \n\n3. Same point as #1. Not exactly just to raise funds. \n\nRegardless, I'd encourage more companies to go public early on like $CCXI. Than waiting on when they already get big like Anthropic/OpenAI/SpaceX and letting retail be the last to invest.",
+      "url": "https://x.com/aleabitoreddit/status/2074223485921243237",
+      "sentiment": "Neutral",
+      "importance": 4,
+      "thesis_change": "MENTION",
+      "summary_zh": "",
+      "plain_zh": "",
+      "core_thesis": "",
+      "why_it_matters": "",
+      "history_note": "",
+      "catalysts": [],
+      "risks": [],
+      "confidence": 0,
+      "ai_status": "",
+      "favorite_count": 175,
+      "retweet_count": 3
+    },
+    {
+      "tweet_id": "2072636916173066624",
+      "is_reply": true,
+      "kind": "reply",
+      "reply_signal_eligible": false,
+      "created_at": "2026-07-02T11:02:03Z",
+      "text": "I’m personally long $CCXI and have highest concentration in Agility Robotics (NFA). It’s currently around a ~$4.9B valuation.\n\nFigure’s last round was $39B last year, and that was before the increasing interest in humanoids/robotics this year.\n\nThen a large part of $TSLA $1T+ valuations come from humanoids. \n\nI like companies like LeaderDrive… but usually the downstream players capture the most value in the end. \n\nAnd I find it rare to see one that has public exposure early on.",
+      "url": "https://x.com/aleabitoreddit/status/2072636916173066624",
+      "sentiment": "Bullish",
+      "importance": 3,
+      "thesis_change": "UPDATE",
+      "summary_zh": "",
+      "plain_zh": "",
+      "core_thesis": "",
+      "why_it_matters": "",
+      "history_note": "",
+      "catalysts": [],
+      "risks": [],
+      "confidence": 0,
+      "ai_status": "",
+      "favorite_count": 137,
+      "retweet_count": 15
+    },
+    {
+      "tweet_id": "2054706428431286655",
+      "is_reply": true,
+      "kind": "reply",
+      "reply_signal_eligible": false,
+      "created_at": "2026-05-13T23:32:41Z",
+      "text": "@Dog_Ziller I actually think $AMZN for robotics is extremely underrated.\n\nSince since there’s immediate practical upside to lower opex + headcount for automation.\n\nBut for general purpose $TSLA, Unitree, Figure, Boston Dynamics, Agibot, Agility, and others should do well.",
+      "url": "https://x.com/aleabitoreddit/status/2054706428431286655",
+      "sentiment": "Bullish",
+      "importance": 2,
+      "thesis_change": "MENTION",
+      "summary_zh": "",
+      "plain_zh": "",
+      "core_thesis": "",
+      "why_it_matters": "",
+      "history_note": "",
+      "catalysts": [],
+      "risks": [],
+      "confidence": 0,
+      "ai_status": "",
+      "favorite_count": 231,
+      "retweet_count": 6
+    }
+  ]
+}

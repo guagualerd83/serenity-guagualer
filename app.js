@@ -1,6 +1,35 @@
-const state={period:'daily',data:null};
-function esc(s=''){return String(s).replace(/[&<>\"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
-function fmtTime(v){if(!v)return '—';const d=new Date(v);return d.toLocaleString('zh-TW',{month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit'})}
-function render(){const p=state.data.periods[state.period];document.querySelectorAll('.tab').forEach(b=>b.classList.toggle('active',b.dataset.period===state.period));document.querySelector('#updated').textContent=`更新 ${fmtTime(state.data.updated_at)}`;document.querySelector('#summary').innerHTML=`<span><strong>${p.posts||0}</strong>篇</span><span><strong>${(p.symbols||[]).length}</strong>檔股票</span>`;const list=document.querySelector('#list');if(!p.symbols?.length){list.innerHTML='<div class="empty">尚無公開資料。把 Collector 匯出的安全 JSON 放到 data/dashboard.json 後，這裡就會出現內容。</div>';return}list.innerHTML=p.symbols.map(x=>`<a class="row" href="stock/?symbol=${encodeURIComponent(x.symbol)}"><div class="ticker">${esc(x.symbol)}</div><div class="thesis">${esc(x.thesis||'')}</div><div class="stance ${String(x.stance||'neutral').toLowerCase()}">${esc(x.stance||'Neutral')}</div><div class="count">${x.mentions||0} mentions</div></a>`).join('')}
-async function init(){state.data=await fetch('data/dashboard.json',{cache:'no-store'}).then(r=>r.json());document.querySelectorAll('.tab').forEach(b=>b.onclick=()=>{state.period=b.dataset.period;render()});render()}
-init().catch(e=>{document.querySelector('#list').innerHTML=`<div class="empty">資料載入失敗：${esc(e.message)}</div>`})
+let DATA=null, PERIOD="quarterly";
+const fmtDate=v=>v?new Date(v).toLocaleString("zh-TW",{month:"short",day:"numeric",hour:"2-digit",minute:"2-digit"}):"—";
+const esc=s=>(s??"").toString().replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]));
+async function init(){
+  DATA=await fetch("data/dashboard.json",{cache:"no-store"}).then(r=>r.json());
+  document.querySelector("#updated").textContent="更新 "+fmtDate(DATA.site.generated_at);
+  document.querySelectorAll("[data-period]").forEach(b=>b.onclick=()=>{PERIOD=b.dataset.period;document.querySelectorAll("[data-period]").forEach(x=>x.classList.toggle("active",x===b));render()});
+  render(); renderPosts();
+}
+function render(){
+  const d=DATA.periods[PERIOD];
+  document.querySelector("#numbers").innerHTML=`
+    <div class="number"><span class="muted">Primary posts</span><b>${d.primary_post_count??d.tweet_count??0}</b></div>
+    <div class="number"><span class="muted">提及股票</span><b>${d.symbol_count??0}</b></div>
+    <div class="number"><span class="muted">高重要度</span><b>${d.high_importance_count??0}</b></div>`;
+  const rows=(d.symbols||[]).slice(0,24).map(x=>`
+    <a class="symbol" href="stock/?symbol=${encodeURIComponent(x.symbol)}">
+      <div class="ticker">$${esc(x.symbol)}</div>
+      <div class="sentiment ${esc(x.dominant_sentiment)}">${esc(x.dominant_sentiment)}</div>
+      <div>${x.mentions} mentions</div>
+      <div class="thesis muted">${esc(x.latest_thesis||x.latest_summary_zh||"")}</div>
+    </a>`).join("");
+  document.querySelector("#symbols").innerHTML=rows||`<div class="note muted">這個期間目前沒有 Primary post ticker。</div>`;
+}
+function renderPosts(){
+ const html=(DATA.latest_primary_posts||[]).slice(0,18).map(p=>`
+  <article class="note">
+   <div class="note-head"><span class="chips">${esc((p.symbols||[]).map(s=>"$"+s).join(" · "))}</span><span class="small">${fmtDate(p.created_at)}</span></div>
+   ${p.core_thesis?`<p><strong>${esc(p.core_thesis)}</strong></p>`:""}
+   <p>${esc(p.summary_zh||p.text||"")}</p>
+   <a href="${esc(p.url)}" target="_blank" rel="noopener">原始貼文 ↗</a>
+  </article>`).join("");
+ document.querySelector("#posts").innerHTML=html||`<div class="note muted">尚無資料。</div>`;
+}
+init().catch(e=>document.body.innerHTML=`<pre>${esc(e.message)}</pre>`);
