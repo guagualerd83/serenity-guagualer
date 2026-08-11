@@ -1,52 +1,251 @@
 <!doctype html>
-<html lang="zh-Hant"><head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Stock · Serenity Research</title><link rel="stylesheet" href="../style.css">
-</head><body>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Stock · Serenity Research</title>
+<link rel="stylesheet" href="../style.css">
+</head>
+<body>
 <main class="wrap">
-<a class="back" href="../">← 返回</a>
+<a id="back" class="back" href="../">← 返回</a>
+
 <section class="stock-head">
- <div class="eyebrow">STOCK RESEARCH</div>
- <div class="stock-title"><div><h1 id="symbol">—</h1><div id="stance" class="sentiment"></div></div><div id="metrics" class="metrics"></div></div>
+  <div class="eyebrow" id="rangeLabel">STOCK RESEARCH</div>
+  <div class="stock-title">
+    <div>
+      <h1 id="symbol">—</h1>
+      <div id="stance" class="sentiment"></div>
+    </div>
+    <div id="metrics" class="metrics"></div>
+  </div>
 </section>
 
-<details open><summary>價格與 Primary Signal</summary><div class="detail-body"><svg id="chart" class="chart" viewBox="0 0 1000 340" preserveAspectRatio="none"></svg><div class="small">綠：Bullish · 紅：Bearish · 灰褐：Mixed / Neutral。一天最多一個 Daily Net Stance。</div></div></details>
-<details open><summary>核心觀點</summary><div class="detail-body grid2"><div><div class="eyebrow">LATEST THESIS</div><p id="thesis"></p></div><div><div class="eyebrow">TRACK RECORD</div><div id="performance"></div></div></div></details>
-<details><summary>Primary posts</summary><div id="posts" class="detail-body"></div></details>
-<details><summary>Supporting replies</summary><div id="replies" class="detail-body"></div></details>
+<details open>
+  <summary>價格與 Primary Signal</summary>
+  <div class="detail-body">
+    <svg id="chart" class="chart" viewBox="0 0 1000 340" preserveAspectRatio="none"></svg>
+    <div id="chartCaption" class="small"></div>
+  </div>
+</details>
+
+<details open>
+  <summary>核心觀點</summary>
+  <div class="detail-body grid2">
+    <div>
+      <div class="eyebrow">LATEST THESIS</div>
+      <p id="thesis"></p>
+    </div>
+    <div>
+      <div class="eyebrow">TRACK RECORD</div>
+      <div id="performance"></div>
+    </div>
+  </div>
+</details>
+
+<details>
+  <summary>Primary posts</summary>
+  <div id="posts" class="detail-body"></div>
+</details>
+
+<details>
+  <summary>Supporting replies</summary>
+  <div id="replies" class="detail-body"></div>
+</details>
 </main>
+
 <footer class="wrap footer">公開資訊彙整，不構成投資建議。</footer>
+
 <script>
-const esc=s=>(s??"").toString().replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]));
-const qs=new URLSearchParams(location.search), SYMBOL=(qs.get("symbol")||"").toUpperCase();
+const esc=s=>(s??"").toString().replace(/[&<>"']/g,m=>({
+  "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"
+}[m]));
+
+const qs=new URLSearchParams(location.search);
+const SYMBOL=(qs.get("symbol")||"").toUpperCase();
+const VALID_PERIODS=["daily","weekly","monthly","quarterly"];
+const PERIOD=VALID_PERIODS.includes(qs.get("period"))?qs.get("period"):"quarterly";
+const PERIOD_LABELS={
+  daily:"每日",
+  weekly:"每週",
+  monthly:"每月",
+  quarterly:"每季"
+};
+
 const fmt=v=>v?new Date(v).toLocaleDateString("zh-TW"):"—";
+
 async function init(){
- if(!SYMBOL) throw new Error("Missing symbol");
- const d=await fetch("../data/stocks/"+encodeURIComponent(SYMBOL)+".json",{cache:"no-store"}).then(r=>{if(!r.ok)throw new Error("Stock data unavailable");return r.json()});
- document.title=SYMBOL+" · Serenity Research"; symbol.textContent=SYMBOL;
- const s=d.summary||{}; stance.textContent=s.latest_sentiment||"Neutral"; stance.className="sentiment "+(s.latest_sentiment||"Neutral");
- metrics.innerHTML=`<div>Primary<b>${s.primary_count||0}</b></div><div>Replies context<b>${s.reply_count||0}</b></div><div>First mention<b>${fmt(s.first_mentioned_at)}</b></div>`;
- thesis.textContent=s.latest_thesis||"尚無 AI thesis。";
- renderPerf(d.performance||{}); renderChart(d.performance||{},d.daily_stances||[]);
- posts.innerHTML=renderRows(d.primary_posts||[]);
- replies.innerHTML=renderRows(d.reply_context||[]);
+  if(!SYMBOL) throw new Error("Missing symbol");
+
+  const [d,dashboard]=await Promise.all([
+    fetch("../data/stocks/"+encodeURIComponent(SYMBOL)+".json",{cache:"no-store"})
+      .then(r=>{if(!r.ok) throw new Error("Stock data unavailable"); return r.json()}),
+    fetch("../data/dashboard.json",{cache:"no-store"})
+      .then(r=>{if(!r.ok) throw new Error("Dashboard data unavailable"); return r.json()})
+  ]);
+
+  const periodMeta=dashboard.periods?.[PERIOD]||{};
+  const startAt=periodMeta.start_at||null;
+
+  document.title=SYMBOL+" · Serenity Research";
+  document.querySelector("#symbol").textContent=SYMBOL;
+  document.querySelector("#rangeLabel").textContent=
+    `STOCK RESEARCH · ${PERIOD_LABELS[PERIOD]}`;
+
+  document.querySelector("#back").href="../?period="+encodeURIComponent(PERIOD);
+
+  const s=d.summary||{};
+  const stance=document.querySelector("#stance");
+  stance.textContent=s.latest_sentiment||"Neutral";
+  stance.className="sentiment "+(s.latest_sentiment||"Neutral");
+
+  document.querySelector("#metrics").innerHTML=`
+    <div>Primary<b>${s.primary_count||0}</b></div>
+    <div>Replies context<b>${s.reply_count||0}</b></div>
+    <div>First mention<b>${fmt(s.first_mentioned_at)}</b></div>`;
+
+  document.querySelector("#thesis").textContent=s.latest_thesis||"尚無 AI thesis。";
+
+  renderPerf(d.performance||{});
+  renderChart(d.performance||{},d.daily_stances||[],startAt,PERIOD);
+
+  document.querySelector("#posts").innerHTML=renderRows(d.primary_posts||[]);
+  document.querySelector("#replies").innerHTML=renderRows(d.reply_context||[]);
 }
-function renderRows(rows){return rows.map(x=>`<div class="post-row"><div class="small">${fmt(x.created_at)} · ${esc(x.sentiment||"Neutral")} · ★${x.importance||1}</div><p>${esc(x.summary_zh||x.core_thesis||x.text||"")}</p><a href="${esc(x.url)}" target="_blank" rel="noopener">原文 ↗</a></div>`).join("")||`<div class="muted">沒有資料。</div>`}
+
+function renderRows(rows){
+  return rows.map(x=>`
+    <div class="post-row">
+      <div class="small">${fmt(x.created_at)} · ${esc(x.sentiment||"Neutral")} · ★${x.importance||1}</div>
+      <p>${esc(x.summary_zh||x.core_thesis||x.text||"")}</p>
+      <a href="${esc(x.url)}" target="_blank" rel="noopener">原文 ↗</a>
+    </div>`).join("")||`<div class="muted">沒有資料。</div>`;
+}
+
 function renderPerf(p){
- const h=((p.summary||{}).horizons)||{};
- const one=k=>{const x=h[k]||{};return `<div><span class="small">${k.toUpperCase()}</span><br><strong>${x.hit_rate==null?"—":x.hit_rate+"%"}</strong><br><span class="small">n=${x.sample||0} · avg ${x.avg_score_return==null?"—":x.avg_score_return+"%"}</span></div>`}
- performance.innerHTML=`<div class="metrics">${one("7d")}${one("30d")}${one("now")}</div>`;
+  const h=((p.summary||{}).horizons)||{};
+  const one=k=>{
+    const x=h[k]||{};
+    return `<div>
+      <span class="small">${k.toUpperCase()}</span><br>
+      <strong>${x.hit_rate==null?"—":x.hit_rate+"%"}</strong><br>
+      <span class="small">n=${x.sample||0} · avg ${x.avg_score_return==null?"—":x.avg_score_return+"%"}</span>
+    </div>`;
+  };
+  document.querySelector("#performance").innerHTML=
+    `<div class="metrics">${one("7d")}${one("30d")}${one("now")}</div>`;
 }
-function renderChart(p,stances){
- const svg=document.querySelector("#chart"), points=((p.price||{}).points)||[];
- if(points.length<2){svg.innerHTML='<text x="40" y="70" fill="#85877f">Price data unavailable</text>';return}
- const W=1000,H=340,pad=28, vals=points.map(x=>+x.close), min=Math.min(...vals),max=Math.max(...vals), span=max-min||1;
- const xy=(pt,i)=>[pad+i/(points.length-1)*(W-pad*2), H-pad-(+pt.close-min)/span*(H-pad*2)];
- const line=points.map((pt,i)=>{const [x,y]=xy(pt,i);return `${i?"L":"M"}${x.toFixed(1)},${y.toFixed(1)}`}).join(" ");
- let html=`<path d="${line}" fill="none" stroke="#718370" stroke-width="3" vector-effect="non-scaling-stroke"/>`;
- const byDate=Object.fromEntries(stances.map(s=>[s.date,s]));
- points.forEach((pt,i)=>{const s=byDate[pt.date];if(!s)return;const [x,y]=xy(pt,i);let c="#9a8465";if(s.sentiment==="Bullish")c="#718370";if(s.sentiment==="Bearish")c="#a35e52";html+=`<circle cx="${x}" cy="${y}" r="6" fill="${c}" stroke="#f7f4ed" stroke-width="3"><title>${esc(s.date+" "+s.sentiment+" · "+(s.mention_count||1)+" mentions")}</title></circle>`});
- svg.innerHTML=html;
+
+function dateKey(v){
+  if(!v) return "";
+  return String(v).slice(0,10);
 }
-init().catch(e=>document.querySelector("main").innerHTML+=`<p>${esc(e.message)}</p>`);
-</script></body></html>
+
+function renderChart(p,stances,startAt,period){
+  const svg=document.querySelector("#chart");
+  const caption=document.querySelector("#chartCaption");
+
+  const allPoints=[...(((p.price||{}).points)||[])].sort((a,b)=>
+    dateKey(a.date).localeCompare(dateKey(b.date))
+  );
+
+  const cutoff=dateKey(startAt);
+
+  // This is the key fix:
+  // use exactly the selected dashboard period's start_at.
+  let points=cutoff
+    ? allPoints.filter(pt=>dateKey(pt.date)>=cutoff)
+    : allPoints;
+
+  let visibleStances=cutoff
+    ? stances.filter(s=>dateKey(s.date)>=cutoff)
+    : stances;
+
+  caption.textContent=
+    `${PERIOD_LABELS[period]}範圍 · ${cutoff||"—"} 至 ${points.length?dateKey(points[points.length-1].date):"—"} · `+
+    `綠 Bullish · 紅 Bearish · 灰褐 Mixed / Neutral`;
+
+  if(points.length===0){
+    svg.innerHTML=
+      '<text x="40" y="70" fill="#85877f">此時間範圍暫無價格資料</text>';
+    return;
+  }
+
+  const W=1000,H=340,pad=34;
+  const vals=points.map(x=>+x.close).filter(Number.isFinite);
+
+  if(!vals.length){
+    svg.innerHTML=
+      '<text x="40" y="70" fill="#85877f">此時間範圍暫無價格資料</text>';
+    return;
+  }
+
+  const min=Math.min(...vals);
+  const max=Math.max(...vals);
+  const span=max-min||Math.max(Math.abs(max)*0.02,1);
+
+  const xy=(pt,i)=>{
+    // One-point daily range: center the point.
+    const x=points.length===1
+      ? W/2
+      : pad+i/(points.length-1)*(W-pad*2);
+    const y=H-pad-(+pt.close-min)/span*(H-pad*2);
+    return [x,y];
+  };
+
+  let html="";
+
+  if(points.length>=2){
+    const line=points.map((pt,i)=>{
+      const [x,y]=xy(pt,i);
+      return `${i?"L":"M"}${x.toFixed(1)},${y.toFixed(1)}`;
+    }).join(" ");
+
+    html+=`<path d="${line}"
+      fill="none"
+      stroke="#718370"
+      stroke-width="3"
+      vector-effect="non-scaling-stroke"/>`;
+  }
+
+  const byDate=Object.fromEntries(
+    visibleStances.map(s=>[dateKey(s.date),s])
+  );
+
+  points.forEach((pt,i)=>{
+    const [x,y]=xy(pt,i);
+    const s=byDate[dateKey(pt.date)];
+
+    // Always show the price point for a one-day range.
+    if(points.length===1){
+      html+=`<circle cx="${x}" cy="${y}" r="7"
+        fill="#718370" stroke="#f7f4ed" stroke-width="3">
+        <title>${esc(dateKey(pt.date)+" close "+pt.close)}</title>
+      </circle>`;
+    }
+
+    if(!s) return;
+
+    let c="#9a8465";
+    if(s.sentiment==="Bullish") c="#718370";
+    if(s.sentiment==="Bearish") c="#a35e52";
+
+    html+=`<circle cx="${x}" cy="${y}" r="6"
+      fill="${c}" stroke="#f7f4ed" stroke-width="3">
+      <title>${esc(dateKey(s.date)+" "+s.sentiment+" · "+(s.mention_count||1)+" mentions")}</title>
+    </circle>`;
+  });
+
+  // Simple min/max labels so the chart remains readable after range filtering.
+  html+=`<text x="${pad}" y="22" fill="#85877f" font-size="18">${max.toFixed(2)}</text>`;
+  html+=`<text x="${pad}" y="${H-8}" fill="#85877f" font-size="18">${min.toFixed(2)}</text>`;
+
+  svg.innerHTML=html;
+}
+
+init().catch(e=>{
+  document.querySelector("main").innerHTML+=`<p>${esc(e.message)}</p>`;
+});
+</script>
+</body>
+</html>

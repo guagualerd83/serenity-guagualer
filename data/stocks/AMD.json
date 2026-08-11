@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T03:43:10.140854Z",
+  "generated_at": "2026-08-11T04:11:10.850309Z",
   "symbol": "AMD",
   "summary": {
     "primary_count": 60,
@@ -2292,7 +2292,7 @@
           "risks": [],
           "confidence": 0,
           "ai_status": "",
-          "favorite_count": 1093,
+          "favorite_count": 1092,
           "retweet_count": 58
         }
       ]
@@ -2344,8 +2344,8 @@
           ],
           "confidence": 85,
           "ai_status": "ok",
-          "favorite_count": 323,
-          "retweet_count": 16
+          "favorite_count": 376,
+          "retweet_count": 20
         }
       ]
     }
@@ -6327,7 +6327,7 @@
             "risks": [],
             "confidence": 0,
             "ai_status": "",
-            "favorite_count": 1093,
+            "favorite_count": 1092,
             "retweet_count": 58
           }
         ]
@@ -6379,8 +6379,8 @@
             ],
             "confidence": 85,
             "ai_status": "ok",
-            "favorite_count": 323,
-            "retweet_count": 16
+            "favorite_count": 376,
+            "retweet_count": 20
           }
         ]
       }
@@ -6444,8 +6444,8 @@
       ],
       "confidence": 85,
       "ai_status": "ok",
-      "favorite_count": 323,
-      "retweet_count": 16
+      "favorite_count": 376,
+      "retweet_count": 20
     },
     {
       "tweet_id": "2086634510935118161",
@@ -6467,7 +6467,7 @@
       "risks": [],
       "confidence": 0,
       "ai_status": "",
-      "favorite_count": 1093,
+      "favorite_count": 1092,
       "retweet_count": 58
     },
     {
