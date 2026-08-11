@@ -170,14 +170,19 @@ let PERIOD_START=null;
 async function init(){
   if(!SYMBOL) throw new Error("Missing symbol");
 
-  [STOCK,DASHBOARD]=await Promise.all([
-    fetch("../data/stocks/"+encodeURIComponent(SYMBOL)+".json",{cache:"no-store"})
-      .then(r=>{if(!r.ok) throw new Error("Stock data unavailable"); return r.json()}),
-    fetch("../data/dashboard.json",{cache:"no-store"})
-      .then(r=>{if(!r.ok) throw new Error("Dashboard data unavailable"); return r.json()})
-  ]);
+  // Stock JSON is the required source. Render the original stock page first.
+  STOCK=await fetch("../data/stocks/"+encodeURIComponent(SYMBOL)+".json",{cache:"no-store"})
+    .then(r=>{if(!r.ok) throw new Error("Stock data unavailable"); return r.json()});
 
-  PERIOD_START=DASHBOARD.periods?.[PERIOD]?.start_at||null;
+  // dashboard.json is optional. A failure here must NEVER blank the stock page.
+  try{
+    DASHBOARD=await fetch("../data/dashboard.json",{cache:"no-store"})
+      .then(r=>r.ok?r.json():null);
+  }catch(_){
+    DASHBOARD=null;
+  }
+
+  PERIOD_START=DASHBOARD?.periods?.[PERIOD]?.start_at||null;
 
   document.title=SYMBOL+" · Serenity Research";
   document.querySelector("#symbol").textContent=SYMBOL;
@@ -203,6 +208,12 @@ async function init(){
   document.querySelector("#replies").innerHTML=renderRows(STOCK.reply_context||[]);
 
   setupAI();
+
+  // If period metadata is unavailable, keep all original stock information visible.
+  if(!DASHBOARD){
+    const range=document.querySelector("#rangeLabel");
+    if(range) range.title="Period metadata unavailable; showing all available stock data.";
+  }
 }
 
 function inPeriod(x){
