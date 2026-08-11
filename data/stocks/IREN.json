@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T13:30:55.924764Z",
+  "generated_at": "2026-08-11T14:21:36.965323Z",
   "symbol": "IREN",
   "summary": {
     "primary_count": 33,
@@ -2199,6 +2199,10 @@
         {
           "date": "2026-08-10",
           "close": 38.74
+        },
+        {
+          "date": "2026-08-11",
+          "close": 40.27
         }
       ]
     },
@@ -2237,10 +2241,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -18.29,
-            "score_return": -18.29,
-            "exit_date": "2026-08-10",
-            "exit_price": 38.74,
+            "raw_return": -15.06,
+            "score_return": -15.06,
+            "exit_date": "2026-08-11",
+            "exit_price": 40.27,
             "hit": false
           }
         },
@@ -2284,10 +2288,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -20.11,
-            "score_return": -20.11,
-            "exit_date": "2026-08-10",
-            "exit_price": 38.74,
+            "raw_return": -16.95,
+            "score_return": -16.95,
+            "exit_date": "2026-08-11",
+            "exit_price": 40.27,
             "hit": false
           }
         },
@@ -2331,10 +2335,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -20.48,
-            "score_return": -20.48,
-            "exit_date": "2026-08-10",
-            "exit_price": 38.74,
+            "raw_return": -17.34,
+            "score_return": -17.34,
+            "exit_date": "2026-08-11",
+            "exit_price": 40.27,
             "hit": false
           }
         },
@@ -2378,10 +2382,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -25.53,
-            "score_return": 25.53,
-            "exit_date": "2026-08-10",
-            "exit_price": 38.74,
+            "raw_return": -22.59,
+            "score_return": 22.59,
+            "exit_date": "2026-08-11",
+            "exit_price": 40.27,
             "hit": true
           }
         },
@@ -2425,10 +2429,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -19.89,
-            "score_return": -19.89,
-            "exit_date": "2026-08-10",
-            "exit_price": 38.74,
+            "raw_return": -16.73,
+            "score_return": -16.73,
+            "exit_date": "2026-08-11",
+            "exit_price": 40.27,
             "hit": false
           }
         },
@@ -2472,10 +2476,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -31.86,
-            "score_return": 31.86,
-            "exit_date": "2026-08-10",
-            "exit_price": 38.74,
+            "raw_return": -29.16,
+            "score_return": 29.16,
+            "exit_date": "2026-08-11",
+            "exit_price": 40.27,
             "hit": true
           }
         },
@@ -2519,10 +2523,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -29.76,
-            "score_return": -29.76,
-            "exit_date": "2026-08-10",
-            "exit_price": 38.74,
+            "raw_return": -26.98,
+            "score_return": -26.98,
+            "exit_date": "2026-08-11",
+            "exit_price": 40.27,
             "hit": false
           }
         },
@@ -2566,10 +2570,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -40.84,
-            "score_return": -40.84,
-            "exit_date": "2026-08-10",
-            "exit_price": 38.74,
+            "raw_return": -38.5,
+            "score_return": -38.5,
+            "exit_date": "2026-08-11",
+            "exit_price": 40.27,
             "hit": false
           }
         },
@@ -2613,10 +2617,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -34.55,
-            "score_return": -34.55,
-            "exit_date": "2026-08-10",
-            "exit_price": 38.74,
+            "raw_return": -31.96,
+            "score_return": -31.96,
+            "exit_date": "2026-08-11",
+            "exit_price": 40.27,
             "hit": false
           }
         },
@@ -2660,10 +2664,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -36.34,
-            "score_return": -36.34,
-            "exit_date": "2026-08-10",
-            "exit_price": 38.74,
+            "raw_return": -33.82,
+            "score_return": -33.82,
+            "exit_date": "2026-08-11",
+            "exit_price": 40.27,
             "hit": false
           }
         },
@@ -2707,10 +2711,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -17.94,
-            "score_return": -17.94,
-            "exit_date": "2026-08-10",
-            "exit_price": 38.74,
+            "raw_return": -14.7,
+            "score_return": -14.7,
+            "exit_date": "2026-08-11",
+            "exit_price": 40.27,
             "hit": false
           }
         },
@@ -2754,10 +2758,10 @@
             "hit": null
           },
           "now": {
-            "raw_return": 32.17,
-            "score_return": 32.17,
-            "exit_date": "2026-08-10",
-            "exit_price": 38.74,
+            "raw_return": 37.39,
+            "score_return": 37.39,
+            "exit_date": "2026-08-11",
+            "exit_price": 40.27,
             "hit": true
           }
         },
@@ -2765,6 +2769,53 @@
         "bull_count": 1,
         "bear_count": 0,
         "neutral_count": 1,
+        "bull_share": 1.0
+      },
+      {
+        "date": "2026-08-11",
+        "created_at": "2026-08-11T01:29:11Z",
+        "url": "https://x.com/aleabitoreddit/status/2086988264448409739",
+        "sentiment": "Bullish",
+        "confidence": 85,
+        "importance": 4,
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "比特幣礦商轉型 AI 託管獲大廠巨額合約驗證，但營收爆發拐點需等到 2027 年下半年。",
+        "entry_date": "2026-08-11",
+        "entry_price": 40.27,
+        "returns": {
+          "1d": {
+            "raw_return": null,
+            "score_return": null,
+            "exit_date": null,
+            "exit_price": null,
+            "hit": null
+          },
+          "7d": {
+            "raw_return": null,
+            "score_return": null,
+            "exit_date": null,
+            "exit_price": null,
+            "hit": null
+          },
+          "30d": {
+            "raw_return": null,
+            "score_return": null,
+            "exit_date": null,
+            "exit_price": null,
+            "hit": null
+          },
+          "now": {
+            "raw_return": 0.0,
+            "score_return": 0.0,
+            "exit_date": "2026-08-11",
+            "exit_price": 40.27,
+            "hit": false
+          }
+        },
+        "mention_count": 1,
+        "bull_count": 1,
+        "bear_count": 0,
+        "neutral_count": 0,
         "bull_share": 1.0
       }
     ],
@@ -4211,7 +4262,7 @@
     ],
     "excluded_days": 19,
     "summary": {
-      "signals": 12,
+      "signals": 13,
       "horizons": {
         "1d": {
           "sample": 12,
@@ -4229,9 +4280,9 @@
           "hit_rate": 18.2
         },
         "now": {
-          "sample": 12,
-          "avg_score_return": -12.39,
-          "hit_rate": 25.0
+          "sample": 13,
+          "avg_score_return": -9.45,
+          "hit_rate": 23.1
         }
       }
     },
