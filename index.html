@@ -156,6 +156,9 @@ const esc=s=>(s??"").toString().replace(/[&<>"']/g,m=>({
 
 const qs=new URLSearchParams(location.search);
 const SYMBOL=(qs.get("symbol")||"").toUpperCase();
+if(!SYMBOL){
+  location.replace("../");
+}
 const VALID_PERIODS=["daily","weekly","monthly","quarterly"];
 const PERIOD=VALID_PERIODS.includes(qs.get("period"))?qs.get("period"):"quarterly";
 const PERIOD_LABELS={daily:"每日",weekly:"每週",monthly:"每月",quarterly:"每季"};
