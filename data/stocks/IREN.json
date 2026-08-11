@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T07:26:22.751735Z",
+  "generated_at": "2026-08-11T07:31:33.561642Z",
   "symbol": "IREN",
   "summary": {
     "primary_count": 33,
@@ -1450,8 +1450,8 @@
           ],
           "confidence": 85,
           "ai_status": "ok",
-          "favorite_count": 529,
-          "retweet_count": 24
+          "favorite_count": 542,
+          "retweet_count": 26
         }
       ]
     }
@@ -4203,8 +4203,8 @@
             ],
             "confidence": 85,
             "ai_status": "ok",
-            "favorite_count": 529,
-            "retweet_count": 24
+            "favorite_count": 542,
+            "retweet_count": 26
           }
         ]
       }
@@ -4268,8 +4268,8 @@
       ],
       "confidence": 85,
       "ai_status": "ok",
-      "favorite_count": 529,
-      "retweet_count": 24
+      "favorite_count": 542,
+      "retweet_count": 26
     },
     {
       "tweet_id": "2082896789880119590",
