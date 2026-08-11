@@ -1,483 +1,124 @@
 <!doctype html>
-<html lang="zh-Hant">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Stock · Serenity Research</title>
-<link rel="stylesheet" href="../style.css">
-<link rel="stylesheet" href="ai-research.css">
-<style>
-.chart-toolbar{
-  display:flex;
-  align-items:flex-end;
-  justify-content:space-between;
-  gap:18px;
-  margin-bottom:14px;
-}
-.range-tabs{
-  display:flex;
-  flex-wrap:wrap;
-  gap:7px;
-}
-.range-tabs button{
-  appearance:none;
-  border:1px solid var(--line);
-  background:transparent;
-  color:inherit;
-  border-radius:999px;
-  padding:7px 13px;
-  cursor:pointer;
-  font:inherit;
-}
-.range-tabs button.active{
-  background:rgba(113,131,112,.12);
-  border-color:#9da99b;
-}
-.chart-summary{
-  display:flex;
-  flex-wrap:wrap;
-  justify-content:flex-end;
-  gap:18px;
-  text-align:right;
-}
-.chart-stat span{
-  display:block;
-  color:var(--muted);
-  font-size:.75rem;
-}
-.chart-stat strong{
-  display:block;
-  font-size:.96rem;
-  margin-top:2px;
-}
-.chart-wrap{
-  position:relative;
-  min-height:360px;
-}
-.chart{
-  display:block;
-  width:100%;
-  height:360px;
-  overflow:visible;
-}
-.chart-tooltip{
-  position:absolute;
-  z-index:4;
-  min-width:145px;
-  pointer-events:none;
-  opacity:0;
-  transform:translate(-50%,-112%);
-  padding:9px 11px;
-  border:1px solid var(--line);
-  border-radius:10px;
-  background:rgba(247,244,237,.97);
-  box-shadow:0 8px 24px rgba(0,0,0,.08);
-  font-size:.8rem;
-  line-height:1.5;
-  transition:opacity .08s ease;
-}
-.chart-tooltip.show{opacity:1}
-.chart-tooltip strong{font-size:.92rem}
-.chart-empty{
-  min-height:320px;
-  display:grid;
-  place-items:center;
-  color:var(--muted);
-}
-.chart-foot{
-  display:flex;
-  justify-content:space-between;
-  gap:12px;
-  flex-wrap:wrap;
-  margin-top:8px;
-}
-@media(max-width:760px){
-  .chart-toolbar{display:block}
-  .range-tabs{margin-bottom:12px}
-  .chart-summary{justify-content:flex-start;text-align:left}
-  .chart{height:310px}
-  .chart-wrap{min-height:310px}
-}
-</style>
-</head>
-<body>
+<html lang="zh-Hant"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Stock · Serenity Research</title><link rel="stylesheet" href="../style.css">
+</head><body>
 <main class="wrap">
 <a class="back" href="../">← 返回</a>
-
 <section class="stock-head">
-  <div class="eyebrow">STOCK RESEARCH</div>
-  <div class="stock-title">
-    <div>
-      <h1 id="symbol">—</h1>
-      <div id="stance" class="sentiment"></div>
-    </div>
-    <div id="metrics" class="metrics"></div>
-  </div>
+ <div class="eyebrow">STOCK RESEARCH</div>
+ <div class="stock-title"><div><h1 id="symbol">—</h1><div id="stance" class="sentiment"></div></div><div id="metrics" class="metrics"></div></div>
 </section>
 
-<section id="aiResearch" class="ai-research" hidden>
-  <div class="ai-research-head">
-    <div>
-      <div class="eyebrow">AI RESEARCH ASSISTANT</div>
-      <h2>個股研究摘要</h2>
-      <div class="small">只使用本站已匯出的 Primary posts / Supporting replies；不呼叫公開 API。</div>
-    </div>
-    <div id="aiSourceCount" class="small"></div>
-  </div>
-  <div class="ai-actions">
-    <button type="button" data-ai-mode="latest" class="active">🎯 最新觀點</button>
-    <button type="button" data-ai-mode="timeline">🧠 論點脈絡</button>
-    <button type="button" data-ai-mode="keyposts">📌 3 個關鍵觀點</button>
-    <button type="button" data-ai-mode="risks">⚠️ 被提到的風險</button>
-  </div>
-  <div id="aiAnswer" class="ai-answer"></div>
-</section>
-
-<details open>
-  <summary>價格與 Primary Signal</summary>
-  <div class="detail-body">
-    <div class="chart-toolbar">
-      <div class="range-tabs" aria-label="價格時間範圍">
-        <button type="button" data-chart-period="daily">每日</button>
-        <button type="button" data-chart-period="weekly">每週</button>
-        <button type="button" data-chart-period="monthly">每月</button>
-        <button type="button" data-chart-period="quarterly">每季</button>
-      </div>
-      <div id="chartSummary" class="chart-summary"></div>
-    </div>
-
-    <div id="chartWrap" class="chart-wrap">
-      <svg id="chart" class="chart" viewBox="0 0 1000 360" preserveAspectRatio="none" role="img" aria-label="價格與 Primary Signal 圖表"></svg>
-      <div id="chartTooltip" class="chart-tooltip"></div>
-    </div>
-
-    <div class="chart-foot small">
-      <span>綠：Bullish · 紅：Bearish · 灰褐：Mixed / Neutral。一天最多一個 Daily Net Stance。</span>
-      <span id="chartRangeLabel"></span>
-    </div>
-  </div>
-</details>
-
-<details open>
-  <summary>核心觀點</summary>
-  <div class="detail-body grid2">
-    <div>
-      <div class="eyebrow">LATEST THESIS</div>
-      <p id="thesis"></p>
-    </div>
-    <div>
-      <div class="eyebrow">TRACK RECORD</div>
-      <div id="performance"></div>
-    </div>
-  </div>
-</details>
-
-<details>
-  <summary>Primary posts</summary>
-  <div id="posts" class="detail-body"></div>
-</details>
-
-<details>
-  <summary>Supporting replies</summary>
-  <div id="replies" class="detail-body"></div>
-</details>
+<details open><summary>價格與 Primary Signal</summary><div class="detail-body"><div id="chartMeta" class="small" style="margin-bottom:10px"></div><svg id="chart" class="chart" viewBox="0 0 1000 340" preserveAspectRatio="none"></svg><div class="small">綠：Bullish · 紅：Bearish · 灰褐：Mixed / Neutral。一天最多一個 Daily Net Stance。</div></div></details>
+<details open><summary>核心觀點</summary><div class="detail-body grid2"><div><div class="eyebrow">LATEST THESIS</div><p id="thesis"></p></div><div><div class="eyebrow">TRACK RECORD</div><div id="performance"></div></div></div></details>
+<details><summary>Primary posts</summary><div id="posts" class="detail-body"></div></details>
+<details><summary>Supporting replies</summary><div id="replies" class="detail-body"></div></details>
 </main>
-
 <footer class="wrap footer">公開資訊彙整，不構成投資建議。</footer>
-
 <script>
-const esc=s=>(s??"").toString().replace(/[&<>"']/g,m=>({
-  "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"
-}[m]));
-
-const qs=new URLSearchParams(location.search);
-const SYMBOL=(qs.get("symbol")||"").toUpperCase();
-const VALID_PERIODS=["daily","weekly","monthly","quarterly"];
-let PERIOD=VALID_PERIODS.includes(qs.get("period"))?qs.get("period"):"quarterly";
-const PERIOD_DAYS={daily:1,weekly:7,monthly:30,quarterly:90};
+const esc=s=>(s??"").toString().replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]));
+const qs=new URLSearchParams(location.search), SYMBOL=(qs.get("symbol")||"").toUpperCase();
+const PERIOD=["daily","weekly","monthly","quarterly"].includes(qs.get("period"))?qs.get("period"):"quarterly";
+const PERIOD_DAYS={daily:1,weekly:7,monthly:28,quarterly:90};
 const PERIOD_LABEL={daily:"每日",weekly:"每週",monthly:"每月",quarterly:"每季"};
-
-let STOCK=null;
-
 const fmt=v=>v?new Date(v).toLocaleDateString("zh-TW"):"—";
-const fmtShort=v=>v?new Date(v+"T00:00:00").toLocaleDateString("zh-TW",{month:"numeric",day:"numeric"}):"—";
-const fmtPrice=v=>Number.isFinite(Number(v))?Number(v).toLocaleString("en-US",{minimumFractionDigits:2,maximumFractionDigits:2}):"—";
-
+const fmtPrice=v=>Number.isFinite(+v)?(+v).toFixed(2):"—";
 async function init(){
-  if(!SYMBOL) throw new Error("Missing symbol");
-
-  const d=await fetch("../data/stocks/"+encodeURIComponent(SYMBOL)+".json",{cache:"no-store"})
-    .then(r=>{
-      if(!r.ok) throw new Error("Stock data unavailable");
-      return r.json();
-    });
-
-  STOCK=d;
-  document.title=SYMBOL+" · Serenity Research";
-  symbol.textContent=SYMBOL;
-
-  const s=d.summary||{};
-  stance.textContent=s.latest_sentiment||"Neutral";
-  stance.className="sentiment "+(s.latest_sentiment||"Neutral");
-
-  metrics.innerHTML=`
-    <div>Primary<b>${s.primary_count||0}</b></div>
-    <div>Replies context<b>${s.reply_count||0}</b></div>
-    <div>First mention<b>${fmt(s.first_mentioned_at)}</b></div>
-  `;
-
-  thesis.textContent=s.latest_thesis||"尚無 AI thesis。";
-  renderPerf(d.performance||{});
-  posts.innerHTML=renderRows(d.primary_posts||[]);
-  replies.innerHTML=renderRows(d.reply_context||[]);
-
-  bindChartPeriods();
-  renderChartPeriod();
-
-  window.__SERENITY_STOCK__=d;
-  window.dispatchEvent(new CustomEvent("serenity-stock-ready",{detail:d}));
+ if(!SYMBOL) throw new Error("Missing symbol");
+ const d=await fetch("../data/stocks/"+encodeURIComponent(SYMBOL)+".json",{cache:"no-store"}).then(r=>{if(!r.ok)throw new Error("Stock data unavailable");return r.json()});
+ document.title=SYMBOL+" · Serenity Research"; symbol.textContent=SYMBOL;
+ const s=d.summary||{}; stance.textContent=s.latest_sentiment||"Neutral"; stance.className="sentiment "+(s.latest_sentiment||"Neutral");
+ metrics.innerHTML=`<div>Primary<b>${s.primary_count||0}</b></div><div>Replies context<b>${s.reply_count||0}</b></div><div>First mention<b>${fmt(s.first_mentioned_at)}</b></div>`;
+ thesis.textContent=s.latest_thesis||"尚無 AI thesis。";
+ renderPerf(d.performance||{}); renderChart(d.performance||{},d.daily_stances||[]);
+ posts.innerHTML=renderRows(d.primary_posts||[]);
+ replies.innerHTML=renderRows(d.reply_context||[]);
 }
-
-function renderRows(rows){
-  return rows.map(x=>`
-    <div class="post-row">
-      <div class="small">${fmt(x.created_at)} · ${esc(x.sentiment||"Neutral")} · ★${x.importance||1}</div>
-      <p>${esc(x.summary_zh||x.core_thesis||x.text||"")}</p>
-      <a href="${esc(x.url)}" target="_blank" rel="noopener">原文 ↗</a>
-    </div>
-  `).join("")||`<div class="muted">沒有資料。</div>`;
-}
-
+function renderRows(rows){return rows.map(x=>`<div class="post-row"><div class="small">${fmt(x.created_at)} · ${esc(x.sentiment||"Neutral")} · ★${x.importance||1}</div><p>${esc(x.summary_zh||x.core_thesis||x.text||"")}</p><a href="${esc(x.url)}" target="_blank" rel="noopener">原文 ↗</a></div>`).join("")||`<div class="muted">沒有資料。</div>`}
 function renderPerf(p){
-  const h=((p.summary||{}).horizons)||{};
-  const one=k=>{
-    const x=h[k]||{};
-    return `<div>
-      <span class="small">${k.toUpperCase()}</span><br>
-      <strong>${x.hit_rate==null?"—":x.hit_rate+"%"}</strong><br>
-      <span class="small">n=${x.sample||0} · avg ${x.avg_score_return==null?"—":x.avg_score_return+"%"}</span>
-    </div>`;
-  };
-  performance.innerHTML=`<div class="metrics">${one("7d")}${one("30d")}${one("now")}</div>`;
+ const h=((p.summary||{}).horizons)||{};
+ const one=k=>{const x=h[k]||{};return `<div><span class="small">${k.toUpperCase()}</span><br><strong>${x.hit_rate==null?"—":x.hit_rate+"%"}</strong><br><span class="small">n=${x.sample||0} · avg ${x.avg_score_return==null?"—":x.avg_score_return+"%"}</span></div>`}
+ performance.innerHTML=`<div class="metrics">${one("7d")}${one("30d")}${one("now")}</div>`;
 }
+function renderChart(p,stances){
+ const svg=document.querySelector("#chart"), meta=document.querySelector("#chartMeta");
+ const all=(((p.price||{}).points)||[])
+   .filter(x=>x&&x.date&&Number.isFinite(+x.close))
+   .slice()
+   .sort((a,b)=>String(a.date).localeCompare(String(b.date)));
 
-function bindChartPeriods(){
-  document.querySelectorAll("[data-chart-period]").forEach(btn=>{
-    btn.classList.toggle("active",btn.dataset.chartPeriod===PERIOD);
-    btn.onclick=()=>{
-      PERIOD=btn.dataset.chartPeriod;
-      document.querySelectorAll("[data-chart-period]").forEach(x=>
-        x.classList.toggle("active",x.dataset.chartPeriod===PERIOD)
-      );
+ if(!all.length){
+   meta.textContent=`${PERIOD_LABEL[PERIOD]} · 無價格資料`;
+   svg.innerHTML='<text x="40" y="70" fill="#85877f">Price data unavailable</text>';
+   return;
+ }
 
-      const url=new URL(location.href);
-      url.searchParams.set("period",PERIOD);
-      history.replaceState(null,"",url);
+ // 價格曲線跟首頁選到的 period 同步；不新增第二套 range UI。
+ const latest=all[all.length-1].date;
+ const end=new Date(latest+"T12:00:00Z");
+ const start=new Date(end);
+ start.setUTCDate(start.getUTCDate()-(PERIOD_DAYS[PERIOD]-1));
+ const startKey=start.toISOString().slice(0,10);
+ const points=all.filter(x=>x.date>=startKey&&x.date<=latest);
 
-      renderChartPeriod();
-    };
-  });
+ const first=+points[0].close, last=+points[points.length-1].close;
+ const change=first?((last/first)-1)*100:null;
+ meta.textContent=`${PERIOD_LABEL[PERIOD]} · ${fmt(points[0].date)} ～ ${fmt(points[points.length-1].date)} · 最新 $${fmtPrice(last)}${change==null?"":` · 區間 ${(change>=0?"+":"")}${change.toFixed(2)}%`}`;
+
+ const W=1000,H=340,L=62,R=24,T=22,B=42;
+
+ // daily 只有一個交易日時仍顯示日期、價格與 signal，不再報 unavailable。
+ if(points.length===1){
+   const pt=points[0], s=stances.find(x=>x.date===pt.date);
+   let c="#9a8465"; if(s?.sentiment==="Bullish")c="#718370"; if(s?.sentiment==="Bearish")c="#a35e52";
+   svg.innerHTML=`
+     <line x1="${L}" y1="${H-B}" x2="${W-R}" y2="${H-B}" stroke="#ded8ca" stroke-width="1"/>
+     <circle cx="${(L+W-R)/2}" cy="${(T+H-B)/2}" r="7" fill="${c}" stroke="#f7f4ed" stroke-width="3">
+       <title>${esc(pt.date+" · $"+fmtPrice(pt.close)+(s?" · "+s.sentiment:""))}</title>
+     </circle>
+     <text x="${L}" y="${T+4}" fill="#85877f" font-size="13">$${fmtPrice(pt.close)}</text>
+     <text x="${(L+W-R)/2}" y="${H-12}" text-anchor="middle" fill="#85877f" font-size="13">${esc(fmt(pt.date))}</text>`;
+   return;
+ }
+
+ const vals=points.map(x=>+x.close), rawMin=Math.min(...vals),rawMax=Math.max(...vals), rawSpan=rawMax-rawMin||1;
+ const min=rawMin-rawSpan*.06, max=rawMax+rawSpan*.06, span=max-min||1;
+ const xy=(pt,i)=>[
+   L+i/(points.length-1)*(W-L-R),
+   H-B-(+pt.close-min)/span*(H-T-B)
+ ];
+
+ let html="";
+
+ // Y 軸價格
+ for(let i=0;i<5;i++){
+   const value=max-(span*i/4), y=T+i*(H-T-B)/4;
+   html+=`<line x1="${L}" y1="${y}" x2="${W-R}" y2="${y}" stroke="#e3ded2" stroke-width="1"/>`;
+   html+=`<text x="${L-8}" y="${y+4}" text-anchor="end" fill="#85877f" font-size="12">$${fmtPrice(value)}</text>`;
+ }
+
+ // X 軸日期
+ const tickCount=Math.min(5,points.length);
+ for(let k=0;k<tickCount;k++){
+   const i=Math.round(k*(points.length-1)/(tickCount-1));
+   const [x]=xy(points[i],i);
+   html+=`<text x="${x}" y="${H-12}" text-anchor="middle" fill="#85877f" font-size="12">${esc(fmt(points[i].date))}</text>`;
+ }
+
+ const line=points.map((pt,i)=>{const [x,y]=xy(pt,i);return `${i?"L":"M"}${x.toFixed(1)},${y.toFixed(1)}`}).join(" ");
+ html+=`<path d="${line}" fill="none" stroke="#718370" stroke-width="3" vector-effect="non-scaling-stroke"/>`;
+
+ const byDate=Object.fromEntries(stances.map(s=>[s.date,s]));
+ points.forEach((pt,i)=>{
+   const [x,y]=xy(pt,i), s=byDate[pt.date];
+   // 每個價格點都有 hover 日期/價格；Primary signal 點才上色顯示。
+   html+=`<circle cx="${x}" cy="${y}" r="10" fill="transparent"><title>${esc(pt.date+" · $"+fmtPrice(pt.close)+(s?" · "+s.sentiment:""))}</title></circle>`;
+   if(!s)return;
+   let c="#9a8465"; if(s.sentiment==="Bullish")c="#718370"; if(s.sentiment==="Bearish")c="#a35e52";
+   html+=`<circle cx="${x}" cy="${y}" r="6" fill="${c}" stroke="#f7f4ed" stroke-width="3"><title>${esc(pt.date+" · $"+fmtPrice(pt.close)+" · "+s.sentiment+" · "+(s.mention_count||1)+" mentions")}</title></circle>`;
+ });
+ svg.innerHTML=html;
 }
-
-function filterByPeriod(points,stances,period){
-  if(!points.length) return {points:[],stances:[]};
-
-  const latestDate=points.reduce((a,b)=>String(a.date)>String(b.date)?a:b).date;
-  const end=new Date(latestDate+"T23:59:59");
-  const start=new Date(end);
-  start.setDate(start.getDate()-(PERIOD_DAYS[period]-1));
-  const startKey=start.toISOString().slice(0,10);
-
-  return {
-    points:points.filter(x=>String(x.date)>=startKey && String(x.date)<=latestDate),
-    stances:stances.filter(x=>String(x.date)>=startKey && String(x.date)<=latestDate),
-    startKey,
-    endKey:latestDate
-  };
-}
-
-function renderChartPeriod(){
-  const p=STOCK?.performance||{};
-  const allPoints=((p.price||{}).points)||[];
-  const allStances=STOCK?.daily_stances||[];
-  const filtered=filterByPeriod(allPoints,allStances,PERIOD);
-
-  renderChart(filtered.points,filtered.stances);
-  renderChartSummary(filtered.points,filtered.startKey,filtered.endKey);
-}
-
-function renderChartSummary(points,startKey,endKey){
-  const el=document.querySelector("#chartSummary");
-  const label=document.querySelector("#chartRangeLabel");
-
-  if(!points.length){
-    el.innerHTML=`
-      <div class="chart-stat"><span>期間</span><strong>${PERIOD_LABEL[PERIOD]}</strong></div>
-      <div class="chart-stat"><span>價格資料</span><strong>—</strong></div>`;
-    label.textContent=startKey&&endKey?`${fmt(startKey)} – ${fmt(endKey)}`:"";
-    return;
-  }
-
-  const first=Number(points[0].close);
-  const last=Number(points[points.length-1].close);
-  const change=(Number.isFinite(first)&&first!==0&&Number.isFinite(last))
-    ?(last/first-1)*100:null;
-
-  el.innerHTML=`
-    <div class="chart-stat">
-      <span>期間</span>
-      <strong>${PERIOD_LABEL[PERIOD]}</strong>
-    </div>
-    <div class="chart-stat">
-      <span>最新價格</span>
-      <strong>$${fmtPrice(last)}</strong>
-    </div>
-    <div class="chart-stat">
-      <span>區間變化</span>
-      <strong>${change==null?"—":(change>=0?"+":"")+change.toFixed(2)+"%"}</strong>
-    </div>
-  `;
-
-  label.textContent=`${fmt(points[0].date)} – ${fmt(points[points.length-1].date)}`;
-}
-
-function renderChart(points,stances){
-  const svg=document.querySelector("#chart");
-  const wrap=document.querySelector("#chartWrap");
-  const tip=document.querySelector("#chartTooltip");
-
-  tip.classList.remove("show");
-
-  if(points.length<2){
-    svg.innerHTML=`
-      <text x="500" y="165" text-anchor="middle" fill="#85877f" font-size="18">
-        ${points.length===1?"此範圍只有 1 個交易日資料":"此範圍沒有價格資料"}
-      </text>
-      ${points.length===1?`
-        <text x="500" y="195" text-anchor="middle" fill="#85877f" font-size="14">
-          ${esc(fmt(points[0].date))} · $${esc(fmtPrice(points[0].close))}
-        </text>`:""}
-    `;
-    return;
-  }
-
-  const W=1000,H=360;
-  const pad={l:68,r:24,t:24,b:48};
-  const vals=points.map(x=>Number(x.close)).filter(Number.isFinite);
-  const min0=Math.min(...vals),max0=Math.max(...vals);
-  const rawSpan=max0-min0||Math.max(Math.abs(max0)*.02,1);
-  const min=min0-rawSpan*.08;
-  const max=max0+rawSpan*.08;
-  const span=max-min||1;
-
-  const xy=(pt,i)=>[
-    pad.l+i/(points.length-1)*(W-pad.l-pad.r),
-    H-pad.b-(Number(pt.close)-min)/span*(H-pad.t-pad.b)
-  ];
-
-  let html="";
-
-  // horizontal price grid + Y labels
-  const yTicks=5;
-  for(let i=0;i<yTicks;i++){
-    const value=max-(span*i/(yTicks-1));
-    const y=pad.t+i/(yTicks-1)*(H-pad.t-pad.b);
-    html+=`
-      <line x1="${pad.l}" y1="${y}" x2="${W-pad.r}" y2="${y}"
-        stroke="#ded8ca" stroke-width="1" vector-effect="non-scaling-stroke"/>
-      <text x="${pad.l-10}" y="${y+4}" text-anchor="end"
-        fill="#85877f" font-size="12">$${esc(fmtPrice(value))}</text>
-    `;
-  }
-
-  // X-axis date labels
-  const xTickCount=Math.min(5,points.length);
-  const tickIdx=[...new Set(Array.from({length:xTickCount},(_,i)=>
-    Math.round(i*(points.length-1)/(xTickCount-1))
-  ))];
-
-  tickIdx.forEach(i=>{
-    const [x]=xy(points[i],i);
-    html+=`
-      <line x1="${x}" y1="${H-pad.b}" x2="${x}" y2="${H-pad.b+5}"
-        stroke="#a9a69e" stroke-width="1" vector-effect="non-scaling-stroke"/>
-      <text x="${x}" y="${H-18}" text-anchor="middle"
-        fill="#85877f" font-size="12">${esc(fmtShort(points[i].date))}</text>
-    `;
-  });
-
-  const line=points.map((pt,i)=>{
-    const [x,y]=xy(pt,i);
-    return `${i?"L":"M"}${x.toFixed(1)},${y.toFixed(1)}`;
-  }).join(" ");
-
-  html+=`
-    <path d="${line}" fill="none" stroke="#718370" stroke-width="3"
-      vector-effect="non-scaling-stroke"/>
-  `;
-
-  const byDate=Object.fromEntries(stances.map(s=>[s.date,s]));
-
-  // invisible hover targets on all price points
-  points.forEach((pt,i)=>{
-    const [x,y]=xy(pt,i);
-    const s=byDate[pt.date];
-    const signal=s?.sentiment||"";
-    let c="#9a8465";
-    if(signal==="Bullish")c="#718370";
-    if(signal==="Bearish")c="#a35e52";
-
-    if(s){
-      html+=`
-        <circle cx="${x}" cy="${y}" r="6" fill="${c}" stroke="#f7f4ed"
-          stroke-width="3" vector-effect="non-scaling-stroke"/>
-      `;
-    }
-
-    html+=`
-      <circle class="chart-hit"
-        cx="${x}" cy="${y}" r="13"
-        fill="transparent"
-        data-i="${i}"
-        style="cursor:crosshair"/>
-    `;
-  });
-
-  svg.innerHTML=html;
-
-  svg.querySelectorAll(".chart-hit").forEach(hit=>{
-    hit.addEventListener("mouseenter",showTip);
-    hit.addEventListener("mousemove",showTip);
-    hit.addEventListener("mouseleave",()=>tip.classList.remove("show"));
-  });
-
-  function showTip(e){
-    const i=Number(e.currentTarget.dataset.i);
-    const pt=points[i];
-    const s=byDate[pt.date];
-    const [x,y]=xy(pt,i);
-
-    tip.innerHTML=`
-      <strong>${esc(fmt(pt.date))}</strong><br>
-      價格：$${esc(fmtPrice(pt.close))}
-      ${s?`<br>Signal：${esc(s.sentiment||"Neutral")}${s.mention_count?` · ${esc(s.mention_count)} mentions`:""}`:""}
-    `;
-
-    const rect=svg.getBoundingClientRect();
-    const left=(x/W)*rect.width;
-    const top=(y/H)*rect.height;
-
-    tip.style.left=left+"px";
-    tip.style.top=top+"px";
-    tip.classList.add("show");
-  }
-}
-
-init().catch(e=>{
-  document.querySelector("main").innerHTML+=`<p>${esc(e.message)}</p>`;
-});
-</script>
-
-<script src="ai-research.js"></script>
-</body>
-</html>
+init().catch(e=>document.querySelector("main").innerHTML+=`<p>${esc(e.message)}</p>`);
+</script></body></html>

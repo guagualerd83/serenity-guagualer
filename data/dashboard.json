@@ -2,7 +2,7 @@
   "site": {
     "title": "Serenity Research",
     "subtitle": "Public research dashboard based on Serenity's public X posts.",
-    "generated_at": "2026-08-11T07:35:09.071791Z",
+    "generated_at": "2026-08-11T08:04:38.905095Z",
     "disclaimer": "Public-post aggregation for research only. Not investment advice."
   },
   "periods": {
@@ -11,7 +11,7 @@
       "label": "每日",
       "days": 1,
       "start_at": "2026-08-10T16:00:00Z",
-      "generated_at": "2026-08-11T07:35:08.954700Z",
+      "generated_at": "2026-08-11T08:04:38.794505Z",
       "earliest_available_at": "2025-11-17T16:12:21Z",
       "traversed_until": "2026-04-13T02:42:25Z",
       "coverage_days": 120,
@@ -118,8 +118,8 @@
       "period": "weekly",
       "label": "每週",
       "days": 7,
-      "start_at": "2026-08-04T07:35:08.954700Z",
-      "generated_at": "2026-08-11T07:35:08.966706Z",
+      "start_at": "2026-08-04T08:04:38.794505Z",
+      "generated_at": "2026-08-11T08:04:38.808620Z",
       "earliest_available_at": "2025-11-17T16:12:21Z",
       "traversed_until": "2026-04-13T02:42:25Z",
       "coverage_days": 120,
@@ -633,8 +633,8 @@
       "period": "monthly",
       "label": "每月",
       "days": 28,
-      "start_at": "2026-07-14T07:35:08.966706Z",
-      "generated_at": "2026-08-11T07:35:08.982726Z",
+      "start_at": "2026-07-14T08:04:38.808620Z",
+      "generated_at": "2026-08-11T08:04:38.824123Z",
       "earliest_available_at": "2025-11-17T16:12:21Z",
       "traversed_until": "2026-04-13T02:42:25Z",
       "coverage_days": 120,
@@ -1664,21 +1664,21 @@
       "period": "quarterly",
       "label": "每季",
       "days": 90,
-      "start_at": "2026-05-13T07:35:08.982726Z",
-      "generated_at": "2026-08-11T07:35:09.055274Z",
+      "start_at": "2026-05-13T08:04:38.824123Z",
+      "generated_at": "2026-08-11T08:04:38.889060Z",
       "earliest_available_at": "2025-11-17T16:12:21Z",
       "traversed_until": "2026-04-13T02:42:25Z",
       "coverage_days": 120,
       "coverage_complete": true,
-      "tweet_count": 555,
-      "primary_post_count": 555,
-      "reply_context_count": 734,
-      "all_collected_count": 1289,
+      "tweet_count": 554,
+      "primary_post_count": 554,
+      "reply_context_count": 732,
+      "all_collected_count": 1286,
       "symbol_count": 172,
       "high_importance_count": 191,
       "ai_analyzed_count": 18,
       "sentiments": {
-        "Neutral": 378,
+        "Neutral": 377,
         "Bullish": 145,
         "Bearish": 31,
         "Mixed": 1
@@ -1686,7 +1686,7 @@
       "symbols": [
         {
           "symbol": "SIVE",
-          "mentions": 144,
+          "mentions": 143,
           "dominant_sentiment": "Neutral",
           "sentiment_score": 39,
           "max_importance": 5,
@@ -1696,7 +1696,7 @@
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
             "Bullish": 51,
-            "Neutral": 80,
+            "Neutral": 79,
             "Bearish": 12,
             "Mixed": 1
           }
@@ -1719,7 +1719,7 @@
         },
         {
           "symbol": "LITE",
-          "mentions": 81,
+          "mentions": 80,
           "dominant_sentiment": "Neutral",
           "sentiment_score": 23,
           "max_importance": 5,
@@ -1729,13 +1729,13 @@
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
             "Bullish": 31,
-            "Neutral": 42,
+            "Neutral": 41,
             "Bearish": 8
           }
         },
         {
           "symbol": "AAOI",
-          "mentions": 74,
+          "mentions": 73,
           "dominant_sentiment": "Neutral",
           "sentiment_score": 27,
           "max_importance": 5,
@@ -1745,7 +1745,7 @@
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
             "Bullish": 31,
-            "Neutral": 39,
+            "Neutral": 38,
             "Bearish": 4
           }
         },
