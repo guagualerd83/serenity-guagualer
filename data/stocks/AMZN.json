@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T05:18:39.755337Z",
+  "generated_at": "2026-08-11T05:24:37.683510Z",
   "symbol": "AMZN",
   "summary": {
     "primary_count": 45,
@@ -1809,8 +1809,8 @@
           ],
           "confidence": 85,
           "ai_status": "ok",
-          "favorite_count": 488,
-          "retweet_count": 21
+          "favorite_count": 495,
+          "retweet_count": 22
         }
       ]
     }
@@ -4821,8 +4821,8 @@
             ],
             "confidence": 85,
             "ai_status": "ok",
-            "favorite_count": 488,
-            "retweet_count": 21
+            "favorite_count": 495,
+            "retweet_count": 22
           }
         ]
       }
@@ -4885,8 +4885,8 @@
       ],
       "confidence": 85,
       "ai_status": "ok",
-      "favorite_count": 488,
-      "retweet_count": 21
+      "favorite_count": 495,
+      "retweet_count": 22
     },
     {
       "tweet_id": "2086157318065168490",
