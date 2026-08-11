@@ -2,31 +2,12 @@
 <html lang="zh-Hant"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Stock · Serenity Research</title><link rel="stylesheet" href="../style.css">
-<link rel="stylesheet" href="ai-research.css">
 </head><body>
 <main class="wrap">
 <a class="back" href="../">← 返回</a>
 <section class="stock-head">
  <div class="eyebrow">STOCK RESEARCH</div>
  <div class="stock-title"><div><h1 id="symbol">—</h1><div id="stance" class="sentiment"></div></div><div id="metrics" class="metrics"></div></div>
-</section>
-
-<section id="aiResearch" class="ai-research" hidden>
-  <div class="ai-research-head">
-    <div>
-      <div class="eyebrow">AI RESEARCH ASSISTANT</div>
-      <h2>個股研究摘要</h2>
-      <div class="small">只使用本站已匯出的 Primary posts / Supporting replies；不呼叫公開 API。</div>
-    </div>
-    <div id="aiSourceCount" class="small"></div>
-  </div>
-  <div class="ai-actions">
-    <button type="button" data-ai-mode="latest" class="active">🎯 最新觀點</button>
-    <button type="button" data-ai-mode="timeline">🧠 論點脈絡</button>
-    <button type="button" data-ai-mode="keyposts">📌 3 個關鍵觀點</button>
-    <button type="button" data-ai-mode="risks">⚠️ 被提到的風險</button>
-  </div>
-  <div id="aiAnswer" class="ai-answer"></div>
 </section>
 
 <details open><summary>價格與 Primary Signal</summary><div class="detail-body"><svg id="chart" class="chart" viewBox="0 0 1000 340" preserveAspectRatio="none"></svg><div class="small">綠：Bullish · 紅：Bearish · 灰褐：Mixed / Neutral。一天最多一個 Daily Net Stance。</div></div></details>
@@ -49,11 +30,6 @@ async function init(){
  renderPerf(d.performance||{}); renderChart(d.performance||{},d.daily_stances||[]);
  posts.innerHTML=renderRows(d.primary_posts||[]);
  replies.innerHTML=renderRows(d.reply_context||[]);
-
- // AI addon only reads the data the original page already loaded.
- // If the addon fails, everything above remains unaffected.
- window.__SERENITY_STOCK__=d;
- window.dispatchEvent(new CustomEvent("serenity-stock-ready",{detail:d}));
 }
 function renderRows(rows){return rows.map(x=>`<div class="post-row"><div class="small">${fmt(x.created_at)} · ${esc(x.sentiment||"Neutral")} · ★${x.importance||1}</div><p>${esc(x.summary_zh||x.core_thesis||x.text||"")}</p><a href="${esc(x.url)}" target="_blank" rel="noopener">原文 ↗</a></div>`).join("")||`<div class="muted">沒有資料。</div>`}
 function renderPerf(p){
@@ -73,6 +49,4 @@ function renderChart(p,stances){
  svg.innerHTML=html;
 }
 init().catch(e=>document.querySelector("main").innerHTML+=`<p>${esc(e.message)}</p>`);
-</script>
-<script src="ai-research.js"></script>
-</body></html>
+</script></body></html>
