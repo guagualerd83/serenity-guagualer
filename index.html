@@ -1,494 +1,53 @@
 <!doctype html>
 <html lang="zh-Hant">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Stock · Serenity Research</title>
-<link rel="stylesheet" href="../style.css">
-<style>
-.ai-box{
-  margin:32px 0;
-  padding:24px;
-  border:1px solid var(--line);
-  border-radius:18px;
-  background:rgba(255,255,255,.22);
-}
-.ai-title-row{
-  display:flex;
-  justify-content:space-between;
-  gap:20px;
-  align-items:flex-end;
-  margin-bottom:16px;
-}
-.ai-actions{
-  display:grid;
-  grid-template-columns:repeat(4,minmax(0,1fr));
-  gap:10px;
-  margin:18px 0;
-}
-.ai-action{
-  border:1px solid var(--line);
-  background:transparent;
-  border-radius:999px;
-  padding:10px 12px;
-  cursor:pointer;
-  color:inherit;
-}
-.ai-action:hover,.ai-action.active{
-  background:rgba(113,131,112,.10);
-  border-color:#aab3a8;
-}
-.ai-answer{
-  border-top:1px solid var(--line);
-  padding-top:20px;
-  margin-top:18px;
-}
-.ai-answer h3{
-  margin:0 0 12px;
-  font-size:1.15rem;
-}
-.ai-answer p{line-height:1.8}
-.ai-answer ul{padding-left:20px;line-height:1.75}
-.ai-source{
-  margin-top:14px;
-  padding-top:12px;
-  border-top:1px dashed var(--line);
-}
-.ai-timeline{
-  display:grid;
-  gap:14px;
-}
-.ai-timeline-item{
-  display:grid;
-  grid-template-columns:110px 1fr;
-  gap:18px;
-}
-.ai-timeline-date{
-  color:var(--muted);
-  font-size:.9rem;
-}
-.ai-key-post{
-  padding:14px 0;
-  border-bottom:1px solid var(--line);
-}
-.ai-key-post:last-child{border-bottom:0}
-@media(max-width:760px){
-  .ai-actions{grid-template-columns:1fr 1fr}
-  .ai-title-row{display:block}
-  .ai-timeline-item{grid-template-columns:1fr}
-}
-</style>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Serenity Research</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
+<header class="wrap top">
+  <div>
+    <div class="eyebrow">PUBLIC RESEARCH NOTES</div>
+    <h1>Serenity Research</h1>
+    <p>把公開貼文整理成更容易閱讀的市場研究筆記。</p>
+  </div>
+  <div id="updated" class="muted"></div>
+</header>
+
 <main class="wrap">
-<a id="back" class="back" href="../">← 返回</a>
+  <nav class="periods">
+    <button data-period="daily">每日</button>
+    <button data-period="weekly">每週</button>
+    <button data-period="monthly">每月</button>
+    <button data-period="quarterly" class="active">每季</button>
+  </nav>
 
-<section class="stock-head">
-  <div class="eyebrow" id="rangeLabel">STOCK RESEARCH</div>
-  <div class="stock-title">
-    <div>
-      <h1 id="symbol">—</h1>
-      <div id="stance" class="sentiment"></div>
+  <section class="numbers" id="numbers"></section>
+
+  <section>
+    <div class="section-head">
+      <div>
+        <div class="eyebrow">MOST DISCUSSED</div>
+        <h2>主要股票</h2>
+      </div>
     </div>
-    <div id="metrics" class="metrics"></div>
-  </div>
-</section>
+    <div id="symbols" class="symbol-list"></div>
+  </section>
 
-<section class="ai-box">
-  <div class="ai-title-row">
-    <div>
-      <div class="eyebrow">AI RESEARCH ASSISTANT</div>
-      <h2>AI 個股問答</h2>
-      <div class="muted">基於 Serenity 已追蹤的 Primary posts 與 Supporting replies。</div>
+  <section>
+    <div class="section-head">
+      <div>
+        <div class="eyebrow">LATEST PRIMARY POSTS</div>
+        <h2>最新觀點</h2>
+      </div>
     </div>
-    <div id="aiSourceCount" class="small"></div>
-  </div>
-
-  <div class="ai-actions">
-    <button class="ai-action active" data-ai="latest">🎯 最新觀點</button>
-    <button class="ai-action" data-ai="timeline">🧠 投資論點脈絡</button>
-    <button class="ai-action" data-ai="keyposts">📌 3 個關鍵觀點</button>
-    <button class="ai-action" data-ai="risks">⚠️ 被提到的風險</button>
-  </div>
-
-  <div id="aiAnswer" class="ai-answer"></div>
-</section>
-
-<details open>
-  <summary>價格與 Primary Signal</summary>
-  <div class="detail-body">
-    <svg id="chart" class="chart" viewBox="0 0 1000 340" preserveAspectRatio="none"></svg>
-    <div id="chartCaption" class="small"></div>
-  </div>
-</details>
-
-<details open>
-  <summary>核心觀點</summary>
-  <div class="detail-body grid2">
-    <div>
-      <div class="eyebrow">LATEST THESIS</div>
-      <p id="thesis"></p>
-    </div>
-    <div>
-      <div class="eyebrow">TRACK RECORD</div>
-      <div id="performance"></div>
-    </div>
-  </div>
-</details>
-
-<details>
-  <summary>Primary posts</summary>
-  <div id="posts" class="detail-body"></div>
-</details>
-
-<details>
-  <summary>Supporting replies</summary>
-  <div id="replies" class="detail-body"></div>
-</details>
+    <div id="posts" class="notes"></div>
+  </section>
 </main>
 
-<footer class="wrap footer">公開資訊彙整，不構成投資建議。</footer>
-
-<script>
-const esc=s=>(s??"").toString().replace(/[&<>"']/g,m=>({
-  "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"
-}[m]));
-
-const qs=new URLSearchParams(location.search);
-const SYMBOL=(qs.get("symbol")||"").toUpperCase();
-if(!SYMBOL){
-  location.replace("../");
-}
-const VALID_PERIODS=["daily","weekly","monthly","quarterly"];
-const PERIOD=VALID_PERIODS.includes(qs.get("period"))?qs.get("period"):"quarterly";
-const PERIOD_LABELS={daily:"每日",weekly:"每週",monthly:"每月",quarterly:"每季"};
-
-const fmt=v=>v?new Date(v).toLocaleDateString("zh-TW"):"—";
-const dateKey=v=>v?String(v).slice(0,10):"";
-
-let STOCK=null;
-let DASHBOARD=null;
-let PERIOD_START=null;
-
-async function init(){
-  if(!SYMBOL) throw new Error("Missing symbol");
-
-  // Stock JSON is the required source. Render the original stock page first.
-  STOCK=await fetch("../data/stocks/"+encodeURIComponent(SYMBOL)+".json",{cache:"no-store"})
-    .then(r=>{if(!r.ok) throw new Error("Stock data unavailable"); return r.json()});
-
-  // dashboard.json is optional. A failure here must NEVER blank the stock page.
-  try{
-    DASHBOARD=await fetch("../data/dashboard.json",{cache:"no-store"})
-      .then(r=>r.ok?r.json():null);
-  }catch(_){
-    DASHBOARD=null;
-  }
-
-  PERIOD_START=DASHBOARD?.periods?.[PERIOD]?.start_at||null;
-
-  document.title=SYMBOL+" · Serenity Research";
-  document.querySelector("#symbol").textContent=SYMBOL;
-  document.querySelector("#rangeLabel").textContent=`STOCK RESEARCH · ${PERIOD_LABELS[PERIOD]}`;
-  document.querySelector("#back").href="../?period="+encodeURIComponent(PERIOD);
-
-  const s=STOCK.summary||{};
-  const stance=document.querySelector("#stance");
-  stance.textContent=s.latest_sentiment||"Neutral";
-  stance.className="sentiment "+(s.latest_sentiment||"Neutral");
-
-  document.querySelector("#metrics").innerHTML=`
-    <div>Primary<b>${s.primary_count||0}</b></div>
-    <div>Replies context<b>${s.reply_count||0}</b></div>
-    <div>First mention<b>${fmt(s.first_mentioned_at)}</b></div>`;
-
-  document.querySelector("#thesis").textContent=s.latest_thesis||"尚無 AI thesis。";
-
-  renderPerf(STOCK.performance||{});
-  renderChart(STOCK.performance||{},STOCK.daily_stances||[],PERIOD_START,PERIOD);
-
-  document.querySelector("#posts").innerHTML=renderRows(STOCK.primary_posts||[]);
-  document.querySelector("#replies").innerHTML=renderRows(STOCK.reply_context||[]);
-
-  setupAI();
-
-  // If period metadata is unavailable, keep all original stock information visible.
-  if(!DASHBOARD){
-    const range=document.querySelector("#rangeLabel");
-    if(range) range.title="Period metadata unavailable; showing all available stock data.";
-  }
-}
-
-function inPeriod(x){
-  if(!PERIOD_START) return true;
-  return dateKey(x.created_at||x.date) >= dateKey(PERIOD_START);
-}
-
-function primaryPosts(){
-  return (STOCK?.primary_posts||[]).filter(inPeriod);
-}
-
-function replies(){
-  return (STOCK?.reply_context||[]).filter(inPeriod);
-}
-
-function setupAI(){
-  const p=primaryPosts();
-  const r=replies();
-
-  document.querySelector("#aiSourceCount").textContent=
-    `${p.length} Primary · ${r.length} Supporting`;
-
-  document.querySelectorAll("[data-ai]").forEach(btn=>{
-    btn.onclick=()=>{
-      document.querySelectorAll("[data-ai]").forEach(x=>x.classList.toggle("active",x===btn));
-      renderAI(btn.dataset.ai);
-    };
-  });
-
-  renderAI("latest");
-}
-
-function renderAI(mode){
-  const out=document.querySelector("#aiAnswer");
-  const p=primaryPosts();
-
-  if(!p.length){
-    out.innerHTML=`<h3>此期間沒有 Primary post</h3>
-      <p class="muted">請切換到較長的時間範圍查看。</p>`;
-    return;
-  }
-
-  if(mode==="latest") out.innerHTML=aiLatest(p);
-  if(mode==="timeline") out.innerHTML=aiTimeline(p);
-  if(mode==="keyposts") out.innerHTML=aiKeyPosts(p);
-  if(mode==="risks") out.innerHTML=aiRisks(p);
-}
-
-function aiLatest(posts){
-  const sorted=[...posts].sort((a,b)=>String(b.created_at).localeCompare(String(a.created_at)));
-  const latest=sorted.find(x=>["Bullish","Bearish"].includes(x.sentiment)) || sorted[0];
-
-  const thesis=latest.core_thesis||latest.summary_zh||latest.plain_zh||latest.text||"";
-  const why=latest.why_it_matters||"";
-
-  return `
-    <h3>最新觀點 · ${esc(latest.sentiment||"Neutral")}</h3>
-    <div class="small">${fmt(latest.created_at)} · ★${latest.importance||1}</div>
-    <p><strong>${esc(thesis||"目前沒有明確 thesis。")}</strong></p>
-    ${why?`<p>${esc(why)}</p>`:""}
-    <div class="ai-source">
-      <a href="${esc(latest.url||"#")}" target="_blank" rel="noopener">原始貼文 ↗</a>
-    </div>`;
-}
-
-function aiTimeline(posts){
-  const sorted=[...posts].sort((a,b)=>String(a.created_at).localeCompare(String(b.created_at)));
-
-  const meaningful=[];
-  let lastKey="";
-  for(const x of sorted){
-    const thesis=(x.core_thesis||x.summary_zh||x.plain_zh||x.text||"").trim();
-    const key=[x.sentiment,x.thesis_change,thesis.slice(0,80)].join("|");
-    if(key===lastKey) continue;
-    lastKey=key;
-    meaningful.push(x);
-  }
-
-  const selected=meaningful.length<=6
-    ? meaningful
-    : [
-        meaningful[0],
-        meaningful[Math.floor((meaningful.length-1)*.2)],
-        meaningful[Math.floor((meaningful.length-1)*.4)],
-        meaningful[Math.floor((meaningful.length-1)*.6)],
-        meaningful[Math.floor((meaningful.length-1)*.8)],
-        meaningful[meaningful.length-1]
-      ];
-
-  return `<h3>投資論點脈絡</h3>
-    <div class="ai-timeline">
-      ${selected.map(x=>`
-        <div class="ai-timeline-item">
-          <div class="ai-timeline-date">${fmt(x.created_at)}<br>${esc(x.sentiment||"Neutral")}</div>
-          <div>
-            <strong>${esc(x.thesis_change||"UPDATE")}</strong>
-            <p>${esc(x.core_thesis||x.summary_zh||x.plain_zh||x.text||"")}</p>
-            ${x.url?`<a href="${esc(x.url)}" target="_blank" rel="noopener">原文 ↗</a>`:""}
-          </div>
-        </div>`).join("")}
-    </div>`;
-}
-
-function aiKeyPosts(posts){
-  const scored=posts.map((x,i)=>{
-    let score=(x.importance||1)*10;
-    if(x.thesis_change==="NEW") score+=10;
-    if(x.thesis_change==="REVERSAL") score+=18;
-    if(x.thesis_change==="MAJOR_UPDATE") score+=14;
-    if(x.core_thesis) score+=4;
-    if(x.why_it_matters) score+=3;
-    score+=(x.favorite_count||0)/1000;
-    score+=(x.retweet_count||0)/500;
-    return {x,score,i};
-  }).sort((a,b)=>b.score-a.score);
-
-  const picked=[];
-  for(const item of scored){
-    if(picked.length>=3) break;
-    if(picked.some(y=>dateKey(y.x.created_at)===dateKey(item.x.created_at))) continue;
-    picked.push(item);
-  }
-
-  while(picked.length<3 && scored[picked.length]) picked.push(scored[picked.length]);
-
-  return `<h3>3 個關鍵觀點</h3>
-    ${picked.slice(0,3).map((item,idx)=>{
-      const x=item.x;
-      let reason="代表性高、重要度高的 Primary post。";
-      if(x.thesis_change==="NEW") reason="建立或明確定義這支股票的核心投資論點。";
-      else if(x.thesis_change==="REVERSAL") reason="代表 Serenity 對原先方向出現重大改變。";
-      else if(x.thesis_change==="MAJOR_UPDATE") reason="對原有 thesis 加入重要新資訊或催化劑。";
-      else if((x.importance||0)>=5) reason="屬於高重要度更新，對整體 thesis 有較大影響。";
-
-      return `<div class="ai-key-post">
-        <div class="small">#${idx+1} · ${fmt(x.created_at)} · ${esc(x.sentiment||"Neutral")}</div>
-        <p><strong>${esc(x.core_thesis||x.summary_zh||x.plain_zh||x.text||"")}</strong></p>
-        <p class="muted">為什麼重要：${esc(reason)}</p>
-        ${x.url?`<a href="${esc(x.url)}" target="_blank" rel="noopener">原文 ↗</a>`:""}
-      </div>`;
-    }).join("")}`;
-}
-
-function aiRisks(posts){
-  const risks=[];
-  for(const x of posts){
-    const arr=Array.isArray(x.risks)?x.risks:[];
-    for(const r of arr){
-      const text=String(r||"").trim();
-      if(!text) continue;
-      if(!risks.some(y=>y.text===text)){
-        risks.push({text,date:x.created_at,url:x.url});
-      }
-    }
-  }
-
-  if(!risks.length){
-    return `<h3>被提到的風險</h3>
-      <p>在目前選定期間的 Serenity Primary posts 中，沒有找到明確結構化的風險敘述。</p>
-      <p class="muted">這不代表股票沒有風險，只代表不把 AI 自己推測的風險冒充成 Serenity 曾說過的內容。</p>`;
-  }
-
-  return `<h3>被提到的風險</h3>
-    <ul>
-      ${risks.slice(0,8).map(x=>`
-        <li>${esc(x.text)}
-          <span class="small"> · ${fmt(x.date)}
-          ${x.url?`· <a href="${esc(x.url)}" target="_blank" rel="noopener">來源 ↗</a>`:""}
-          </span>
-        </li>`).join("")}
-    </ul>`;
-}
-
-function renderRows(rows){
-  return rows.map(x=>`
-    <div class="post-row">
-      <div class="small">${fmt(x.created_at)} · ${esc(x.sentiment||"Neutral")} · ★${x.importance||1}</div>
-      <p>${esc(x.summary_zh||x.core_thesis||x.text||"")}</p>
-      <a href="${esc(x.url)}" target="_blank" rel="noopener">原文 ↗</a>
-    </div>`).join("")||`<div class="muted">沒有資料。</div>`;
-}
-
-function renderPerf(p){
-  const h=((p.summary||{}).horizons)||{};
-  const one=k=>{
-    const x=h[k]||{};
-    return `<div>
-      <span class="small">${k.toUpperCase()}</span><br>
-      <strong>${x.hit_rate==null?"—":x.hit_rate+"%"}</strong><br>
-      <span class="small">n=${x.sample||0} · avg ${x.avg_score_return==null?"—":x.avg_score_return+"%"}</span>
-    </div>`;
-  };
-  document.querySelector("#performance").innerHTML=
-    `<div class="metrics">${one("7d")}${one("30d")}${one("now")}</div>`;
-}
-
-function renderChart(p,stances,startAt,period){
-  const svg=document.querySelector("#chart");
-  const caption=document.querySelector("#chartCaption");
-
-  const allPoints=[...(((p.price||{}).points)||[])].sort((a,b)=>
-    dateKey(a.date).localeCompare(dateKey(b.date))
-  );
-
-  const cutoff=dateKey(startAt);
-  let points=cutoff ? allPoints.filter(pt=>dateKey(pt.date)>=cutoff) : allPoints;
-  let visibleStances=cutoff ? stances.filter(s=>dateKey(s.date)>=cutoff) : stances;
-
-  caption.textContent=
-    `${PERIOD_LABELS[period]}範圍 · ${cutoff||"—"} 至 ${points.length?dateKey(points[points.length-1].date):"—"} · `+
-    `綠 Bullish · 紅 Bearish · 灰褐 Mixed / Neutral`;
-
-  if(points.length===0){
-    svg.innerHTML='<text x="40" y="70" fill="#85877f">此時間範圍暫無價格資料</text>';
-    return;
-  }
-
-  const W=1000,H=340,pad=34;
-  const vals=points.map(x=>+x.close).filter(Number.isFinite);
-  if(!vals.length){
-    svg.innerHTML='<text x="40" y="70" fill="#85877f">此時間範圍暫無價格資料</text>';
-    return;
-  }
-
-  const min=Math.min(...vals);
-  const max=Math.max(...vals);
-  const span=max-min||Math.max(Math.abs(max)*0.02,1);
-
-  const xy=(pt,i)=>{
-    const x=points.length===1 ? W/2 : pad+i/(points.length-1)*(W-pad*2);
-    const y=H-pad-(+pt.close-min)/span*(H-pad*2);
-    return [x,y];
-  };
-
-  let html="";
-  if(points.length>=2){
-    const line=points.map((pt,i)=>{
-      const [x,y]=xy(pt,i);
-      return `${i?"L":"M"}${x.toFixed(1)},${y.toFixed(1)}`;
-    }).join(" ");
-    html+=`<path d="${line}" fill="none" stroke="#718370" stroke-width="3" vector-effect="non-scaling-stroke"/>`;
-  }
-
-  const byDate=Object.fromEntries(visibleStances.map(s=>[dateKey(s.date),s]));
-
-  points.forEach((pt,i)=>{
-    const [x,y]=xy(pt,i);
-    const s=byDate[dateKey(pt.date)];
-
-    if(points.length===1){
-      html+=`<circle cx="${x}" cy="${y}" r="7" fill="#718370" stroke="#f7f4ed" stroke-width="3">
-        <title>${esc(dateKey(pt.date)+" close "+pt.close)}</title>
-      </circle>`;
-    }
-
-    if(!s) return;
-    let c="#9a8465";
-    if(s.sentiment==="Bullish") c="#718370";
-    if(s.sentiment==="Bearish") c="#a35e52";
-    html+=`<circle cx="${x}" cy="${y}" r="6" fill="${c}" stroke="#f7f4ed" stroke-width="3">
-      <title>${esc(dateKey(s.date)+" "+s.sentiment+" · "+(s.mention_count||1)+" mentions")}</title>
-    </circle>`;
-  });
-
-  html+=`<text x="${pad}" y="22" fill="#85877f" font-size="18">${max.toFixed(2)}</text>`;
-  html+=`<text x="${pad}" y="${H-8}" fill="#85877f" font-size="18">${min.toFixed(2)}</text>`;
-  svg.innerHTML=html;
-}
-
-init().catch(e=>{
-  document.querySelector("main").innerHTML+=`<p>${esc(e.message)}</p>`;
-});
-</script>
+<footer class="wrap footer">僅整理公開資訊，不構成投資建議。</footer>
+<script src="app.js"></script>
 </body>
 </html>
