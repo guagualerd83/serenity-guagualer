@@ -2,12 +2,31 @@
 <html lang="zh-Hant"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Stock · Serenity Research</title><link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="ai-research.css">
 </head><body>
 <main class="wrap">
 <a class="back" href="../">← 返回</a>
 <section class="stock-head">
  <div class="eyebrow">STOCK RESEARCH</div>
  <div class="stock-title"><div><h1 id="symbol">—</h1><div id="stance" class="sentiment"></div></div><div id="metrics" class="metrics"></div></div>
+</section>
+
+<section id="aiResearch" class="ai-research" hidden>
+  <div class="ai-research-head">
+    <div>
+      <div class="eyebrow">AI RESEARCH ASSISTANT</div>
+      <h2>個股研究摘要</h2>
+      <div class="small">只使用本站已匯出的 Primary posts / Supporting replies；不呼叫公開 API。</div>
+    </div>
+    <div id="aiSourceCount" class="small"></div>
+  </div>
+  <div class="ai-actions">
+    <button type="button" data-ai-mode="latest" class="active">🎯 最新觀點</button>
+    <button type="button" data-ai-mode="timeline">🧠 論點脈絡</button>
+    <button type="button" data-ai-mode="keyposts">📌 3 個關鍵觀點</button>
+    <button type="button" data-ai-mode="risks">⚠️ 被提到的風險</button>
+  </div>
+  <div id="aiAnswer" class="ai-answer"></div>
 </section>
 
 <details open><summary>價格與 Primary Signal</summary><div class="detail-body"><div id="chartMeta" class="small" style="margin-bottom:10px"></div><svg id="chart" class="chart" viewBox="0 0 1000 340" preserveAspectRatio="none"></svg><div class="small">綠：Bullish · 紅：Bearish · 灰褐：Mixed / Neutral。一天最多一個 Daily Net Stance。</div></div></details>
@@ -34,6 +53,11 @@ async function init(){
  renderPerf(d.performance||{}); renderChart(d.performance||{},d.daily_stances||[]);
  posts.innerHTML=renderRows(d.primary_posts||[]);
  replies.innerHTML=renderRows(d.reply_context||[]);
+
+ // AI addon only reads the data the original page already loaded.
+ // If the addon fails, everything above remains unaffected.
+ window.__SERENITY_STOCK__=d;
+ window.dispatchEvent(new CustomEvent("serenity-stock-ready",{detail:d}));
 }
 function renderRows(rows){return rows.map(x=>`<div class="post-row"><div class="small">${fmt(x.created_at)} · ${esc(x.sentiment||"Neutral")} · ★${x.importance||1}</div><p>${esc(x.summary_zh||x.core_thesis||x.text||"")}</p><a href="${esc(x.url)}" target="_blank" rel="noopener">原文 ↗</a></div>`).join("")||`<div class="muted">沒有資料。</div>`}
 function renderPerf(p){
@@ -54,13 +78,13 @@ function renderChart(p,stances){
    return;
  }
 
- // 價格曲線跟首頁選到的 period 同步；不新增第二套 range UI。
+ // Follow the period already selected on the dashboard URL.
  const latest=all[all.length-1].date;
  const end=new Date(latest+"T12:00:00Z");
  const start=new Date(end);
  start.setUTCDate(start.getUTCDate()-(PERIOD_DAYS[PERIOD]-1));
  const startKey=start.toISOString().slice(0,10);
- const points=all.filter(x=>x.date>=startKey&&x.date<=latest);
+ const points=all.filter(x=>String(x.date)>=startKey&&String(x.date)<=latest);
 
  const first=+points[0].close, last=+points[points.length-1].close;
  const change=first?((last/first)-1)*100:null;
@@ -68,10 +92,12 @@ function renderChart(p,stances){
 
  const W=1000,H=340,L=62,R=24,T=22,B=42;
 
- // daily 只有一個交易日時仍顯示日期、價格與 signal，不再報 unavailable。
+ // A 1-day range can legitimately contain one daily close.
  if(points.length===1){
    const pt=points[0], s=stances.find(x=>x.date===pt.date);
-   let c="#9a8465"; if(s?.sentiment==="Bullish")c="#718370"; if(s?.sentiment==="Bearish")c="#a35e52";
+   let c="#9a8465";
+   if(s?.sentiment==="Bullish")c="#718370";
+   if(s?.sentiment==="Bearish")c="#a35e52";
    svg.innerHTML=`
      <line x1="${L}" y1="${H-B}" x2="${W-R}" y2="${H-B}" stroke="#ded8ca" stroke-width="1"/>
      <circle cx="${(L+W-R)/2}" cy="${(T+H-B)/2}" r="7" fill="${c}" stroke="#f7f4ed" stroke-width="3">
@@ -82,8 +108,9 @@ function renderChart(p,stances){
    return;
  }
 
- const vals=points.map(x=>+x.close), rawMin=Math.min(...vals),rawMax=Math.max(...vals), rawSpan=rawMax-rawMin||1;
- const min=rawMin-rawSpan*.06, max=rawMax+rawSpan*.06, span=max-min||1;
+ const vals=points.map(x=>+x.close);
+ const rawMin=Math.min(...vals),rawMax=Math.max(...vals),rawSpan=rawMax-rawMin||1;
+ const min=rawMin-rawSpan*.06,max=rawMax+rawSpan*.06,span=max-min||1;
  const xy=(pt,i)=>[
    L+i/(points.length-1)*(W-L-R),
    H-B-(+pt.close-min)/span*(H-T-B)
@@ -91,14 +118,14 @@ function renderChart(p,stances){
 
  let html="";
 
- // Y 軸價格
+ // Price labels / horizontal grid.
  for(let i=0;i<5;i++){
-   const value=max-(span*i/4), y=T+i*(H-T-B)/4;
+   const value=max-(span*i/4),y=T+i*(H-T-B)/4;
    html+=`<line x1="${L}" y1="${y}" x2="${W-R}" y2="${y}" stroke="#e3ded2" stroke-width="1"/>`;
    html+=`<text x="${L-8}" y="${y+4}" text-anchor="end" fill="#85877f" font-size="12">$${fmtPrice(value)}</text>`;
  }
 
- // X 軸日期
+ // Date labels.
  const tickCount=Math.min(5,points.length);
  for(let k=0;k<tickCount;k++){
    const i=Math.round(k*(points.length-1)/(tickCount-1));
@@ -106,19 +133,28 @@ function renderChart(p,stances){
    html+=`<text x="${x}" y="${H-12}" text-anchor="middle" fill="#85877f" font-size="12">${esc(fmt(points[i].date))}</text>`;
  }
 
- const line=points.map((pt,i)=>{const [x,y]=xy(pt,i);return `${i?"L":"M"}${x.toFixed(1)},${y.toFixed(1)}`}).join(" ");
+ const line=points.map((pt,i)=>{
+   const [x,y]=xy(pt,i);
+   return `${i?"L":"M"}${x.toFixed(1)},${y.toFixed(1)}`;
+ }).join(" ");
  html+=`<path d="${line}" fill="none" stroke="#718370" stroke-width="3" vector-effect="non-scaling-stroke"/>`;
 
  const byDate=Object.fromEntries(stances.map(s=>[s.date,s]));
  points.forEach((pt,i)=>{
-   const [x,y]=xy(pt,i), s=byDate[pt.date];
-   // 每個價格點都有 hover 日期/價格；Primary signal 點才上色顯示。
+   const [x,y]=xy(pt,i),s=byDate[pt.date];
+
+   // Every trading-day point exposes date + close through the native SVG tooltip.
    html+=`<circle cx="${x}" cy="${y}" r="10" fill="transparent"><title>${esc(pt.date+" · $"+fmtPrice(pt.close)+(s?" · "+s.sentiment:""))}</title></circle>`;
+
    if(!s)return;
-   let c="#9a8465"; if(s.sentiment==="Bullish")c="#718370"; if(s.sentiment==="Bearish")c="#a35e52";
+   let c="#9a8465";
+   if(s.sentiment==="Bullish")c="#718370";
+   if(s.sentiment==="Bearish")c="#a35e52";
    html+=`<circle cx="${x}" cy="${y}" r="6" fill="${c}" stroke="#f7f4ed" stroke-width="3"><title>${esc(pt.date+" · $"+fmtPrice(pt.close)+" · "+s.sentiment+" · "+(s.mention_count||1)+" mentions")}</title></circle>`;
  });
  svg.innerHTML=html;
 }
 init().catch(e=>document.querySelector("main").innerHTML+=`<p>${esc(e.message)}</p>`);
-</script></body></html>
+</script>
+<script src="ai-research.js"></script>
+</body></html>
