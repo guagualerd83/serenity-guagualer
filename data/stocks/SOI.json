@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-13T02:52:12.307625Z",
+  "generated_at": "2026-08-13T02:54:36.010338Z",
   "symbol": "SOI",
   "summary": {
-    "primary_count": 79,
+    "primary_count": 80,
     "reply_count": 33,
     "first_mentioned_at": "2026-03-11T19:53:39Z",
-    "last_mentioned_at": "2026-07-26T20:12:11Z",
+    "last_mentioned_at": "2026-08-13T02:52:11Z",
     "latest_sentiment": "Neutral",
-    "latest_thesis": "",
-    "latest_change": "UPDATE",
+    "latest_thesis": "光學通訊與光電半導體產業的專有名詞極其繁雜，新進投資人需要時間建立相關技術知識背景。",
+    "latest_change": "GENERAL",
     "sentiments": {
       "Bullish": 32,
-      "Neutral": 76,
+      "Neutral": 77,
       "Bearish": 4
     }
   },
@@ -2882,6 +2882,50 @@
           "ai_status": "",
           "favorite_count": 1291,
           "retweet_count": 87
+        }
+      ]
+    },
+    {
+      "date": "2026-08-13",
+      "created_at": "2026-08-13T02:52:11Z",
+      "sentiment": "Neutral",
+      "bull_count": 0,
+      "bear_count": 0,
+      "neutral_count": 1,
+      "mixed_count": 0,
+      "mention_count": 1,
+      "bull_weight": 0.0,
+      "bear_weight": 0.0,
+      "bull_share": null,
+      "importance": 2,
+      "confidence": 95,
+      "thesis_change": "GENERAL",
+      "core_thesis": "光學通訊與光電半導體產業的專有名詞極其繁雜，新進投資人需要時間建立相關技術知識背景。",
+      "url": "https://x.com/aleabitoreddit/status/2087733927930929435",
+      "tweet_id": "2087733927930929435",
+      "items": [
+        {
+          "tweet_id": "2087733927930929435",
+          "is_reply": false,
+          "kind": "post",
+          "reply_signal_eligible": false,
+          "created_at": "2026-08-13T02:52:11Z",
+          "text": "Is it just me, or is the list of 3 letter optical jargon never ending?\n\nWe have LPO, LRO, NPO, XPO, CPO, OBO, and others for approaches.\n\nThen InP, EML, ELS, OCS, SOI, and others to add to the random terms.\n\nEven the industry events with OCP or OFC get their three letter names.\n\nPeople who have followed me on my optical bottleneck scavenger hunt with $SOI or $IQE might know a lot by now.\n\nBut wouldn’t new followers might be super confused…",
+          "url": "https://x.com/aleabitoreddit/status/2087733927930929435",
+          "sentiment": "Neutral",
+          "importance": 2,
+          "thesis_change": "GENERAL",
+          "summary_zh": "作者指出光學與光電領域充斥著大量三字母縮寫與專業術語（如 LPO、CPO、InP、SOI 等），可能讓新追蹤者感到困惑。作者提及過往曾透過 SOI 與 IQE 等標的探討光學瓶頸相關議題。本篇貼文主要為對產業術語繁雜的感嘆，並非針對特定公司進行基本面分析。",
+          "plain_zh": "這篇貼文主要在抱怨光纖與光學半導體產業有太多的英文專業簡稱（例如 LPO、CPO、InP、SOI 等），讓剛接觸的人眼花繚亂。作者順便提及自己過去有跟讀者一起透過相關股票（如 SOI、IQE）研究光學技術瓶頸。",
+          "core_thesis": "光學通訊與光電半導體產業的專有名詞極其繁雜，新進投資人需要時間建立相關技術知識背景。",
+          "why_it_matters": "光學技術（如 CPO、LPO）是解決未來 AI 算力傳輸瓶頸的關鍵，但其技術路線與材料名詞複雜，了解這些術語是理解光學供應鏈投資的前置作業。",
+          "history_note": "歷史貼文不足，且本貼文僅討論產業術語，未提出最新基本面觀點。",
+          "catalysts": [],
+          "risks": [],
+          "confidence": 95,
+          "ai_status": "ok",
+          "favorite_count": 26,
+          "retweet_count": 3
         }
       ]
     }
@@ -7429,9 +7473,53 @@
             "retweet_count": 87
           }
         ]
+      },
+      {
+        "date": "2026-08-13",
+        "created_at": "2026-08-13T02:52:11Z",
+        "sentiment": "Neutral",
+        "bull_count": 0,
+        "bear_count": 0,
+        "neutral_count": 1,
+        "mixed_count": 0,
+        "mention_count": 1,
+        "bull_weight": 0.0,
+        "bear_weight": 0.0,
+        "bull_share": null,
+        "importance": 2,
+        "confidence": 95,
+        "thesis_change": "GENERAL",
+        "core_thesis": "光學通訊與光電半導體產業的專有名詞極其繁雜，新進投資人需要時間建立相關技術知識背景。",
+        "url": "https://x.com/aleabitoreddit/status/2087733927930929435",
+        "tweet_id": "2087733927930929435",
+        "items": [
+          {
+            "tweet_id": "2087733927930929435",
+            "is_reply": false,
+            "kind": "post",
+            "reply_signal_eligible": false,
+            "created_at": "2026-08-13T02:52:11Z",
+            "text": "Is it just me, or is the list of 3 letter optical jargon never ending?\n\nWe have LPO, LRO, NPO, XPO, CPO, OBO, and others for approaches.\n\nThen InP, EML, ELS, OCS, SOI, and others to add to the random terms.\n\nEven the industry events with OCP or OFC get their three letter names.\n\nPeople who have followed me on my optical bottleneck scavenger hunt with $SOI or $IQE might know a lot by now.\n\nBut wouldn’t new followers might be super confused…",
+            "url": "https://x.com/aleabitoreddit/status/2087733927930929435",
+            "sentiment": "Neutral",
+            "importance": 2,
+            "thesis_change": "GENERAL",
+            "summary_zh": "作者指出光學與光電領域充斥著大量三字母縮寫與專業術語（如 LPO、CPO、InP、SOI 等），可能讓新追蹤者感到困惑。作者提及過往曾透過 SOI 與 IQE 等標的探討光學瓶頸相關議題。本篇貼文主要為對產業術語繁雜的感嘆，並非針對特定公司進行基本面分析。",
+            "plain_zh": "這篇貼文主要在抱怨光纖與光學半導體產業有太多的英文專業簡稱（例如 LPO、CPO、InP、SOI 等），讓剛接觸的人眼花繚亂。作者順便提及自己過去有跟讀者一起透過相關股票（如 SOI、IQE）研究光學技術瓶頸。",
+            "core_thesis": "光學通訊與光電半導體產業的專有名詞極其繁雜，新進投資人需要時間建立相關技術知識背景。",
+            "why_it_matters": "光學技術（如 CPO、LPO）是解決未來 AI 算力傳輸瓶頸的關鍵，但其技術路線與材料名詞複雜，了解這些術語是理解光學供應鏈投資的前置作業。",
+            "history_note": "歷史貼文不足，且本貼文僅討論產業術語，未提出最新基本面觀點。",
+            "catalysts": [],
+            "risks": [],
+            "confidence": 95,
+            "ai_status": "ok",
+            "favorite_count": 26,
+            "retweet_count": 3
+          }
+        ]
       }
     ],
-    "excluded_days": 23,
+    "excluded_days": 24,
     "summary": {
       "signals": 26,
       "horizons": {
@@ -7462,6 +7550,29 @@
     "include_replies": false
   },
   "primary_posts": [
+    {
+      "tweet_id": "2087733927930929435",
+      "is_reply": false,
+      "kind": "post",
+      "reply_signal_eligible": false,
+      "created_at": "2026-08-13T02:52:11Z",
+      "text": "Is it just me, or is the list of 3 letter optical jargon never ending?\n\nWe have LPO, LRO, NPO, XPO, CPO, OBO, and others for approaches.\n\nThen InP, EML, ELS, OCS, SOI, and others to add to the random terms.\n\nEven the industry events with OCP or OFC get their three letter names.\n\nPeople who have followed me on my optical bottleneck scavenger hunt with $SOI or $IQE might know a lot by now.\n\nBut wouldn’t new followers might be super confused…",
+      "url": "https://x.com/aleabitoreddit/status/2087733927930929435",
+      "sentiment": "Neutral",
+      "importance": 2,
+      "thesis_change": "GENERAL",
+      "summary_zh": "作者指出光學與光電領域充斥著大量三字母縮寫與專業術語（如 LPO、CPO、InP、SOI 等），可能讓新追蹤者感到困惑。作者提及過往曾透過 SOI 與 IQE 等標的探討光學瓶頸相關議題。本篇貼文主要為對產業術語繁雜的感嘆，並非針對特定公司進行基本面分析。",
+      "plain_zh": "這篇貼文主要在抱怨光纖與光學半導體產業有太多的英文專業簡稱（例如 LPO、CPO、InP、SOI 等），讓剛接觸的人眼花繚亂。作者順便提及自己過去有跟讀者一起透過相關股票（如 SOI、IQE）研究光學技術瓶頸。",
+      "core_thesis": "光學通訊與光電半導體產業的專有名詞極其繁雜，新進投資人需要時間建立相關技術知識背景。",
+      "why_it_matters": "光學技術（如 CPO、LPO）是解決未來 AI 算力傳輸瓶頸的關鍵，但其技術路線與材料名詞複雜，了解這些術語是理解光學供應鏈投資的前置作業。",
+      "history_note": "歷史貼文不足，且本貼文僅討論產業術語，未提出最新基本面觀點。",
+      "catalysts": [],
+      "risks": [],
+      "confidence": 95,
+      "ai_status": "ok",
+      "favorite_count": 26,
+      "retweet_count": 3
+    },
     {
       "tweet_id": "2081472671129501729",
       "is_reply": false,
