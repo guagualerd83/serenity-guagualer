@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T02:54:36.010338Z",
+  "generated_at": "2026-08-13T07:47:06.186514Z",
   "symbol": "POET",
   "summary": {
     "primary_count": 40,
@@ -1626,8 +1626,8 @@
           ],
           "confidence": 90,
           "ai_status": "ok",
-          "favorite_count": 568,
-          "retweet_count": 37
+          "favorite_count": 761,
+          "retweet_count": 52
         }
       ]
     }
@@ -4618,8 +4618,8 @@
             ],
             "confidence": 90,
             "ai_status": "ok",
-            "favorite_count": 568,
-            "retweet_count": 37
+            "favorite_count": 761,
+            "retweet_count": 52
           }
         ]
       }
@@ -4682,8 +4682,8 @@
       ],
       "confidence": 90,
       "ai_status": "ok",
-      "favorite_count": 568,
-      "retweet_count": 37
+      "favorite_count": 761,
+      "retweet_count": 52
     },
     {
       "tweet_id": "2085628664528662818",

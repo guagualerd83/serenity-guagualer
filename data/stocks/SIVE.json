@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-13T02:54:36.010338Z",
+  "generated_at": "2026-08-13T07:47:06.186514Z",
   "symbol": "SIVE",
   "summary": {
-    "primary_count": 228,
+    "primary_count": 229,
     "reply_count": 258,
     "first_mentioned_at": "2026-03-27T04:34:39Z",
-    "last_mentioned_at": "2026-08-12T07:54:08Z",
+    "last_mentioned_at": "2026-08-13T07:44:59Z",
     "latest_sentiment": "Bullish",
-    "latest_thesis": "光學財報驗證了 CW DFB 激光器瓶頸論點，Sivers ($SIVE) 身為少數西方 CPO 關鍵玩家，將顯著受益於供需失衡與架構轉型。",
-    "latest_change": "INSUFFICIENT_HISTORY",
+    "latest_thesis": "Sivers 與 SemiNex 合作開發 CPO 雷射元件，透過前期合作降低技術驗證風險，為 2027 年下半年的 CPO 量產時程做準備。",
+    "latest_change": "NEW",
     "sentiments": {
-      "Bullish": 148,
+      "Bullish": 149,
       "Neutral": 311,
       "Bearish": 26,
       "Mixed": 1
@@ -7362,7 +7362,7 @@
           ],
           "confidence": 90,
           "ai_status": "ok",
-          "favorite_count": 876,
+          "favorite_count": 883,
           "retweet_count": 73
         },
         {
@@ -7392,8 +7392,59 @@
           ],
           "confidence": 90,
           "ai_status": "ok",
-          "favorite_count": 1312,
-          "retweet_count": 94
+          "favorite_count": 1340,
+          "retweet_count": 95
+        }
+      ]
+    },
+    {
+      "date": "2026-08-13",
+      "created_at": "2026-08-13T07:44:59Z",
+      "sentiment": "Bullish",
+      "bull_count": 1,
+      "bear_count": 0,
+      "neutral_count": 0,
+      "mixed_count": 0,
+      "mention_count": 1,
+      "bull_weight": 2.55,
+      "bear_weight": 0.0,
+      "bull_share": 1.0,
+      "importance": 3,
+      "confidence": 85,
+      "thesis_change": "NEW",
+      "core_thesis": "Sivers 與 SemiNex 合作開發 CPO 雷射元件，透過前期合作降低技術驗證風險，為 2027 年下半年的 CPO 量產時程做準備。",
+      "url": "https://x.com/aleabitoreddit/status/2087807614172488131",
+      "tweet_id": "2087807614172488131",
+      "items": [
+        {
+          "tweet_id": "2087807614172488131",
+          "is_reply": false,
+          "kind": "post",
+          "reply_signal_eligible": false,
+          "created_at": "2026-08-13T07:44:59Z",
+          "text": "$SIVE announces a $3.4M development program with SemiNex!\n\nFor CPO, DFB laser arrays, and optical amplifiers. \n\nEarly production is targeted H2 2027 (in line with early scale up CPO timelines)\n\nSeemed weird to me at first given product overlap, since SemiNex is a much smaller Series B company... \n\nBut then I got reminded of a less explicit version of $SPCX + Cursor relationship (derisking by working together first). \n\nThere's probably something interesting Sivers found in this company.",
+          "url": "https://x.com/aleabitoreddit/status/2087807614172488131",
+          "sentiment": "Bullish",
+          "importance": 3,
+          "thesis_change": "NEW",
+          "summary_zh": "Sivers ($SIVE) 宣布與 SemiNex 展開價值 340 萬美元的開發計畫，聚焦於 CPO（共同封裝光學）、DFB 雷射陣列及光放大器技術。初期量產目標定於 2027 年下半年，這與 CPO 的早期規模化時程吻合。作者認為此合作模式類似 SPCX 與 Cursor 的風險化解（derisking）關係，暗示 Sivers 可能發現了 SemiNex 的獨特價值。",
+          "plain_zh": "Sivers 找了一家規模較小的非上市公司 SemiNex 合作開發 CPO（共同封裝光學）用的雷射與光學元件。雖然兩家公司產品有所重疊，但作者認為這是一種透過先合作來降低技術與營運風險（derisking）的策略，類似之前 SPCX 與 Cursor 的合作模式。",
+          "core_thesis": "Sivers 與 SemiNex 合作開發 CPO 雷射元件，透過前期合作降低技術驗證風險，為 2027 年下半年的 CPO 量產時程做準備。",
+          "why_it_matters": "CPO 是下一代 AI 與高頻寬網路的關鍵技術，這項價值 340 萬美元的合作計畫確立了 Sivers 在 CPO 供應鏈的佈局時程（2027 年 H2），並展現其透過戰略合作化解技術風險的意圖。",
+          "history_note": "歷史資料庫中無先前貼文，無法進行歷史觀點比較。",
+          "catalysts": [
+            "Sivers 與 SemiNex 的 340 萬美元開發計畫推進",
+            "預計 2027 年下半年進入初期量產階段"
+          ],
+          "risks": [
+            "兩家公司產品存在重疊（product overlap）可能帶來內部競爭或資源分歧",
+            "SemiNex 為較小型的 B 輪融資公司，團隊或財務規模可能存在執行風險",
+            "CPO 技術量產時程（2027 H2）尚久，技術變數與時程延遲風險高"
+          ],
+          "confidence": 85,
+          "ai_status": "ok",
+          "favorite_count": 50,
+          "retweet_count": 2
         }
       ]
     }
@@ -7793,6 +7844,10 @@
         {
           "date": "2026-08-11",
           "close": 41.6
+        },
+        {
+          "date": "2026-08-13",
+          "close": 42.26
         }
       ]
     },
@@ -7831,10 +7886,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 319.57,
-            "score_return": 319.57,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": 326.22,
+            "score_return": 326.22,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": true
           }
         },
@@ -7878,10 +7933,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 331.31,
-            "score_return": 331.31,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": 338.15,
+            "score_return": 338.15,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": true
           }
         },
@@ -7925,10 +7980,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 100.19,
-            "score_return": 100.19,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": 103.37,
+            "score_return": 103.37,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": true
           }
         },
@@ -7972,10 +8027,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 82.46,
-            "score_return": 82.46,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": 85.35,
+            "score_return": 85.35,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": true
           }
         },
@@ -8019,10 +8074,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 33.59,
-            "score_return": 33.59,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": 35.71,
+            "score_return": 35.71,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": true
           }
         },
@@ -8066,10 +8121,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 33.59,
-            "score_return": 33.59,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": 35.71,
+            "score_return": 35.71,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": true
           }
         },
@@ -8113,10 +8168,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": 21.64,
-            "score_return": -21.64,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": 23.57,
+            "score_return": -23.57,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": false
           }
         },
@@ -8160,10 +8215,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 38.67,
-            "score_return": 38.67,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": 40.87,
+            "score_return": 40.87,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": true
           }
         },
@@ -8207,10 +8262,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": 30.16,
-            "score_return": -30.16,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": 32.23,
+            "score_return": -32.23,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": false
           }
         },
@@ -8254,10 +8309,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 40.64,
-            "score_return": 40.64,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": 42.87,
+            "score_return": 42.87,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": true
           }
         },
@@ -8301,10 +8356,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 40.64,
-            "score_return": 40.64,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": 42.87,
+            "score_return": 42.87,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": true
           }
         },
@@ -8348,10 +8403,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 40.64,
-            "score_return": 40.64,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": 42.87,
+            "score_return": 42.87,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": true
           }
         },
@@ -8395,10 +8450,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 30.33,
-            "score_return": 30.33,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": 32.39,
+            "score_return": 32.39,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": true
           }
         },
@@ -8442,10 +8497,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 4.31,
-            "score_return": 4.31,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": 5.97,
+            "score_return": 5.97,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": true
           }
         },
@@ -8489,10 +8544,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 9.47,
-            "score_return": 9.47,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": 11.21,
+            "score_return": 11.21,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": true
           }
         },
@@ -8536,10 +8591,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -25.65,
-            "score_return": -25.65,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -24.47,
+            "score_return": -24.47,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": false
           }
         },
@@ -8583,10 +8638,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -25.65,
-            "score_return": -25.65,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -24.47,
+            "score_return": -24.47,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": false
           }
         },
@@ -8630,10 +8685,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -25.65,
-            "score_return": -25.65,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -24.47,
+            "score_return": -24.47,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": false
           }
         },
@@ -8677,10 +8732,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -23.95,
-            "score_return": -23.95,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -22.74,
+            "score_return": -22.74,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": false
           }
         },
@@ -8724,10 +8779,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -13.8,
-            "score_return": -13.8,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -12.43,
+            "score_return": -12.43,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": false
           }
         },
@@ -8771,10 +8826,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -26.57,
-            "score_return": -26.57,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -25.4,
+            "score_return": -25.4,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": false
           }
         },
@@ -8818,10 +8873,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -25.31,
-            "score_return": -25.31,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -24.13,
+            "score_return": -24.13,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": false
           }
         },
@@ -8865,10 +8920,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -25.31,
-            "score_return": -25.31,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -24.13,
+            "score_return": -24.13,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": false
           }
         },
@@ -8912,10 +8967,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -13.51,
-            "score_return": 13.51,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -12.14,
+            "score_return": 12.14,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": true
           }
         },
@@ -8959,10 +9014,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -22.96,
-            "score_return": -22.96,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -21.74,
+            "score_return": -21.74,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": false
           }
         },
@@ -9006,10 +9061,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -42.94,
-            "score_return": -42.94,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -42.03,
+            "score_return": -42.03,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": false
           }
         },
@@ -9053,10 +9108,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -51.37,
-            "score_return": 51.37,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -50.6,
+            "score_return": 50.6,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": true
           }
         },
@@ -9100,10 +9155,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -51.37,
-            "score_return": -51.37,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -50.6,
+            "score_return": -50.6,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": false
           }
         },
@@ -9147,10 +9202,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -51.37,
-            "score_return": -51.37,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -50.6,
+            "score_return": -50.6,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": false
           }
         },
@@ -9194,10 +9249,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -43.32,
-            "score_return": -43.32,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -42.43,
+            "score_return": -42.43,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": false
           }
         },
@@ -9241,10 +9296,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -40.74,
-            "score_return": -40.74,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -39.8,
+            "score_return": -39.8,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": false
           }
         },
@@ -9288,10 +9343,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -39.67,
-            "score_return": -39.67,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -38.71,
+            "score_return": -38.71,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": false
           }
         },
@@ -9335,10 +9390,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -31.64,
-            "score_return": -31.64,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -30.55,
+            "score_return": -30.55,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": false
           }
         },
@@ -9382,10 +9437,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -57.31,
-            "score_return": 57.31,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -56.63,
+            "score_return": 56.63,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": true
           }
         },
@@ -9429,10 +9484,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -55.03,
-            "score_return": -55.03,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -54.31,
+            "score_return": -54.31,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": false
           }
         },
@@ -9476,10 +9531,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -52.05,
-            "score_return": 52.05,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -51.29,
+            "score_return": 51.29,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": true
           }
         },
@@ -9523,10 +9578,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -53.47,
-            "score_return": -53.47,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -52.73,
+            "score_return": -52.73,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": false
           }
         },
@@ -9570,10 +9625,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -45.62,
-            "score_return": -45.62,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -44.76,
+            "score_return": -44.76,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": false
           }
         },
@@ -9617,10 +9672,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -47.84,
-            "score_return": 47.84,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -47.01,
+            "score_return": 47.01,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": true
           }
         },
@@ -9664,10 +9719,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -55.12,
-            "score_return": -55.12,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -54.41,
+            "score_return": -54.41,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": false
           }
         },
@@ -9711,10 +9766,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -51.82,
-            "score_return": -51.82,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -51.06,
+            "score_return": -51.06,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": false
           }
         },
@@ -9758,10 +9813,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -58.06,
-            "score_return": -58.06,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -57.4,
+            "score_return": -57.4,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": false
           }
         },
@@ -9805,10 +9860,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -58.06,
-            "score_return": -58.06,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -57.4,
+            "score_return": -57.4,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": false
           }
         },
@@ -9852,10 +9907,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -58.06,
-            "score_return": -58.06,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -57.4,
+            "score_return": -57.4,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": false
           }
         },
@@ -9899,10 +9954,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -52.48,
-            "score_return": 52.48,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -51.73,
+            "score_return": 51.73,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": true
           }
         },
@@ -9946,10 +10001,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -51.0,
-            "score_return": -51.0,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -50.22,
+            "score_return": -50.22,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": false
           }
         },
@@ -9993,10 +10048,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -37.91,
-            "score_return": -37.91,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -36.93,
+            "score_return": -36.93,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": false
           }
         },
@@ -10040,10 +10095,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -34.33,
-            "score_return": -34.33,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -33.29,
+            "score_return": -33.29,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": false
           }
         },
@@ -10087,10 +10142,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -36.54,
-            "score_return": -36.54,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -35.53,
+            "score_return": -35.53,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": false
           }
         },
@@ -10134,10 +10189,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -34.13,
-            "score_return": -34.13,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -33.08,
+            "score_return": -33.08,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": false
           }
         },
@@ -10181,10 +10236,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -31.52,
-            "score_return": -31.52,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -30.44,
+            "score_return": -30.44,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": false
           }
         },
@@ -10228,10 +10283,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -15.1,
-            "score_return": -15.1,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -13.76,
+            "score_return": -13.76,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": false
           }
         },
@@ -10275,10 +10330,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -10.92,
-            "score_return": -10.92,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -9.51,
+            "score_return": -9.51,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": false
           }
         },
@@ -10322,10 +10377,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": 0.87,
-            "score_return": 0.87,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": 2.47,
+            "score_return": 2.47,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": true
           }
         },
@@ -10369,10 +10424,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 5.69,
-            "score_return": 5.69,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": 7.37,
+            "score_return": 7.37,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": true
           }
         },
@@ -10416,11 +10471,11 @@
             "hit": true
           },
           "now": {
-            "raw_return": -0.48,
-            "score_return": -0.48,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
-            "hit": false
+            "raw_return": 1.1,
+            "score_return": 1.1,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
+            "hit": true
           }
         },
         "mention_count": 1,
@@ -10463,10 +10518,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -12.01,
-            "score_return": -12.01,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -10.62,
+            "score_return": -10.62,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": false
           }
         },
@@ -10503,17 +10558,17 @@
             "hit": false
           },
           "30d": {
-            "raw_return": null,
-            "score_return": null,
-            "exit_date": null,
-            "exit_price": null,
-            "hit": null
+            "raw_return": -1.26,
+            "score_return": -1.26,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
+            "hit": false
           },
           "now": {
-            "raw_return": -2.8,
-            "score_return": -2.8,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -1.26,
+            "score_return": -1.26,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": false
           }
         },
@@ -10557,10 +10612,10 @@
             "hit": null
           },
           "now": {
-            "raw_return": 16.92,
-            "score_return": 16.92,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": 18.77,
+            "score_return": 18.77,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": true
           }
         },
@@ -10604,10 +10659,10 @@
             "hit": null
           },
           "now": {
-            "raw_return": 24.25,
-            "score_return": 24.25,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": 26.22,
+            "score_return": 26.22,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": true
           }
         },
@@ -10651,10 +10706,10 @@
             "hit": null
           },
           "now": {
-            "raw_return": 1.51,
-            "score_return": 1.51,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": 3.12,
+            "score_return": 3.12,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": true
           }
         },
@@ -10698,10 +10753,10 @@
             "hit": null
           },
           "now": {
-            "raw_return": 46.17,
-            "score_return": 46.17,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": 48.49,
+            "score_return": 48.49,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": true
           }
         },
@@ -10745,10 +10800,10 @@
             "hit": null
           },
           "now": {
-            "raw_return": 35.33,
-            "score_return": 35.33,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": 37.48,
+            "score_return": 37.48,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": true
           }
         },
@@ -10792,10 +10847,104 @@
             "hit": null
           },
           "now": {
-            "raw_return": -5.11,
-            "score_return": -5.11,
-            "exit_date": "2026-08-11",
-            "exit_price": 41.6,
+            "raw_return": -3.6,
+            "score_return": -3.6,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
+            "hit": false
+          }
+        },
+        "mention_count": 1,
+        "bull_count": 1,
+        "bear_count": 0,
+        "neutral_count": 0,
+        "bull_share": 1.0
+      },
+      {
+        "date": "2026-08-12",
+        "created_at": "2026-08-12T07:54:08Z",
+        "url": "https://x.com/aleabitoreddit/status/2087447527595692180",
+        "sentiment": "Bullish",
+        "confidence": 90,
+        "importance": 5,
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "光學財報驗證了 CW DFB 激光器瓶頸論點，Sivers ($SIVE) 身為少數西方 CPO 關鍵玩家，將顯著受益於供需失衡與架構轉型。",
+        "entry_date": "2026-08-13",
+        "entry_price": 42.26,
+        "returns": {
+          "1d": {
+            "raw_return": 0.0,
+            "score_return": 0.0,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
+            "hit": false
+          },
+          "7d": {
+            "raw_return": null,
+            "score_return": null,
+            "exit_date": null,
+            "exit_price": null,
+            "hit": null
+          },
+          "30d": {
+            "raw_return": null,
+            "score_return": null,
+            "exit_date": null,
+            "exit_price": null,
+            "hit": null
+          },
+          "now": {
+            "raw_return": 0.0,
+            "score_return": 0.0,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
+            "hit": false
+          }
+        },
+        "mention_count": 2,
+        "bull_count": 2,
+        "bear_count": 0,
+        "neutral_count": 0,
+        "bull_share": 1.0
+      },
+      {
+        "date": "2026-08-13",
+        "created_at": "2026-08-13T07:44:59Z",
+        "url": "https://x.com/aleabitoreddit/status/2087807614172488131",
+        "sentiment": "Bullish",
+        "confidence": 85,
+        "importance": 3,
+        "thesis_change": "NEW",
+        "core_thesis": "Sivers 與 SemiNex 合作開發 CPO 雷射元件，透過前期合作降低技術驗證風險，為 2027 年下半年的 CPO 量產時程做準備。",
+        "entry_date": "2026-08-13",
+        "entry_price": 42.26,
+        "returns": {
+          "1d": {
+            "raw_return": null,
+            "score_return": null,
+            "exit_date": null,
+            "exit_price": null,
+            "hit": null
+          },
+          "7d": {
+            "raw_return": null,
+            "score_return": null,
+            "exit_date": null,
+            "exit_price": null,
+            "hit": null
+          },
+          "30d": {
+            "raw_return": null,
+            "score_return": null,
+            "exit_date": null,
+            "exit_price": null,
+            "hit": null
+          },
+          "now": {
+            "raw_return": 0.0,
+            "score_return": 0.0,
+            "exit_date": "2026-08-13",
+            "exit_price": 42.26,
             "hit": false
           }
         },
@@ -18152,7 +18301,7 @@
             ],
             "confidence": 90,
             "ai_status": "ok",
-            "favorite_count": 876,
+            "favorite_count": 883,
             "retweet_count": 73
           },
           {
@@ -18182,20 +18331,71 @@
             ],
             "confidence": 90,
             "ai_status": "ok",
-            "favorite_count": 1312,
-            "retweet_count": 94
+            "favorite_count": 1340,
+            "retweet_count": 95
+          }
+        ]
+      },
+      {
+        "date": "2026-08-13",
+        "created_at": "2026-08-13T07:44:59Z",
+        "sentiment": "Bullish",
+        "bull_count": 1,
+        "bear_count": 0,
+        "neutral_count": 0,
+        "mixed_count": 0,
+        "mention_count": 1,
+        "bull_weight": 2.55,
+        "bear_weight": 0.0,
+        "bull_share": 1.0,
+        "importance": 3,
+        "confidence": 85,
+        "thesis_change": "NEW",
+        "core_thesis": "Sivers 與 SemiNex 合作開發 CPO 雷射元件，透過前期合作降低技術驗證風險，為 2027 年下半年的 CPO 量產時程做準備。",
+        "url": "https://x.com/aleabitoreddit/status/2087807614172488131",
+        "tweet_id": "2087807614172488131",
+        "items": [
+          {
+            "tweet_id": "2087807614172488131",
+            "is_reply": false,
+            "kind": "post",
+            "reply_signal_eligible": false,
+            "created_at": "2026-08-13T07:44:59Z",
+            "text": "$SIVE announces a $3.4M development program with SemiNex!\n\nFor CPO, DFB laser arrays, and optical amplifiers. \n\nEarly production is targeted H2 2027 (in line with early scale up CPO timelines)\n\nSeemed weird to me at first given product overlap, since SemiNex is a much smaller Series B company... \n\nBut then I got reminded of a less explicit version of $SPCX + Cursor relationship (derisking by working together first). \n\nThere's probably something interesting Sivers found in this company.",
+            "url": "https://x.com/aleabitoreddit/status/2087807614172488131",
+            "sentiment": "Bullish",
+            "importance": 3,
+            "thesis_change": "NEW",
+            "summary_zh": "Sivers ($SIVE) 宣布與 SemiNex 展開價值 340 萬美元的開發計畫，聚焦於 CPO（共同封裝光學）、DFB 雷射陣列及光放大器技術。初期量產目標定於 2027 年下半年，這與 CPO 的早期規模化時程吻合。作者認為此合作模式類似 SPCX 與 Cursor 的風險化解（derisking）關係，暗示 Sivers 可能發現了 SemiNex 的獨特價值。",
+            "plain_zh": "Sivers 找了一家規模較小的非上市公司 SemiNex 合作開發 CPO（共同封裝光學）用的雷射與光學元件。雖然兩家公司產品有所重疊，但作者認為這是一種透過先合作來降低技術與營運風險（derisking）的策略，類似之前 SPCX 與 Cursor 的合作模式。",
+            "core_thesis": "Sivers 與 SemiNex 合作開發 CPO 雷射元件，透過前期合作降低技術驗證風險，為 2027 年下半年的 CPO 量產時程做準備。",
+            "why_it_matters": "CPO 是下一代 AI 與高頻寬網路的關鍵技術，這項價值 340 萬美元的合作計畫確立了 Sivers 在 CPO 供應鏈的佈局時程（2027 年 H2），並展現其透過戰略合作化解技術風險的意圖。",
+            "history_note": "歷史資料庫中無先前貼文，無法進行歷史觀點比較。",
+            "catalysts": [
+              "Sivers 與 SemiNex 的 340 萬美元開發計畫推進",
+              "預計 2027 年下半年進入初期量產階段"
+            ],
+            "risks": [
+              "兩家公司產品存在重疊（product overlap）可能帶來內部競爭或資源分歧",
+              "SemiNex 為較小型的 B 輪融資公司，團隊或財務規模可能存在執行風險",
+              "CPO 技術量產時程（2027 H2）尚久，技術變數與時程延遲風險高"
+            ],
+            "confidence": 85,
+            "ai_status": "ok",
+            "favorite_count": 50,
+            "retweet_count": 2
           }
         ]
       }
     ],
     "excluded_days": 31,
     "summary": {
-      "signals": 64,
+      "signals": 66,
       "horizons": {
         "1d": {
-          "sample": 64,
-          "avg_score_return": 0.29,
-          "hit_rate": 32.8
+          "sample": 65,
+          "avg_score_return": 0.28,
+          "hit_rate": 32.3
         },
         "7d": {
           "sample": 63,
@@ -18203,14 +18403,14 @@
           "hit_rate": 47.6
         },
         "30d": {
-          "sample": 57,
-          "avg_score_return": 27.52,
-          "hit_rate": 54.4
+          "sample": 58,
+          "avg_score_return": 27.02,
+          "hit_rate": 53.4
         },
         "now": {
-          "sample": 64,
-          "avg_score_return": 3.69,
-          "hit_rate": 40.6
+          "sample": 66,
+          "avg_score_return": 4.78,
+          "hit_rate": 40.9
         }
       }
     },
@@ -18219,6 +18419,36 @@
     "include_replies": false
   },
   "primary_posts": [
+    {
+      "tweet_id": "2087807614172488131",
+      "is_reply": false,
+      "kind": "post",
+      "reply_signal_eligible": false,
+      "created_at": "2026-08-13T07:44:59Z",
+      "text": "$SIVE announces a $3.4M development program with SemiNex!\n\nFor CPO, DFB laser arrays, and optical amplifiers. \n\nEarly production is targeted H2 2027 (in line with early scale up CPO timelines)\n\nSeemed weird to me at first given product overlap, since SemiNex is a much smaller Series B company... \n\nBut then I got reminded of a less explicit version of $SPCX + Cursor relationship (derisking by working together first). \n\nThere's probably something interesting Sivers found in this company.",
+      "url": "https://x.com/aleabitoreddit/status/2087807614172488131",
+      "sentiment": "Bullish",
+      "importance": 3,
+      "thesis_change": "NEW",
+      "summary_zh": "Sivers ($SIVE) 宣布與 SemiNex 展開價值 340 萬美元的開發計畫，聚焦於 CPO（共同封裝光學）、DFB 雷射陣列及光放大器技術。初期量產目標定於 2027 年下半年，這與 CPO 的早期規模化時程吻合。作者認為此合作模式類似 SPCX 與 Cursor 的風險化解（derisking）關係，暗示 Sivers 可能發現了 SemiNex 的獨特價值。",
+      "plain_zh": "Sivers 找了一家規模較小的非上市公司 SemiNex 合作開發 CPO（共同封裝光學）用的雷射與光學元件。雖然兩家公司產品有所重疊，但作者認為這是一種透過先合作來降低技術與營運風險（derisking）的策略，類似之前 SPCX 與 Cursor 的合作模式。",
+      "core_thesis": "Sivers 與 SemiNex 合作開發 CPO 雷射元件，透過前期合作降低技術驗證風險，為 2027 年下半年的 CPO 量產時程做準備。",
+      "why_it_matters": "CPO 是下一代 AI 與高頻寬網路的關鍵技術，這項價值 340 萬美元的合作計畫確立了 Sivers 在 CPO 供應鏈的佈局時程（2027 年 H2），並展現其透過戰略合作化解技術風險的意圖。",
+      "history_note": "歷史資料庫中無先前貼文，無法進行歷史觀點比較。",
+      "catalysts": [
+        "Sivers 與 SemiNex 的 340 萬美元開發計畫推進",
+        "預計 2027 年下半年進入初期量產階段"
+      ],
+      "risks": [
+        "兩家公司產品存在重疊（product overlap）可能帶來內部競爭或資源分歧",
+        "SemiNex 為較小型的 B 輪融資公司，團隊或財務規模可能存在執行風險",
+        "CPO 技術量產時程（2027 H2）尚久，技術變數與時程延遲風險高"
+      ],
+      "confidence": 85,
+      "ai_status": "ok",
+      "favorite_count": 50,
+      "retweet_count": 2
+    },
     {
       "tweet_id": "2087447527595692180",
       "is_reply": false,
@@ -18246,8 +18476,8 @@
       ],
       "confidence": 90,
       "ai_status": "ok",
-      "favorite_count": 1312,
-      "retweet_count": 94
+      "favorite_count": 1340,
+      "retweet_count": 95
     },
     {
       "tweet_id": "2087329770879197549",
@@ -18277,7 +18507,7 @@
       ],
       "confidence": 90,
       "ai_status": "ok",
-      "favorite_count": 876,
+      "favorite_count": 883,
       "retweet_count": 73
     },
     {
@@ -20155,29 +20385,6 @@
       "ai_status": "",
       "favorite_count": 1443,
       "retweet_count": 82
-    },
-    {
-      "tweet_id": "2062433114933334487",
-      "is_reply": false,
-      "kind": "post",
-      "reply_signal_eligible": false,
-      "created_at": "2026-06-04T07:15:47Z",
-      "text": "$SIVE looks like both a chokepoint and a bottleneck for CPO next year. \n\nKeep seeing information published from nontechnical people who miss any nuances.\n \nHere’s the reason why:\n\n1. CW lasers are bottlenecked signaled by $LITE earnings.\n\nLaser fabs are heavily allocated to EML likely from former $NVDA contracts.\n\n-> Sumitomo/Furukawa = bottleneck \n-> Win Semi = bottleneck\n\n$SIVE does fab-lite, so are they a bottleneck? \n\nYes, $SIVE sits in the laser bottleneck since control output supply of CW lasers from Win Semi and other fabs from allocation way early on (CEO stated they working with more capacity from other players as well).\n\nPerfect example is Kioxia/Sandisk. $SNDK controls NAND output, so they’re a bottleneck because they control final pricing. \n\nDemand exceeding supply from Ayar, Jabil, other pluggable vendors + Nvidia NVLink CPO ecosystem… final laser supply owned by $SIVE makes Sivers a bottleneck.\n\n$SIVE is also likely primary/sole source for Jabil, Gen-1 Ayar, $MRVL Celestial, and other hyperscaler asic/merchant CPO routes. So no way to get around it (can’t hot-swap single channel cw lasers with Sivers)\n\n 2. $SIVE is a chokepoint over CPO.\n\n$NVDA use $COHR, $LITE (which likely sources external cw capacity from Japanese competitors)\n\n$AVGO is likely vertically integrated as well.\n\nHowever: the entire ecosystem around it from ASIC programs (Marvell, AlChip, etc) and merchant programs (Ayar, Lightmatter, Lightelligence)\n\nAre all likely designed around $SIVE. \n\nAyar for example, likely tried to multi-source with $MTSI / $LITE back in 2022 but their lasers probably couldn’t match the level of Sivers specification with arrays (removed Lumentum / Macom from their supply chain site recently)\n\nIf there’s no alternative at least for the initial generations (obviously they’re working to multi-source). That makes $SIVE a structural chokepoint to go through for lasers.\n\nEven if you look at the 1.6T LRO $JBL designed, they achieved a “drastic moat” with performance built around $SIVE likely sole source. \n\n$SIVE is also the foundry level reference laser design for $GFS, which your hyperscalers use like $AMD (likely using Sivers + maybe Ayar for gen1):\n\nIf every major player, who hasn’t achieved vertical integration (Nvidia/Broadcom) is using Sivers for CPO…\n\nThat makes them a chokepoint. \n\nJust look at the entire CPO $NVDA NVLink ecosystem partners: every single one are all likely using Sivers. And they all use $GFS as well (where Sivers is default reference).\n\nSo $SIVE is both a chokepoint and bottleneck when CPO really scales up H2 2027, over one of the biggest architectural shifts of all time (near $0 -> $81B or $91B TAM in the next 1 1/2 years from GS research note)\n\nThis is why I say $SIVE looks like it could be the next $75B $LITE over the next couple years. \n\nAll of this should play out next year. \n\nAnd it’s still trading less than a company with $50M in purchase agreements that buys Sivers lasers to repackage them.",
-      "url": "https://x.com/aleabitoreddit/status/2062433114933334487",
-      "sentiment": "Bearish",
-      "importance": 4,
-      "thesis_change": "MENTION",
-      "summary_zh": "",
-      "plain_zh": "",
-      "core_thesis": "",
-      "why_it_matters": "",
-      "history_note": "",
-      "catalysts": [],
-      "risks": [],
-      "confidence": 0,
-      "ai_status": "",
-      "favorite_count": 1842,
-      "retweet_count": 165
     }
   ],
   "reply_context": [

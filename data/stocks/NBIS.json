@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T02:54:36.010338Z",
+  "generated_at": "2026-08-13T07:47:06.186514Z",
   "symbol": "NBIS",
   "summary": {
     "primary_count": 61,
@@ -2555,8 +2555,8 @@
           ],
           "confidence": 95,
           "ai_status": "ok",
-          "favorite_count": 2226,
-          "retweet_count": 174
+          "favorite_count": 2271,
+          "retweet_count": 178
         }
       ]
     }
@@ -6985,8 +6985,8 @@
             ],
             "confidence": 95,
             "ai_status": "ok",
-            "favorite_count": 2226,
-            "retweet_count": 174
+            "favorite_count": 2271,
+            "retweet_count": 178
           }
         ]
       }
@@ -7049,8 +7049,8 @@
       ],
       "confidence": 95,
       "ai_status": "ok",
-      "favorite_count": 2226,
-      "retweet_count": 174
+      "favorite_count": 2271,
+      "retweet_count": 178
     },
     {
       "tweet_id": "2086634510935118161",

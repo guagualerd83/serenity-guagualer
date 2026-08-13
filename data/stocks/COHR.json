@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T02:54:36.010338Z",
+  "generated_at": "2026-08-13T07:47:06.186514Z",
   "symbol": "COHR",
   "summary": {
     "primary_count": 52,
@@ -2043,7 +2043,7 @@
           ],
           "confidence": 95,
           "ai_status": "ok",
-          "favorite_count": 1435,
+          "favorite_count": 1436,
           "retweet_count": 96
         }
       ]
@@ -2094,8 +2094,8 @@
           ],
           "confidence": 90,
           "ai_status": "ok",
-          "favorite_count": 1312,
-          "retweet_count": 94
+          "favorite_count": 1340,
+          "retweet_count": 95
         },
         {
           "tweet_id": "2087675367595380783",
@@ -2124,8 +2124,8 @@
           ],
           "confidence": 90,
           "ai_status": "ok",
-          "favorite_count": 568,
-          "retweet_count": 37
+          "favorite_count": 761,
+          "retweet_count": 52
         }
       ]
     }
@@ -5895,7 +5895,7 @@
             ],
             "confidence": 95,
             "ai_status": "ok",
-            "favorite_count": 1435,
+            "favorite_count": 1436,
             "retweet_count": 96
           }
         ]
@@ -5946,8 +5946,8 @@
             ],
             "confidence": 90,
             "ai_status": "ok",
-            "favorite_count": 1312,
-            "retweet_count": 94
+            "favorite_count": 1340,
+            "retweet_count": 95
           },
           {
             "tweet_id": "2087675367595380783",
@@ -5976,8 +5976,8 @@
             ],
             "confidence": 90,
             "ai_status": "ok",
-            "favorite_count": 568,
-            "retweet_count": 37
+            "favorite_count": 761,
+            "retweet_count": 52
           }
         ]
       }
@@ -6040,8 +6040,8 @@
       ],
       "confidence": 90,
       "ai_status": "ok",
-      "favorite_count": 568,
-      "retweet_count": 37
+      "favorite_count": 761,
+      "retweet_count": 52
     },
     {
       "tweet_id": "2087447527595692180",
@@ -6070,8 +6070,8 @@
       ],
       "confidence": 90,
       "ai_status": "ok",
-      "favorite_count": 1312,
-      "retweet_count": 94
+      "favorite_count": 1340,
+      "retweet_count": 95
     },
     {
       "tweet_id": "2087271842696593764",
@@ -6100,7 +6100,7 @@
       ],
       "confidence": 95,
       "ai_status": "ok",
-      "favorite_count": 1435,
+      "favorite_count": 1436,
       "retweet_count": 96
     },
     {

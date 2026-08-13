@@ -2,7 +2,7 @@
   "site": {
     "title": "Serenity Research",
     "subtitle": "Public research dashboard based on Serenity's public X posts.",
-    "generated_at": "2026-08-13T02:54:36.010338Z",
+    "generated_at": "2026-08-13T07:47:06.186514Z",
     "disclaimer": "Public-post aggregation for research only. Not investment advice."
   },
   "periods": {
@@ -11,21 +11,21 @@
       "label": "每日",
       "days": 1,
       "start_at": "2026-08-12T16:00:00Z",
-      "generated_at": "2026-08-13T02:54:35.888702Z",
+      "generated_at": "2026-08-13T07:47:06.074291Z",
       "earliest_available_at": "2025-11-17T16:12:21Z",
       "traversed_until": "2026-04-13T02:42:25Z",
       "coverage_days": 122,
       "coverage_complete": true,
-      "tweet_count": 2,
-      "primary_post_count": 2,
+      "tweet_count": 3,
+      "primary_post_count": 3,
       "reply_context_count": 0,
-      "all_collected_count": 2,
-      "symbol_count": 7,
+      "all_collected_count": 3,
+      "symbol_count": 9,
       "high_importance_count": 1,
-      "ai_analyzed_count": 2,
+      "ai_analyzed_count": 3,
       "sentiments": {
-        "Neutral": 1,
-        "Bullish": 1
+        "Bullish": 2,
+        "Neutral": 1
       },
       "symbols": [
         {
@@ -99,6 +99,34 @@
           }
         },
         {
+          "symbol": "SIVE",
+          "mentions": 1,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 1,
+          "max_importance": 3,
+          "latest_at": "2026-08-13T07:44:59Z",
+          "latest_thesis": "Sivers 與 SemiNex 合作開發 CPO 雷射元件，透過前期合作降低技術驗證風險，為 2027 年下半年的 CPO 量產時程做準備。",
+          "latest_summary_zh": "Sivers ($SIVE) 宣布與 SemiNex 展開價值 340 萬美元的開發計畫，聚焦於 CPO（共同封裝光學）、DFB 雷射陣列及光放大器技術。初期量產目標定於 2027 年下半年，這與 CPO 的早期規模化時程吻合。作者認為此合作模式類似 SPCX 與 Cursor 的風險化解（derisking）關係，暗示 Sivers 可能發現了 SemiNex 的獨特價值。",
+          "latest_change": "NEW",
+          "sentiments": {
+            "Bullish": 1
+          }
+        },
+        {
+          "symbol": "SPCX",
+          "mentions": 1,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 1,
+          "max_importance": 3,
+          "latest_at": "2026-08-13T07:44:59Z",
+          "latest_thesis": "Sivers 與 SemiNex 合作開發 CPO 雷射元件，透過前期合作降低技術驗證風險，為 2027 年下半年的 CPO 量產時程做準備。",
+          "latest_summary_zh": "Sivers ($SIVE) 宣布與 SemiNex 展開價值 340 萬美元的開發計畫，聚焦於 CPO（共同封裝光學）、DFB 雷射陣列及光放大器技術。初期量產目標定於 2027 年下半年，這與 CPO 的早期規模化時程吻合。作者認為此合作模式類似 SPCX 與 Cursor 的風險化解（derisking）關係，暗示 Sivers 可能發現了 SemiNex 的獨特價值。",
+          "latest_change": "NEW",
+          "sentiments": {
+            "Bullish": 1
+          }
+        },
+        {
           "symbol": "IQE",
           "mentions": 1,
           "dominant_sentiment": "Neutral",
@@ -132,22 +160,22 @@
       "period": "weekly",
       "label": "每週",
       "days": 7,
-      "start_at": "2026-08-06T02:54:35.888702Z",
-      "generated_at": "2026-08-13T02:54:35.901702Z",
+      "start_at": "2026-08-06T07:47:06.074291Z",
+      "generated_at": "2026-08-13T07:47:06.086291Z",
       "earliest_available_at": "2025-11-17T16:12:21Z",
       "traversed_until": "2026-04-13T02:42:25Z",
       "coverage_days": 122,
       "coverage_complete": true,
       "tweet_count": 36,
       "primary_post_count": 36,
-      "reply_context_count": 17,
-      "all_collected_count": 53,
-      "symbol_count": 38,
+      "reply_context_count": 16,
+      "all_collected_count": 52,
+      "symbol_count": 37,
       "high_importance_count": 21,
-      "ai_analyzed_count": 16,
+      "ai_analyzed_count": 17,
       "sentiments": {
-        "Neutral": 16,
-        "Bullish": 18,
+        "Bullish": 19,
+        "Neutral": 15,
         "Bearish": 2
       },
       "symbols": [
@@ -186,16 +214,16 @@
         {
           "symbol": "SIVE",
           "mentions": 10,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 3,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 4,
           "max_importance": 5,
-          "latest_at": "2026-08-12T07:54:08Z",
-          "latest_thesis": "光學財報驗證了 CW DFB 激光器瓶頸論點，Sivers ($SIVE) 身為少數西方 CPO 關鍵玩家，將顯著受益於供需失衡與架構轉型。",
-          "latest_summary_zh": "作者分析多家光電大廠（LITE、AAOI、MTSI）最新財報，驗證了連續波（CW）DFB 激光器與磷化銦（InP）產能嚴重短缺的論點。中國競爭對手技術落後數年，使具備量產能力的公司擁有定價權與高護城河。這有利於作為少數第一代 CPO 西方玩家之一且市值僅約 15 億美元的 Sivers ($SIVE)。",
-          "latest_change": "INSUFFICIENT_HISTORY",
+          "latest_at": "2026-08-13T07:44:59Z",
+          "latest_thesis": "Sivers 與 SemiNex 合作開發 CPO 雷射元件，透過前期合作降低技術驗證風險，為 2027 年下半年的 CPO 量產時程做準備。",
+          "latest_summary_zh": "Sivers ($SIVE) 宣布與 SemiNex 展開價值 340 萬美元的開發計畫，聚焦於 CPO（共同封裝光學）、DFB 雷射陣列及光放大器技術。初期量產目標定於 2027 年下半年，這與 CPO 的早期規模化時程吻合。作者認為此合作模式類似 SPCX 與 Cursor 的風險化解（derisking）關係，暗示 Sivers 可能發現了 SemiNex 的獨特價值。",
+          "latest_change": "NEW",
           "sentiments": {
-            "Bullish": 4,
-            "Neutral": 5,
+            "Bullish": 5,
+            "Neutral": 4,
             "Bearish": 1
           }
         },
@@ -306,6 +334,20 @@
           }
         },
         {
+          "symbol": "SPCX",
+          "mentions": 3,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 3,
+          "max_importance": 5,
+          "latest_at": "2026-08-13T07:44:59Z",
+          "latest_thesis": "Sivers 與 SemiNex 合作開發 CPO 雷射元件，透過前期合作降低技術驗證風險，為 2027 年下半年的 CPO 量產時程做準備。",
+          "latest_summary_zh": "Sivers ($SIVE) 宣布與 SemiNex 展開價值 340 萬美元的開發計畫，聚焦於 CPO（共同封裝光學）、DFB 雷射陣列及光放大器技術。初期量產目標定於 2027 年下半年，這與 CPO 的早期規模化時程吻合。作者認為此合作模式類似 SPCX 與 Cursor 的風險化解（derisking）關係，暗示 Sivers 可能發現了 SemiNex 的獨特價值。",
+          "latest_change": "NEW",
+          "sentiments": {
+            "Bullish": 3
+          }
+        },
+        {
           "symbol": "CCXI",
           "mentions": 3,
           "dominant_sentiment": "Neutral",
@@ -386,20 +428,6 @@
           "latest_at": "2026-08-12T07:54:08Z",
           "latest_thesis": "光學財報驗證了 CW DFB 激光器瓶頸論點，Sivers ($SIVE) 身為少數西方 CPO 關鍵玩家，將顯著受益於供需失衡與架構轉型。",
           "latest_summary_zh": "作者分析多家光電大廠（LITE、AAOI、MTSI）最新財報，驗證了連續波（CW）DFB 激光器與磷化銦（InP）產能嚴重短缺的論點。中國競爭對手技術落後數年，使具備量產能力的公司擁有定價權與高護城河。這有利於作為少數第一代 CPO 西方玩家之一且市值僅約 15 億美元的 Sivers ($SIVE)。",
-          "latest_change": "INSUFFICIENT_HISTORY",
-          "sentiments": {
-            "Bullish": 2
-          }
-        },
-        {
-          "symbol": "SPCX",
-          "mentions": 2,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 2,
-          "max_importance": 5,
-          "latest_at": "2026-08-11T20:51:04Z",
-          "latest_thesis": "SMCI 憑藉龐大的 AI 資料中心新訂單與超乎預期的 2027 財年營收指引，若毛利率能維持在 10-15%，目前市值具備強烈的重估（rerating）潛力。",
-          "latest_summary_zh": "SMCI 給出極為強勁的 2027 財年營收指引，預計達 650 億至 720 億美元，遠高於市場預期的 524 億美元。此次財報中更記錄了超過 600 億美元的新訂單，可能與先前宣布與 xAI 等合作建造資料中心有關。作者認為若 SMCI 能維持 10-15% 的毛利率，以目前約 200 億美元的市值來看，股價具備相當大的估值重估（rerating）空間。",
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
             "Bullish": 2
@@ -561,20 +589,6 @@
           }
         },
         {
-          "symbol": "AEVA",
-          "mentions": 1,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 0,
-          "max_importance": 3,
-          "latest_at": "2026-08-06T04:12:45Z",
-          "latest_thesis": "The unexpected thing of the week... Was $AEVA becoming a CPO/NPO optical source player.   For background: $SIVE is viewed as the high confidence CW DFB laser supplier to Aeva (w...",
-          "latest_summary_zh": "",
-          "latest_change": "MENTION",
-          "sentiments": {
-            "Neutral": 1
-          }
-        },
-        {
           "symbol": "ASTS",
           "mentions": 1,
           "dominant_sentiment": "Neutral",
@@ -706,22 +720,22 @@
       "period": "monthly",
       "label": "每月",
       "days": 28,
-      "start_at": "2026-07-16T02:54:35.901702Z",
-      "generated_at": "2026-08-13T02:54:35.918747Z",
+      "start_at": "2026-07-16T07:47:06.086291Z",
+      "generated_at": "2026-08-13T07:47:06.102477Z",
       "earliest_available_at": "2025-11-17T16:12:21Z",
       "traversed_until": "2026-04-13T02:42:25Z",
       "coverage_days": 122,
       "coverage_complete": true,
-      "tweet_count": 99,
-      "primary_post_count": 99,
+      "tweet_count": 100,
+      "primary_post_count": 100,
       "reply_context_count": 75,
-      "all_collected_count": 174,
+      "all_collected_count": 175,
       "symbol_count": 70,
       "high_importance_count": 43,
-      "ai_analyzed_count": 19,
+      "ai_analyzed_count": 20,
       "sentiments": {
+        "Bullish": 36,
         "Neutral": 58,
-        "Bullish": 35,
         "Bearish": 6
       },
       "symbols": [
@@ -742,6 +756,22 @@
           }
         },
         {
+          "symbol": "SIVE",
+          "mentions": 22,
+          "dominant_sentiment": "Neutral",
+          "sentiment_score": 9,
+          "max_importance": 5,
+          "latest_at": "2026-08-13T07:44:59Z",
+          "latest_thesis": "Sivers 與 SemiNex 合作開發 CPO 雷射元件，透過前期合作降低技術驗證風險，為 2027 年下半年的 CPO 量產時程做準備。",
+          "latest_summary_zh": "Sivers ($SIVE) 宣布與 SemiNex 展開價值 340 萬美元的開發計畫，聚焦於 CPO（共同封裝光學）、DFB 雷射陣列及光放大器技術。初期量產目標定於 2027 年下半年，這與 CPO 的早期規模化時程吻合。作者認為此合作模式類似 SPCX 與 Cursor 的風險化解（derisking）關係，暗示 Sivers 可能發現了 SemiNex 的獨特價值。",
+          "latest_change": "NEW",
+          "sentiments": {
+            "Bullish": 10,
+            "Neutral": 11,
+            "Bearish": 1
+          }
+        },
+        {
           "symbol": "AAOI",
           "mentions": 21,
           "dominant_sentiment": "Bullish",
@@ -754,22 +784,6 @@
           "sentiments": {
             "Bullish": 12,
             "Neutral": 8,
-            "Bearish": 1
-          }
-        },
-        {
-          "symbol": "SIVE",
-          "mentions": 21,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 8,
-          "max_importance": 5,
-          "latest_at": "2026-08-12T07:54:08Z",
-          "latest_thesis": "光學財報驗證了 CW DFB 激光器瓶頸論點，Sivers ($SIVE) 身為少數西方 CPO 關鍵玩家，將顯著受益於供需失衡與架構轉型。",
-          "latest_summary_zh": "作者分析多家光電大廠（LITE、AAOI、MTSI）最新財報，驗證了連續波（CW）DFB 激光器與磷化銦（InP）產能嚴重短缺的論點。中國競爭對手技術落後數年，使具備量產能力的公司擁有定價權與高護城河。這有利於作為少數第一代 CPO 西方玩家之一且市值僅約 15 億美元的 Sivers ($SIVE)。",
-          "latest_change": "INSUFFICIENT_HISTORY",
-          "sentiments": {
-            "Bullish": 9,
-            "Neutral": 11,
             "Bearish": 1
           }
         },
@@ -991,6 +1005,21 @@
           }
         },
         {
+          "symbol": "SPCX",
+          "mentions": 5,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 4,
+          "max_importance": 5,
+          "latest_at": "2026-08-13T07:44:59Z",
+          "latest_thesis": "Sivers 與 SemiNex 合作開發 CPO 雷射元件，透過前期合作降低技術驗證風險，為 2027 年下半年的 CPO 量產時程做準備。",
+          "latest_summary_zh": "Sivers ($SIVE) 宣布與 SemiNex 展開價值 340 萬美元的開發計畫，聚焦於 CPO（共同封裝光學）、DFB 雷射陣列及光放大器技術。初期量產目標定於 2027 年下半年，這與 CPO 的早期規模化時程吻合。作者認為此合作模式類似 SPCX 與 Cursor 的風險化解（derisking）關係，暗示 Sivers 可能發現了 SemiNex 的獨特價值。",
+          "latest_change": "NEW",
+          "sentiments": {
+            "Bullish": 4,
+            "Neutral": 1
+          }
+        },
+        {
           "symbol": "CCXI",
           "mentions": 5,
           "dominant_sentiment": "Neutral",
@@ -1065,21 +1094,6 @@
           "sentiments": {
             "Neutral": 3,
             "Bullish": 1
-          }
-        },
-        {
-          "symbol": "SPCX",
-          "mentions": 4,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 3,
-          "max_importance": 5,
-          "latest_at": "2026-08-11T20:51:04Z",
-          "latest_thesis": "SMCI 憑藉龐大的 AI 資料中心新訂單與超乎預期的 2027 財年營收指引，若毛利率能維持在 10-15%，目前市值具備強烈的重估（rerating）潛力。",
-          "latest_summary_zh": "SMCI 給出極為強勁的 2027 財年營收指引，預計達 650 億至 720 億美元，遠高於市場預期的 524 億美元。此次財報中更記錄了超過 600 億美元的新訂單，可能與先前宣布與 xAI 等合作建造資料中心有關。作者認為若 SMCI 能維持 10-15% 的毛利率，以目前約 200 億美元的市值來看，股價具備相當大的估值重估（rerating）空間。",
-          "latest_change": "INSUFFICIENT_HISTORY",
-          "sentiments": {
-            "Bullish": 3,
-            "Neutral": 1
           }
         },
         {
@@ -1754,22 +1768,22 @@
       "period": "quarterly",
       "label": "每季",
       "days": 90,
-      "start_at": "2026-05-15T02:54:35.918747Z",
-      "generated_at": "2026-08-13T02:54:35.992314Z",
+      "start_at": "2026-05-15T07:47:06.102477Z",
+      "generated_at": "2026-08-13T07:47:06.168509Z",
       "earliest_available_at": "2025-11-17T16:12:21Z",
       "traversed_until": "2026-04-13T02:42:25Z",
       "coverage_days": 122,
       "coverage_complete": true,
-      "tweet_count": 548,
-      "primary_post_count": 548,
-      "reply_context_count": 712,
-      "all_collected_count": 1260,
+      "tweet_count": 547,
+      "primary_post_count": 547,
+      "reply_context_count": 707,
+      "all_collected_count": 1254,
       "symbol_count": 169,
-      "high_importance_count": 194,
-      "ai_analyzed_count": 29,
+      "high_importance_count": 193,
+      "ai_analyzed_count": 30,
       "sentiments": {
+        "Bullish": 146,
         "Neutral": 369,
-        "Bullish": 147,
         "Bearish": 31,
         "Mixed": 1
       },
@@ -1780,10 +1794,10 @@
           "dominant_sentiment": "Neutral",
           "sentiment_score": 39,
           "max_importance": 5,
-          "latest_at": "2026-08-12T07:54:08Z",
-          "latest_thesis": "光學財報驗證了 CW DFB 激光器瓶頸論點，Sivers ($SIVE) 身為少數西方 CPO 關鍵玩家，將顯著受益於供需失衡與架構轉型。",
-          "latest_summary_zh": "作者分析多家光電大廠（LITE、AAOI、MTSI）最新財報，驗證了連續波（CW）DFB 激光器與磷化銦（InP）產能嚴重短缺的論點。中國競爭對手技術落後數年，使具備量產能力的公司擁有定價權與高護城河。這有利於作為少數第一代 CPO 西方玩家之一且市值僅約 15 億美元的 Sivers ($SIVE)。",
-          "latest_change": "INSUFFICIENT_HISTORY",
+          "latest_at": "2026-08-13T07:44:59Z",
+          "latest_thesis": "Sivers 與 SemiNex 合作開發 CPO 雷射元件，透過前期合作降低技術驗證風險，為 2027 年下半年的 CPO 量產時程做準備。",
+          "latest_summary_zh": "Sivers ($SIVE) 宣布與 SemiNex 展開價值 340 萬美元的開發計畫，聚焦於 CPO（共同封裝光學）、DFB 雷射陣列及光放大器技術。初期量產目標定於 2027 年下半年，這與 CPO 的早期規模化時程吻合。作者認為此合作模式類似 SPCX 與 Cursor 的風險化解（derisking）關係，暗示 Sivers 可能發現了 SemiNex 的獨特價值。",
+          "latest_change": "NEW",
           "sentiments": {
             "Bullish": 51,
             "Neutral": 76,
@@ -1793,16 +1807,16 @@
         },
         {
           "symbol": "NVDA",
-          "mentions": 96,
+          "mentions": 95,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 33,
+          "sentiment_score": 32,
           "max_importance": 5,
           "latest_at": "2026-08-11T02:19:36Z",
           "latest_thesis": "宇樹科技 IPO 的極端超額認購凸顯市場對人形機器人板塊的強烈渴望，其高估值上市將為估值相對較低的美國同業帶來外溢效應與重新定價機會。",
           "latest_summary_zh": "宇樹科技（Unitree）IPO 獲得散戶超額認購超過 8000 倍，顯示市場對純人形機器人標的的需求極度狂熱。作者指出自己透過 CCXI 參與投資美國人形機器人公司 Agility Robotics（前輪估值約 25 億美元），並認為宇樹若以 300 億美元以上的估值開盤，將在未來一至兩週內吸引資金關注美國領先的人形機器人業者。",
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bullish": 41,
+            "Bullish": 40,
             "Neutral": 47,
             "Bearish": 8
           }
@@ -2002,6 +2016,22 @@
           }
         },
         {
+          "symbol": "SPCX",
+          "mentions": 27,
+          "dominant_sentiment": "Neutral",
+          "sentiment_score": 8,
+          "max_importance": 5,
+          "latest_at": "2026-08-13T07:44:59Z",
+          "latest_thesis": "Sivers 與 SemiNex 合作開發 CPO 雷射元件，透過前期合作降低技術驗證風險，為 2027 年下半年的 CPO 量產時程做準備。",
+          "latest_summary_zh": "Sivers ($SIVE) 宣布與 SemiNex 展開價值 340 萬美元的開發計畫，聚焦於 CPO（共同封裝光學）、DFB 雷射陣列及光放大器技術。初期量產目標定於 2027 年下半年，這與 CPO 的早期規模化時程吻合。作者認為此合作模式類似 SPCX 與 Cursor 的風險化解（derisking）關係，暗示 Sivers 可能發現了 SemiNex 的獨特價值。",
+          "latest_change": "NEW",
+          "sentiments": {
+            "Bullish": 9,
+            "Neutral": 17,
+            "Bearish": 1
+          }
+        },
+        {
           "symbol": "XFAB",
           "mentions": 27,
           "dominant_sentiment": "Bullish",
@@ -2019,32 +2049,16 @@
         },
         {
           "symbol": "AMZN",
-          "mentions": 26,
+          "mentions": 25,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 7,
+          "sentiment_score": 6,
           "max_importance": 5,
           "latest_at": "2026-08-11T02:19:36Z",
           "latest_thesis": "宇樹科技 IPO 的極端超額認購凸顯市場對人形機器人板塊的強烈渴望，其高估值上市將為估值相對較低的美國同業帶來外溢效應與重新定價機會。",
           "latest_summary_zh": "宇樹科技（Unitree）IPO 獲得散戶超額認購超過 8000 倍，顯示市場對純人形機器人標的的需求極度狂熱。作者指出自己透過 CCXI 參與投資美國人形機器人公司 Agility Robotics（前輪估值約 25 億美元），並認為宇樹若以 300 億美元以上的估值開盤，將在未來一至兩週內吸引資金關注美國領先的人形機器人業者。",
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bullish": 8,
-            "Neutral": 17,
-            "Bearish": 1
-          }
-        },
-        {
-          "symbol": "SPCX",
-          "mentions": 26,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 7,
-          "max_importance": 5,
-          "latest_at": "2026-08-11T20:51:04Z",
-          "latest_thesis": "SMCI 憑藉龐大的 AI 資料中心新訂單與超乎預期的 2027 財年營收指引，若毛利率能維持在 10-15%，目前市值具備強烈的重估（rerating）潛力。",
-          "latest_summary_zh": "SMCI 給出極為強勁的 2027 財年營收指引，預計達 650 億至 720 億美元，遠高於市場預期的 524 億美元。此次財報中更記錄了超過 600 億美元的新訂單，可能與先前宣布與 xAI 等合作建造資料中心有關。作者認為若 SMCI 能維持 10-15% 的毛利率，以目前約 200 億美元的市值來看，股價具備相當大的估值重估（rerating）空間。",
-          "latest_change": "INSUFFICIENT_HISTORY",
-          "sentiments": {
-            "Bullish": 8,
+            "Bullish": 7,
             "Neutral": 17,
             "Bearish": 1
           }
@@ -2066,22 +2080,6 @@
           }
         },
         {
-          "symbol": "TSM",
-          "mentions": 25,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 8,
-          "max_importance": 5,
-          "latest_at": "2026-08-06T09:56:42Z",
-          "latest_thesis": "I remain convinced nobody knows how to pronounce or talk about $AAOI in real life.   It’s one letter too long to say $TSM or $AMD.   And nobody ever says to a friend“Wow, I like...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
-          "sentiments": {
-            "Bullish": 9,
-            "Neutral": 15,
-            "Bearish": 1
-          }
-        },
-        {
           "symbol": "IQE",
           "mentions": 24,
           "dominant_sentiment": "Neutral",
@@ -2095,6 +2093,22 @@
             "Neutral": 14,
             "Bullish": 8,
             "Bearish": 2
+          }
+        },
+        {
+          "symbol": "TSM",
+          "mentions": 24,
+          "dominant_sentiment": "Neutral",
+          "sentiment_score": 7,
+          "max_importance": 5,
+          "latest_at": "2026-08-06T09:56:42Z",
+          "latest_thesis": "I remain convinced nobody knows how to pronounce or talk about $AAOI in real life.   It’s one letter too long to say $TSM or $AMD.   And nobody ever says to a friend“Wow, I like...",
+          "latest_summary_zh": "",
+          "latest_change": "NEW",
+          "sentiments": {
+            "Bullish": 8,
+            "Neutral": 15,
+            "Bearish": 1
           }
         },
         {
@@ -2129,22 +2143,6 @@
           }
         },
         {
-          "symbol": "POET",
-          "mentions": 23,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 9,
-          "max_importance": 5,
-          "latest_at": "2026-08-12T22:59:29Z",
-          "latest_thesis": "InP CW 雷射晶片成為光通訊與 CPO 供應鏈的最核心瓶頸，垂直整合大廠自用產能鎖死外售，外購 CW 雷射供應商獲得巨大定價權與訂單能見度。",
-          "latest_summary_zh": "Coherent (COHR) 財報顯示資料中心收發器需求極為強勁，且印磷 (InP) 磷化銦雷射晶片產能已被預訂至 2027 年底。由於 COHR 與 AAOI 均將 InP 雷射留作自用而不對外銷售，導致第三方外購 CW 雷射供應商（如 MTSI）需求爆發。此外，COHR 重申共封裝光學 (CPO) 需求未延後反而提前，預計 Scale-up CPO 營收將於 2027 年下半年開始顯著貢獻。",
-          "latest_change": "INSUFFICIENT_HISTORY",
-          "sentiments": {
-            "Bullish": 13,
-            "Neutral": 6,
-            "Bearish": 4
-          }
-        },
-        {
           "symbol": "GFS",
           "mentions": 22,
           "dominant_sentiment": "Neutral",
@@ -2158,6 +2156,22 @@
             "Neutral": 11,
             "Bullish": 9,
             "Bearish": 2
+          }
+        },
+        {
+          "symbol": "POET",
+          "mentions": 22,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 8,
+          "max_importance": 5,
+          "latest_at": "2026-08-12T22:59:29Z",
+          "latest_thesis": "InP CW 雷射晶片成為光通訊與 CPO 供應鏈的最核心瓶頸，垂直整合大廠自用產能鎖死外售，外購 CW 雷射供應商獲得巨大定價權與訂單能見度。",
+          "latest_summary_zh": "Coherent (COHR) 財報顯示資料中心收發器需求極為強勁，且印磷 (InP) 磷化銦雷射晶片產能已被預訂至 2027 年底。由於 COHR 與 AAOI 均將 InP 雷射留作自用而不對外銷售，導致第三方外購 CW 雷射供應商（如 MTSI）需求爆發。此外，COHR 重申共封裝光學 (CPO) 需求未延後反而提前，預計 Scale-up CPO 營收將於 2027 年下半年開始顯著貢獻。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 12,
+            "Neutral": 6,
+            "Bearish": 4
           }
         },
         {
@@ -2615,22 +2629,6 @@
           }
         },
         {
-          "symbol": "HIMX",
-          "mentions": 4,
-          "dominant_sentiment": "Bearish",
-          "sentiment_score": -1,
-          "max_importance": 5,
-          "latest_at": "2026-07-04T18:02:28Z",
-          "latest_thesis": "UDN Money report \"殺翻光通訊後 SemiAnalysis 惹議 業界揭其劣跡 許多公司慘遭魔手\":  - SemiAnalysis, released a report in June, questioning the timing of the launch of the CPO on the grounds of low yiel...",
-          "latest_summary_zh": "",
-          "latest_change": "MENTION",
-          "sentiments": {
-            "Bearish": 2,
-            "Neutral": 1,
-            "Bullish": 1
-          }
-        },
-        {
           "symbol": "SIMO",
           "mentions": 4,
           "dominant_sentiment": "Bullish",
@@ -2719,6 +2717,21 @@
           "sentiments": {
             "Bullish": 1,
             "Neutral": 2
+          }
+        },
+        {
+          "symbol": "HIMX",
+          "mentions": 3,
+          "dominant_sentiment": "Bearish",
+          "sentiment_score": -2,
+          "max_importance": 5,
+          "latest_at": "2026-07-04T18:02:28Z",
+          "latest_thesis": "UDN Money report \"殺翻光通訊後 SemiAnalysis 惹議 業界揭其劣跡 許多公司慘遭魔手\":  - SemiAnalysis, released a report in June, questioning the timing of the launch of the CPO on the grounds of low yiel...",
+          "latest_summary_zh": "",
+          "latest_change": "MENTION",
+          "sentiments": {
+            "Bearish": 2,
+            "Neutral": 1
           }
         },
         {
@@ -4273,6 +4286,22 @@
   },
   "latest_primary_posts": [
     {
+      "tweet_id": "2087807614172488131",
+      "created_at": "2026-08-13T07:44:59Z",
+      "text": "$SIVE announces a $3.4M development program with SemiNex!\n\nFor CPO, DFB laser arrays, and optical amplifiers. \n\nEarly production is targeted H2 2027 (in line with early scale up CPO timelines)\n\nSeemed weird to me at first given product overlap, since SemiNex is a much smaller Series B company... \n\nBut then I got reminded of a less explicit version of $SPCX + Cursor relationship (derisking by working together first). \n\nThere's probably something interesting Sivers found in this company.",
+      "url": "https://x.com/aleabitoreddit/status/2087807614172488131",
+      "symbols": [
+        "SIVE",
+        "SPCX"
+      ],
+      "sentiment": "Bullish",
+      "importance": 3,
+      "summary_zh": "Sivers ($SIVE) 宣布與 SemiNex 展開價值 340 萬美元的開發計畫，聚焦於 CPO（共同封裝光學）、DFB 雷射陣列及光放大器技術。初期量產目標定於 2027 年下半年，這與 CPO 的早期規模化時程吻合。作者認為此合作模式類似 SPCX 與 Cursor 的風險化解（derisking）關係，暗示 Sivers 可能發現了 SemiNex 的獨特價值。",
+      "core_thesis": "Sivers 與 SemiNex 合作開發 CPO 雷射元件，透過前期合作降低技術驗證風險，為 2027 年下半年的 CPO 量產時程做準備。",
+      "why_it_matters": "CPO 是下一代 AI 與高頻寬網路的關鍵技術，這項價值 340 萬美元的合作計畫確立了 Sivers 在 CPO 供應鏈的佈局時程（2027 年 H2），並展現其透過戰略合作化解技術風險的意圖。",
+      "thesis_change": "NEW"
+    },
+    {
       "tweet_id": "2087733927930929435",
       "created_at": "2026-08-13T02:52:11Z",
       "text": "Is it just me, or is the list of 3 letter optical jargon never ending?\n\nWe have LPO, LRO, NPO, XPO, CPO, OBO, and others for approaches.\n\nThen InP, EML, ELS, OCS, SOI, and others to add to the random terms.\n\nEven the industry events with OCP or OFC get their three letter names.\n\nPeople who have followed me on my optical bottleneck scavenger hunt with $SOI or $IQE might know a lot by now.\n\nBut wouldn’t new followers might be super confused…",
@@ -4746,21 +4775,6 @@
       "core_thesis": "",
       "why_it_matters": "",
       "thesis_change": "NEW"
-    },
-    {
-      "tweet_id": "2085644051446108223",
-      "created_at": "2026-08-07T08:27:45Z",
-      "text": "Unitree, China's humanoid leader, is set to IPO this month at a $9B valuation! (~$6.2B originally per March filing). \n\nDerivative markets are pricing open at an implied $36.04B MC, roughly ~4X listing price. \n\n$CCXI / Agility Robotics, the first US publicly listed pure play humanoid leader, is also going public later in Q4, at a ~$2.5B pre-money valuation.\n\nIt will be interesting to see how markets price in America vs. Chinese Humanoid leaders.",
-      "url": "https://x.com/aleabitoreddit/status/2085644051446108223",
-      "symbols": [
-        "CCXI"
-      ],
-      "sentiment": "Neutral",
-      "importance": 3,
-      "summary_zh": "",
-      "core_thesis": "",
-      "why_it_matters": "",
-      "thesis_change": "NEW"
     }
   ],
   "public_symbols": [
@@ -4778,16 +4792,16 @@
     "JBL",
     "INTC",
     "SNDK",
+    "SPCX",
     "XFAB",
     "AMZN",
-    "SPCX",
     "GOOGL",
-    "TSM",
     "IQE",
+    "TSM",
     "COHR",
     "IREN",
-    "POET",
     "GFS",
+    "POET",
     "TSEM",
     "CCXI",
     "LPK",

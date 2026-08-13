@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-13T02:54:36.010338Z",
+  "generated_at": "2026-08-13T07:47:06.186514Z",
   "symbol": "SPCX",
   "summary": {
-    "primary_count": 26,
+    "primary_count": 27,
     "reply_count": 7,
     "first_mentioned_at": "2026-05-25T17:49:06Z",
-    "last_mentioned_at": "2026-08-11T20:51:04Z",
+    "last_mentioned_at": "2026-08-13T07:44:59Z",
     "latest_sentiment": "Bullish",
-    "latest_thesis": "SMCI 憑藉龐大的 AI 資料中心新訂單與超乎預期的 2027 財年營收指引，若毛利率能維持在 10-15%，目前市值具備強烈的重估（rerating）潛力。",
-    "latest_change": "INSUFFICIENT_HISTORY",
+    "latest_thesis": "Sivers 與 SemiNex 合作開發 CPO 雷射元件，透過前期合作降低技術驗證風險，為 2027 年下半年的 CPO 量產時程做準備。",
+    "latest_change": "NEW",
     "sentiments": {
       "Neutral": 24,
       "Bearish": 1,
-      "Bullish": 8
+      "Bullish": 9
     }
   },
   "daily_stances": [
@@ -1078,8 +1078,59 @@
           ],
           "confidence": 90,
           "ai_status": "ok",
-          "favorite_count": 664,
-          "retweet_count": 45
+          "favorite_count": 667,
+          "retweet_count": 46
+        }
+      ]
+    },
+    {
+      "date": "2026-08-13",
+      "created_at": "2026-08-13T07:44:59Z",
+      "sentiment": "Bullish",
+      "bull_count": 1,
+      "bear_count": 0,
+      "neutral_count": 0,
+      "mixed_count": 0,
+      "mention_count": 1,
+      "bull_weight": 2.55,
+      "bear_weight": 0.0,
+      "bull_share": 1.0,
+      "importance": 3,
+      "confidence": 85,
+      "thesis_change": "NEW",
+      "core_thesis": "Sivers 與 SemiNex 合作開發 CPO 雷射元件，透過前期合作降低技術驗證風險，為 2027 年下半年的 CPO 量產時程做準備。",
+      "url": "https://x.com/aleabitoreddit/status/2087807614172488131",
+      "tweet_id": "2087807614172488131",
+      "items": [
+        {
+          "tweet_id": "2087807614172488131",
+          "is_reply": false,
+          "kind": "post",
+          "reply_signal_eligible": false,
+          "created_at": "2026-08-13T07:44:59Z",
+          "text": "$SIVE announces a $3.4M development program with SemiNex!\n\nFor CPO, DFB laser arrays, and optical amplifiers. \n\nEarly production is targeted H2 2027 (in line with early scale up CPO timelines)\n\nSeemed weird to me at first given product overlap, since SemiNex is a much smaller Series B company... \n\nBut then I got reminded of a less explicit version of $SPCX + Cursor relationship (derisking by working together first). \n\nThere's probably something interesting Sivers found in this company.",
+          "url": "https://x.com/aleabitoreddit/status/2087807614172488131",
+          "sentiment": "Bullish",
+          "importance": 3,
+          "thesis_change": "NEW",
+          "summary_zh": "Sivers ($SIVE) 宣布與 SemiNex 展開價值 340 萬美元的開發計畫，聚焦於 CPO（共同封裝光學）、DFB 雷射陣列及光放大器技術。初期量產目標定於 2027 年下半年，這與 CPO 的早期規模化時程吻合。作者認為此合作模式類似 SPCX 與 Cursor 的風險化解（derisking）關係，暗示 Sivers 可能發現了 SemiNex 的獨特價值。",
+          "plain_zh": "Sivers 找了一家規模較小的非上市公司 SemiNex 合作開發 CPO（共同封裝光學）用的雷射與光學元件。雖然兩家公司產品有所重疊，但作者認為這是一種透過先合作來降低技術與營運風險（derisking）的策略，類似之前 SPCX 與 Cursor 的合作模式。",
+          "core_thesis": "Sivers 與 SemiNex 合作開發 CPO 雷射元件，透過前期合作降低技術驗證風險，為 2027 年下半年的 CPO 量產時程做準備。",
+          "why_it_matters": "CPO 是下一代 AI 與高頻寬網路的關鍵技術，這項價值 340 萬美元的合作計畫確立了 Sivers 在 CPO 供應鏈的佈局時程（2027 年 H2），並展現其透過戰略合作化解技術風險的意圖。",
+          "history_note": "歷史資料庫中無先前貼文，無法進行歷史觀點比較。",
+          "catalysts": [
+            "Sivers 與 SemiNex 的 340 萬美元開發計畫推進",
+            "預計 2027 年下半年進入初期量產階段"
+          ],
+          "risks": [
+            "兩家公司產品存在重疊（product overlap）可能帶來內部競爭或資源分歧",
+            "SemiNex 為較小型的 B 輪融資公司，團隊或財務規模可能存在執行風險",
+            "CPO 技術量產時程（2027 H2）尚久，技術變數與時程延遲風險高"
+          ],
+          "confidence": 85,
+          "ai_status": "ok",
+          "favorite_count": 50,
+          "retweet_count": 2
         }
       ]
     }
@@ -2754,8 +2805,59 @@
             ],
             "confidence": 90,
             "ai_status": "ok",
-            "favorite_count": 664,
-            "retweet_count": 45
+            "favorite_count": 667,
+            "retweet_count": 46
+          }
+        ]
+      },
+      {
+        "date": "2026-08-13",
+        "created_at": "2026-08-13T07:44:59Z",
+        "sentiment": "Bullish",
+        "bull_count": 1,
+        "bear_count": 0,
+        "neutral_count": 0,
+        "mixed_count": 0,
+        "mention_count": 1,
+        "bull_weight": 2.55,
+        "bear_weight": 0.0,
+        "bull_share": 1.0,
+        "importance": 3,
+        "confidence": 85,
+        "thesis_change": "NEW",
+        "core_thesis": "Sivers 與 SemiNex 合作開發 CPO 雷射元件，透過前期合作降低技術驗證風險，為 2027 年下半年的 CPO 量產時程做準備。",
+        "url": "https://x.com/aleabitoreddit/status/2087807614172488131",
+        "tweet_id": "2087807614172488131",
+        "items": [
+          {
+            "tweet_id": "2087807614172488131",
+            "is_reply": false,
+            "kind": "post",
+            "reply_signal_eligible": false,
+            "created_at": "2026-08-13T07:44:59Z",
+            "text": "$SIVE announces a $3.4M development program with SemiNex!\n\nFor CPO, DFB laser arrays, and optical amplifiers. \n\nEarly production is targeted H2 2027 (in line with early scale up CPO timelines)\n\nSeemed weird to me at first given product overlap, since SemiNex is a much smaller Series B company... \n\nBut then I got reminded of a less explicit version of $SPCX + Cursor relationship (derisking by working together first). \n\nThere's probably something interesting Sivers found in this company.",
+            "url": "https://x.com/aleabitoreddit/status/2087807614172488131",
+            "sentiment": "Bullish",
+            "importance": 3,
+            "thesis_change": "NEW",
+            "summary_zh": "Sivers ($SIVE) 宣布與 SemiNex 展開價值 340 萬美元的開發計畫，聚焦於 CPO（共同封裝光學）、DFB 雷射陣列及光放大器技術。初期量產目標定於 2027 年下半年，這與 CPO 的早期規模化時程吻合。作者認為此合作模式類似 SPCX 與 Cursor 的風險化解（derisking）關係，暗示 Sivers 可能發現了 SemiNex 的獨特價值。",
+            "plain_zh": "Sivers 找了一家規模較小的非上市公司 SemiNex 合作開發 CPO（共同封裝光學）用的雷射與光學元件。雖然兩家公司產品有所重疊，但作者認為這是一種透過先合作來降低技術與營運風險（derisking）的策略，類似之前 SPCX 與 Cursor 的合作模式。",
+            "core_thesis": "Sivers 與 SemiNex 合作開發 CPO 雷射元件，透過前期合作降低技術驗證風險，為 2027 年下半年的 CPO 量產時程做準備。",
+            "why_it_matters": "CPO 是下一代 AI 與高頻寬網路的關鍵技術，這項價值 340 萬美元的合作計畫確立了 Sivers 在 CPO 供應鏈的佈局時程（2027 年 H2），並展現其透過戰略合作化解技術風險的意圖。",
+            "history_note": "歷史資料庫中無先前貼文，無法進行歷史觀點比較。",
+            "catalysts": [
+              "Sivers 與 SemiNex 的 340 萬美元開發計畫推進",
+              "預計 2027 年下半年進入初期量產階段"
+            ],
+            "risks": [
+              "兩家公司產品存在重疊（product overlap）可能帶來內部競爭或資源分歧",
+              "SemiNex 為較小型的 B 輪融資公司，團隊或財務規模可能存在執行風險",
+              "CPO 技術量產時程（2027 H2）尚久，技術變數與時程延遲風險高"
+            ],
+            "confidence": 85,
+            "ai_status": "ok",
+            "favorite_count": 50,
+            "retweet_count": 2
           }
         ]
       }
@@ -2792,6 +2894,36 @@
   },
   "primary_posts": [
     {
+      "tweet_id": "2087807614172488131",
+      "is_reply": false,
+      "kind": "post",
+      "reply_signal_eligible": false,
+      "created_at": "2026-08-13T07:44:59Z",
+      "text": "$SIVE announces a $3.4M development program with SemiNex!\n\nFor CPO, DFB laser arrays, and optical amplifiers. \n\nEarly production is targeted H2 2027 (in line with early scale up CPO timelines)\n\nSeemed weird to me at first given product overlap, since SemiNex is a much smaller Series B company... \n\nBut then I got reminded of a less explicit version of $SPCX + Cursor relationship (derisking by working together first). \n\nThere's probably something interesting Sivers found in this company.",
+      "url": "https://x.com/aleabitoreddit/status/2087807614172488131",
+      "sentiment": "Bullish",
+      "importance": 3,
+      "thesis_change": "NEW",
+      "summary_zh": "Sivers ($SIVE) 宣布與 SemiNex 展開價值 340 萬美元的開發計畫，聚焦於 CPO（共同封裝光學）、DFB 雷射陣列及光放大器技術。初期量產目標定於 2027 年下半年，這與 CPO 的早期規模化時程吻合。作者認為此合作模式類似 SPCX 與 Cursor 的風險化解（derisking）關係，暗示 Sivers 可能發現了 SemiNex 的獨特價值。",
+      "plain_zh": "Sivers 找了一家規模較小的非上市公司 SemiNex 合作開發 CPO（共同封裝光學）用的雷射與光學元件。雖然兩家公司產品有所重疊，但作者認為這是一種透過先合作來降低技術與營運風險（derisking）的策略，類似之前 SPCX 與 Cursor 的合作模式。",
+      "core_thesis": "Sivers 與 SemiNex 合作開發 CPO 雷射元件，透過前期合作降低技術驗證風險，為 2027 年下半年的 CPO 量產時程做準備。",
+      "why_it_matters": "CPO 是下一代 AI 與高頻寬網路的關鍵技術，這項價值 340 萬美元的合作計畫確立了 Sivers 在 CPO 供應鏈的佈局時程（2027 年 H2），並展現其透過戰略合作化解技術風險的意圖。",
+      "history_note": "歷史資料庫中無先前貼文，無法進行歷史觀點比較。",
+      "catalysts": [
+        "Sivers 與 SemiNex 的 340 萬美元開發計畫推進",
+        "預計 2027 年下半年進入初期量產階段"
+      ],
+      "risks": [
+        "兩家公司產品存在重疊（product overlap）可能帶來內部競爭或資源分歧",
+        "SemiNex 為較小型的 B 輪融資公司，團隊或財務規模可能存在執行風險",
+        "CPO 技術量產時程（2027 H2）尚久，技術變數與時程延遲風險高"
+      ],
+      "confidence": 85,
+      "ai_status": "ok",
+      "favorite_count": 50,
+      "retweet_count": 2
+    },
+    {
       "tweet_id": "2087280662802026931",
       "is_reply": false,
       "kind": "post",
@@ -2818,8 +2950,8 @@
       ],
       "confidence": 90,
       "ai_status": "ok",
-      "favorite_count": 664,
-      "retweet_count": 45
+      "favorite_count": 667,
+      "retweet_count": 46
     },
     {
       "tweet_id": "2086148557187461412",

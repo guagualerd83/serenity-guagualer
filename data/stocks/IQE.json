@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T02:54:36.010338Z",
+  "generated_at": "2026-08-13T07:47:06.186514Z",
   "symbol": "IQE",
   "summary": {
     "primary_count": 51,
@@ -2049,8 +2049,8 @@
           "risks": [],
           "confidence": 95,
           "ai_status": "ok",
-          "favorite_count": 26,
-          "retweet_count": 3
+          "favorite_count": 499,
+          "retweet_count": 15
         }
       ]
     }
@@ -4103,8 +4103,8 @@
             "risks": [],
             "confidence": 95,
             "ai_status": "ok",
-            "favorite_count": 26,
-            "retweet_count": 3
+            "favorite_count": 499,
+            "retweet_count": 15
           }
         ]
       }
@@ -4160,8 +4160,8 @@
       "risks": [],
       "confidence": 95,
       "ai_status": "ok",
-      "favorite_count": 26,
-      "retweet_count": 3
+      "favorite_count": 499,
+      "retweet_count": 15
     },
     {
       "tweet_id": "2075496116481884524",
