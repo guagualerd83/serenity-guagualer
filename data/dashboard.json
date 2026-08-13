@@ -2,7 +2,7 @@
   "site": {
     "title": "Serenity Research",
     "subtitle": "Public research dashboard based on Serenity's public X posts.",
-    "generated_at": "2026-08-11T14:21:36.965323Z",
+    "generated_at": "2026-08-13T00:57:25.009832Z",
     "disclaimer": "Public-post aggregation for research only. Not investment advice."
   },
   "periods": {
@@ -10,129 +10,41 @@
       "period": "daily",
       "label": "每日",
       "days": 1,
-      "start_at": "2026-08-10T16:00:00Z",
-      "generated_at": "2026-08-11T14:21:36.846911Z",
+      "start_at": "2026-08-12T16:00:00Z",
+      "generated_at": "2026-08-13T00:57:24.735158Z",
       "earliest_available_at": "2025-11-17T16:12:21Z",
       "traversed_until": "2026-04-13T02:42:25Z",
-      "coverage_days": 120,
+      "coverage_days": 121,
       "coverage_complete": true,
-      "tweet_count": 4,
-      "primary_post_count": 4,
-      "reply_context_count": 1,
-      "all_collected_count": 5,
-      "symbol_count": 6,
-      "high_importance_count": 2,
-      "ai_analyzed_count": 2,
-      "sentiments": {
-        "Neutral": 2,
-        "Bullish": 2
-      },
-      "symbols": [
-        {
-          "symbol": "AMD",
-          "mentions": 1,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 1,
-          "max_importance": 4,
-          "latest_at": "2026-08-11T01:29:11Z",
-          "latest_thesis": "比特幣礦商轉型 AI 託管獲大廠巨額合約驗證，但營收爆發拐點需等到 2027 年下半年。",
-          "latest_summary_zh": "RIOT 宣布與 Anthropic 簽署高達 91 億至 161 億美元的 20 年期巨額託管合約，同時 AMD 也行使選擇權擴展與 RIOT 的合作。作者指出前比特幣礦商（如 RIOT、IREN）成功轉型 AI 主機託管（Colo），但整個族群的營收顯著轉折點（inflection）預計要到 2027 年下半年才會顯現。",
-          "latest_change": "INSUFFICIENT_HISTORY",
-          "sentiments": {
-            "Bullish": 1
-          }
-        },
-        {
-          "symbol": "AMZN",
-          "mentions": 1,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 1,
-          "max_importance": 4,
-          "latest_at": "2026-08-11T02:19:36Z",
-          "latest_thesis": "宇樹科技 IPO 的極端超額認購凸顯市場對人形機器人板塊的強烈渴望，其高估值上市將為估值相對較低的美國同業帶來外溢效應與重新定價機會。",
-          "latest_summary_zh": "宇樹科技（Unitree）IPO 獲得散戶超額認購超過 8000 倍，顯示市場對純人形機器人標的的需求極度狂熱。作者指出自己透過 CCXI 參與投資美國人形機器人公司 Agility Robotics（前輪估值約 25 億美元），並認為宇樹若以 300 億美元以上的估值開盤，將在未來一至兩週內吸引資金關注美國領先的人形機器人業者。",
-          "latest_change": "INSUFFICIENT_HISTORY",
-          "sentiments": {
-            "Bullish": 1
-          }
-        },
-        {
-          "symbol": "CCXI",
-          "mentions": 1,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 1,
-          "max_importance": 4,
-          "latest_at": "2026-08-11T02:19:36Z",
-          "latest_thesis": "宇樹科技 IPO 的極端超額認購凸顯市場對人形機器人板塊的強烈渴望，其高估值上市將為估值相對較低的美國同業帶來外溢效應與重新定價機會。",
-          "latest_summary_zh": "宇樹科技（Unitree）IPO 獲得散戶超額認購超過 8000 倍，顯示市場對純人形機器人標的的需求極度狂熱。作者指出自己透過 CCXI 參與投資美國人形機器人公司 Agility Robotics（前輪估值約 25 億美元），並認為宇樹若以 300 億美元以上的估值開盤，將在未來一至兩週內吸引資金關注美國領先的人形機器人業者。",
-          "latest_change": "INSUFFICIENT_HISTORY",
-          "sentiments": {
-            "Bullish": 1
-          }
-        },
-        {
-          "symbol": "IREN",
-          "mentions": 1,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 1,
-          "max_importance": 4,
-          "latest_at": "2026-08-11T01:29:11Z",
-          "latest_thesis": "比特幣礦商轉型 AI 託管獲大廠巨額合約驗證，但營收爆發拐點需等到 2027 年下半年。",
-          "latest_summary_zh": "RIOT 宣布與 Anthropic 簽署高達 91 億至 161 億美元的 20 年期巨額託管合約，同時 AMD 也行使選擇權擴展與 RIOT 的合作。作者指出前比特幣礦商（如 RIOT、IREN）成功轉型 AI 主機託管（Colo），但整個族群的營收顯著轉折點（inflection）預計要到 2027 年下半年才會顯現。",
-          "latest_change": "INSUFFICIENT_HISTORY",
-          "sentiments": {
-            "Bullish": 1
-          }
-        },
-        {
-          "symbol": "NVDA",
-          "mentions": 1,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 1,
-          "max_importance": 4,
-          "latest_at": "2026-08-11T02:19:36Z",
-          "latest_thesis": "宇樹科技 IPO 的極端超額認購凸顯市場對人形機器人板塊的強烈渴望，其高估值上市將為估值相對較低的美國同業帶來外溢效應與重新定價機會。",
-          "latest_summary_zh": "宇樹科技（Unitree）IPO 獲得散戶超額認購超過 8000 倍，顯示市場對純人形機器人標的的需求極度狂熱。作者指出自己透過 CCXI 參與投資美國人形機器人公司 Agility Robotics（前輪估值約 25 億美元），並認為宇樹若以 300 億美元以上的估值開盤，將在未來一至兩週內吸引資金關注美國領先的人形機器人業者。",
-          "latest_change": "INSUFFICIENT_HISTORY",
-          "sentiments": {
-            "Bullish": 1
-          }
-        },
-        {
-          "symbol": "RIOT",
-          "mentions": 1,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 1,
-          "max_importance": 4,
-          "latest_at": "2026-08-11T01:29:11Z",
-          "latest_thesis": "比特幣礦商轉型 AI 託管獲大廠巨額合約驗證，但營收爆發拐點需等到 2027 年下半年。",
-          "latest_summary_zh": "RIOT 宣布與 Anthropic 簽署高達 91 億至 161 億美元的 20 年期巨額託管合約，同時 AMD 也行使選擇權擴展與 RIOT 的合作。作者指出前比特幣礦商（如 RIOT、IREN）成功轉型 AI 主機託管（Colo），但整個族群的營收顯著轉折點（inflection）預計要到 2027 年下半年才會顯現。",
-          "latest_change": "INSUFFICIENT_HISTORY",
-          "sentiments": {
-            "Bullish": 1
-          }
-        }
-      ]
+      "tweet_count": 0,
+      "primary_post_count": 0,
+      "reply_context_count": 0,
+      "all_collected_count": 0,
+      "symbol_count": 0,
+      "high_importance_count": 0,
+      "ai_analyzed_count": 0,
+      "sentiments": {},
+      "symbols": []
     },
     "weekly": {
       "period": "weekly",
       "label": "每週",
       "days": 7,
-      "start_at": "2026-08-04T14:21:36.846911Z",
-      "generated_at": "2026-08-11T14:21:36.858909Z",
+      "start_at": "2026-08-06T00:57:24.735158Z",
+      "generated_at": "2026-08-13T00:57:24.756506Z",
       "earliest_available_at": "2025-11-17T16:12:21Z",
       "traversed_until": "2026-04-13T02:42:25Z",
-      "coverage_days": 120,
+      "coverage_days": 121,
       "coverage_complete": true,
-      "tweet_count": 24,
-      "primary_post_count": 24,
-      "reply_context_count": 20,
-      "all_collected_count": 44,
+      "tweet_count": 23,
+      "primary_post_count": 23,
+      "reply_context_count": 17,
+      "all_collected_count": 40,
       "symbol_count": 34,
       "high_importance_count": 13,
       "ai_analyzed_count": 5,
       "sentiments": {
-        "Neutral": 13,
+        "Neutral": 12,
         "Bullish": 10,
         "Bearish": 1
       },
@@ -297,20 +209,6 @@
           "dominant_sentiment": "Neutral",
           "sentiment_score": 0,
           "max_importance": 4,
-          "latest_at": "2026-08-10T02:03:29Z",
-          "latest_thesis": "Just some near term events:  - OCP APAC tomorrow (Ayar, Lightmatter, $AMD, $NVDA) and your CPO players are giving announcements/updates.  This should be a catalyst for certain o...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
-          "sentiments": {
-            "Neutral": 2
-          }
-        },
-        {
-          "symbol": "RKLB",
-          "mentions": 2,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 0,
-          "max_importance": 3,
           "latest_at": "2026-08-10T02:03:29Z",
           "latest_thesis": "Just some near term events:  - OCP APAC tomorrow (Ayar, Lightmatter, $AMD, $NVDA) and your CPO players are giving announcements/updates.  This should be a catalyst for certain o...",
           "latest_summary_zh": "",
@@ -586,6 +484,20 @@
           }
         },
         {
+          "symbol": "RKLB",
+          "mentions": 1,
+          "dominant_sentiment": "Neutral",
+          "sentiment_score": 0,
+          "max_importance": 3,
+          "latest_at": "2026-08-10T02:03:29Z",
+          "latest_thesis": "Just some near term events:  - OCP APAC tomorrow (Ayar, Lightmatter, $AMD, $NVDA) and your CPO players are giving announcements/updates.  This should be a catalyst for certain o...",
+          "latest_summary_zh": "",
+          "latest_change": "NEW",
+          "sentiments": {
+            "Neutral": 1
+          }
+        },
+        {
           "symbol": "SRL",
           "mentions": 1,
           "dominant_sentiment": "Neutral",
@@ -633,22 +545,22 @@
       "period": "monthly",
       "label": "每月",
       "days": 28,
-      "start_at": "2026-07-14T14:21:36.858909Z",
-      "generated_at": "2026-08-11T14:21:36.877939Z",
+      "start_at": "2026-07-16T00:57:24.756506Z",
+      "generated_at": "2026-08-13T00:57:24.784624Z",
       "earliest_available_at": "2025-11-17T16:12:21Z",
       "traversed_until": "2026-04-13T02:42:25Z",
-      "coverage_days": 120,
+      "coverage_days": 121,
       "coverage_complete": true,
-      "tweet_count": 92,
-      "primary_post_count": 92,
-      "reply_context_count": 86,
-      "all_collected_count": 178,
-      "symbol_count": 69,
-      "high_importance_count": 38,
+      "tweet_count": 85,
+      "primary_post_count": 85,
+      "reply_context_count": 75,
+      "all_collected_count": 160,
+      "symbol_count": 68,
+      "high_importance_count": 34,
       "ai_analyzed_count": 8,
       "sentiments": {
-        "Neutral": 58,
-        "Bullish": 29,
+        "Neutral": 54,
+        "Bullish": 26,
         "Bearish": 5
       },
       "symbols": [
@@ -686,8 +598,8 @@
         },
         {
           "symbol": "AAOI",
-          "mentions": 18,
-          "dominant_sentiment": "Neutral",
+          "mentions": 17,
+          "dominant_sentiment": "Bullish",
           "sentiment_score": 7,
           "max_importance": 5,
           "latest_at": "2026-08-10T15:42:04Z",
@@ -696,7 +608,7 @@
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
             "Bullish": 8,
-            "Neutral": 9,
+            "Neutral": 8,
             "Bearish": 1
           }
         },
@@ -718,7 +630,7 @@
         },
         {
           "symbol": "NVDA",
-          "mentions": 14,
+          "mentions": 13,
           "dominant_sentiment": "Bullish",
           "sentiment_score": 6,
           "max_importance": 5,
@@ -728,15 +640,15 @@
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
             "Bullish": 7,
-            "Neutral": 6,
+            "Neutral": 5,
             "Bearish": 1
           }
         },
         {
           "symbol": "NBIS",
-          "mentions": 12,
+          "mentions": 11,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 3,
+          "sentiment_score": 2,
           "max_importance": 5,
           "latest_at": "2026-08-10T02:03:29Z",
           "latest_thesis": "Just some near term events:  - OCP APAC tomorrow (Ayar, Lightmatter, $AMD, $NVDA) and your CPO players are giving announcements/updates.  This should be a catalyst for certain o...",
@@ -744,23 +656,7 @@
           "latest_change": "NEW",
           "sentiments": {
             "Neutral": 9,
-            "Bullish": 3
-          }
-        },
-        {
-          "symbol": "META",
-          "mentions": 11,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 4,
-          "max_importance": 5,
-          "latest_at": "2026-08-08T18:27:18Z",
-          "latest_thesis": "Today I'm writing a weekend guide on how to do DD when shorting $NBIS:  First, you look at hyperscaler earnings for AI cloud read through:   > $GOOGL: reports record AI cloud de...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
-          "sentiments": {
-            "Neutral": 5,
-            "Bearish": 1,
-            "Bullish": 5
+            "Bullish": 2
           }
         },
         {
@@ -780,9 +676,25 @@
           }
         },
         {
-          "symbol": "MU",
-          "mentions": 10,
+          "symbol": "META",
+          "mentions": 9,
           "dominant_sentiment": "Neutral",
+          "sentiment_score": 2,
+          "max_importance": 5,
+          "latest_at": "2026-08-08T18:27:18Z",
+          "latest_thesis": "Today I'm writing a weekend guide on how to do DD when shorting $NBIS:  First, you look at hyperscaler earnings for AI cloud read through:   > $GOOGL: reports record AI cloud de...",
+          "latest_summary_zh": "",
+          "latest_change": "NEW",
+          "sentiments": {
+            "Neutral": 5,
+            "Bearish": 1,
+            "Bullish": 3
+          }
+        },
+        {
+          "symbol": "MU",
+          "mentions": 9,
+          "dominant_sentiment": "Bullish",
           "sentiment_score": 3,
           "max_importance": 5,
           "latest_at": "2026-08-08T17:52:29Z",
@@ -791,24 +703,8 @@
           "latest_change": "NEW",
           "sentiments": {
             "Bullish": 4,
-            "Neutral": 5,
+            "Neutral": 4,
             "Bearish": 1
-          }
-        },
-        {
-          "symbol": "SNDK",
-          "mentions": 8,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 1,
-          "max_importance": 5,
-          "latest_at": "2026-08-04T02:34:48Z",
-          "latest_thesis": "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM.  $SNDK, Samsung, Micron current annual NAND capacity has been sold out, with Kioxia and SK Hynix expecte...",
-          "latest_summary_zh": "",
-          "latest_change": "MENTION",
-          "sentiments": {
-            "Neutral": 5,
-            "Bearish": 1,
-            "Bullish": 2
           }
         },
         {
@@ -842,6 +738,22 @@
           }
         },
         {
+          "symbol": "SNDK",
+          "mentions": 7,
+          "dominant_sentiment": "Neutral",
+          "sentiment_score": 0,
+          "max_importance": 5,
+          "latest_at": "2026-08-04T02:34:48Z",
+          "latest_thesis": "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM.  $SNDK, Samsung, Micron current annual NAND capacity has been sold out, with Kioxia and SK Hynix expecte...",
+          "latest_summary_zh": "",
+          "latest_change": "MENTION",
+          "sentiments": {
+            "Neutral": 5,
+            "Bearish": 1,
+            "Bullish": 1
+          }
+        },
+        {
           "symbol": "COHR",
           "mentions": 6,
           "dominant_sentiment": "Bullish",
@@ -854,22 +766,6 @@
           "sentiments": {
             "Bullish": 3,
             "Neutral": 3
-          }
-        },
-        {
-          "symbol": "MSFT",
-          "mentions": 6,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 3,
-          "max_importance": 5,
-          "latest_at": "2026-07-31T19:16:17Z",
-          "latest_thesis": "As a earnings recap: $AMZN, $META, $GOOGL, and $MSFT guided a 2026 combined capex forecast to ~$720-$745 Billion.  Up from $695-$725B Billion previously.  Amazon: $220B Google:...",
-          "latest_summary_zh": "",
-          "latest_change": "UPDATE",
-          "sentiments": {
-            "Bearish": 1,
-            "Neutral": 1,
-            "Bullish": 4
           }
         },
         {
@@ -950,6 +846,22 @@
           }
         },
         {
+          "symbol": "MSFT",
+          "mentions": 4,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 1,
+          "max_importance": 5,
+          "latest_at": "2026-07-31T19:16:17Z",
+          "latest_thesis": "As a earnings recap: $AMZN, $META, $GOOGL, and $MSFT guided a 2026 combined capex forecast to ~$720-$745 Billion.  Up from $695-$725B Billion previously.  Amazon: $220B Google:...",
+          "latest_summary_zh": "",
+          "latest_change": "UPDATE",
+          "sentiments": {
+            "Bearish": 1,
+            "Neutral": 1,
+            "Bullish": 2
+          }
+        },
+        {
           "symbol": "MTSI",
           "mentions": 4,
           "dominant_sentiment": "Neutral",
@@ -962,21 +874,6 @@
           "sentiments": {
             "Neutral": 2,
             "Bullish": 2
-          }
-        },
-        {
-          "symbol": "SPCX",
-          "mentions": 4,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 3,
-          "max_importance": 5,
-          "latest_at": "2026-08-08T17:52:29Z",
-          "latest_thesis": "Yes, I'm still bullish on memory like $MU / Samsung.  As I said earlier, markets tend to rotate from bottleneck to bottleneck.  This week it looks $AXTI to $LITE in the photonic...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
-          "sentiments": {
-            "Bullish": 3,
-            "Neutral": 1
           }
         },
         {
@@ -1039,6 +936,21 @@
           }
         },
         {
+          "symbol": "SPCX",
+          "mentions": 3,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 2,
+          "max_importance": 5,
+          "latest_at": "2026-08-08T17:52:29Z",
+          "latest_thesis": "Yes, I'm still bullish on memory like $MU / Samsung.  As I said earlier, markets tend to rotate from bottleneck to bottleneck.  This week it looks $AXTI to $LITE in the photonic...",
+          "latest_summary_zh": "",
+          "latest_change": "NEW",
+          "sentiments": {
+            "Bullish": 2,
+            "Neutral": 1
+          }
+        },
+        {
           "symbol": "POET",
           "mentions": 3,
           "dominant_sentiment": "Bullish",
@@ -1095,21 +1007,6 @@
           "latest_change": "NEW",
           "sentiments": {
             "Bullish": 2
-          }
-        },
-        {
-          "symbol": "AEHR",
-          "mentions": 2,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 1,
-          "max_importance": 4,
-          "latest_at": "2026-07-21T17:41:05Z",
-          "latest_thesis": "Wow, a historic single day recovery.  $SIVEF +30.89% $IQEF +28.6% $AEHR +26.53% $CIFR +17.82% $NBIS +17.3% $AAOI +15.6% $LPK +14.48% $AXTI +14.12% $MU +12.54% $SNDK +12.8% $SOI...",
-          "latest_summary_zh": "",
-          "latest_change": "MENTION",
-          "sentiments": {
-            "Neutral": 1,
-            "Bullish": 1
           }
         },
         {
@@ -1208,34 +1105,6 @@
           "latest_change": "MENTION",
           "sentiments": {
             "Neutral": 2
-          }
-        },
-        {
-          "symbol": "TSEM",
-          "mentions": 2,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 0,
-          "max_importance": 3,
-          "latest_at": "2026-07-21T17:41:05Z",
-          "latest_thesis": "Wow, a historic single day recovery.  $SIVEF +30.89% $IQEF +28.6% $AEHR +26.53% $CIFR +17.82% $NBIS +17.3% $AAOI +15.6% $LPK +14.48% $AXTI +14.12% $MU +12.54% $SNDK +12.8% $SOI...",
-          "latest_summary_zh": "",
-          "latest_change": "MENTION",
-          "sentiments": {
-            "Neutral": 2
-          }
-        },
-        {
-          "symbol": "AAPL",
-          "mentions": 1,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 1,
-          "max_importance": 5,
-          "latest_at": "2026-07-15T15:53:21Z",
-          "latest_thesis": "$AAPL looks to acquire AI chip companies for running AI (Source: The Information)  Right now, $MSFT, $META, Amazon, Google are carrying AI capex spend.  But what if Apple joined...",
-          "latest_summary_zh": "",
-          "latest_change": "MENTION",
-          "sentiments": {
-            "Bullish": 1
           }
         },
         {
@@ -1435,6 +1304,20 @@
           }
         },
         {
+          "symbol": "AEHR",
+          "mentions": 1,
+          "dominant_sentiment": "Neutral",
+          "sentiment_score": 0,
+          "max_importance": 3,
+          "latest_at": "2026-07-21T17:41:05Z",
+          "latest_thesis": "Wow, a historic single day recovery.  $SIVEF +30.89% $IQEF +28.6% $AEHR +26.53% $CIFR +17.82% $NBIS +17.3% $AAOI +15.6% $LPK +14.48% $AXTI +14.12% $MU +12.54% $SNDK +12.8% $SOI...",
+          "latest_summary_zh": "",
+          "latest_change": "MENTION",
+          "sentiments": {
+            "Neutral": 1
+          }
+        },
+        {
           "symbol": "AEVA",
           "mentions": 1,
           "dominant_sentiment": "Neutral",
@@ -1575,6 +1458,20 @@
           }
         },
         {
+          "symbol": "TSEM",
+          "mentions": 1,
+          "dominant_sentiment": "Neutral",
+          "sentiment_score": 0,
+          "max_importance": 3,
+          "latest_at": "2026-07-21T17:41:05Z",
+          "latest_thesis": "Wow, a historic single day recovery.  $SIVEF +30.89% $IQEF +28.6% $AEHR +26.53% $CIFR +17.82% $NBIS +17.3% $AAOI +15.6% $LPK +14.48% $AXTI +14.12% $MU +12.54% $SNDK +12.8% $SOI...",
+          "latest_summary_zh": "",
+          "latest_change": "MENTION",
+          "sentiments": {
+            "Neutral": 1
+          }
+        },
+        {
           "symbol": "TTMI",
           "mentions": 1,
           "dominant_sentiment": "Neutral",
@@ -1664,88 +1561,88 @@
       "period": "quarterly",
       "label": "每季",
       "days": 90,
-      "start_at": "2026-05-13T14:21:36.877939Z",
-      "generated_at": "2026-08-11T14:21:36.948300Z",
+      "start_at": "2026-05-15T00:57:24.784624Z",
+      "generated_at": "2026-08-13T00:57:24.953673Z",
       "earliest_available_at": "2025-11-17T16:12:21Z",
       "traversed_until": "2026-04-13T02:42:25Z",
-      "coverage_days": 120,
+      "coverage_days": 121,
       "coverage_complete": true,
-      "tweet_count": 550,
-      "primary_post_count": 550,
-      "reply_context_count": 726,
-      "all_collected_count": 1276,
-      "symbol_count": 172,
-      "high_importance_count": 191,
+      "tweet_count": 536,
+      "primary_post_count": 536,
+      "reply_context_count": 712,
+      "all_collected_count": 1248,
+      "symbol_count": 169,
+      "high_importance_count": 186,
       "ai_analyzed_count": 18,
       "sentiments": {
-        "Neutral": 374,
-        "Bullish": 144,
-        "Bearish": 31,
+        "Neutral": 367,
+        "Bullish": 138,
+        "Bearish": 30,
         "Mixed": 1
       },
       "symbols": [
         {
           "symbol": "SIVE",
-          "mentions": 141,
+          "mentions": 138,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 39,
+          "sentiment_score": 37,
           "max_importance": 5,
           "latest_at": "2026-08-10T08:26:02Z",
           "latest_thesis": "光學與科技主題具高波動特性，投資人應建立長線信念、避免頻繁交易與恐慌殺跌，才能把握光通訊族群強勁反彈的收益。",
           "latest_summary_zh": "作者觀察到光通訊族群（SIVE、OE Solutions、LITE、Coherent、AAOI）迎來強勁反彈行情。他引用 Fidelity 與 UC Berkeley 的研究指出，不頻繁交易者的平均報酬率（18.5%）顯著高於頻繁交易者（11.4%）。作者提醒散戶往往在記憶體或光通訊等主題波動中恐慌殺跌，導致錯過隨後的劇烈反彈，強調建立投資信念能有效避免過度交易並掌握逢低加碼的機會。",
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bullish": 51,
-            "Neutral": 77,
+            "Bullish": 49,
+            "Neutral": 76,
             "Bearish": 12,
             "Mixed": 1
           }
         },
         {
           "symbol": "NVDA",
-          "mentions": 98,
+          "mentions": 96,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 34,
+          "sentiment_score": 33,
           "max_importance": 5,
           "latest_at": "2026-08-11T02:19:36Z",
           "latest_thesis": "宇樹科技 IPO 的極端超額認購凸顯市場對人形機器人板塊的強烈渴望，其高估值上市將為估值相對較低的美國同業帶來外溢效應與重新定價機會。",
           "latest_summary_zh": "宇樹科技（Unitree）IPO 獲得散戶超額認購超過 8000 倍，顯示市場對純人形機器人標的的需求極度狂熱。作者指出自己透過 CCXI 參與投資美國人形機器人公司 Agility Robotics（前輪估值約 25 億美元），並認為宇樹若以 300 億美元以上的估值開盤，將在未來一至兩週內吸引資金關注美國領先的人形機器人業者。",
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bullish": 42,
-            "Neutral": 48,
+            "Bullish": 41,
+            "Neutral": 47,
             "Bearish": 8
           }
         },
         {
           "symbol": "LITE",
-          "mentions": 79,
+          "mentions": 78,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 23,
+          "sentiment_score": 22,
           "max_importance": 5,
           "latest_at": "2026-08-10T08:26:02Z",
           "latest_thesis": "光學與科技主題具高波動特性，投資人應建立長線信念、避免頻繁交易與恐慌殺跌，才能把握光通訊族群強勁反彈的收益。",
           "latest_summary_zh": "作者觀察到光通訊族群（SIVE、OE Solutions、LITE、Coherent、AAOI）迎來強勁反彈行情。他引用 Fidelity 與 UC Berkeley 的研究指出，不頻繁交易者的平均報酬率（18.5%）顯著高於頻繁交易者（11.4%）。作者提醒散戶往往在記憶體或光通訊等主題波動中恐慌殺跌，導致錯過隨後的劇烈反彈，強調建立投資信念能有效避免過度交易並掌握逢低加碼的機會。",
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bullish": 31,
+            "Bullish": 30,
             "Neutral": 40,
             "Bearish": 8
           }
         },
         {
           "symbol": "AAOI",
-          "mentions": 73,
+          "mentions": 71,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 27,
+          "sentiment_score": 26,
           "max_importance": 5,
           "latest_at": "2026-08-10T15:42:04Z",
           "latest_thesis": "主流媒體因缺乏光學工程專業知識而將 $AAOI 誤批為迷因股，忽視了其在光學供應鏈中的技術瓶頸與基本面潛力。",
           "latest_summary_zh": "作者以諷刺對話批評主流財經媒體 Barron's 對光學供應鏈（如 $AAOI）的報導極不專業。作者指出媒體聘用缺乏工程背景的人員，因看不懂 CW 雷射瓶頸與產能毛利模型等技術細節，便草率將其歸類為迷因股（memestock）。",
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bullish": 31,
-            "Neutral": 38,
+            "Bullish": 30,
+            "Neutral": 37,
             "Bearish": 4
           }
         },
@@ -1865,9 +1762,9 @@
         },
         {
           "symbol": "JBL",
-          "mentions": 34,
+          "mentions": 32,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 10,
+          "sentiment_score": 8,
           "max_importance": 5,
           "latest_at": "2026-08-06T22:54:46Z",
           "latest_thesis": "Just some TLDR notes on $AAOI earnings:  - Expects full qualification of 1.6T products by their hyperscaler customer within next couple of weeks   (helpful revenue ramp #2, time...",
@@ -1875,7 +1772,7 @@
           "latest_change": "NEW",
           "sentiments": {
             "Neutral": 16,
-            "Bullish": 14,
+            "Bullish": 12,
             "Bearish": 4
           }
         },
@@ -1897,7 +1794,7 @@
         },
         {
           "symbol": "SNDK",
-          "mentions": 29,
+          "mentions": 28,
           "dominant_sentiment": "Neutral",
           "sentiment_score": 2,
           "max_importance": 5,
@@ -1906,25 +1803,9 @@
           "latest_summary_zh": "",
           "latest_change": "MENTION",
           "sentiments": {
-            "Neutral": 17,
+            "Neutral": 16,
             "Bearish": 5,
             "Bullish": 7
-          }
-        },
-        {
-          "symbol": "AMZN",
-          "mentions": 27,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 7,
-          "max_importance": 5,
-          "latest_at": "2026-08-11T02:19:36Z",
-          "latest_thesis": "宇樹科技 IPO 的極端超額認購凸顯市場對人形機器人板塊的強烈渴望，其高估值上市將為估值相對較低的美國同業帶來外溢效應與重新定價機會。",
-          "latest_summary_zh": "宇樹科技（Unitree）IPO 獲得散戶超額認購超過 8000 倍，顯示市場對純人形機器人標的的需求極度狂熱。作者指出自己透過 CCXI 參與投資美國人形機器人公司 Agility Robotics（前輪估值約 25 億美元），並認為宇樹若以 300 億美元以上的估值開盤，將在未來一至兩週內吸引資金關注美國領先的人形機器人業者。",
-          "latest_change": "INSUFFICIENT_HISTORY",
-          "sentiments": {
-            "Bullish": 8,
-            "Neutral": 18,
-            "Bearish": 1
           }
         },
         {
@@ -1944,18 +1825,18 @@
           }
         },
         {
-          "symbol": "TSM",
+          "symbol": "AMZN",
           "mentions": 26,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 9,
+          "sentiment_score": 7,
           "max_importance": 5,
-          "latest_at": "2026-08-06T09:56:42Z",
-          "latest_thesis": "I remain convinced nobody knows how to pronounce or talk about $AAOI in real life.   It’s one letter too long to say $TSM or $AMD.   And nobody ever says to a friend“Wow, I like...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
+          "latest_at": "2026-08-11T02:19:36Z",
+          "latest_thesis": "宇樹科技 IPO 的極端超額認購凸顯市場對人形機器人板塊的強烈渴望，其高估值上市將為估值相對較低的美國同業帶來外溢效應與重新定價機會。",
+          "latest_summary_zh": "宇樹科技（Unitree）IPO 獲得散戶超額認購超過 8000 倍，顯示市場對純人形機器人標的的需求極度狂熱。作者指出自己透過 CCXI 參與投資美國人形機器人公司 Agility Robotics（前輪估值約 25 億美元），並認為宇樹若以 300 億美元以上的估值開盤，將在未來一至兩週內吸引資金關注美國領先的人形機器人業者。",
+          "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bullish": 10,
-            "Neutral": 15,
+            "Bullish": 8,
+            "Neutral": 17,
             "Bearish": 1
           }
         },
@@ -1992,6 +1873,22 @@
           }
         },
         {
+          "symbol": "TSM",
+          "mentions": 25,
+          "dominant_sentiment": "Neutral",
+          "sentiment_score": 8,
+          "max_importance": 5,
+          "latest_at": "2026-08-06T09:56:42Z",
+          "latest_thesis": "I remain convinced nobody knows how to pronounce or talk about $AAOI in real life.   It’s one letter too long to say $TSM or $AMD.   And nobody ever says to a friend“Wow, I like...",
+          "latest_summary_zh": "",
+          "latest_change": "NEW",
+          "sentiments": {
+            "Bullish": 9,
+            "Neutral": 15,
+            "Bearish": 1
+          }
+        },
+        {
           "symbol": "IQE",
           "mentions": 24,
           "dominant_sentiment": "Neutral",
@@ -2005,22 +1902,6 @@
             "Bullish": 8,
             "Neutral": 14,
             "Bearish": 2
-          }
-        },
-        {
-          "symbol": "POET",
-          "mentions": 24,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 10,
-          "max_importance": 5,
-          "latest_at": "2026-08-07T07:26:37Z",
-          "latest_thesis": "Earlier today, optical interconnect company Lumilens \"emerges from stealth\" at a $5.5B valuation, after raising $700m.  Just as a recap from $POET / $SIVE Linkedin OSINT mapping...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
-          "sentiments": {
-            "Neutral": 6,
-            "Bullish": 14,
-            "Bearish": 4
           }
         },
         {
@@ -2055,8 +1936,24 @@
           }
         },
         {
-          "symbol": "TSEM",
+          "symbol": "POET",
           "mentions": 22,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 8,
+          "max_importance": 5,
+          "latest_at": "2026-08-07T07:26:37Z",
+          "latest_thesis": "Earlier today, optical interconnect company Lumilens \"emerges from stealth\" at a $5.5B valuation, after raising $700m.  Just as a recap from $POET / $SIVE Linkedin OSINT mapping...",
+          "latest_summary_zh": "",
+          "latest_change": "NEW",
+          "sentiments": {
+            "Neutral": 6,
+            "Bullish": 12,
+            "Bearish": 4
+          }
+        },
+        {
+          "symbol": "TSEM",
+          "mentions": 21,
           "dominant_sentiment": "Neutral",
           "sentiment_score": 5,
           "max_importance": 5,
@@ -2065,25 +1962,9 @@
           "latest_summary_zh": "",
           "latest_change": "MENTION",
           "sentiments": {
-            "Neutral": 11,
+            "Neutral": 10,
             "Bearish": 3,
             "Bullish": 8
-          }
-        },
-        {
-          "symbol": "TSLA",
-          "mentions": 21,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 3,
-          "max_importance": 5,
-          "latest_at": "2026-07-23T04:35:37Z",
-          "latest_thesis": "Just some notes from $TSLA transcripts:  Elon Musk: \"I think Optimus will be the biggest product ever\" from Q2 earnings transcripts.  Even from Q1, Elon Stated: \"I think Optimus...",
-          "latest_summary_zh": "",
-          "latest_change": "UPDATE",
-          "sentiments": {
-            "Bullish": 4,
-            "Neutral": 16,
-            "Bearish": 1
           }
         },
         {
@@ -2134,6 +2015,22 @@
           }
         },
         {
+          "symbol": "TSLA",
+          "mentions": 20,
+          "dominant_sentiment": "Neutral",
+          "sentiment_score": 2,
+          "max_importance": 5,
+          "latest_at": "2026-07-23T04:35:37Z",
+          "latest_thesis": "Just some notes from $TSLA transcripts:  Elon Musk: \"I think Optimus will be the biggest product ever\" from Q2 earnings transcripts.  Even from Q1, Elon Stated: \"I think Optimus...",
+          "latest_summary_zh": "",
+          "latest_change": "UPDATE",
+          "sentiments": {
+            "Bullish": 3,
+            "Neutral": 16,
+            "Bearish": 1
+          }
+        },
+        {
           "symbol": "RDDT",
           "mentions": 18,
           "dominant_sentiment": "Neutral",
@@ -2150,7 +2047,7 @@
         },
         {
           "symbol": "AVGO",
-          "mentions": 16,
+          "mentions": 15,
           "dominant_sentiment": "Neutral",
           "sentiment_score": 4,
           "max_importance": 5,
@@ -2160,7 +2057,7 @@
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
             "Bullish": 6,
-            "Neutral": 8,
+            "Neutral": 7,
             "Bearish": 2
           }
         },
@@ -2246,22 +2143,6 @@
           }
         },
         {
-          "symbol": "NOK",
-          "mentions": 12,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 5,
-          "max_importance": 5,
-          "latest_at": "2026-06-09T11:52:27Z",
-          "latest_thesis": "Names like:  - $ASX - Sumitomo Electric - $JBL - $VICR - $GFS  - $AAOI  - AlChip  - $TSEM - $FN - Furukawa Electric - $CLS - $NBIS - $NOK - $AMKR - $LITE - $COHR  Off the top of...",
-          "latest_summary_zh": "",
-          "latest_change": "MENTION",
-          "sentiments": {
-            "Neutral": 5,
-            "Bullish": 6,
-            "Bearish": 1
-          }
-        },
-        {
           "symbol": "RPI",
           "mentions": 12,
           "dominant_sentiment": "Neutral",
@@ -2294,6 +2175,22 @@
           }
         },
         {
+          "symbol": "NOK",
+          "mentions": 11,
+          "dominant_sentiment": "Neutral",
+          "sentiment_score": 4,
+          "max_importance": 5,
+          "latest_at": "2026-06-09T11:52:27Z",
+          "latest_thesis": "Names like:  - $ASX - Sumitomo Electric - $JBL - $VICR - $GFS  - $AAOI  - AlChip  - $TSEM - $FN - Furukawa Electric - $CLS - $NBIS - $NOK - $AMKR - $LITE - $COHR  Off the top of...",
+          "latest_summary_zh": "",
+          "latest_change": "MENTION",
+          "sentiments": {
+            "Neutral": 5,
+            "Bullish": 5,
+            "Bearish": 1
+          }
+        },
+        {
           "symbol": "NVTS",
           "mentions": 10,
           "dominant_sentiment": "Bullish",
@@ -2306,22 +2203,6 @@
           "sentiments": {
             "Bullish": 7,
             "Neutral": 3
-          }
-        },
-        {
-          "symbol": "AEVA",
-          "mentions": 8,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 3,
-          "max_importance": 5,
-          "latest_at": "2026-08-06T04:12:45Z",
-          "latest_thesis": "The unexpected thing of the week... Was $AEVA becoming a CPO/NPO optical source player.   For background: $SIVE is viewed as the high confidence CW DFB laser supplier to Aeva (w...",
-          "latest_summary_zh": "",
-          "latest_change": "MENTION",
-          "sentiments": {
-            "Neutral": 3,
-            "Bullish": 4,
-            "Bearish": 1
           }
         },
         {
@@ -2369,6 +2250,22 @@
           "sentiments": {
             "Bullish": 5,
             "Neutral": 2
+          }
+        },
+        {
+          "symbol": "AEVA",
+          "mentions": 7,
+          "dominant_sentiment": "Neutral",
+          "sentiment_score": 2,
+          "max_importance": 4,
+          "latest_at": "2026-08-06T04:12:45Z",
+          "latest_thesis": "The unexpected thing of the week... Was $AEVA becoming a CPO/NPO optical source player.   For background: $SIVE is viewed as the high confidence CW DFB laser supplier to Aeva (w...",
+          "latest_summary_zh": "",
+          "latest_change": "MENTION",
+          "sentiments": {
+            "Neutral": 3,
+            "Bullish": 3,
+            "Bearish": 1
           }
         },
         {
@@ -2434,22 +2331,6 @@
           }
         },
         {
-          "symbol": "CBRS",
-          "mentions": 5,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 0,
-          "max_importance": 5,
-          "latest_at": "2026-06-30T14:17:18Z",
-          "latest_thesis": "There was a pretty funny anecdotal complaint from the Machine Learning $RDDT subreddit.  On $CBRS + OpenAI:  - Needs 1-2K tokens/sec so tries to use Cerebras.  - Claims OpenAI r...",
-          "latest_summary_zh": "",
-          "latest_change": "MENTION",
-          "sentiments": {
-            "Neutral": 3,
-            "Bullish": 1,
-            "Bearish": 1
-          }
-        },
-        {
           "symbol": "CRWV",
           "mentions": 5,
           "dominant_sentiment": "Bullish",
@@ -2492,6 +2373,21 @@
           "sentiments": {
             "Neutral": 2,
             "Bullish": 2
+          }
+        },
+        {
+          "symbol": "CBRS",
+          "mentions": 4,
+          "dominant_sentiment": "Neutral",
+          "sentiment_score": 1,
+          "max_importance": 5,
+          "latest_at": "2026-06-30T14:17:18Z",
+          "latest_thesis": "There was a pretty funny anecdotal complaint from the Machine Learning $RDDT subreddit.  On $CBRS + OpenAI:  - Needs 1-2K tokens/sec so tries to use Cerebras.  - Claims OpenAI r...",
+          "latest_summary_zh": "",
+          "latest_change": "MENTION",
+          "sentiments": {
+            "Neutral": 3,
+            "Bullish": 1
           }
         },
         {
@@ -2610,36 +2506,6 @@
           "latest_at": "2026-07-28T22:25:27Z",
           "latest_thesis": "近期科技股拉回屬於過度的短期去槓桿，AI 雲端巨頭資本支出調升與強勁財報顯示 AI 加速發展的長期論點依然穩固。",
           "latest_summary_zh": "作者認為近期科技股的下跌是過度的短期去槓桿行為，市場基本面依然強勁。從 BE 和 TER 強勁的財報、中國光學大廠的預告，到 Alphabet 大幅調升資本支出至 1,950 億至 2,050 億美元，均顯示 AI 需求與營收正在加速。作者重申對光學互連、記憶體和近雲/AI雲端等主題的強烈信心。",
-          "latest_change": "INSUFFICIENT_HISTORY",
-          "sentiments": {
-            "Bullish": 1,
-            "Neutral": 2
-          }
-        },
-        {
-          "symbol": "CRCL",
-          "mentions": 3,
-          "dominant_sentiment": "Bearish",
-          "sentiment_score": -1,
-          "max_importance": 5,
-          "latest_at": "2026-05-23T16:55:31Z",
-          "latest_thesis": "I don't post dollar amounts because they don't matter.   What matters is return %. Speaking of that...   YTD: 3840.39%.   I'm probably the only one in the world. Who called out...",
-          "latest_summary_zh": "",
-          "latest_change": "UPDATE",
-          "sentiments": {
-            "Bearish": 2,
-            "Bullish": 1
-          }
-        },
-        {
-          "symbol": "HPS.A",
-          "mentions": 3,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 1,
-          "max_importance": 5,
-          "latest_at": "2026-06-19T12:19:38Z",
-          "latest_thesis": "三大核心主線（新興雲端能源、記憶體、矽光子）中長期邏輯依然穩固，投資應以數月的中期時間軸評估而非受短期波動干擾。",
-          "latest_summary_zh": "作者回顧其投資組合表現，重申三大核心主題為新興雲端/能源（Neoclouds）、記憶體（Memory）與光電/矽光子（Photonics）。雖然部分台灣 CPO 供應鏈受虛假報告影響出現虧損，且韓國市場因高波動性讓人心生戒心，但整體中長期個股多數回報優異。作者強調投資觀點應以數月的「中長期」時間軸來評估，而非數週的短期波動。",
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
             "Bullish": 1,
@@ -2779,21 +2645,6 @@
           }
         },
         {
-          "symbol": "AMAT",
-          "mentions": 2,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 1,
-          "max_importance": 5,
-          "latest_at": "2026-06-07T02:07:23Z",
-          "latest_thesis": "Just very helpful timelines reiterated around glass substrate (source: Trendforce):  - SKC Absolics (011790) H2 2026 (first mover x $AMAT) - $AMD customers  - Samsung electromec...",
-          "latest_summary_zh": "",
-          "latest_change": "MENTION",
-          "sentiments": {
-            "Neutral": 1,
-            "Bullish": 1
-          }
-        },
-        {
           "symbol": "AOSL",
           "mentions": 2,
           "dominant_sentiment": "Bullish",
@@ -2805,6 +2656,21 @@
           "latest_change": "MENTION",
           "sentiments": {
             "Bullish": 2
+          }
+        },
+        {
+          "symbol": "CRCL",
+          "mentions": 2,
+          "dominant_sentiment": "Bearish",
+          "sentiment_score": 0,
+          "max_importance": 5,
+          "latest_at": "2026-05-23T16:55:31Z",
+          "latest_thesis": "I don't post dollar amounts because they don't matter.   What matters is return %. Speaking of that...   YTD: 3840.39%.   I'm probably the only one in the world. Who called out...",
+          "latest_summary_zh": "",
+          "latest_change": "UPDATE",
+          "sentiments": {
+            "Bearish": 1,
+            "Bullish": 1
           }
         },
         {
@@ -2864,6 +2730,21 @@
           "sentiments": {
             "Bearish": 1,
             "Bullish": 1
+          }
+        },
+        {
+          "symbol": "HPS.A",
+          "mentions": 2,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 1,
+          "max_importance": 5,
+          "latest_at": "2026-06-19T12:19:38Z",
+          "latest_thesis": "三大核心主線（新興雲端能源、記憶體、矽光子）中長期邏輯依然穩固，投資應以數月的中期時間軸評估而非受短期波動干擾。",
+          "latest_summary_zh": "作者回顧其投資組合表現，重申三大核心主題為新興雲端/能源（Neoclouds）、記憶體（Memory）與光電/矽光子（Photonics）。雖然部分台灣 CPO 供應鏈受虛假報告影響出現虧損，且韓國市場因高波動性讓人心生戒心，但整體中長期個股多數回報優異。作者強調投資觀點應以數月的「中長期」時間軸來評估，而非數週的短期波動。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 1,
+            "Neutral": 1
           }
         },
         {
@@ -3193,34 +3074,6 @@
           "max_importance": 5,
           "latest_at": "2026-06-07T10:39:16Z",
           "latest_thesis": "Sure, #1 thing is toxic financing structure/float dynamics.   Best example is current Neoclouds landscape:  - $IREN is basically trash, since they have $6,000,000,000 ATMs and v...",
-          "latest_summary_zh": "",
-          "latest_change": "UPDATE",
-          "sentiments": {
-            "Bullish": 1
-          }
-        },
-        {
-          "symbol": "BULL",
-          "mentions": 1,
-          "dominant_sentiment": "Bearish",
-          "sentiment_score": -1,
-          "max_importance": 5,
-          "latest_at": "2026-05-14T23:32:35Z",
-          "latest_thesis": "Not a fan of $CBRS, especially at ~$90B-100B MC valuations.  But I do like the company.  There’s a lot of short term valuation disconnects with float dynamics after IPO as seen...",
-          "latest_summary_zh": "",
-          "latest_change": "UPDATE",
-          "sentiments": {
-            "Bearish": 1
-          }
-        },
-        {
-          "symbol": "CRBS",
-          "mentions": 1,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 1,
-          "max_importance": 5,
-          "latest_at": "2026-05-14T23:01:34Z",
-          "latest_thesis": "Why is our president stock trading like a FinX influencer... Going long on semi supply chains like $JBL to $AMAT?  Looks more like a self-made ETF rather than picking individual...",
           "latest_summary_zh": "",
           "latest_change": "UPDATE",
           "sentiments": {
@@ -3732,6 +3585,20 @@
           }
         },
         {
+          "symbol": "AMAT",
+          "mentions": 1,
+          "dominant_sentiment": "Neutral",
+          "sentiment_score": 0,
+          "max_importance": 3,
+          "latest_at": "2026-06-07T02:07:23Z",
+          "latest_thesis": "Just very helpful timelines reiterated around glass substrate (source: Trendforce):  - SKC Absolics (011790) H2 2026 (first mover x $AMAT) - $AMD customers  - Samsung electromec...",
+          "latest_summary_zh": "",
+          "latest_change": "MENTION",
+          "sentiments": {
+            "Neutral": 1
+          }
+        },
+        {
           "symbol": "APH",
           "mentions": 1,
           "dominant_sentiment": "Neutral",
@@ -3767,20 +3634,6 @@
           "max_importance": 3,
           "latest_at": "2026-06-20T03:52:23Z",
           "latest_thesis": "In terms of personal notes:  1. Priortech owns 21% of $CAMT, ~1.35x their MC, seems more like holding co.  2. Bit Digital people kept shouting, but NAV discount is not clean $WY...",
-          "latest_summary_zh": "",
-          "latest_change": "MENTION",
-          "sentiments": {
-            "Bullish": 1
-          }
-        },
-        {
-          "symbol": "CDNS",
-          "mentions": 1,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 1,
-          "max_importance": 3,
-          "latest_at": "2026-05-13T22:53:50Z",
-          "latest_thesis": "“Robotics may be the biggest product category of all time” - $CDNS CEO.  “The projection is $25 trillion. The whole GDP of the world is $110 trillion. So this is huge if this ha...",
           "latest_summary_zh": "",
           "latest_change": "MENTION",
           "sentiments": {
@@ -4730,20 +4583,20 @@
     "JBL",
     "INTC",
     "SNDK",
-    "AMZN",
     "XFAB",
-    "TSM",
+    "AMZN",
     "GOOGL",
     "SPCX",
+    "TSM",
     "IQE",
-    "POET",
     "GFS",
     "IREN",
+    "POET",
     "TSEM",
-    "TSLA",
     "CCXI",
     "COHR",
     "LPK",
+    "TSLA",
     "RDDT",
     "AVGO"
   ]
