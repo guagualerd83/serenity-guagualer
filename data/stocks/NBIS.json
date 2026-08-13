@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-13T00:57:25.009832Z",
+  "generated_at": "2026-08-13T02:52:12.307625Z",
   "symbol": "NBIS",
   "summary": {
-    "primary_count": 60,
+    "primary_count": 61,
     "reply_count": 36,
     "first_mentioned_at": "2025-11-17T16:12:21Z",
-    "last_mentioned_at": "2026-08-10T02:03:29Z",
-    "latest_sentiment": "Neutral",
-    "latest_thesis": "",
-    "latest_change": "NEW",
+    "last_mentioned_at": "2026-08-12T12:23:43Z",
+    "latest_sentiment": "Bullish",
+    "latest_thesis": "Nebius 展現極強的算力需求能見度與持續擴大的獲利能力，儘管資本支出龐大，強勁的預付款與產能預訂奠定其長期成長動能。",
+    "latest_change": "INSUFFICIENT_HISTORY",
     "sentiments": {
-      "Bullish": 24,
+      "Bullish": 25,
       "Neutral": 66,
       "Bearish": 6
     }
@@ -2508,6 +2508,57 @@
           "retweet_count": 58
         }
       ]
+    },
+    {
+      "date": "2026-08-12",
+      "created_at": "2026-08-12T12:23:43Z",
+      "sentiment": "Bullish",
+      "bull_count": 1,
+      "bear_count": 0,
+      "neutral_count": 0,
+      "mixed_count": 0,
+      "mention_count": 1,
+      "bull_weight": 4.75,
+      "bear_weight": 0.0,
+      "bull_share": 1.0,
+      "importance": 5,
+      "confidence": 95,
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "core_thesis": "Nebius 展現極強的算力需求能見度與持續擴大的獲利能力，儘管資本支出龐大，強勁的預付款與產能預訂奠定其長期成長動能。",
+      "url": "https://x.com/aleabitoreddit/status/2087515371750490383",
+      "tweet_id": "2087515371750490383",
+      "items": [
+        {
+          "tweet_id": "2087515371750490383",
+          "is_reply": false,
+          "kind": "post",
+          "reply_signal_eligible": false,
+          "created_at": "2026-08-12T12:23:43Z",
+          "text": "$NBIS outlook is pretty insane yet again.\n\n$582.3M revenue (+454% Y/Y, +46% Q/Q) off ~50% adjusted EBITDA margin (AI Cloud). $8.04B cash on hand. \n\nReiterates financial guide (2026 revenue: $3.0–$3.4B\n2026 EoY ARR: $7–$9B), I was hoping for a raise, but it's already massive growth. \n\nNot really about this quarter financials, but these signals:\n\n- \"We could sell our entire 2027 capacity on these terms today.\" massive visibility on demand\n- \"4 customer agreements averaging over $1B+ each in contract value\"\n- Around 70% of Q2 deals included customer prepayments\n- Contracted power guidance was raised again, from more ~4+ GW to 5 GW. (this used to be a concern vs. $IREN debate, but Nebius power guidance keeps going through the roof). \n- Expects $9B+ of prepayments in 2026 and says it has $40B+ of commitments.\n- annual contract value per MW keeps going brrr (>$40M/mw for Q3 short term capacity deals)  \n\nSame bear story will always be there (eg. large $5.66B of capex with current GAAP net loss), but demand is extreme with massive visibility, with increasing AI Cloud adjusted EBITDA margins ( 24% -> 45% -> 50% progression)\n\nWe kinda got this read through from all your hyperscaler cloud earnings and $CRWV backlog yesterday, but glad it's showing up in Weebius's earnings.",
+          "url": "https://x.com/aleabitoreddit/status/2087515371750490383",
+          "sentiment": "Bullish",
+          "importance": 5,
+          "thesis_change": "INSUFFICIENT_HISTORY",
+          "summary_zh": "Nebius ($NBIS) 公布強勁的第二季財報，營收達 5.823 億美元（年增 454%、季增 46%），AI 雲端調整後 EBITDA 利潤率提升至 50%，手握 80.4 億美元現金。公司重申 2026 年財務指引，並指出強烈的需求訊號，包括 2027 年產能可按現行條件完售、包含 4 筆平均超過 10 億美元的大型合約，以及預約電力指引上調至 5 GW。",
+          "plain_zh": "Nebius 的最新業績與展望極為強勁。雖然市場常擔憂其高額資本支出導致 GAAP 淨虧損，但其 AI 雲端的獲利能力正在迅速改善（EBITDA 利潤率從 24% 升至 50%）。公司獲得了極高的訂單能見度，不僅客戶預付比率高，預訂的電力規模也持續擴大，顯示出市場對其 AI 算力基礎建設的極端需求。",
+          "core_thesis": "Nebius 展現極強的算力需求能見度與持續擴大的獲利能力，儘管資本支出龐大，強勁的預付款與產能預訂奠定其長期成長動能。",
+          "why_it_matters": "此財報印證了科技巨頭與雲端廠商（如 CoreWeave）先前釋放出的強勁 AI 需求趨勢。同時，電力指引大幅上調至 5 GW 減緩了先前市場對其電力獲取能力的疑慮。",
+          "history_note": "由於缺乏該帳號過去對 NBIS 的歷史貼文，無法進行歷史論點轉變的比較。",
+          "catalysts": [
+            "預計 2026 年將收到超過 90 億美元的客戶預付款",
+            "已簽署 4 筆平均價值超過 10 億美元的客戶合約",
+            "預約電力指引由 4+ GW 進一步上調至 5 GW"
+          ],
+          "risks": [
+            "龐大的資本支出（Capex 達 56.6 億美元）導致當前 GAAP 淨虧損",
+            "2026 年財務指引未如市場預期進一步上調"
+          ],
+          "confidence": 95,
+          "ai_status": "ok",
+          "favorite_count": 2225,
+          "retweet_count": 174
+        }
+      ]
     }
   ],
   "performance": {
@@ -4338,6 +4389,53 @@
             "exit_date": "2026-08-12",
             "exit_price": 259.2,
             "hit": true
+          }
+        },
+        "mention_count": 1,
+        "bull_count": 1,
+        "bear_count": 0,
+        "neutral_count": 0,
+        "bull_share": 1.0
+      },
+      {
+        "date": "2026-08-12",
+        "created_at": "2026-08-12T12:23:43Z",
+        "url": "https://x.com/aleabitoreddit/status/2087515371750490383",
+        "sentiment": "Bullish",
+        "confidence": 95,
+        "importance": 5,
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "Nebius 展現極強的算力需求能見度與持續擴大的獲利能力，儘管資本支出龐大，強勁的預付款與產能預訂奠定其長期成長動能。",
+        "entry_date": "2026-08-12",
+        "entry_price": 259.2,
+        "returns": {
+          "1d": {
+            "raw_return": null,
+            "score_return": null,
+            "exit_date": null,
+            "exit_price": null,
+            "hit": null
+          },
+          "7d": {
+            "raw_return": null,
+            "score_return": null,
+            "exit_date": null,
+            "exit_price": null,
+            "hit": null
+          },
+          "30d": {
+            "raw_return": null,
+            "score_return": null,
+            "exit_date": null,
+            "exit_price": null,
+            "hit": null
+          },
+          "now": {
+            "raw_return": 0.0,
+            "score_return": 0.0,
+            "exit_date": "2026-08-12",
+            "exit_price": 259.2,
+            "hit": false
           }
         },
         "mention_count": 1,
@@ -6840,11 +6938,62 @@
             "retweet_count": 58
           }
         ]
+      },
+      {
+        "date": "2026-08-12",
+        "created_at": "2026-08-12T12:23:43Z",
+        "sentiment": "Bullish",
+        "bull_count": 1,
+        "bear_count": 0,
+        "neutral_count": 0,
+        "mixed_count": 0,
+        "mention_count": 1,
+        "bull_weight": 4.75,
+        "bear_weight": 0.0,
+        "bull_share": 1.0,
+        "importance": 5,
+        "confidence": 95,
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "Nebius 展現極強的算力需求能見度與持續擴大的獲利能力，儘管資本支出龐大，強勁的預付款與產能預訂奠定其長期成長動能。",
+        "url": "https://x.com/aleabitoreddit/status/2087515371750490383",
+        "tweet_id": "2087515371750490383",
+        "items": [
+          {
+            "tweet_id": "2087515371750490383",
+            "is_reply": false,
+            "kind": "post",
+            "reply_signal_eligible": false,
+            "created_at": "2026-08-12T12:23:43Z",
+            "text": "$NBIS outlook is pretty insane yet again.\n\n$582.3M revenue (+454% Y/Y, +46% Q/Q) off ~50% adjusted EBITDA margin (AI Cloud). $8.04B cash on hand. \n\nReiterates financial guide (2026 revenue: $3.0–$3.4B\n2026 EoY ARR: $7–$9B), I was hoping for a raise, but it's already massive growth. \n\nNot really about this quarter financials, but these signals:\n\n- \"We could sell our entire 2027 capacity on these terms today.\" massive visibility on demand\n- \"4 customer agreements averaging over $1B+ each in contract value\"\n- Around 70% of Q2 deals included customer prepayments\n- Contracted power guidance was raised again, from more ~4+ GW to 5 GW. (this used to be a concern vs. $IREN debate, but Nebius power guidance keeps going through the roof). \n- Expects $9B+ of prepayments in 2026 and says it has $40B+ of commitments.\n- annual contract value per MW keeps going brrr (>$40M/mw for Q3 short term capacity deals)  \n\nSame bear story will always be there (eg. large $5.66B of capex with current GAAP net loss), but demand is extreme with massive visibility, with increasing AI Cloud adjusted EBITDA margins ( 24% -> 45% -> 50% progression)\n\nWe kinda got this read through from all your hyperscaler cloud earnings and $CRWV backlog yesterday, but glad it's showing up in Weebius's earnings.",
+            "url": "https://x.com/aleabitoreddit/status/2087515371750490383",
+            "sentiment": "Bullish",
+            "importance": 5,
+            "thesis_change": "INSUFFICIENT_HISTORY",
+            "summary_zh": "Nebius ($NBIS) 公布強勁的第二季財報，營收達 5.823 億美元（年增 454%、季增 46%），AI 雲端調整後 EBITDA 利潤率提升至 50%，手握 80.4 億美元現金。公司重申 2026 年財務指引，並指出強烈的需求訊號，包括 2027 年產能可按現行條件完售、包含 4 筆平均超過 10 億美元的大型合約，以及預約電力指引上調至 5 GW。",
+            "plain_zh": "Nebius 的最新業績與展望極為強勁。雖然市場常擔憂其高額資本支出導致 GAAP 淨虧損，但其 AI 雲端的獲利能力正在迅速改善（EBITDA 利潤率從 24% 升至 50%）。公司獲得了極高的訂單能見度，不僅客戶預付比率高，預訂的電力規模也持續擴大，顯示出市場對其 AI 算力基礎建設的極端需求。",
+            "core_thesis": "Nebius 展現極強的算力需求能見度與持續擴大的獲利能力，儘管資本支出龐大，強勁的預付款與產能預訂奠定其長期成長動能。",
+            "why_it_matters": "此財報印證了科技巨頭與雲端廠商（如 CoreWeave）先前釋放出的強勁 AI 需求趨勢。同時，電力指引大幅上調至 5 GW 減緩了先前市場對其電力獲取能力的疑慮。",
+            "history_note": "由於缺乏該帳號過去對 NBIS 的歷史貼文，無法進行歷史論點轉變的比較。",
+            "catalysts": [
+              "預計 2026 年將收到超過 90 億美元的客戶預付款",
+              "已簽署 4 筆平均價值超過 10 億美元的客戶合約",
+              "預約電力指引由 4+ GW 進一步上調至 5 GW"
+            ],
+            "risks": [
+              "龐大的資本支出（Capex 達 56.6 億美元）導致當前 GAAP 淨虧損",
+              "2026 年財務指引未如市場預期進一步上調"
+            ],
+            "confidence": 95,
+            "ai_status": "ok",
+            "favorite_count": 2225,
+            "retweet_count": 174
+          }
+        ]
       }
     ],
     "excluded_days": 28,
     "summary": {
-      "signals": 23,
+      "signals": 24,
       "horizons": {
         "1d": {
           "sample": 23,
@@ -6862,9 +7011,9 @@
           "hit_rate": 35.0
         },
         "now": {
-          "sample": 23,
-          "avg_score_return": 27.7,
-          "hit_rate": 69.6
+          "sample": 24,
+          "avg_score_return": 26.55,
+          "hit_rate": 66.7
         }
       }
     },
@@ -6873,6 +7022,36 @@
     "include_replies": false
   },
   "primary_posts": [
+    {
+      "tweet_id": "2087515371750490383",
+      "is_reply": false,
+      "kind": "post",
+      "reply_signal_eligible": false,
+      "created_at": "2026-08-12T12:23:43Z",
+      "text": "$NBIS outlook is pretty insane yet again.\n\n$582.3M revenue (+454% Y/Y, +46% Q/Q) off ~50% adjusted EBITDA margin (AI Cloud). $8.04B cash on hand. \n\nReiterates financial guide (2026 revenue: $3.0–$3.4B\n2026 EoY ARR: $7–$9B), I was hoping for a raise, but it's already massive growth. \n\nNot really about this quarter financials, but these signals:\n\n- \"We could sell our entire 2027 capacity on these terms today.\" massive visibility on demand\n- \"4 customer agreements averaging over $1B+ each in contract value\"\n- Around 70% of Q2 deals included customer prepayments\n- Contracted power guidance was raised again, from more ~4+ GW to 5 GW. (this used to be a concern vs. $IREN debate, but Nebius power guidance keeps going through the roof). \n- Expects $9B+ of prepayments in 2026 and says it has $40B+ of commitments.\n- annual contract value per MW keeps going brrr (>$40M/mw for Q3 short term capacity deals)  \n\nSame bear story will always be there (eg. large $5.66B of capex with current GAAP net loss), but demand is extreme with massive visibility, with increasing AI Cloud adjusted EBITDA margins ( 24% -> 45% -> 50% progression)\n\nWe kinda got this read through from all your hyperscaler cloud earnings and $CRWV backlog yesterday, but glad it's showing up in Weebius's earnings.",
+      "url": "https://x.com/aleabitoreddit/status/2087515371750490383",
+      "sentiment": "Bullish",
+      "importance": 5,
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "summary_zh": "Nebius ($NBIS) 公布強勁的第二季財報，營收達 5.823 億美元（年增 454%、季增 46%），AI 雲端調整後 EBITDA 利潤率提升至 50%，手握 80.4 億美元現金。公司重申 2026 年財務指引，並指出強烈的需求訊號，包括 2027 年產能可按現行條件完售、包含 4 筆平均超過 10 億美元的大型合約，以及預約電力指引上調至 5 GW。",
+      "plain_zh": "Nebius 的最新業績與展望極為強勁。雖然市場常擔憂其高額資本支出導致 GAAP 淨虧損，但其 AI 雲端的獲利能力正在迅速改善（EBITDA 利潤率從 24% 升至 50%）。公司獲得了極高的訂單能見度，不僅客戶預付比率高，預訂的電力規模也持續擴大，顯示出市場對其 AI 算力基礎建設的極端需求。",
+      "core_thesis": "Nebius 展現極強的算力需求能見度與持續擴大的獲利能力，儘管資本支出龐大，強勁的預付款與產能預訂奠定其長期成長動能。",
+      "why_it_matters": "此財報印證了科技巨頭與雲端廠商（如 CoreWeave）先前釋放出的強勁 AI 需求趨勢。同時，電力指引大幅上調至 5 GW 減緩了先前市場對其電力獲取能力的疑慮。",
+      "history_note": "由於缺乏該帳號過去對 NBIS 的歷史貼文，無法進行歷史論點轉變的比較。",
+      "catalysts": [
+        "預計 2026 年將收到超過 90 億美元的客戶預付款",
+        "已簽署 4 筆平均價值超過 10 億美元的客戶合約",
+        "預約電力指引由 4+ GW 進一步上調至 5 GW"
+      ],
+      "risks": [
+        "龐大的資本支出（Capex 達 56.6 億美元）導致當前 GAAP 淨虧損",
+        "2026 年財務指引未如市場預期進一步上調"
+      ],
+      "confidence": 95,
+      "ai_status": "ok",
+      "favorite_count": 2225,
+      "retweet_count": 174
+    },
     {
       "tweet_id": "2086634510935118161",
       "is_reply": false,

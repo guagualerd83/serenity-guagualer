@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-13T00:57:25.009832Z",
+  "generated_at": "2026-08-13T02:52:12.307625Z",
   "symbol": "SPCX",
   "summary": {
-    "primary_count": 25,
+    "primary_count": 26,
     "reply_count": 7,
     "first_mentioned_at": "2026-05-25T17:49:06Z",
-    "last_mentioned_at": "2026-08-08T17:52:29Z",
+    "last_mentioned_at": "2026-08-11T20:51:04Z",
     "latest_sentiment": "Bullish",
-    "latest_thesis": "",
-    "latest_change": "NEW",
+    "latest_thesis": "SMCI 憑藉龐大的 AI 資料中心新訂單與超乎預期的 2027 財年營收指引，若毛利率能維持在 10-15%，目前市值具備強烈的重估（rerating）潛力。",
+    "latest_change": "INSUFFICIENT_HISTORY",
     "sentiments": {
       "Neutral": 24,
       "Bearish": 1,
-      "Bullish": 7
+      "Bullish": 8
     }
   },
   "daily_stances": [
@@ -1031,6 +1031,57 @@
           "retweet_count": 236
         }
       ]
+    },
+    {
+      "date": "2026-08-11",
+      "created_at": "2026-08-11T20:51:04Z",
+      "sentiment": "Bullish",
+      "bull_count": 1,
+      "bear_count": 0,
+      "neutral_count": 0,
+      "mixed_count": 0,
+      "mention_count": 1,
+      "bull_weight": 4.5,
+      "bear_weight": 0.0,
+      "bull_share": 1.0,
+      "importance": 5,
+      "confidence": 90,
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "core_thesis": "SMCI 憑藉龐大的 AI 資料中心新訂單與超乎預期的 2027 財年營收指引，若毛利率能維持在 10-15%，目前市值具備強烈的重估（rerating）潛力。",
+      "url": "https://x.com/aleabitoreddit/status/2087280662802026931",
+      "tweet_id": "2087280662802026931",
+      "items": [
+        {
+          "tweet_id": "2087280662802026931",
+          "is_reply": false,
+          "kind": "post",
+          "reply_signal_eligible": false,
+          "created_at": "2026-08-11T20:51:04Z",
+          "text": "$SMCI 2027 guidance was actually unholy: $65-$72 billion FY 2027 revenue guidance... \n\nvs. ~$52.4B expected, a casual +$16.1B above consensus. \n\nSMCI logged a massive $60B+ in news order from this earnings. \n\nThat timeline is also interesting when they announced a plan to co-build $SPCX + xAI  DCs \"within a year\" back in June..\n\nBut if SMCI sustain 10-15% gross margins off that ~$70B revenue guidance... I think there's a lot of room for rerating given MC is ~$20B (NFA, I have short term positions in SMCI now from this ER). \n\nMost important thing is learning about 2027 margins from call today.",
+          "url": "https://x.com/aleabitoreddit/status/2087280662802026931",
+          "sentiment": "Bullish",
+          "importance": 5,
+          "thesis_change": "INSUFFICIENT_HISTORY",
+          "summary_zh": "SMCI 給出極為強勁的 2027 財年營收指引，預計達 650 億至 720 億美元，遠高於市場預期的 524 億美元。此次財報中更記錄了超過 600 億美元的新訂單，可能與先前宣布與 xAI 等合作建造資料中心有關。作者認為若 SMCI 能維持 10-15% 的毛利率，以目前約 200 億美元的市值來看，股價具備相當大的估值重估（rerating）空間。",
+          "plain_zh": "美超微（SMCI）公佈了非常驚人的未來業績展望，預計 2027 年營收可達 650 到 720 億美元，比市場原本想的還多出約 160 億美元。而且這次光是新接到的訂單就超過 600 億美元。作者指出，只要公司的毛利率能穩定維持在 10% 到 15%，目前相對偏低的市值就有機會獲得市場重新提高評價。",
+          "core_thesis": "SMCI 憑藉龐大的 AI 資料中心新訂單與超乎預期的 2027 財年營收指引，若毛利率能維持在 10-15%，目前市值具備強烈的重估（rerating）潛力。",
+          "why_it_matters": "SMCI 的指引遠超市場共識約 161 億美元，且新增單高達 600 億美元以上，顯示 AI 伺服器與資料中心建置需求依然極度強勁。毛利率能否維持將是決定獲利能力與股價能否大幅重估的關鍵。",
+          "history_note": "由於系統中沒有可用的歷史貼文，無法比對過往觀點變化。",
+          "catalysts": [
+            "2027 財年營收指引高達 65-72B 美元（高於共識 16.1B 美元）",
+            "單季財報揭露獲得超過 600 億美元的新訂單",
+            "與 xAI 等客戶合作的資料中心建置計畫推進"
+          ],
+          "risks": [
+            "電話會議中公佈的 2027 年毛利率若無法維持在 10-15% 的水準",
+            "供應鏈或交付時程出現延誤"
+          ],
+          "confidence": 90,
+          "ai_status": "ok",
+          "favorite_count": 664,
+          "retweet_count": 45
+        }
+      ]
     }
   ],
   "performance": {
@@ -1581,6 +1632,53 @@
           "now": {
             "raw_return": 5.34,
             "score_return": 5.34,
+            "exit_date": "2026-08-12",
+            "exit_price": 146.15,
+            "hit": true
+          }
+        },
+        "mention_count": 1,
+        "bull_count": 1,
+        "bear_count": 0,
+        "neutral_count": 0,
+        "bull_share": 1.0
+      },
+      {
+        "date": "2026-08-11",
+        "created_at": "2026-08-11T20:51:04Z",
+        "url": "https://x.com/aleabitoreddit/status/2087280662802026931",
+        "sentiment": "Bullish",
+        "confidence": 90,
+        "importance": 5,
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "SMCI 憑藉龐大的 AI 資料中心新訂單與超乎預期的 2027 財年營收指引，若毛利率能維持在 10-15%，目前市值具備強烈的重估（rerating）潛力。",
+        "entry_date": "2026-08-11",
+        "entry_price": 133.29,
+        "returns": {
+          "1d": {
+            "raw_return": 9.65,
+            "score_return": 9.65,
+            "exit_date": "2026-08-12",
+            "exit_price": 146.15,
+            "hit": true
+          },
+          "7d": {
+            "raw_return": null,
+            "score_return": null,
+            "exit_date": null,
+            "exit_price": null,
+            "hit": null
+          },
+          "30d": {
+            "raw_return": null,
+            "score_return": null,
+            "exit_date": null,
+            "exit_price": null,
+            "hit": null
+          },
+          "now": {
+            "raw_return": 9.65,
+            "score_return": 9.65,
             "exit_date": "2026-08-12",
             "exit_price": 146.15,
             "hit": true
@@ -2609,16 +2707,67 @@
             "retweet_count": 236
           }
         ]
+      },
+      {
+        "date": "2026-08-11",
+        "created_at": "2026-08-11T20:51:04Z",
+        "sentiment": "Bullish",
+        "bull_count": 1,
+        "bear_count": 0,
+        "neutral_count": 0,
+        "mixed_count": 0,
+        "mention_count": 1,
+        "bull_weight": 4.5,
+        "bear_weight": 0.0,
+        "bull_share": 1.0,
+        "importance": 5,
+        "confidence": 90,
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "SMCI 憑藉龐大的 AI 資料中心新訂單與超乎預期的 2027 財年營收指引，若毛利率能維持在 10-15%，目前市值具備強烈的重估（rerating）潛力。",
+        "url": "https://x.com/aleabitoreddit/status/2087280662802026931",
+        "tweet_id": "2087280662802026931",
+        "items": [
+          {
+            "tweet_id": "2087280662802026931",
+            "is_reply": false,
+            "kind": "post",
+            "reply_signal_eligible": false,
+            "created_at": "2026-08-11T20:51:04Z",
+            "text": "$SMCI 2027 guidance was actually unholy: $65-$72 billion FY 2027 revenue guidance... \n\nvs. ~$52.4B expected, a casual +$16.1B above consensus. \n\nSMCI logged a massive $60B+ in news order from this earnings. \n\nThat timeline is also interesting when they announced a plan to co-build $SPCX + xAI  DCs \"within a year\" back in June..\n\nBut if SMCI sustain 10-15% gross margins off that ~$70B revenue guidance... I think there's a lot of room for rerating given MC is ~$20B (NFA, I have short term positions in SMCI now from this ER). \n\nMost important thing is learning about 2027 margins from call today.",
+            "url": "https://x.com/aleabitoreddit/status/2087280662802026931",
+            "sentiment": "Bullish",
+            "importance": 5,
+            "thesis_change": "INSUFFICIENT_HISTORY",
+            "summary_zh": "SMCI 給出極為強勁的 2027 財年營收指引，預計達 650 億至 720 億美元，遠高於市場預期的 524 億美元。此次財報中更記錄了超過 600 億美元的新訂單，可能與先前宣布與 xAI 等合作建造資料中心有關。作者認為若 SMCI 能維持 10-15% 的毛利率，以目前約 200 億美元的市值來看，股價具備相當大的估值重估（rerating）空間。",
+            "plain_zh": "美超微（SMCI）公佈了非常驚人的未來業績展望，預計 2027 年營收可達 650 到 720 億美元，比市場原本想的還多出約 160 億美元。而且這次光是新接到的訂單就超過 600 億美元。作者指出，只要公司的毛利率能穩定維持在 10% 到 15%，目前相對偏低的市值就有機會獲得市場重新提高評價。",
+            "core_thesis": "SMCI 憑藉龐大的 AI 資料中心新訂單與超乎預期的 2027 財年營收指引，若毛利率能維持在 10-15%，目前市值具備強烈的重估（rerating）潛力。",
+            "why_it_matters": "SMCI 的指引遠超市場共識約 161 億美元，且新增單高達 600 億美元以上，顯示 AI 伺服器與資料中心建置需求依然極度強勁。毛利率能否維持將是決定獲利能力與股價能否大幅重估的關鍵。",
+            "history_note": "由於系統中沒有可用的歷史貼文，無法比對過往觀點變化。",
+            "catalysts": [
+              "2027 財年營收指引高達 65-72B 美元（高於共識 16.1B 美元）",
+              "單季財報揭露獲得超過 600 億美元的新訂單",
+              "與 xAI 等客戶合作的資料中心建置計畫推進"
+            ],
+            "risks": [
+              "電話會議中公佈的 2027 年毛利率若無法維持在 10-15% 的水準",
+              "供應鏈或交付時程出現延誤"
+            ],
+            "confidence": 90,
+            "ai_status": "ok",
+            "favorite_count": 664,
+            "retweet_count": 45
+          }
+        ]
       }
     ],
     "excluded_days": 13,
     "summary": {
-      "signals": 8,
+      "signals": 9,
       "horizons": {
         "1d": {
-          "sample": 8,
-          "avg_score_return": -2.11,
-          "hit_rate": 37.5
+          "sample": 9,
+          "avg_score_return": -0.8,
+          "hit_rate": 44.4
         },
         "7d": {
           "sample": 7,
@@ -2631,9 +2780,9 @@
           "hit_rate": 20.0
         },
         "now": {
-          "sample": 8,
-          "avg_score_return": -1.74,
-          "hit_rate": 50.0
+          "sample": 9,
+          "avg_score_return": -0.47,
+          "hit_rate": 55.6
         }
       }
     },
@@ -2642,6 +2791,36 @@
     "include_replies": false
   },
   "primary_posts": [
+    {
+      "tweet_id": "2087280662802026931",
+      "is_reply": false,
+      "kind": "post",
+      "reply_signal_eligible": false,
+      "created_at": "2026-08-11T20:51:04Z",
+      "text": "$SMCI 2027 guidance was actually unholy: $65-$72 billion FY 2027 revenue guidance... \n\nvs. ~$52.4B expected, a casual +$16.1B above consensus. \n\nSMCI logged a massive $60B+ in news order from this earnings. \n\nThat timeline is also interesting when they announced a plan to co-build $SPCX + xAI  DCs \"within a year\" back in June..\n\nBut if SMCI sustain 10-15% gross margins off that ~$70B revenue guidance... I think there's a lot of room for rerating given MC is ~$20B (NFA, I have short term positions in SMCI now from this ER). \n\nMost important thing is learning about 2027 margins from call today.",
+      "url": "https://x.com/aleabitoreddit/status/2087280662802026931",
+      "sentiment": "Bullish",
+      "importance": 5,
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "summary_zh": "SMCI 給出極為強勁的 2027 財年營收指引，預計達 650 億至 720 億美元，遠高於市場預期的 524 億美元。此次財報中更記錄了超過 600 億美元的新訂單，可能與先前宣布與 xAI 等合作建造資料中心有關。作者認為若 SMCI 能維持 10-15% 的毛利率，以目前約 200 億美元的市值來看，股價具備相當大的估值重估（rerating）空間。",
+      "plain_zh": "美超微（SMCI）公佈了非常驚人的未來業績展望，預計 2027 年營收可達 650 到 720 億美元，比市場原本想的還多出約 160 億美元。而且這次光是新接到的訂單就超過 600 億美元。作者指出，只要公司的毛利率能穩定維持在 10% 到 15%，目前相對偏低的市值就有機會獲得市場重新提高評價。",
+      "core_thesis": "SMCI 憑藉龐大的 AI 資料中心新訂單與超乎預期的 2027 財年營收指引，若毛利率能維持在 10-15%，目前市值具備強烈的重估（rerating）潛力。",
+      "why_it_matters": "SMCI 的指引遠超市場共識約 161 億美元，且新增單高達 600 億美元以上，顯示 AI 伺服器與資料中心建置需求依然極度強勁。毛利率能否維持將是決定獲利能力與股價能否大幅重估的關鍵。",
+      "history_note": "由於系統中沒有可用的歷史貼文，無法比對過往觀點變化。",
+      "catalysts": [
+        "2027 財年營收指引高達 65-72B 美元（高於共識 16.1B 美元）",
+        "單季財報揭露獲得超過 600 億美元的新訂單",
+        "與 xAI 等客戶合作的資料中心建置計畫推進"
+      ],
+      "risks": [
+        "電話會議中公佈的 2027 年毛利率若無法維持在 10-15% 的水準",
+        "供應鏈或交付時程出現延誤"
+      ],
+      "confidence": 90,
+      "ai_status": "ok",
+      "favorite_count": 664,
+      "retweet_count": 45
+    },
     {
       "tweet_id": "2086148557187461412",
       "is_reply": false,

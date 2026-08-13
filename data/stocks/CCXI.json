@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T00:57:25.009832Z",
+  "generated_at": "2026-08-13T02:52:12.307625Z",
   "symbol": "CCXI",
   "summary": {
     "primary_count": 20,
@@ -841,8 +841,8 @@
           ],
           "confidence": 85,
           "ai_status": "ok",
-          "favorite_count": 707,
-          "retweet_count": 32
+          "favorite_count": 1253,
+          "retweet_count": 83
         }
       ]
     }
@@ -1959,8 +1959,8 @@
             ],
             "confidence": 85,
             "ai_status": "ok",
-            "favorite_count": 707,
-            "retweet_count": 32
+            "favorite_count": 1253,
+            "retweet_count": 83
           }
         ]
       }
@@ -2023,8 +2023,8 @@
       ],
       "confidence": 85,
       "ai_status": "ok",
-      "favorite_count": 707,
-      "retweet_count": 32
+      "favorite_count": 1253,
+      "retweet_count": 83
     },
     {
       "tweet_id": "2086634510935118161",

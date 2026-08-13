@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-13T00:57:25.009832Z",
+  "generated_at": "2026-08-13T02:52:12.307625Z",
   "symbol": "AVGO",
   "summary": {
-    "primary_count": 32,
+    "primary_count": 33,
     "reply_count": 9,
     "first_mentioned_at": "2025-12-26T15:08:13Z",
-    "last_mentioned_at": "2026-08-07T05:46:59Z",
+    "last_mentioned_at": "2026-08-12T07:54:08Z",
     "latest_sentiment": "Bullish",
-    "latest_thesis": "CPO 雷射與光收發器面臨嚴重供需失衡，AAOI 因產能限制退出第一代 CPO，將大幅推升其他擁有 CW 雷射產能的西方獨立廠商之價值。",
+    "latest_thesis": "光學財報驗證了 CW DFB 激光器瓶頸論點，Sivers ($SIVE) 身為少數西方 CPO 關鍵玩家，將顯著受益於供需失衡與架構轉型。",
     "latest_change": "INSUFFICIENT_HISTORY",
     "sentiments": {
       "Neutral": 23,
-      "Bullish": 16,
+      "Bullish": 17,
       "Bearish": 2
     }
   },
@@ -187,8 +187,8 @@
           "risks": [],
           "confidence": 0,
           "ai_status": "",
-          "favorite_count": 775,
-          "retweet_count": 72
+          "favorite_count": 782,
+          "retweet_count": 74
         }
       ]
     },
@@ -1374,6 +1374,57 @@
           "retweet_count": 147
         }
       ]
+    },
+    {
+      "date": "2026-08-12",
+      "created_at": "2026-08-12T07:54:08Z",
+      "sentiment": "Bullish",
+      "bull_count": 1,
+      "bear_count": 0,
+      "neutral_count": 0,
+      "mixed_count": 0,
+      "mention_count": 1,
+      "bull_weight": 4.5,
+      "bear_weight": 0.0,
+      "bull_share": 1.0,
+      "importance": 5,
+      "confidence": 90,
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "core_thesis": "光學財報驗證了 CW DFB 激光器瓶頸論點，Sivers ($SIVE) 身為少數西方 CPO 關鍵玩家，將顯著受益於供需失衡與架構轉型。",
+      "url": "https://x.com/aleabitoreddit/status/2087447527595692180",
+      "tweet_id": "2087447527595692180",
+      "items": [
+        {
+          "tweet_id": "2087447527595692180",
+          "is_reply": false,
+          "kind": "post",
+          "reply_signal_eligible": false,
+          "created_at": "2026-08-12T07:54:08Z",
+          "text": "So this is just what I'm seeing with $SIVE and the CW DFB laser chokepoint right now. \n\nFrom optical earnings: \n\n1. $LITE: unexpected demand and imbalance for UHP CW lasers. \n\n- Had ability to price up ASP for lasers. \n- Scale up CPO on track for H2 2027 shipments, called out any CPO scale up delay rumors as noise. \n\nLumentum confirmed timelines (that CPO players like Sivers sold off of misleading reports from), high margins, and extreme demand for qualified CW lasers. \n\n2. $AAOI: doesn’t have enough CW laser capacity because of too much optical transceiver demand.\n\n-  Not meaningfully participating in first-gen CPO deployments, with $MTSI not looking like they're in it either but focusing on NPO. Haven't seen much with $SMTC after their HieFo acqusition. \n- Called lasers as the bottleneck within a 20-40% demand imbalance for transceivers. \n- Says customers approaching them every week asking them for supply + to move faster.\n\nAOI confirmed demand imbalances  + bottlenecks for lasers. And we got an even smaller pool for first-gen CPO players. \n\n3. Both $AAOI and $LITE claimed Chinese players were years behind for CPO lasers and far behind stated claims in qualified capacity. \n\n- $AAOI said 2-3 years+ behind with CPO lasers. \n- $LITE said they haven't seen anything like Chinese claims in terms of outputs (and no recourse if it's false). \n\nReaffirms moat for CPO related lasers, and no flooding from some shortseller claims on the optical sector.  \n\n4. $MTSI said that many customers are approaching them with urgency due to the general supply shortage of indium phosphide DFB lasers. \n\nAgain, puts Sivers in the that bottleneck, giving them likely more customer demand .\n\nAmong $COHR ($72.54B), $LITE ($66.57B), $AVGO ($2.13T): \n\nIt's very special you get one of the public 4 Western CPO leaders at a ~$1.5B MC with $SIVE.  \n\nFeels like my thesis with both:\n\n- The CW bottleneck that I predicted\n- CW laser chokepoint (where there's only a few CPO players, at least for gen-1)\n\nGot validated from earnings, now it's just waiting for the inflection points of next optical architecture shifts.",
+          "url": "https://x.com/aleabitoreddit/status/2087447527595692180",
+          "sentiment": "Bullish",
+          "importance": 5,
+          "thesis_change": "INSUFFICIENT_HISTORY",
+          "summary_zh": "作者分析多家光電大廠（LITE、AAOI、MTSI）最新財報，驗證了連續波（CW）DFB 激光器與磷化銦（InP）產能嚴重短缺的論點。中國競爭對手技術落後數年，使具備量產能力的公司擁有定價權與高護城河。這有利於作為少數第一代 CPO 西方玩家之一且市值僅約 15 億美元的 Sivers ($SIVE)。",
+          "plain_zh": "AI 資料中心對光收發器與 CPO（共封裝光學）的需求爆炸，導致核心元件「CW 激光器」出現 20-40% 的供需失衡，甚至有錢也買不到。雖然中國廠商宣稱有產能，但西方大廠表示其品質與進度落後 2-3 年以上。這證明了 CW 激光器是關鍵瓶頸，而市值較小的 Sivers ($SIVE) 將直接受益於這波缺貨與轉單潮。",
+          "core_thesis": "光學財報驗證了 CW DFB 激光器瓶頸論點，Sivers ($SIVE) 身為少數西方 CPO 關鍵玩家，將顯著受益於供需失衡與架構轉型。",
+          "why_it_matters": "CW 激光器供不應求讓供應商具備調漲平均售價 (ASP) 的能力，並打破了空頭對中國廠商將低價傾銷的質疑。這確立了第一代 CPO 光學供應鏈極高的高護城河與進入門檻。",
+          "history_note": "由於沒有歷史貼文可供對照，本分析僅基於當前貼文內容。作者表示財報結果印證了他先前預測的 CW 激光器瓶頸與 CPO 護城河論點。",
+          "catalysts": [
+            "下一代光學架構（CPO/NPO）轉折點的到來",
+            "激光器供不應求帶動平均售價（ASP）上調",
+            "Sivers ($SIVE) 獲得更多尋求 CW 激光器替代產能的客戶訂單"
+          ],
+          "risks": [
+            "CPO 實際大規模量產與出貨時程延遲（目前預計 2027 下半年）",
+            "非 CPO 傳統光收發器產能擠壓到 CW 激光器的生產"
+          ],
+          "confidence": 90,
+          "ai_status": "ok",
+          "favorite_count": 1312,
+          "retweet_count": 94
+        }
+      ]
     }
   ],
   "performance": {
@@ -1410,7 +1461,7 @@
         },
         {
           "date": "2025-12-31",
-          "close": 344.8297
+          "close": 344.8298
         },
         {
           "date": "2026-01-02",
@@ -1470,7 +1521,7 @@
         },
         {
           "date": "2026-01-23",
-          "close": 318.8753
+          "close": 318.8754
         },
         {
           "date": "2026-01-26",
@@ -1490,7 +1541,7 @@
         },
         {
           "date": "2026-01-30",
-          "close": 330.0841
+          "close": 330.084
         },
         {
           "date": "2026-02-02",
@@ -1594,7 +1645,7 @@
         },
         {
           "date": "2026-03-10",
-          "close": 341.3226
+          "close": 341.3227
         },
         {
           "date": "2026-03-11",
@@ -1618,7 +1669,7 @@
         },
         {
           "date": "2026-03-18",
-          "close": 314.7704
+          "close": 314.7705
         },
         {
           "date": "2026-03-19",
@@ -2778,6 +2829,53 @@
         "bear_count": 0,
         "neutral_count": 0,
         "bull_share": 1.0
+      },
+      {
+        "date": "2026-08-12",
+        "created_at": "2026-08-12T07:54:08Z",
+        "url": "https://x.com/aleabitoreddit/status/2087447527595692180",
+        "sentiment": "Bullish",
+        "confidence": 90,
+        "importance": 5,
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "光學財報驗證了 CW DFB 激光器瓶頸論點，Sivers ($SIVE) 身為少數西方 CPO 關鍵玩家，將顯著受益於供需失衡與架構轉型。",
+        "entry_date": "2026-08-12",
+        "entry_price": 416.05,
+        "returns": {
+          "1d": {
+            "raw_return": null,
+            "score_return": null,
+            "exit_date": null,
+            "exit_price": null,
+            "hit": null
+          },
+          "7d": {
+            "raw_return": null,
+            "score_return": null,
+            "exit_date": null,
+            "exit_price": null,
+            "hit": null
+          },
+          "30d": {
+            "raw_return": null,
+            "score_return": null,
+            "exit_date": null,
+            "exit_price": null,
+            "hit": null
+          },
+          "now": {
+            "raw_return": 0.0,
+            "score_return": 0.0,
+            "exit_date": "2026-08-12",
+            "exit_price": 416.05,
+            "hit": false
+          }
+        },
+        "mention_count": 1,
+        "bull_count": 1,
+        "bear_count": 0,
+        "neutral_count": 0,
+        "bull_share": 1.0
       }
     ],
     "daily_stances": [
@@ -2952,8 +3050,8 @@
             "risks": [],
             "confidence": 0,
             "ai_status": "",
-            "favorite_count": 775,
-            "retweet_count": 72
+            "favorite_count": 782,
+            "retweet_count": 74
           }
         ]
       },
@@ -4139,11 +4237,62 @@
             "retweet_count": 147
           }
         ]
+      },
+      {
+        "date": "2026-08-12",
+        "created_at": "2026-08-12T07:54:08Z",
+        "sentiment": "Bullish",
+        "bull_count": 1,
+        "bear_count": 0,
+        "neutral_count": 0,
+        "mixed_count": 0,
+        "mention_count": 1,
+        "bull_weight": 4.5,
+        "bear_weight": 0.0,
+        "bull_share": 1.0,
+        "importance": 5,
+        "confidence": 90,
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "光學財報驗證了 CW DFB 激光器瓶頸論點，Sivers ($SIVE) 身為少數西方 CPO 關鍵玩家，將顯著受益於供需失衡與架構轉型。",
+        "url": "https://x.com/aleabitoreddit/status/2087447527595692180",
+        "tweet_id": "2087447527595692180",
+        "items": [
+          {
+            "tweet_id": "2087447527595692180",
+            "is_reply": false,
+            "kind": "post",
+            "reply_signal_eligible": false,
+            "created_at": "2026-08-12T07:54:08Z",
+            "text": "So this is just what I'm seeing with $SIVE and the CW DFB laser chokepoint right now. \n\nFrom optical earnings: \n\n1. $LITE: unexpected demand and imbalance for UHP CW lasers. \n\n- Had ability to price up ASP for lasers. \n- Scale up CPO on track for H2 2027 shipments, called out any CPO scale up delay rumors as noise. \n\nLumentum confirmed timelines (that CPO players like Sivers sold off of misleading reports from), high margins, and extreme demand for qualified CW lasers. \n\n2. $AAOI: doesn’t have enough CW laser capacity because of too much optical transceiver demand.\n\n-  Not meaningfully participating in first-gen CPO deployments, with $MTSI not looking like they're in it either but focusing on NPO. Haven't seen much with $SMTC after their HieFo acqusition. \n- Called lasers as the bottleneck within a 20-40% demand imbalance for transceivers. \n- Says customers approaching them every week asking them for supply + to move faster.\n\nAOI confirmed demand imbalances  + bottlenecks for lasers. And we got an even smaller pool for first-gen CPO players. \n\n3. Both $AAOI and $LITE claimed Chinese players were years behind for CPO lasers and far behind stated claims in qualified capacity. \n\n- $AAOI said 2-3 years+ behind with CPO lasers. \n- $LITE said they haven't seen anything like Chinese claims in terms of outputs (and no recourse if it's false). \n\nReaffirms moat for CPO related lasers, and no flooding from some shortseller claims on the optical sector.  \n\n4. $MTSI said that many customers are approaching them with urgency due to the general supply shortage of indium phosphide DFB lasers. \n\nAgain, puts Sivers in the that bottleneck, giving them likely more customer demand .\n\nAmong $COHR ($72.54B), $LITE ($66.57B), $AVGO ($2.13T): \n\nIt's very special you get one of the public 4 Western CPO leaders at a ~$1.5B MC with $SIVE.  \n\nFeels like my thesis with both:\n\n- The CW bottleneck that I predicted\n- CW laser chokepoint (where there's only a few CPO players, at least for gen-1)\n\nGot validated from earnings, now it's just waiting for the inflection points of next optical architecture shifts.",
+            "url": "https://x.com/aleabitoreddit/status/2087447527595692180",
+            "sentiment": "Bullish",
+            "importance": 5,
+            "thesis_change": "INSUFFICIENT_HISTORY",
+            "summary_zh": "作者分析多家光電大廠（LITE、AAOI、MTSI）最新財報，驗證了連續波（CW）DFB 激光器與磷化銦（InP）產能嚴重短缺的論點。中國競爭對手技術落後數年，使具備量產能力的公司擁有定價權與高護城河。這有利於作為少數第一代 CPO 西方玩家之一且市值僅約 15 億美元的 Sivers ($SIVE)。",
+            "plain_zh": "AI 資料中心對光收發器與 CPO（共封裝光學）的需求爆炸，導致核心元件「CW 激光器」出現 20-40% 的供需失衡，甚至有錢也買不到。雖然中國廠商宣稱有產能，但西方大廠表示其品質與進度落後 2-3 年以上。這證明了 CW 激光器是關鍵瓶頸，而市值較小的 Sivers ($SIVE) 將直接受益於這波缺貨與轉單潮。",
+            "core_thesis": "光學財報驗證了 CW DFB 激光器瓶頸論點，Sivers ($SIVE) 身為少數西方 CPO 關鍵玩家，將顯著受益於供需失衡與架構轉型。",
+            "why_it_matters": "CW 激光器供不應求讓供應商具備調漲平均售價 (ASP) 的能力，並打破了空頭對中國廠商將低價傾銷的質疑。這確立了第一代 CPO 光學供應鏈極高的高護城河與進入門檻。",
+            "history_note": "由於沒有歷史貼文可供對照，本分析僅基於當前貼文內容。作者表示財報結果印證了他先前預測的 CW 激光器瓶頸與 CPO 護城河論點。",
+            "catalysts": [
+              "下一代光學架構（CPO/NPO）轉折點的到來",
+              "激光器供不應求帶動平均售價（ASP）上調",
+              "Sivers ($SIVE) 獲得更多尋求 CW 激光器替代產能的客戶訂單"
+            ],
+            "risks": [
+              "CPO 實際大規模量產與出貨時程延遲（目前預計 2027 下半年）",
+              "非 CPO 傳統光收發器產能擠壓到 CW 激光器的生產"
+            ],
+            "confidence": 90,
+            "ai_status": "ok",
+            "favorite_count": 1312,
+            "retweet_count": 94
+          }
+        ]
       }
     ],
     "excluded_days": 13,
     "summary": {
-      "signals": 16,
+      "signals": 17,
       "horizons": {
         "1d": {
           "sample": 16,
@@ -4161,9 +4310,9 @@
           "hit_rate": 57.1
         },
         "now": {
-          "sample": 16,
-          "avg_score_return": 4.98,
-          "hit_rate": 62.5
+          "sample": 17,
+          "avg_score_return": 4.68,
+          "hit_rate": 58.8
         }
       }
     },
@@ -4172,6 +4321,36 @@
     "include_replies": false
   },
   "primary_posts": [
+    {
+      "tweet_id": "2087447527595692180",
+      "is_reply": false,
+      "kind": "post",
+      "reply_signal_eligible": false,
+      "created_at": "2026-08-12T07:54:08Z",
+      "text": "So this is just what I'm seeing with $SIVE and the CW DFB laser chokepoint right now. \n\nFrom optical earnings: \n\n1. $LITE: unexpected demand and imbalance for UHP CW lasers. \n\n- Had ability to price up ASP for lasers. \n- Scale up CPO on track for H2 2027 shipments, called out any CPO scale up delay rumors as noise. \n\nLumentum confirmed timelines (that CPO players like Sivers sold off of misleading reports from), high margins, and extreme demand for qualified CW lasers. \n\n2. $AAOI: doesn’t have enough CW laser capacity because of too much optical transceiver demand.\n\n-  Not meaningfully participating in first-gen CPO deployments, with $MTSI not looking like they're in it either but focusing on NPO. Haven't seen much with $SMTC after their HieFo acqusition. \n- Called lasers as the bottleneck within a 20-40% demand imbalance for transceivers. \n- Says customers approaching them every week asking them for supply + to move faster.\n\nAOI confirmed demand imbalances  + bottlenecks for lasers. And we got an even smaller pool for first-gen CPO players. \n\n3. Both $AAOI and $LITE claimed Chinese players were years behind for CPO lasers and far behind stated claims in qualified capacity. \n\n- $AAOI said 2-3 years+ behind with CPO lasers. \n- $LITE said they haven't seen anything like Chinese claims in terms of outputs (and no recourse if it's false). \n\nReaffirms moat for CPO related lasers, and no flooding from some shortseller claims on the optical sector.  \n\n4. $MTSI said that many customers are approaching them with urgency due to the general supply shortage of indium phosphide DFB lasers. \n\nAgain, puts Sivers in the that bottleneck, giving them likely more customer demand .\n\nAmong $COHR ($72.54B), $LITE ($66.57B), $AVGO ($2.13T): \n\nIt's very special you get one of the public 4 Western CPO leaders at a ~$1.5B MC with $SIVE.  \n\nFeels like my thesis with both:\n\n- The CW bottleneck that I predicted\n- CW laser chokepoint (where there's only a few CPO players, at least for gen-1)\n\nGot validated from earnings, now it's just waiting for the inflection points of next optical architecture shifts.",
+      "url": "https://x.com/aleabitoreddit/status/2087447527595692180",
+      "sentiment": "Bullish",
+      "importance": 5,
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "summary_zh": "作者分析多家光電大廠（LITE、AAOI、MTSI）最新財報，驗證了連續波（CW）DFB 激光器與磷化銦（InP）產能嚴重短缺的論點。中國競爭對手技術落後數年，使具備量產能力的公司擁有定價權與高護城河。這有利於作為少數第一代 CPO 西方玩家之一且市值僅約 15 億美元的 Sivers ($SIVE)。",
+      "plain_zh": "AI 資料中心對光收發器與 CPO（共封裝光學）的需求爆炸，導致核心元件「CW 激光器」出現 20-40% 的供需失衡，甚至有錢也買不到。雖然中國廠商宣稱有產能，但西方大廠表示其品質與進度落後 2-3 年以上。這證明了 CW 激光器是關鍵瓶頸，而市值較小的 Sivers ($SIVE) 將直接受益於這波缺貨與轉單潮。",
+      "core_thesis": "光學財報驗證了 CW DFB 激光器瓶頸論點，Sivers ($SIVE) 身為少數西方 CPO 關鍵玩家，將顯著受益於供需失衡與架構轉型。",
+      "why_it_matters": "CW 激光器供不應求讓供應商具備調漲平均售價 (ASP) 的能力，並打破了空頭對中國廠商將低價傾銷的質疑。這確立了第一代 CPO 光學供應鏈極高的高護城河與進入門檻。",
+      "history_note": "由於沒有歷史貼文可供對照，本分析僅基於當前貼文內容。作者表示財報結果印證了他先前預測的 CW 激光器瓶頸與 CPO 護城河論點。",
+      "catalysts": [
+        "下一代光學架構（CPO/NPO）轉折點的到來",
+        "激光器供不應求帶動平均售價（ASP）上調",
+        "Sivers ($SIVE) 獲得更多尋求 CW 激光器替代產能的客戶訂單"
+      ],
+      "risks": [
+        "CPO 實際大規模量產與出貨時程延遲（目前預計 2027 下半年）",
+        "非 CPO 傳統光收發器產能擠壓到 CW 激光器的生產"
+      ],
+      "confidence": 90,
+      "ai_status": "ok",
+      "favorite_count": 1312,
+      "retweet_count": 94
+    },
     {
       "tweet_id": "2085603590903902621",
       "is_reply": false,
@@ -4850,8 +5029,8 @@
       "risks": [],
       "confidence": 0,
       "ai_status": "",
-      "favorite_count": 775,
-      "retweet_count": 72
+      "favorite_count": 782,
+      "retweet_count": 74
     },
     {
       "tweet_id": "2037387801285841118",

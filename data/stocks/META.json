@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T00:57:25.009832Z",
+  "generated_at": "2026-08-13T02:52:12.307625Z",
   "symbol": "META",
   "summary": {
     "primary_count": 54,
@@ -275,8 +275,8 @@
           "risks": [],
           "confidence": 0,
           "ai_status": "",
-          "favorite_count": 775,
-          "retweet_count": 72
+          "favorite_count": 782,
+          "retweet_count": 74
         }
       ]
     },
@@ -2234,7 +2234,7 @@
         },
         {
           "date": "2025-11-20",
-          "close": 587.6217
+          "close": 587.6218
         },
         {
           "date": "2025-11-21",
@@ -2246,7 +2246,7 @@
         },
         {
           "date": "2025-11-25",
-          "close": 634.5695
+          "close": 634.5696
         },
         {
           "date": "2025-11-26",
@@ -2258,7 +2258,7 @@
         },
         {
           "date": "2025-12-01",
-          "close": 639.2075
+          "close": 639.2076
         },
         {
           "date": "2025-12-02",
@@ -2266,7 +2266,7 @@
         },
         {
           "date": "2025-12-03",
-          "close": 637.9408
+          "close": 637.9409
         },
         {
           "date": "2025-12-04",
@@ -2282,7 +2282,7 @@
         },
         {
           "date": "2025-12-09",
-          "close": 655.2559
+          "close": 655.2558
         },
         {
           "date": "2025-12-10",
@@ -3022,14 +3022,14 @@
             "raw_return": 3.78,
             "score_return": 3.78,
             "exit_date": "2025-11-25",
-            "exit_price": 634.5695,
+            "exit_price": 634.5696,
             "hit": true
           },
           "7d": {
             "raw_return": 4.54,
             "score_return": 4.54,
             "exit_date": "2025-12-01",
-            "exit_price": 639.2075,
+            "exit_price": 639.2076,
             "hit": true
           },
           "30d": {
@@ -4066,8 +4066,8 @@
             "risks": [],
             "confidence": 0,
             "ai_status": "",
-            "favorite_count": 775,
-            "retweet_count": 72
+            "favorite_count": 782,
+            "retweet_count": 74
           }
         ]
       },
@@ -7171,8 +7171,8 @@
       "risks": [],
       "confidence": 0,
       "ai_status": "",
-      "favorite_count": 775,
-      "retweet_count": 72
+      "favorite_count": 782,
+      "retweet_count": 74
     },
     {
       "tweet_id": "2032194165690548623",

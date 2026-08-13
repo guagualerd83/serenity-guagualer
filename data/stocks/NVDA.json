@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T00:57:25.009832Z",
+  "generated_at": "2026-08-13T02:52:12.307625Z",
   "symbol": "NVDA",
   "summary": {
     "primary_count": 145,
@@ -386,8 +386,8 @@
           "risks": [],
           "confidence": 0,
           "ai_status": "",
-          "favorite_count": 775,
-          "retweet_count": 72
+          "favorite_count": 782,
+          "retweet_count": 74
         }
       ]
     },
@@ -5238,8 +5238,8 @@
           ],
           "confidence": 85,
           "ai_status": "ok",
-          "favorite_count": 707,
-          "retweet_count": 32
+          "favorite_count": 1253,
+          "retweet_count": 83
         }
       ]
     }
@@ -5450,7 +5450,7 @@
         },
         {
           "date": "2026-03-05",
-          "close": 183.1167
+          "close": 183.1166
         },
         {
           "date": "2026-03-06",
@@ -8805,8 +8805,8 @@
             "risks": [],
             "confidence": 0,
             "ai_status": "",
-            "favorite_count": 775,
-            "retweet_count": 72
+            "favorite_count": 782,
+            "retweet_count": 74
           }
         ]
       },
@@ -13657,8 +13657,8 @@
             ],
             "confidence": 85,
             "ai_status": "ok",
-            "favorite_count": 707,
-            "retweet_count": 32
+            "favorite_count": 1253,
+            "retweet_count": 83
           }
         ]
       }
@@ -13721,8 +13721,8 @@
       ],
       "confidence": 85,
       "ai_status": "ok",
-      "favorite_count": 707,
-      "retweet_count": 32
+      "favorite_count": 1253,
+      "retweet_count": 83
     },
     {
       "tweet_id": "2086634510935118161",

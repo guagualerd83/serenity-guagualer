@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T00:57:25.009832Z",
+  "generated_at": "2026-08-13T02:52:12.307625Z",
   "symbol": "AMD",
   "summary": {
     "primary_count": 60,
@@ -55,8 +55,8 @@
           "risks": [],
           "confidence": 0,
           "ai_status": "",
-          "favorite_count": 775,
-          "retweet_count": 72
+          "favorite_count": 782,
+          "retweet_count": 74
         }
       ]
     },
@@ -2374,8 +2374,8 @@
           ],
           "confidence": 85,
           "ai_status": "ok",
-          "favorite_count": 542,
-          "retweet_count": 26
+          "favorite_count": 815,
+          "retweet_count": 40
         }
       ]
     }
@@ -4128,8 +4128,8 @@
             "risks": [],
             "confidence": 0,
             "ai_status": "",
-            "favorite_count": 775,
-            "retweet_count": 72
+            "favorite_count": 782,
+            "retweet_count": 74
           }
         ]
       },
@@ -6447,8 +6447,8 @@
             ],
             "confidence": 85,
             "ai_status": "ok",
-            "favorite_count": 542,
-            "retweet_count": 26
+            "favorite_count": 815,
+            "retweet_count": 40
           }
         ]
       }
@@ -6512,8 +6512,8 @@
       ],
       "confidence": 85,
       "ai_status": "ok",
-      "favorite_count": 542,
-      "retweet_count": 26
+      "favorite_count": 815,
+      "retweet_count": 40
     },
     {
       "tweet_id": "2086634510935118161",
@@ -7899,8 +7899,8 @@
       "risks": [],
       "confidence": 0,
       "ai_status": "",
-      "favorite_count": 775,
-      "retweet_count": 72
+      "favorite_count": 782,
+      "retweet_count": 74
     }
   ],
   "reply_context": [

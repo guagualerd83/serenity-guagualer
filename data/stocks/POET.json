@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-13T00:57:25.009832Z",
+  "generated_at": "2026-08-13T02:52:12.307625Z",
   "symbol": "POET",
   "summary": {
-    "primary_count": 39,
+    "primary_count": 40,
     "reply_count": 38,
     "first_mentioned_at": "2026-04-03T03:21:21Z",
-    "last_mentioned_at": "2026-08-07T07:26:37Z",
-    "latest_sentiment": "Neutral",
-    "latest_thesis": "",
-    "latest_change": "NEW",
+    "last_mentioned_at": "2026-08-12T22:59:29Z",
+    "latest_sentiment": "Bullish",
+    "latest_thesis": "InP CW 雷射晶片成為光通訊與 CPO 供應鏈的最核心瓶頸，垂直整合大廠自用產能鎖死外售，外購 CW 雷射供應商獲得巨大定價權與訂單能見度。",
+    "latest_change": "INSUFFICIENT_HISTORY",
     "sentiments": {
-      "Bullish": 36,
+      "Bullish": 37,
       "Bearish": 8,
       "Neutral": 33
     }
@@ -1579,6 +1579,57 @@
           "retweet_count": 63
         }
       ]
+    },
+    {
+      "date": "2026-08-12",
+      "created_at": "2026-08-12T22:59:29Z",
+      "sentiment": "Bullish",
+      "bull_count": 1,
+      "bear_count": 0,
+      "neutral_count": 0,
+      "mixed_count": 0,
+      "mention_count": 1,
+      "bull_weight": 4.5,
+      "bear_weight": 0.0,
+      "bull_share": 1.0,
+      "importance": 5,
+      "confidence": 90,
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "core_thesis": "InP CW 雷射晶片成為光通訊與 CPO 供應鏈的最核心瓶頸，垂直整合大廠自用產能鎖死外售，外購 CW 雷射供應商獲得巨大定價權與訂單能見度。",
+      "url": "https://x.com/aleabitoreddit/status/2087675367595380783",
+      "tweet_id": "2087675367595380783",
+      "items": [
+        {
+          "tweet_id": "2087675367595380783",
+          "is_reply": false,
+          "kind": "post",
+          "reply_signal_eligible": false,
+          "created_at": "2026-08-12T22:59:29Z",
+          "text": "My main takeaway was that your merchant CW laser suppliers seem to be EXTREMELY IMPORTANT now. \n\nBut TLDR of $COHR earnings:\n\n\"given the demand that we see in our DC business with transceivers, I don’t see any time in the near future where we would be selling indium phosphide lasers externally\"\n\n- Ton more value placed on companies that sell InP lasers externally if $AAOI can't doesn't enough capacity for first gen-CPO deployments, $COHR not selling externally...  \n\nI guess that's why $MTSI said a ton of customers are approaching them with urgency for InP CW DFB lasers (and they dont even have meaningful capacity coming online until EOY 2027)\n\n$AAOI -> Internal\n$COHR -> Internal\nBuyers -> fewer places to look for capacity. \n\n \"Our backlog now extends out, fiscal 2027 is basically completely booked out. We are booked really through the end of calendar 2027\" [ Massive massive demand visibility]\n\n- Coherent also mentioned LTAs spanning end of decade. So this kinda reinforces what $POET CEO said at their AGM that the \"big 3\" are fully sold out next 2 years.\n\n\"we’re not constrained in the assembly and test capacity right now. We’re really just constrained by the ramp of the indium phosphide production\"\n\n- Just for the bottleneck bros in terms of assembly/test not a bottleneck. \n\n\"absolutely no push-out of CPO demand. In fact, it has been the opposite. We have seen demand increase and request from customers’ demand getting pulled in\"\n\n\"we continue to expect revenue from CPO for scale-up applications to start to flow in the second half of calendar 2027\" \n\n- Big read through on other CPO players for scale up if $LITE, $COHR reaffirm revenue from CPO scale up coming h2027. \n\n- \"quarterly revenue exceeding $3 billion by the end of fiscal 2027\" \n\n- $COHR revenue go brrr\n\nSo for regular numbers it's:\n\n- $2.046B revenue (+13.3% Q/Q, +33.8% Y/Y), main revenue ramp looks to be happening entering Q4 into 2027\n- Non-GAAP gross margins: 40.2%\n\nNext quarter guide is:\n- Revenue: $2.2–$2.4B revenue\n- Non-GAAP gross margins: 39.5-41.5%\n\nBasically:\n$1.69B -> $1.81B -> $2.05B -> ~$2.30B -> $3.0B (end of FY 2027) \n~39% -> 39.6% -> 40.2% -> ~40.5% (gross margins)\n\nFor operating margins:\n18.0% -> 19.5% -> 19.9% -> 20.3% -> 21.8%\n\nLittle less impressed compared to $LITE margin growth in terms of profitability, but revenue scale for $COHR growing rapidly.",
+          "url": "https://x.com/aleabitoreddit/status/2087675367595380783",
+          "sentiment": "Bullish",
+          "importance": 5,
+          "thesis_change": "INSUFFICIENT_HISTORY",
+          "summary_zh": "Coherent (COHR) 財報顯示資料中心收發器需求極為強勁，且印磷 (InP) 磷化銦雷射晶片產能已被預訂至 2027 年底。由於 COHR 與 AAOI 均將 InP 雷射留作自用而不對外銷售，導致第三方外購 CW 雷射供應商（如 MTSI）需求爆發。此外，COHR 重申共封裝光學 (CPO) 需求未延後反而提前，預計 Scale-up CPO 營收將於 2027 年下半年開始顯著貢獻。",
+          "plain_zh": "Coherent 的最新財報展現了強勁的營收成長趨勢，預計到 2027 會計年度末單季營收可達 30 億美元以上。目前光通訊模組最大的瓶頸在於上遊的 InP 雷射晶片製造產能，而不是封裝測試。由於主要大廠 (COHR、AAOI) 都把雷射晶片留給自家的光收發模組使用，不對外銷售，使得需要外購 CW 雷射的客戶轉向其他供應商（如 MTSI），造就了市場極度供不應求的盛況。",
+          "core_thesis": "InP CW 雷射晶片成為光通訊與 CPO 供應鏈的最核心瓶頸，垂直整合大廠自用產能鎖死外售，外購 CW 雷射供應商獲得巨大定價權與訂單能見度。",
+          "why_it_matters": "這證實了 AI 伺服器與資料中心對高速光收發模組及 CPO 的需求非常強勁，且訂單能見度已延伸至 2027 年底。同時明確定位了當前供應鏈的真實瓶頸在於 InP 雷射晶片的晶圓製造產能。",
+          "history_note": "由於缺乏歷史貼文資料，無法比較觀點演變；但就本篇貼文而言，作者對 COHR 的營收成長與整體光通訊/CPO 產業鏈的需求能見度持高度正面態度。",
+          "catalysts": [
+            "Coherent 重申 2027 年下半年開始實現 Scale-up CPO 營收",
+            "MTSI 等外購 InP 雷射供應商將在 2027 年底迎來顯著產能開出",
+            "Coherent 預計至 2027 會計年度末單季營收將突破 30 億美元"
+          ],
+          "risks": [
+            "InP 晶片製造產能爬坡速度不如預期，持續限制出貨量",
+            "毛利率提升速度相較於同業 (LITE) 略顯平緩"
+          ],
+          "confidence": 90,
+          "ai_status": "ok",
+          "favorite_count": 568,
+          "retweet_count": 36
+        }
+      ]
     }
   ],
   "performance": {
@@ -2900,6 +2951,53 @@
             "exit_date": "2026-08-12",
             "exit_price": 8.87,
             "hit": true
+          }
+        },
+        "mention_count": 1,
+        "bull_count": 1,
+        "bear_count": 0,
+        "neutral_count": 0,
+        "bull_share": 1.0
+      },
+      {
+        "date": "2026-08-12",
+        "created_at": "2026-08-12T22:59:29Z",
+        "url": "https://x.com/aleabitoreddit/status/2087675367595380783",
+        "sentiment": "Bullish",
+        "confidence": 90,
+        "importance": 5,
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "InP CW 雷射晶片成為光通訊與 CPO 供應鏈的最核心瓶頸，垂直整合大廠自用產能鎖死外售，外購 CW 雷射供應商獲得巨大定價權與訂單能見度。",
+        "entry_date": "2026-08-12",
+        "entry_price": 8.87,
+        "returns": {
+          "1d": {
+            "raw_return": null,
+            "score_return": null,
+            "exit_date": null,
+            "exit_price": null,
+            "hit": null
+          },
+          "7d": {
+            "raw_return": null,
+            "score_return": null,
+            "exit_date": null,
+            "exit_price": null,
+            "hit": null
+          },
+          "30d": {
+            "raw_return": null,
+            "score_return": null,
+            "exit_date": null,
+            "exit_price": null,
+            "hit": null
+          },
+          "now": {
+            "raw_return": 0.0,
+            "score_return": 0.0,
+            "exit_date": "2026-08-12",
+            "exit_price": 8.87,
+            "hit": false
           }
         },
         "mention_count": 1,
@@ -4473,11 +4571,62 @@
             "retweet_count": 63
           }
         ]
+      },
+      {
+        "date": "2026-08-12",
+        "created_at": "2026-08-12T22:59:29Z",
+        "sentiment": "Bullish",
+        "bull_count": 1,
+        "bear_count": 0,
+        "neutral_count": 0,
+        "mixed_count": 0,
+        "mention_count": 1,
+        "bull_weight": 4.5,
+        "bear_weight": 0.0,
+        "bull_share": 1.0,
+        "importance": 5,
+        "confidence": 90,
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "InP CW 雷射晶片成為光通訊與 CPO 供應鏈的最核心瓶頸，垂直整合大廠自用產能鎖死外售，外購 CW 雷射供應商獲得巨大定價權與訂單能見度。",
+        "url": "https://x.com/aleabitoreddit/status/2087675367595380783",
+        "tweet_id": "2087675367595380783",
+        "items": [
+          {
+            "tweet_id": "2087675367595380783",
+            "is_reply": false,
+            "kind": "post",
+            "reply_signal_eligible": false,
+            "created_at": "2026-08-12T22:59:29Z",
+            "text": "My main takeaway was that your merchant CW laser suppliers seem to be EXTREMELY IMPORTANT now. \n\nBut TLDR of $COHR earnings:\n\n\"given the demand that we see in our DC business with transceivers, I don’t see any time in the near future where we would be selling indium phosphide lasers externally\"\n\n- Ton more value placed on companies that sell InP lasers externally if $AAOI can't doesn't enough capacity for first gen-CPO deployments, $COHR not selling externally...  \n\nI guess that's why $MTSI said a ton of customers are approaching them with urgency for InP CW DFB lasers (and they dont even have meaningful capacity coming online until EOY 2027)\n\n$AAOI -> Internal\n$COHR -> Internal\nBuyers -> fewer places to look for capacity. \n\n \"Our backlog now extends out, fiscal 2027 is basically completely booked out. We are booked really through the end of calendar 2027\" [ Massive massive demand visibility]\n\n- Coherent also mentioned LTAs spanning end of decade. So this kinda reinforces what $POET CEO said at their AGM that the \"big 3\" are fully sold out next 2 years.\n\n\"we’re not constrained in the assembly and test capacity right now. We’re really just constrained by the ramp of the indium phosphide production\"\n\n- Just for the bottleneck bros in terms of assembly/test not a bottleneck. \n\n\"absolutely no push-out of CPO demand. In fact, it has been the opposite. We have seen demand increase and request from customers’ demand getting pulled in\"\n\n\"we continue to expect revenue from CPO for scale-up applications to start to flow in the second half of calendar 2027\" \n\n- Big read through on other CPO players for scale up if $LITE, $COHR reaffirm revenue from CPO scale up coming h2027. \n\n- \"quarterly revenue exceeding $3 billion by the end of fiscal 2027\" \n\n- $COHR revenue go brrr\n\nSo for regular numbers it's:\n\n- $2.046B revenue (+13.3% Q/Q, +33.8% Y/Y), main revenue ramp looks to be happening entering Q4 into 2027\n- Non-GAAP gross margins: 40.2%\n\nNext quarter guide is:\n- Revenue: $2.2–$2.4B revenue\n- Non-GAAP gross margins: 39.5-41.5%\n\nBasically:\n$1.69B -> $1.81B -> $2.05B -> ~$2.30B -> $3.0B (end of FY 2027) \n~39% -> 39.6% -> 40.2% -> ~40.5% (gross margins)\n\nFor operating margins:\n18.0% -> 19.5% -> 19.9% -> 20.3% -> 21.8%\n\nLittle less impressed compared to $LITE margin growth in terms of profitability, but revenue scale for $COHR growing rapidly.",
+            "url": "https://x.com/aleabitoreddit/status/2087675367595380783",
+            "sentiment": "Bullish",
+            "importance": 5,
+            "thesis_change": "INSUFFICIENT_HISTORY",
+            "summary_zh": "Coherent (COHR) 財報顯示資料中心收發器需求極為強勁，且印磷 (InP) 磷化銦雷射晶片產能已被預訂至 2027 年底。由於 COHR 與 AAOI 均將 InP 雷射留作自用而不對外銷售，導致第三方外購 CW 雷射供應商（如 MTSI）需求爆發。此外，COHR 重申共封裝光學 (CPO) 需求未延後反而提前，預計 Scale-up CPO 營收將於 2027 年下半年開始顯著貢獻。",
+            "plain_zh": "Coherent 的最新財報展現了強勁的營收成長趨勢，預計到 2027 會計年度末單季營收可達 30 億美元以上。目前光通訊模組最大的瓶頸在於上遊的 InP 雷射晶片製造產能，而不是封裝測試。由於主要大廠 (COHR、AAOI) 都把雷射晶片留給自家的光收發模組使用，不對外銷售，使得需要外購 CW 雷射的客戶轉向其他供應商（如 MTSI），造就了市場極度供不應求的盛況。",
+            "core_thesis": "InP CW 雷射晶片成為光通訊與 CPO 供應鏈的最核心瓶頸，垂直整合大廠自用產能鎖死外售，外購 CW 雷射供應商獲得巨大定價權與訂單能見度。",
+            "why_it_matters": "這證實了 AI 伺服器與資料中心對高速光收發模組及 CPO 的需求非常強勁，且訂單能見度已延伸至 2027 年底。同時明確定位了當前供應鏈的真實瓶頸在於 InP 雷射晶片的晶圓製造產能。",
+            "history_note": "由於缺乏歷史貼文資料，無法比較觀點演變；但就本篇貼文而言，作者對 COHR 的營收成長與整體光通訊/CPO 產業鏈的需求能見度持高度正面態度。",
+            "catalysts": [
+              "Coherent 重申 2027 年下半年開始實現 Scale-up CPO 營收",
+              "MTSI 等外購 InP 雷射供應商將在 2027 年底迎來顯著產能開出",
+              "Coherent 預計至 2027 會計年度末單季營收將突破 30 億美元"
+            ],
+            "risks": [
+              "InP 晶片製造產能爬坡速度不如預期，持續限制出貨量",
+              "毛利率提升速度相較於同業 (LITE) 略顯平緩"
+            ],
+            "confidence": 90,
+            "ai_status": "ok",
+            "favorite_count": 568,
+            "retweet_count": 36
+          }
+        ]
       }
     ],
     "excluded_days": 11,
     "summary": {
-      "signals": 20,
+      "signals": 21,
       "horizons": {
         "1d": {
           "sample": 20,
@@ -4495,9 +4644,9 @@
           "hit_rate": 38.9
         },
         "now": {
-          "sample": 20,
-          "avg_score_return": -0.62,
-          "hit_rate": 50.0
+          "sample": 21,
+          "avg_score_return": -0.59,
+          "hit_rate": 47.6
         }
       }
     },
@@ -4506,6 +4655,36 @@
     "include_replies": false
   },
   "primary_posts": [
+    {
+      "tweet_id": "2087675367595380783",
+      "is_reply": false,
+      "kind": "post",
+      "reply_signal_eligible": false,
+      "created_at": "2026-08-12T22:59:29Z",
+      "text": "My main takeaway was that your merchant CW laser suppliers seem to be EXTREMELY IMPORTANT now. \n\nBut TLDR of $COHR earnings:\n\n\"given the demand that we see in our DC business with transceivers, I don’t see any time in the near future where we would be selling indium phosphide lasers externally\"\n\n- Ton more value placed on companies that sell InP lasers externally if $AAOI can't doesn't enough capacity for first gen-CPO deployments, $COHR not selling externally...  \n\nI guess that's why $MTSI said a ton of customers are approaching them with urgency for InP CW DFB lasers (and they dont even have meaningful capacity coming online until EOY 2027)\n\n$AAOI -> Internal\n$COHR -> Internal\nBuyers -> fewer places to look for capacity. \n\n \"Our backlog now extends out, fiscal 2027 is basically completely booked out. We are booked really through the end of calendar 2027\" [ Massive massive demand visibility]\n\n- Coherent also mentioned LTAs spanning end of decade. So this kinda reinforces what $POET CEO said at their AGM that the \"big 3\" are fully sold out next 2 years.\n\n\"we’re not constrained in the assembly and test capacity right now. We’re really just constrained by the ramp of the indium phosphide production\"\n\n- Just for the bottleneck bros in terms of assembly/test not a bottleneck. \n\n\"absolutely no push-out of CPO demand. In fact, it has been the opposite. We have seen demand increase and request from customers’ demand getting pulled in\"\n\n\"we continue to expect revenue from CPO for scale-up applications to start to flow in the second half of calendar 2027\" \n\n- Big read through on other CPO players for scale up if $LITE, $COHR reaffirm revenue from CPO scale up coming h2027. \n\n- \"quarterly revenue exceeding $3 billion by the end of fiscal 2027\" \n\n- $COHR revenue go brrr\n\nSo for regular numbers it's:\n\n- $2.046B revenue (+13.3% Q/Q, +33.8% Y/Y), main revenue ramp looks to be happening entering Q4 into 2027\n- Non-GAAP gross margins: 40.2%\n\nNext quarter guide is:\n- Revenue: $2.2–$2.4B revenue\n- Non-GAAP gross margins: 39.5-41.5%\n\nBasically:\n$1.69B -> $1.81B -> $2.05B -> ~$2.30B -> $3.0B (end of FY 2027) \n~39% -> 39.6% -> 40.2% -> ~40.5% (gross margins)\n\nFor operating margins:\n18.0% -> 19.5% -> 19.9% -> 20.3% -> 21.8%\n\nLittle less impressed compared to $LITE margin growth in terms of profitability, but revenue scale for $COHR growing rapidly.",
+      "url": "https://x.com/aleabitoreddit/status/2087675367595380783",
+      "sentiment": "Bullish",
+      "importance": 5,
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "summary_zh": "Coherent (COHR) 財報顯示資料中心收發器需求極為強勁，且印磷 (InP) 磷化銦雷射晶片產能已被預訂至 2027 年底。由於 COHR 與 AAOI 均將 InP 雷射留作自用而不對外銷售，導致第三方外購 CW 雷射供應商（如 MTSI）需求爆發。此外，COHR 重申共封裝光學 (CPO) 需求未延後反而提前，預計 Scale-up CPO 營收將於 2027 年下半年開始顯著貢獻。",
+      "plain_zh": "Coherent 的最新財報展現了強勁的營收成長趨勢，預計到 2027 會計年度末單季營收可達 30 億美元以上。目前光通訊模組最大的瓶頸在於上遊的 InP 雷射晶片製造產能，而不是封裝測試。由於主要大廠 (COHR、AAOI) 都把雷射晶片留給自家的光收發模組使用，不對外銷售，使得需要外購 CW 雷射的客戶轉向其他供應商（如 MTSI），造就了市場極度供不應求的盛況。",
+      "core_thesis": "InP CW 雷射晶片成為光通訊與 CPO 供應鏈的最核心瓶頸，垂直整合大廠自用產能鎖死外售，外購 CW 雷射供應商獲得巨大定價權與訂單能見度。",
+      "why_it_matters": "這證實了 AI 伺服器與資料中心對高速光收發模組及 CPO 的需求非常強勁，且訂單能見度已延伸至 2027 年底。同時明確定位了當前供應鏈的真實瓶頸在於 InP 雷射晶片的晶圓製造產能。",
+      "history_note": "由於缺乏歷史貼文資料，無法比較觀點演變；但就本篇貼文而言，作者對 COHR 的營收成長與整體光通訊/CPO 產業鏈的需求能見度持高度正面態度。",
+      "catalysts": [
+        "Coherent 重申 2027 年下半年開始實現 Scale-up CPO 營收",
+        "MTSI 等外購 InP 雷射供應商將在 2027 年底迎來顯著產能開出",
+        "Coherent 預計至 2027 會計年度末單季營收將突破 30 億美元"
+      ],
+      "risks": [
+        "InP 晶片製造產能爬坡速度不如預期，持續限制出貨量",
+        "毛利率提升速度相較於同業 (LITE) 略顯平緩"
+      ],
+      "confidence": 90,
+      "ai_status": "ok",
+      "favorite_count": 568,
+      "retweet_count": 36
+    },
     {
       "tweet_id": "2085628664528662818",
       "is_reply": false,

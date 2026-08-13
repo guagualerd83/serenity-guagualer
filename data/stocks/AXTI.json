@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-13T00:57:25.009832Z",
+  "generated_at": "2026-08-13T02:52:12.307625Z",
   "symbol": "AXTI",
   "summary": {
-    "primary_count": 74,
+    "primary_count": 75,
     "reply_count": 54,
     "first_mentioned_at": "2025-12-26T15:08:13Z",
-    "last_mentioned_at": "2026-08-08T17:52:29Z",
+    "last_mentioned_at": "2026-08-12T00:06:12Z",
     "latest_sentiment": "Bullish",
-    "latest_thesis": "",
-    "latest_change": "NEW",
+    "latest_thesis": "Lumentum 財報驗證了 2027 下半年 CPO/CW 激光器大升級趨勢，CW 激光器極度稀缺帶來強烈定價權，並帶動上游 InP 基板需求。",
+    "latest_change": "INSUFFICIENT_HISTORY",
     "sentiments": {
       "Neutral": 89,
-      "Bullish": 34,
+      "Bullish": 35,
       "Bearish": 4,
       "Mixed": 1
     }
@@ -2913,6 +2913,58 @@
           "retweet_count": 236
         }
       ]
+    },
+    {
+      "date": "2026-08-12",
+      "created_at": "2026-08-12T00:06:12Z",
+      "sentiment": "Bullish",
+      "bull_count": 1,
+      "bear_count": 0,
+      "neutral_count": 0,
+      "mixed_count": 0,
+      "mention_count": 1,
+      "bull_weight": 4.5,
+      "bear_weight": 0.0,
+      "bull_share": 1.0,
+      "importance": 5,
+      "confidence": 90,
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "core_thesis": "Lumentum 財報驗證了 2027 下半年 CPO/CW 激光器大升級趨勢，CW 激光器極度稀缺帶來強烈定價權，並帶動上游 InP 基板需求。",
+      "url": "https://x.com/aleabitoreddit/status/2087329770879197549",
+      "tweet_id": "2087329770879197549",
+      "items": [
+        {
+          "tweet_id": "2087329770879197549",
+          "is_reply": false,
+          "kind": "post",
+          "reply_signal_eligible": false,
+          "created_at": "2026-08-12T00:06:12Z",
+          "text": "$LITE earnings transcript TLDRs:\n\n- \"Our visibility into the timing of CPO scale-up deployments has also sharpened. We remain confident in a demand ramp for our ultra-high-power  laser chips in the second half of calendar 2027\"\n\nH2 2027 start of CPO scale up ramp confirmed from Lumentum for their lead customer. \n\n- \"We were recently given our first external light source, or ELS, module purchase for delivery by the second half of calendar 2027\" \n\nELS industry ramp timelines\n\n- \"The NPO opportunity is completely additive for us, significantly increasing the optical TAM.\"\n\nMore TAM for laser chokepoint club\n\n- \"we expect the 1.6T transceiver uptake to intensify starting in fiscal Q1 and sustain through calendar 2027.\"\n\n- \"Even in CW, we’ve been surprised at our ability to price up\"\n\nPositive pricing power for $SIVE and the other CW laser players. \n\n- \"As a result, we are able to command a nice price premium that we expect  to sustain, as these Chinese if these Chinese guys come online. \n\nI caution people also, I think people are some of these Chinese laser suppliers are not delivering in the market today, so they have there is no recourse when they throw out these big numbers. We have not seen anything like that to date in terms of their output.\"\n\nChinese players are more behind than markets expect, corroborated by $AAOI and $LITE. \n\n- \"We are way behind in our shipments, unfortunately, on high-powered lasers\"\n\n\"The demand signal has increased, and we are very much further behind relative to our ability to supply.\"\n\nExtreme demand imbalance for UHP CW laser capacity, continued demand imbalance for EML. Shipping roughly +$50M year end -> $100m+ (\"triple digit quarter\") into much larger H2 2027 and 2028 scale up demand,.\n\n- \"So what we are trying to do, I think, really in the last three months is secure even more substrate supply\" (because of demand imbalance), \"we found additional substrate help from $AXTI They are a great partner.\"\n\nHello InP substrate bottleneck. \n\nTLDR:\n\n- Lumentum CPO scale up H2 2027 shipments got confirmed, dismissed any \"delay\" news as market \"noise\". (one delay report caused so much damage, and it took Nvidia, Lumentum, and all these companies weeks to do damage control). \n- CW lasers demand ramp second half of 2027\n- Extreme demand imbalance for UHP CW laser capacity surprised Lumentum\n- UHP lasers commands very high margins and is able to price up CW laser capacity. \n- China further behind in the laser/capacity angle. \n\nBasically just validated timelines + demand/pricing for Western CW laser players. \n\nCW laser scarcity is already happening before the main volume ramp even begins...",
+          "url": "https://x.com/aleabitoreddit/status/2087329770879197549",
+          "sentiment": "Bullish",
+          "importance": 5,
+          "thesis_change": "INSUFFICIENT_HISTORY",
+          "summary_zh": "Lumentum ($LITE) 財報會議摘要確認了其主要客戶在 2027 年下半年的 CPO（共封裝光學）擴展時程，澄清了市場關於延期的傳聞。同時，高功率（UHP）CW 激光器與 EML 需求出現嚴重供需失衡，公司具備顯著的提價能力。此外，中國競爭對手實際產出落後於市場預期，且 InP 基板（如 $AXTI 供應）正在成為新的供應鏈瓶頸。",
+          "plain_zh": "光通訊大廠 Lumentum 澄清了 CPO 延期的謠言，明確指出 2027 下半年將開始大規模出貨高功率激光晶片與外置光源（ELS）。目前高功率 CW 激光器面臨極度供不應求，公司不僅有能力調漲價格，還面臨磷化銦（InP）基板材料不足的瓶頸。這證實了西方激光廠商的定價能力與強勁需求，且中國競爭對手短期內無法造成實質威脅。",
+          "core_thesis": "Lumentum 財報驗證了 2027 下半年 CPO/CW 激光器大升級趨勢，CW 激光器極度稀缺帶來強烈定價權，並帶動上游 InP 基板需求。",
+          "why_it_matters": "解決了此前市場對 CPO 延期的恐懼，並點出 CW 激光器在量產前夕就已陷入嚴重供不應求，確立了光電鏈中激光器與 InP 基板的瓶頸地位。",
+          "history_note": "歷史貼文不足，無法比較觀點變化；但貼文展現作者對 CW 激光器與光通訊供應鏈極度看好。",
+          "catalysts": [
+            "2027 年下半年 CPO 及 ELS 模組開始規模化量產出貨",
+            "1.6T 光收發器需求從第一個財季開始加速並延續至 2027 年",
+            "高功率激光器出貨量季增長（預計年底達 5,000 萬美元以上，隨後衝刺億美元單季規模）"
+          ],
+          "risks": [
+            "InP 基板（Substrate）供應不足限制激光產能釋放",
+            "高功率激光產能擴充速度跟不上客戶強烈需求",
+            "未來中國激光供應商產能若突破並進入市場可能影響長期價格"
+          ],
+          "confidence": 90,
+          "ai_status": "ok",
+          "favorite_count": 876,
+          "retweet_count": 73
+        }
+      ]
     }
   ],
   "performance": {
@@ -4780,6 +4832,53 @@
             "exit_date": "2026-08-12",
             "exit_price": 78.47,
             "hit": true
+          }
+        },
+        "mention_count": 1,
+        "bull_count": 1,
+        "bear_count": 0,
+        "neutral_count": 0,
+        "bull_share": 1.0
+      },
+      {
+        "date": "2026-08-12",
+        "created_at": "2026-08-12T00:06:12Z",
+        "url": "https://x.com/aleabitoreddit/status/2087329770879197549",
+        "sentiment": "Bullish",
+        "confidence": 90,
+        "importance": 5,
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "Lumentum 財報驗證了 2027 下半年 CPO/CW 激光器大升級趨勢，CW 激光器極度稀缺帶來強烈定價權，並帶動上游 InP 基板需求。",
+        "entry_date": "2026-08-12",
+        "entry_price": 78.47,
+        "returns": {
+          "1d": {
+            "raw_return": null,
+            "score_return": null,
+            "exit_date": null,
+            "exit_price": null,
+            "hit": null
+          },
+          "7d": {
+            "raw_return": null,
+            "score_return": null,
+            "exit_date": null,
+            "exit_price": null,
+            "hit": null
+          },
+          "30d": {
+            "raw_return": null,
+            "score_return": null,
+            "exit_date": null,
+            "exit_price": null,
+            "hit": null
+          },
+          "now": {
+            "raw_return": 0.0,
+            "score_return": 0.0,
+            "exit_date": "2026-08-12",
+            "exit_price": 78.47,
+            "hit": false
           }
         },
         "mention_count": 1,
@@ -7686,11 +7785,63 @@
             "retweet_count": 236
           }
         ]
+      },
+      {
+        "date": "2026-08-12",
+        "created_at": "2026-08-12T00:06:12Z",
+        "sentiment": "Bullish",
+        "bull_count": 1,
+        "bear_count": 0,
+        "neutral_count": 0,
+        "mixed_count": 0,
+        "mention_count": 1,
+        "bull_weight": 4.5,
+        "bear_weight": 0.0,
+        "bull_share": 1.0,
+        "importance": 5,
+        "confidence": 90,
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "Lumentum 財報驗證了 2027 下半年 CPO/CW 激光器大升級趨勢，CW 激光器極度稀缺帶來強烈定價權，並帶動上游 InP 基板需求。",
+        "url": "https://x.com/aleabitoreddit/status/2087329770879197549",
+        "tweet_id": "2087329770879197549",
+        "items": [
+          {
+            "tweet_id": "2087329770879197549",
+            "is_reply": false,
+            "kind": "post",
+            "reply_signal_eligible": false,
+            "created_at": "2026-08-12T00:06:12Z",
+            "text": "$LITE earnings transcript TLDRs:\n\n- \"Our visibility into the timing of CPO scale-up deployments has also sharpened. We remain confident in a demand ramp for our ultra-high-power  laser chips in the second half of calendar 2027\"\n\nH2 2027 start of CPO scale up ramp confirmed from Lumentum for their lead customer. \n\n- \"We were recently given our first external light source, or ELS, module purchase for delivery by the second half of calendar 2027\" \n\nELS industry ramp timelines\n\n- \"The NPO opportunity is completely additive for us, significantly increasing the optical TAM.\"\n\nMore TAM for laser chokepoint club\n\n- \"we expect the 1.6T transceiver uptake to intensify starting in fiscal Q1 and sustain through calendar 2027.\"\n\n- \"Even in CW, we’ve been surprised at our ability to price up\"\n\nPositive pricing power for $SIVE and the other CW laser players. \n\n- \"As a result, we are able to command a nice price premium that we expect  to sustain, as these Chinese if these Chinese guys come online. \n\nI caution people also, I think people are some of these Chinese laser suppliers are not delivering in the market today, so they have there is no recourse when they throw out these big numbers. We have not seen anything like that to date in terms of their output.\"\n\nChinese players are more behind than markets expect, corroborated by $AAOI and $LITE. \n\n- \"We are way behind in our shipments, unfortunately, on high-powered lasers\"\n\n\"The demand signal has increased, and we are very much further behind relative to our ability to supply.\"\n\nExtreme demand imbalance for UHP CW laser capacity, continued demand imbalance for EML. Shipping roughly +$50M year end -> $100m+ (\"triple digit quarter\") into much larger H2 2027 and 2028 scale up demand,.\n\n- \"So what we are trying to do, I think, really in the last three months is secure even more substrate supply\" (because of demand imbalance), \"we found additional substrate help from $AXTI They are a great partner.\"\n\nHello InP substrate bottleneck. \n\nTLDR:\n\n- Lumentum CPO scale up H2 2027 shipments got confirmed, dismissed any \"delay\" news as market \"noise\". (one delay report caused so much damage, and it took Nvidia, Lumentum, and all these companies weeks to do damage control). \n- CW lasers demand ramp second half of 2027\n- Extreme demand imbalance for UHP CW laser capacity surprised Lumentum\n- UHP lasers commands very high margins and is able to price up CW laser capacity. \n- China further behind in the laser/capacity angle. \n\nBasically just validated timelines + demand/pricing for Western CW laser players. \n\nCW laser scarcity is already happening before the main volume ramp even begins...",
+            "url": "https://x.com/aleabitoreddit/status/2087329770879197549",
+            "sentiment": "Bullish",
+            "importance": 5,
+            "thesis_change": "INSUFFICIENT_HISTORY",
+            "summary_zh": "Lumentum ($LITE) 財報會議摘要確認了其主要客戶在 2027 年下半年的 CPO（共封裝光學）擴展時程，澄清了市場關於延期的傳聞。同時，高功率（UHP）CW 激光器與 EML 需求出現嚴重供需失衡，公司具備顯著的提價能力。此外，中國競爭對手實際產出落後於市場預期，且 InP 基板（如 $AXTI 供應）正在成為新的供應鏈瓶頸。",
+            "plain_zh": "光通訊大廠 Lumentum 澄清了 CPO 延期的謠言，明確指出 2027 下半年將開始大規模出貨高功率激光晶片與外置光源（ELS）。目前高功率 CW 激光器面臨極度供不應求，公司不僅有能力調漲價格，還面臨磷化銦（InP）基板材料不足的瓶頸。這證實了西方激光廠商的定價能力與強勁需求，且中國競爭對手短期內無法造成實質威脅。",
+            "core_thesis": "Lumentum 財報驗證了 2027 下半年 CPO/CW 激光器大升級趨勢，CW 激光器極度稀缺帶來強烈定價權，並帶動上游 InP 基板需求。",
+            "why_it_matters": "解決了此前市場對 CPO 延期的恐懼，並點出 CW 激光器在量產前夕就已陷入嚴重供不應求，確立了光電鏈中激光器與 InP 基板的瓶頸地位。",
+            "history_note": "歷史貼文不足，無法比較觀點變化；但貼文展現作者對 CW 激光器與光通訊供應鏈極度看好。",
+            "catalysts": [
+              "2027 年下半年 CPO 及 ELS 模組開始規模化量產出貨",
+              "1.6T 光收發器需求從第一個財季開始加速並延續至 2027 年",
+              "高功率激光器出貨量季增長（預計年底達 5,000 萬美元以上，隨後衝刺億美元單季規模）"
+            ],
+            "risks": [
+              "InP 基板（Substrate）供應不足限制激光產能釋放",
+              "高功率激光產能擴充速度跟不上客戶強烈需求",
+              "未來中國激光供應商產能若突破並進入市場可能影響長期價格"
+            ],
+            "confidence": 90,
+            "ai_status": "ok",
+            "favorite_count": 876,
+            "retweet_count": 73
+          }
+        ]
       }
     ],
     "excluded_days": 29,
     "summary": {
-      "signals": 26,
+      "signals": 27,
       "horizons": {
         "1d": {
           "sample": 26,
@@ -7708,9 +7859,9 @@
           "hit_rate": 43.5
         },
         "now": {
-          "sample": 26,
-          "avg_score_return": -0.32,
-          "hit_rate": 42.3
+          "sample": 27,
+          "avg_score_return": -0.31,
+          "hit_rate": 40.7
         }
       }
     },
@@ -7719,6 +7870,37 @@
     "include_replies": false
   },
   "primary_posts": [
+    {
+      "tweet_id": "2087329770879197549",
+      "is_reply": false,
+      "kind": "post",
+      "reply_signal_eligible": false,
+      "created_at": "2026-08-12T00:06:12Z",
+      "text": "$LITE earnings transcript TLDRs:\n\n- \"Our visibility into the timing of CPO scale-up deployments has also sharpened. We remain confident in a demand ramp for our ultra-high-power  laser chips in the second half of calendar 2027\"\n\nH2 2027 start of CPO scale up ramp confirmed from Lumentum for their lead customer. \n\n- \"We were recently given our first external light source, or ELS, module purchase for delivery by the second half of calendar 2027\" \n\nELS industry ramp timelines\n\n- \"The NPO opportunity is completely additive for us, significantly increasing the optical TAM.\"\n\nMore TAM for laser chokepoint club\n\n- \"we expect the 1.6T transceiver uptake to intensify starting in fiscal Q1 and sustain through calendar 2027.\"\n\n- \"Even in CW, we’ve been surprised at our ability to price up\"\n\nPositive pricing power for $SIVE and the other CW laser players. \n\n- \"As a result, we are able to command a nice price premium that we expect  to sustain, as these Chinese if these Chinese guys come online. \n\nI caution people also, I think people are some of these Chinese laser suppliers are not delivering in the market today, so they have there is no recourse when they throw out these big numbers. We have not seen anything like that to date in terms of their output.\"\n\nChinese players are more behind than markets expect, corroborated by $AAOI and $LITE. \n\n- \"We are way behind in our shipments, unfortunately, on high-powered lasers\"\n\n\"The demand signal has increased, and we are very much further behind relative to our ability to supply.\"\n\nExtreme demand imbalance for UHP CW laser capacity, continued demand imbalance for EML. Shipping roughly +$50M year end -> $100m+ (\"triple digit quarter\") into much larger H2 2027 and 2028 scale up demand,.\n\n- \"So what we are trying to do, I think, really in the last three months is secure even more substrate supply\" (because of demand imbalance), \"we found additional substrate help from $AXTI They are a great partner.\"\n\nHello InP substrate bottleneck. \n\nTLDR:\n\n- Lumentum CPO scale up H2 2027 shipments got confirmed, dismissed any \"delay\" news as market \"noise\". (one delay report caused so much damage, and it took Nvidia, Lumentum, and all these companies weeks to do damage control). \n- CW lasers demand ramp second half of 2027\n- Extreme demand imbalance for UHP CW laser capacity surprised Lumentum\n- UHP lasers commands very high margins and is able to price up CW laser capacity. \n- China further behind in the laser/capacity angle. \n\nBasically just validated timelines + demand/pricing for Western CW laser players. \n\nCW laser scarcity is already happening before the main volume ramp even begins...",
+      "url": "https://x.com/aleabitoreddit/status/2087329770879197549",
+      "sentiment": "Bullish",
+      "importance": 5,
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "summary_zh": "Lumentum ($LITE) 財報會議摘要確認了其主要客戶在 2027 年下半年的 CPO（共封裝光學）擴展時程，澄清了市場關於延期的傳聞。同時，高功率（UHP）CW 激光器與 EML 需求出現嚴重供需失衡，公司具備顯著的提價能力。此外，中國競爭對手實際產出落後於市場預期，且 InP 基板（如 $AXTI 供應）正在成為新的供應鏈瓶頸。",
+      "plain_zh": "光通訊大廠 Lumentum 澄清了 CPO 延期的謠言，明確指出 2027 下半年將開始大規模出貨高功率激光晶片與外置光源（ELS）。目前高功率 CW 激光器面臨極度供不應求，公司不僅有能力調漲價格，還面臨磷化銦（InP）基板材料不足的瓶頸。這證實了西方激光廠商的定價能力與強勁需求，且中國競爭對手短期內無法造成實質威脅。",
+      "core_thesis": "Lumentum 財報驗證了 2027 下半年 CPO/CW 激光器大升級趨勢，CW 激光器極度稀缺帶來強烈定價權，並帶動上游 InP 基板需求。",
+      "why_it_matters": "解決了此前市場對 CPO 延期的恐懼，並點出 CW 激光器在量產前夕就已陷入嚴重供不應求，確立了光電鏈中激光器與 InP 基板的瓶頸地位。",
+      "history_note": "歷史貼文不足，無法比較觀點變化；但貼文展現作者對 CW 激光器與光通訊供應鏈極度看好。",
+      "catalysts": [
+        "2027 年下半年 CPO 及 ELS 模組開始規模化量產出貨",
+        "1.6T 光收發器需求從第一個財季開始加速並延續至 2027 年",
+        "高功率激光器出貨量季增長（預計年底達 5,000 萬美元以上，隨後衝刺億美元單季規模）"
+      ],
+      "risks": [
+        "InP 基板（Substrate）供應不足限制激光產能釋放",
+        "高功率激光產能擴充速度跟不上客戶強烈需求",
+        "未來中國激光供應商產能若突破並進入市場可能影響長期價格"
+      ],
+      "confidence": 90,
+      "ai_status": "ok",
+      "favorite_count": 876,
+      "retweet_count": 73
+    },
     {
       "tweet_id": "2086148557187461412",
       "is_reply": false,

@@ -2,7 +2,7 @@
   "site": {
     "title": "Serenity Research",
     "subtitle": "Public research dashboard based on Serenity's public X posts.",
-    "generated_at": "2026-08-13T00:57:25.009832Z",
+    "generated_at": "2026-08-13T02:52:12.307625Z",
     "disclaimer": "Public-post aggregation for research only. Not investment advice."
   },
   "periods": {
@@ -11,90 +11,193 @@
       "label": "每日",
       "days": 1,
       "start_at": "2026-08-12T16:00:00Z",
-      "generated_at": "2026-08-13T00:57:24.735158Z",
+      "generated_at": "2026-08-13T02:52:12.173403Z",
       "earliest_available_at": "2025-11-17T16:12:21Z",
       "traversed_until": "2026-04-13T02:42:25Z",
-      "coverage_days": 121,
+      "coverage_days": 122,
       "coverage_complete": true,
-      "tweet_count": 0,
-      "primary_post_count": 0,
+      "tweet_count": 1,
+      "primary_post_count": 1,
       "reply_context_count": 0,
-      "all_collected_count": 0,
-      "symbol_count": 0,
-      "high_importance_count": 0,
-      "ai_analyzed_count": 0,
-      "sentiments": {},
-      "symbols": []
+      "all_collected_count": 1,
+      "symbol_count": 5,
+      "high_importance_count": 1,
+      "ai_analyzed_count": 1,
+      "sentiments": {
+        "Bullish": 1
+      },
+      "symbols": [
+        {
+          "symbol": "AAOI",
+          "mentions": 1,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 1,
+          "max_importance": 5,
+          "latest_at": "2026-08-12T22:59:29Z",
+          "latest_thesis": "InP CW 雷射晶片成為光通訊與 CPO 供應鏈的最核心瓶頸，垂直整合大廠自用產能鎖死外售，外購 CW 雷射供應商獲得巨大定價權與訂單能見度。",
+          "latest_summary_zh": "Coherent (COHR) 財報顯示資料中心收發器需求極為強勁，且印磷 (InP) 磷化銦雷射晶片產能已被預訂至 2027 年底。由於 COHR 與 AAOI 均將 InP 雷射留作自用而不對外銷售，導致第三方外購 CW 雷射供應商（如 MTSI）需求爆發。此外，COHR 重申共封裝光學 (CPO) 需求未延後反而提前，預計 Scale-up CPO 營收將於 2027 年下半年開始顯著貢獻。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 1
+          }
+        },
+        {
+          "symbol": "COHR",
+          "mentions": 1,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 1,
+          "max_importance": 5,
+          "latest_at": "2026-08-12T22:59:29Z",
+          "latest_thesis": "InP CW 雷射晶片成為光通訊與 CPO 供應鏈的最核心瓶頸，垂直整合大廠自用產能鎖死外售，外購 CW 雷射供應商獲得巨大定價權與訂單能見度。",
+          "latest_summary_zh": "Coherent (COHR) 財報顯示資料中心收發器需求極為強勁，且印磷 (InP) 磷化銦雷射晶片產能已被預訂至 2027 年底。由於 COHR 與 AAOI 均將 InP 雷射留作自用而不對外銷售，導致第三方外購 CW 雷射供應商（如 MTSI）需求爆發。此外，COHR 重申共封裝光學 (CPO) 需求未延後反而提前，預計 Scale-up CPO 營收將於 2027 年下半年開始顯著貢獻。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 1
+          }
+        },
+        {
+          "symbol": "LITE",
+          "mentions": 1,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 1,
+          "max_importance": 5,
+          "latest_at": "2026-08-12T22:59:29Z",
+          "latest_thesis": "InP CW 雷射晶片成為光通訊與 CPO 供應鏈的最核心瓶頸，垂直整合大廠自用產能鎖死外售，外購 CW 雷射供應商獲得巨大定價權與訂單能見度。",
+          "latest_summary_zh": "Coherent (COHR) 財報顯示資料中心收發器需求極為強勁，且印磷 (InP) 磷化銦雷射晶片產能已被預訂至 2027 年底。由於 COHR 與 AAOI 均將 InP 雷射留作自用而不對外銷售，導致第三方外購 CW 雷射供應商（如 MTSI）需求爆發。此外，COHR 重申共封裝光學 (CPO) 需求未延後反而提前，預計 Scale-up CPO 營收將於 2027 年下半年開始顯著貢獻。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 1
+          }
+        },
+        {
+          "symbol": "MTSI",
+          "mentions": 1,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 1,
+          "max_importance": 5,
+          "latest_at": "2026-08-12T22:59:29Z",
+          "latest_thesis": "InP CW 雷射晶片成為光通訊與 CPO 供應鏈的最核心瓶頸，垂直整合大廠自用產能鎖死外售，外購 CW 雷射供應商獲得巨大定價權與訂單能見度。",
+          "latest_summary_zh": "Coherent (COHR) 財報顯示資料中心收發器需求極為強勁，且印磷 (InP) 磷化銦雷射晶片產能已被預訂至 2027 年底。由於 COHR 與 AAOI 均將 InP 雷射留作自用而不對外銷售，導致第三方外購 CW 雷射供應商（如 MTSI）需求爆發。此外，COHR 重申共封裝光學 (CPO) 需求未延後反而提前，預計 Scale-up CPO 營收將於 2027 年下半年開始顯著貢獻。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 1
+          }
+        },
+        {
+          "symbol": "POET",
+          "mentions": 1,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 1,
+          "max_importance": 5,
+          "latest_at": "2026-08-12T22:59:29Z",
+          "latest_thesis": "InP CW 雷射晶片成為光通訊與 CPO 供應鏈的最核心瓶頸，垂直整合大廠自用產能鎖死外售，外購 CW 雷射供應商獲得巨大定價權與訂單能見度。",
+          "latest_summary_zh": "Coherent (COHR) 財報顯示資料中心收發器需求極為強勁，且印磷 (InP) 磷化銦雷射晶片產能已被預訂至 2027 年底。由於 COHR 與 AAOI 均將 InP 雷射留作自用而不對外銷售，導致第三方外購 CW 雷射供應商（如 MTSI）需求爆發。此外，COHR 重申共封裝光學 (CPO) 需求未延後反而提前，預計 Scale-up CPO 營收將於 2027 年下半年開始顯著貢獻。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 1
+          }
+        }
+      ]
     },
     "weekly": {
       "period": "weekly",
       "label": "每週",
       "days": 7,
-      "start_at": "2026-08-06T00:57:24.735158Z",
-      "generated_at": "2026-08-13T00:57:24.756506Z",
+      "start_at": "2026-08-06T02:52:12.173403Z",
+      "generated_at": "2026-08-13T02:52:12.189438Z",
       "earliest_available_at": "2025-11-17T16:12:21Z",
       "traversed_until": "2026-04-13T02:42:25Z",
-      "coverage_days": 121,
+      "coverage_days": 122,
       "coverage_complete": true,
-      "tweet_count": 23,
-      "primary_post_count": 23,
+      "tweet_count": 35,
+      "primary_post_count": 35,
       "reply_context_count": 17,
-      "all_collected_count": 40,
-      "symbol_count": 34,
-      "high_importance_count": 13,
-      "ai_analyzed_count": 5,
+      "all_collected_count": 52,
+      "symbol_count": 36,
+      "high_importance_count": 21,
+      "ai_analyzed_count": 15,
       "sentiments": {
-        "Neutral": 12,
-        "Bullish": 10,
-        "Bearish": 1
+        "Bullish": 18,
+        "Neutral": 15,
+        "Bearish": 2
       },
       "symbols": [
         {
           "symbol": "AAOI",
-          "mentions": 9,
+          "mentions": 13,
           "dominant_sentiment": "Bullish",
-          "sentiment_score": 5,
+          "sentiment_score": 9,
           "max_importance": 5,
-          "latest_at": "2026-08-10T15:42:04Z",
-          "latest_thesis": "主流媒體因缺乏光學工程專業知識而將 $AAOI 誤批為迷因股，忽視了其在光學供應鏈中的技術瓶頸與基本面潛力。",
-          "latest_summary_zh": "作者以諷刺對話批評主流財經媒體 Barron's 對光學供應鏈（如 $AAOI）的報導極不專業。作者指出媒體聘用缺乏工程背景的人員，因看不懂 CW 雷射瓶頸與產能毛利模型等技術細節，便草率將其歸類為迷因股（memestock）。",
+          "latest_at": "2026-08-12T22:59:29Z",
+          "latest_thesis": "InP CW 雷射晶片成為光通訊與 CPO 供應鏈的最核心瓶頸，垂直整合大廠自用產能鎖死外售，外購 CW 雷射供應商獲得巨大定價權與訂單能見度。",
+          "latest_summary_zh": "Coherent (COHR) 財報顯示資料中心收發器需求極為強勁，且印磷 (InP) 磷化銦雷射晶片產能已被預訂至 2027 年底。由於 COHR 與 AAOI 均將 InP 雷射留作自用而不對外銷售，導致第三方外購 CW 雷射供應商（如 MTSI）需求爆發。此外，COHR 重申共封裝光學 (CPO) 需求未延後反而提前，預計 Scale-up CPO 營收將於 2027 年下半年開始顯著貢獻。",
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bullish": 6,
+            "Bullish": 10,
             "Neutral": 2,
             "Bearish": 1
           }
         },
         {
-          "symbol": "SIVE",
-          "mentions": 8,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 1,
+          "symbol": "LITE",
+          "mentions": 12,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 7,
           "max_importance": 5,
-          "latest_at": "2026-08-10T08:26:02Z",
-          "latest_thesis": "光學與科技主題具高波動特性，投資人應建立長線信念、避免頻繁交易與恐慌殺跌，才能把握光通訊族群強勁反彈的收益。",
-          "latest_summary_zh": "作者觀察到光通訊族群（SIVE、OE Solutions、LITE、Coherent、AAOI）迎來強勁反彈行情。他引用 Fidelity 與 UC Berkeley 的研究指出，不頻繁交易者的平均報酬率（18.5%）顯著高於頻繁交易者（11.4%）。作者提醒散戶往往在記憶體或光通訊等主題波動中恐慌殺跌，導致錯過隨後的劇烈反彈，強調建立投資信念能有效避免過度交易並掌握逢低加碼的機會。",
+          "latest_at": "2026-08-12T22:59:29Z",
+          "latest_thesis": "InP CW 雷射晶片成為光通訊與 CPO 供應鏈的最核心瓶頸，垂直整合大廠自用產能鎖死外售，外購 CW 雷射供應商獲得巨大定價權與訂單能見度。",
+          "latest_summary_zh": "Coherent (COHR) 財報顯示資料中心收發器需求極為強勁，且印磷 (InP) 磷化銦雷射晶片產能已被預訂至 2027 年底。由於 COHR 與 AAOI 均將 InP 雷射留作自用而不對外銷售，導致第三方外購 CW 雷射供應商（如 MTSI）需求爆發。此外，COHR 重申共封裝光學 (CPO) 需求未延後反而提前，預計 Scale-up CPO 營收將於 2027 年下半年開始顯著貢獻。",
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bullish": 2,
+            "Bullish": 8,
+            "Neutral": 3,
+            "Bearish": 1
+          }
+        },
+        {
+          "symbol": "SIVE",
+          "mentions": 10,
+          "dominant_sentiment": "Neutral",
+          "sentiment_score": 3,
+          "max_importance": 5,
+          "latest_at": "2026-08-12T07:54:08Z",
+          "latest_thesis": "光學財報驗證了 CW DFB 激光器瓶頸論點，Sivers ($SIVE) 身為少數西方 CPO 關鍵玩家，將顯著受益於供需失衡與架構轉型。",
+          "latest_summary_zh": "作者分析多家光電大廠（LITE、AAOI、MTSI）最新財報，驗證了連續波（CW）DFB 激光器與磷化銦（InP）產能嚴重短缺的論點。中國競爭對手技術落後數年，使具備量產能力的公司擁有定價權與高護城河。這有利於作為少數第一代 CPO 西方玩家之一且市值僅約 15 億美元的 Sivers ($SIVE)。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 4,
             "Neutral": 5,
             "Bearish": 1
           }
         },
         {
-          "symbol": "LITE",
-          "mentions": 7,
+          "symbol": "COHR",
+          "mentions": 6,
           "dominant_sentiment": "Bullish",
-          "sentiment_score": 2,
+          "sentiment_score": 5,
           "max_importance": 5,
-          "latest_at": "2026-08-10T08:26:02Z",
-          "latest_thesis": "光學與科技主題具高波動特性，投資人應建立長線信念、避免頻繁交易與恐慌殺跌，才能把握光通訊族群強勁反彈的收益。",
-          "latest_summary_zh": "作者觀察到光通訊族群（SIVE、OE Solutions、LITE、Coherent、AAOI）迎來強勁反彈行情。他引用 Fidelity 與 UC Berkeley 的研究指出，不頻繁交易者的平均報酬率（18.5%）顯著高於頻繁交易者（11.4%）。作者提醒散戶往往在記憶體或光通訊等主題波動中恐慌殺跌，導致錯過隨後的劇烈反彈，強調建立投資信念能有效避免過度交易並掌握逢低加碼的機會。",
+          "latest_at": "2026-08-12T22:59:29Z",
+          "latest_thesis": "InP CW 雷射晶片成為光通訊與 CPO 供應鏈的最核心瓶頸，垂直整合大廠自用產能鎖死外售，外購 CW 雷射供應商獲得巨大定價權與訂單能見度。",
+          "latest_summary_zh": "Coherent (COHR) 財報顯示資料中心收發器需求極為強勁，且印磷 (InP) 磷化銦雷射晶片產能已被預訂至 2027 年底。由於 COHR 與 AAOI 均將 InP 雷射留作自用而不對外銷售，導致第三方外購 CW 雷射供應商（如 MTSI）需求爆發。此外，COHR 重申共封裝光學 (CPO) 需求未延後反而提前，預計 Scale-up CPO 營收將於 2027 年下半年開始顯著貢獻。",
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bullish": 3,
-            "Neutral": 3,
-            "Bearish": 1
+            "Bullish": 5,
+            "Neutral": 1
+          }
+        },
+        {
+          "symbol": "MTSI",
+          "mentions": 6,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 4,
+          "max_importance": 5,
+          "latest_at": "2026-08-12T22:59:29Z",
+          "latest_thesis": "InP CW 雷射晶片成為光通訊與 CPO 供應鏈的最核心瓶頸，垂直整合大廠自用產能鎖死外售，外購 CW 雷射供應商獲得巨大定價權與訂單能見度。",
+          "latest_summary_zh": "Coherent (COHR) 財報顯示資料中心收發器需求極為強勁，且印磷 (InP) 磷化銦雷射晶片產能已被預訂至 2027 年底。由於 COHR 與 AAOI 均將 InP 雷射留作自用而不對外銷售，導致第三方外購 CW 雷射供應商（如 MTSI）需求爆發。此外，COHR 重申共封裝光學 (CPO) 需求未延後反而提前，預計 Scale-up CPO 營收將於 2027 年下半年開始顯著貢獻。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 4,
+            "Neutral": 2
           }
         },
         {
@@ -114,33 +217,33 @@
           }
         },
         {
-          "symbol": "MTSI",
-          "mentions": 4,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 2,
-          "max_importance": 5,
-          "latest_at": "2026-08-09T00:23:56Z",
-          "latest_thesis": "I think it’s a good time to revisit $SIVE ~$427m/yr midpoint capacity revenue modeled projections.  Given recent industry earnings:  > $AAOI cited +20-40% demand imbalance for t...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
-          "sentiments": {
-            "Neutral": 2,
-            "Bullish": 2
-          }
-        },
-        {
-          "symbol": "COHR",
+          "symbol": "AVGO",
           "mentions": 3,
           "dominant_sentiment": "Bullish",
           "sentiment_score": 2,
           "max_importance": 5,
-          "latest_at": "2026-08-08T17:52:29Z",
-          "latest_thesis": "Yes, I'm still bullish on memory like $MU / Samsung.  As I said earlier, markets tend to rotate from bottleneck to bottleneck.  This week it looks $AXTI to $LITE in the photonic...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
+          "latest_at": "2026-08-12T07:54:08Z",
+          "latest_thesis": "光學財報驗證了 CW DFB 激光器瓶頸論點，Sivers ($SIVE) 身為少數西方 CPO 關鍵玩家，將顯著受益於供需失衡與架構轉型。",
+          "latest_summary_zh": "作者分析多家光電大廠（LITE、AAOI、MTSI）最新財報，驗證了連續波（CW）DFB 激光器與磷化銦（InP）產能嚴重短缺的論點。中國競爭對手技術落後數年，使具備量產能力的公司擁有定價權與高護城河。這有利於作為少數第一代 CPO 西方玩家之一且市值僅約 15 億美元的 Sivers ($SIVE)。",
+          "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
             "Bullish": 2,
             "Neutral": 1
+          }
+        },
+        {
+          "symbol": "NBIS",
+          "mentions": 3,
+          "dominant_sentiment": "Neutral",
+          "sentiment_score": 1,
+          "max_importance": 5,
+          "latest_at": "2026-08-12T12:23:43Z",
+          "latest_thesis": "Nebius 展現極強的算力需求能見度與持續擴大的獲利能力，儘管資本支出龐大，強勁的預付款與產能預訂奠定其長期成長動能。",
+          "latest_summary_zh": "Nebius ($NBIS) 公布強勁的第二季財報，營收達 5.823 億美元（年增 454%、季增 46%），AI 雲端調整後 EBITDA 利潤率提升至 50%，手握 80.4 億美元現金。公司重申 2026 年財務指引，並指出強烈的需求訊號，包括 2027 年產能可按現行條件完售、包含 4 筆平均超過 10 億美元的大型合約，以及預約電力指引上調至 5 GW。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 1,
+            "Neutral": 2
           }
         },
         {
@@ -159,6 +262,21 @@
           }
         },
         {
+          "symbol": "SMCI",
+          "mentions": 3,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 1,
+          "max_importance": 5,
+          "latest_at": "2026-08-12T01:08:18Z",
+          "latest_thesis": "SMCI 管理階層在法說會上無法正視並正面回答毛利率展望等核心財務問題，展現出極高不確定性。",
+          "latest_summary_zh": "作者諷刺 Super Micro Computer ($SMCI) 的執行長 Charles Liang 在法說會 Q&A 環節中不斷迴避關鍵財務問題。當被問及 2027 年毛利率展望以及 9 月毛利率是否會改善時，CEO 的回答非常模糊且閃爍其詞。作者認為其應答態度宛如政客般避重就輕。",
+          "latest_change": "GENERAL",
+          "sentiments": {
+            "Bearish": 1,
+            "Bullish": 2
+          }
+        },
+        {
           "symbol": "CCXI",
           "mentions": 3,
           "dominant_sentiment": "Neutral",
@@ -174,18 +292,88 @@
           }
         },
         {
-          "symbol": "AVGO",
+          "symbol": "AXTI",
+          "mentions": 2,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 2,
+          "max_importance": 5,
+          "latest_at": "2026-08-12T00:06:12Z",
+          "latest_thesis": "Lumentum 財報驗證了 2027 下半年 CPO/CW 激光器大升級趨勢，CW 激光器極度稀缺帶來強烈定價權，並帶動上游 InP 基板需求。",
+          "latest_summary_zh": "Lumentum ($LITE) 財報會議摘要確認了其主要客戶在 2027 年下半年的 CPO（共封裝光學）擴展時程，澄清了市場關於延期的傳聞。同時，高功率（UHP）CW 激光器與 EML 需求出現嚴重供需失衡，公司具備顯著的提價能力。此外，中國競爭對手實際產出落後於市場預期，且 InP 基板（如 $AXTI 供應）正在成為新的供應鏈瓶頸。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 2
+          }
+        },
+        {
+          "symbol": "CRWV",
+          "mentions": 2,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 2,
+          "max_importance": 5,
+          "latest_at": "2026-08-12T12:23:43Z",
+          "latest_thesis": "Nebius 展現極強的算力需求能見度與持續擴大的獲利能力，儘管資本支出龐大，強勁的預付款與產能預訂奠定其長期成長動能。",
+          "latest_summary_zh": "Nebius ($NBIS) 公布強勁的第二季財報，營收達 5.823 億美元（年增 454%、季增 46%），AI 雲端調整後 EBITDA 利潤率提升至 50%，手握 80.4 億美元現金。公司重申 2026 年財務指引，並指出強烈的需求訊號，包括 2027 年產能可按現行條件完售、包含 4 筆平均超過 10 億美元的大型合約，以及預約電力指引上調至 5 GW。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 2
+          }
+        },
+        {
+          "symbol": "IREN",
+          "mentions": 2,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 2,
+          "max_importance": 5,
+          "latest_at": "2026-08-12T12:23:43Z",
+          "latest_thesis": "Nebius 展現極強的算力需求能見度與持續擴大的獲利能力，儘管資本支出龐大，強勁的預付款與產能預訂奠定其長期成長動能。",
+          "latest_summary_zh": "Nebius ($NBIS) 公布強勁的第二季財報，營收達 5.823 億美元（年增 454%、季增 46%），AI 雲端調整後 EBITDA 利潤率提升至 50%，手握 80.4 億美元現金。公司重申 2026 年財務指引，並指出強烈的需求訊號，包括 2027 年產能可按現行條件完售、包含 4 筆平均超過 10 億美元的大型合約，以及預約電力指引上調至 5 GW。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 2
+          }
+        },
+        {
+          "symbol": "POET",
           "mentions": 2,
           "dominant_sentiment": "Bullish",
           "sentiment_score": 1,
           "max_importance": 5,
-          "latest_at": "2026-08-07T05:46:59Z",
-          "latest_thesis": "CPO 雷射與光收發器面臨嚴重供需失衡，AAOI 因產能限制退出第一代 CPO，將大幅推升其他擁有 CW 雷射產能的西方獨立廠商之價值。",
-          "latest_summary_zh": "AAOI 財報顯示 CW 雷射與光收發器供不應求，客戶需求超出擴充產能 20%-40%，雷射為當前主要瓶頸。AAOI 因需優先供應自家光收發器，無法參予第一代 CPO 部署，這對 SIVE、LITE、AVGO、COHR 等具備產能的西方業者屬利多。此外，中國在 CPO DWDM 雷射技術上仍落後西方至少 2 至 3 年，鞏固了西方業者的護城河。",
+          "latest_at": "2026-08-12T22:59:29Z",
+          "latest_thesis": "InP CW 雷射晶片成為光通訊與 CPO 供應鏈的最核心瓶頸，垂直整合大廠自用產能鎖死外售，外購 CW 雷射供應商獲得巨大定價權與訂單能見度。",
+          "latest_summary_zh": "Coherent (COHR) 財報顯示資料中心收發器需求極為強勁，且印磷 (InP) 磷化銦雷射晶片產能已被預訂至 2027 年底。由於 COHR 與 AAOI 均將 InP 雷射留作自用而不對外銷售，導致第三方外購 CW 雷射供應商（如 MTSI）需求爆發。此外，COHR 重申共封裝光學 (CPO) 需求未延後反而提前，預計 Scale-up CPO 營收將於 2027 年下半年開始顯著貢獻。",
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
             "Bullish": 1,
             "Neutral": 1
+          }
+        },
+        {
+          "symbol": "SMTC",
+          "mentions": 2,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 2,
+          "max_importance": 5,
+          "latest_at": "2026-08-12T07:54:08Z",
+          "latest_thesis": "光學財報驗證了 CW DFB 激光器瓶頸論點，Sivers ($SIVE) 身為少數西方 CPO 關鍵玩家，將顯著受益於供需失衡與架構轉型。",
+          "latest_summary_zh": "作者分析多家光電大廠（LITE、AAOI、MTSI）最新財報，驗證了連續波（CW）DFB 激光器與磷化銦（InP）產能嚴重短缺的論點。中國競爭對手技術落後數年，使具備量產能力的公司擁有定價權與高護城河。這有利於作為少數第一代 CPO 西方玩家之一且市值僅約 15 億美元的 Sivers ($SIVE)。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 2
+          }
+        },
+        {
+          "symbol": "SPCX",
+          "mentions": 2,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 2,
+          "max_importance": 5,
+          "latest_at": "2026-08-11T20:51:04Z",
+          "latest_thesis": "SMCI 憑藉龐大的 AI 資料中心新訂單與超乎預期的 2027 財年營收指引，若毛利率能維持在 10-15%，目前市值具備強烈的重估（rerating）潛力。",
+          "latest_summary_zh": "SMCI 給出極為強勁的 2027 財年營收指引，預計達 650 億至 720 億美元，遠高於市場預期的 524 億美元。此次財報中更記錄了超過 600 億美元的新訂單，可能與先前宣布與 xAI 等合作建造資料中心有關。作者認為若 SMCI 能維持 10-15% 的毛利率，以目前約 200 億美元的市值來看，股價具備相當大的估值重估（rerating）空間。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 2
           }
         },
         {
@@ -201,34 +389,6 @@
           "sentiments": {
             "Bullish": 1,
             "Neutral": 1
-          }
-        },
-        {
-          "symbol": "NBIS",
-          "mentions": 2,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 0,
-          "max_importance": 4,
-          "latest_at": "2026-08-10T02:03:29Z",
-          "latest_thesis": "Just some near term events:  - OCP APAC tomorrow (Ayar, Lightmatter, $AMD, $NVDA) and your CPO players are giving announcements/updates.  This should be a catalyst for certain o...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
-          "sentiments": {
-            "Neutral": 2
-          }
-        },
-        {
-          "symbol": "AXTI",
-          "mentions": 1,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 1,
-          "max_importance": 5,
-          "latest_at": "2026-08-08T17:52:29Z",
-          "latest_thesis": "Yes, I'm still bullish on memory like $MU / Samsung.  As I said earlier, markets tend to rotate from bottleneck to bottleneck.  This week it looks $AXTI to $LITE in the photonic...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
-          "sentiments": {
-            "Bullish": 1
           }
         },
         {
@@ -260,42 +420,28 @@
           }
         },
         {
-          "symbol": "SMTC",
+          "symbol": "SIVEF",
           "mentions": 1,
           "dominant_sentiment": "Bullish",
           "sentiment_score": 1,
           "max_importance": 5,
-          "latest_at": "2026-08-07T12:55:47Z",
-          "latest_thesis": "Some more TLDR takeaways from $AAOI ER:  - They also flagged DSP and TIA bottlenecks, which is a positive industry read through for names like $MXL, then $SMTC and $MTSI.   - Fo...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
+          "latest_at": "2026-08-11T20:16:01Z",
+          "latest_thesis": "Lumentum 業績與指引大幅超預期，驗證了 CPO 與機架內光學滲透帶動的強勁光通訊升級週期。",
+          "latest_summary_zh": "Lumentum ($LITE) 公布優於預期的業績與強勁的下季度指引，營收與營業利潤率持續擴張。公司提及對超高功率 CPO 激光器與 ELS 模組需求上升，且 NPO 參與度擴大顯示光學元件開始滲透機架內連接。這對 $COHR 與 $SIVEF 等光學夥伴形成利好讀取，但對可能錯失第一代部署的 $AAOI 相對不利。",
+          "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
             "Bullish": 1
           }
         },
         {
-          "symbol": "SPCX",
-          "mentions": 1,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 1,
-          "max_importance": 5,
-          "latest_at": "2026-08-08T17:52:29Z",
-          "latest_thesis": "Yes, I'm still bullish on memory like $MU / Samsung.  As I said earlier, markets tend to rotate from bottleneck to bottleneck.  This week it looks $AXTI to $LITE in the photonic...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
-          "sentiments": {
-            "Bullish": 1
-          }
-        },
-        {
-          "symbol": "FORM",
+          "symbol": "AEHR",
           "mentions": 1,
           "dominant_sentiment": "Bullish",
           "sentiment_score": 1,
           "max_importance": 4,
-          "latest_at": "2026-08-06T01:23:49Z",
-          "latest_thesis": "Funniest callout of the year from $VIAV on CPO timelines:  \"Well, there's been a lot of industry talk [about delays], like, 'Oh, because the yield is going to be slower.'   That...",
-          "latest_summary_zh": "",
+          "latest_at": "2026-08-12T11:44:46Z",
+          "latest_thesis": "AEHR 憑藉 AI 處理器龍頭客戶的追加訂單以及多個垂直領域（記憶體、矽光子）的擴展，展現強勁成長動能。",
+          "latest_summary_zh": "Aehr Test Systems ($AEHR) 宣佈收到主要 AI 處理器客戶價值 2,200 萬美元的 AI 處理器晶圓級預燒（Wafer level burn-in）追加訂單。作者指出這家小型公司正迅速在記憶體與矽光子等多個垂直領域擴展。受此消息激勵，$AEHR 盤前股價上漲 5.39%。",
           "latest_change": "NEW",
           "sentiments": {
             "Bullish": 1
@@ -313,20 +459,6 @@
           "latest_change": "NEW",
           "sentiments": {
             "Neutral": 1
-          }
-        },
-        {
-          "symbol": "IREN",
-          "mentions": 1,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 1,
-          "max_importance": 4,
-          "latest_at": "2026-08-11T01:29:11Z",
-          "latest_thesis": "比特幣礦商轉型 AI 託管獲大廠巨額合約驗證，但營收爆發拐點需等到 2027 年下半年。",
-          "latest_summary_zh": "RIOT 宣布與 Anthropic 簽署高達 91 億至 161 億美元的 20 年期巨額託管合約，同時 AMD 也行使選擇權擴展與 RIOT 的合作。作者指出前比特幣礦商（如 RIOT、IREN）成功轉型 AI 主機託管（Colo），但整個族群的營收顯著轉折點（inflection）預計要到 2027 年下半年才會顯現。",
-          "latest_change": "INSUFFICIENT_HISTORY",
-          "sentiments": {
-            "Bullish": 1
           }
         },
         {
@@ -400,20 +532,6 @@
           }
         },
         {
-          "symbol": "VIAV",
-          "mentions": 1,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 1,
-          "max_importance": 4,
-          "latest_at": "2026-08-06T01:23:49Z",
-          "latest_thesis": "Funniest callout of the year from $VIAV on CPO timelines:  \"Well, there's been a lot of industry talk [about delays], like, 'Oh, because the yield is going to be slower.'   That...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
-          "sentiments": {
-            "Bullish": 1
-          }
-        },
-        {
           "symbol": "AEVA",
           "mentions": 1,
           "dominant_sentiment": "Neutral",
@@ -463,20 +581,6 @@
           "max_importance": 3,
           "latest_at": "2026-08-07T20:21:30Z",
           "latest_thesis": "There we go, White House finally invests in more breath in critical minerals/materials. Amazing policy move, as a TLDR:  - $WWR receives $25M (graphite) - $SRL (ASX) receives $4...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
-          "sentiments": {
-            "Neutral": 1
-          }
-        },
-        {
-          "symbol": "POET",
-          "mentions": 1,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 0,
-          "max_importance": 3,
-          "latest_at": "2026-08-07T07:26:37Z",
-          "latest_thesis": "Earlier today, optical interconnect company Lumilens \"emerges from stealth\" at a $5.5B valuation, after raising $700m.  Just as a recap from $POET / $SIVE Linkedin OSINT mapping...",
           "latest_summary_zh": "",
           "latest_change": "NEW",
           "sentiments": {
@@ -545,70 +649,70 @@
       "period": "monthly",
       "label": "每月",
       "days": 28,
-      "start_at": "2026-07-16T00:57:24.756506Z",
-      "generated_at": "2026-08-13T00:57:24.784624Z",
+      "start_at": "2026-07-16T02:52:12.189438Z",
+      "generated_at": "2026-08-13T02:52:12.207032Z",
       "earliest_available_at": "2025-11-17T16:12:21Z",
       "traversed_until": "2026-04-13T02:42:25Z",
-      "coverage_days": 121,
+      "coverage_days": 122,
       "coverage_complete": true,
-      "tweet_count": 85,
-      "primary_post_count": 85,
+      "tweet_count": 98,
+      "primary_post_count": 98,
       "reply_context_count": 75,
-      "all_collected_count": 160,
-      "symbol_count": 68,
-      "high_importance_count": 34,
-      "ai_analyzed_count": 8,
+      "all_collected_count": 173,
+      "symbol_count": 69,
+      "high_importance_count": 43,
+      "ai_analyzed_count": 18,
       "sentiments": {
-        "Neutral": 54,
-        "Bullish": 26,
-        "Bearish": 5
+        "Bullish": 35,
+        "Neutral": 57,
+        "Bearish": 6
       },
       "symbols": [
         {
           "symbol": "LITE",
-          "mentions": 20,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 7,
+          "mentions": 25,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 12,
           "max_importance": 5,
-          "latest_at": "2026-08-10T08:26:02Z",
-          "latest_thesis": "光學與科技主題具高波動特性，投資人應建立長線信念、避免頻繁交易與恐慌殺跌，才能把握光通訊族群強勁反彈的收益。",
-          "latest_summary_zh": "作者觀察到光通訊族群（SIVE、OE Solutions、LITE、Coherent、AAOI）迎來強勁反彈行情。他引用 Fidelity 與 UC Berkeley 的研究指出，不頻繁交易者的平均報酬率（18.5%）顯著高於頻繁交易者（11.4%）。作者提醒散戶往往在記憶體或光通訊等主題波動中恐慌殺跌，導致錯過隨後的劇烈反彈，強調建立投資信念能有效避免過度交易並掌握逢低加碼的機會。",
+          "latest_at": "2026-08-12T22:59:29Z",
+          "latest_thesis": "InP CW 雷射晶片成為光通訊與 CPO 供應鏈的最核心瓶頸，垂直整合大廠自用產能鎖死外售，外購 CW 雷射供應商獲得巨大定價權與訂單能見度。",
+          "latest_summary_zh": "Coherent (COHR) 財報顯示資料中心收發器需求極為強勁，且印磷 (InP) 磷化銦雷射晶片產能已被預訂至 2027 年底。由於 COHR 與 AAOI 均將 InP 雷射留作自用而不對外銷售，導致第三方外購 CW 雷射供應商（如 MTSI）需求爆發。此外，COHR 重申共封裝光學 (CPO) 需求未延後反而提前，預計 Scale-up CPO 營收將於 2027 年下半年開始顯著貢獻。",
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bullish": 8,
-            "Neutral": 11,
-            "Bearish": 1
-          }
-        },
-        {
-          "symbol": "SIVE",
-          "mentions": 19,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 6,
-          "max_importance": 5,
-          "latest_at": "2026-08-10T08:26:02Z",
-          "latest_thesis": "光學與科技主題具高波動特性，投資人應建立長線信念、避免頻繁交易與恐慌殺跌，才能把握光通訊族群強勁反彈的收益。",
-          "latest_summary_zh": "作者觀察到光通訊族群（SIVE、OE Solutions、LITE、Coherent、AAOI）迎來強勁反彈行情。他引用 Fidelity 與 UC Berkeley 的研究指出，不頻繁交易者的平均報酬率（18.5%）顯著高於頻繁交易者（11.4%）。作者提醒散戶往往在記憶體或光通訊等主題波動中恐慌殺跌，導致錯過隨後的劇烈反彈，強調建立投資信念能有效避免過度交易並掌握逢低加碼的機會。",
-          "latest_change": "INSUFFICIENT_HISTORY",
-          "sentiments": {
-            "Bullish": 7,
+            "Bullish": 13,
             "Neutral": 11,
             "Bearish": 1
           }
         },
         {
           "symbol": "AAOI",
-          "mentions": 17,
+          "mentions": 21,
           "dominant_sentiment": "Bullish",
-          "sentiment_score": 7,
+          "sentiment_score": 11,
           "max_importance": 5,
-          "latest_at": "2026-08-10T15:42:04Z",
-          "latest_thesis": "主流媒體因缺乏光學工程專業知識而將 $AAOI 誤批為迷因股，忽視了其在光學供應鏈中的技術瓶頸與基本面潛力。",
-          "latest_summary_zh": "作者以諷刺對話批評主流財經媒體 Barron's 對光學供應鏈（如 $AAOI）的報導極不專業。作者指出媒體聘用缺乏工程背景的人員，因看不懂 CW 雷射瓶頸與產能毛利模型等技術細節，便草率將其歸類為迷因股（memestock）。",
+          "latest_at": "2026-08-12T22:59:29Z",
+          "latest_thesis": "InP CW 雷射晶片成為光通訊與 CPO 供應鏈的最核心瓶頸，垂直整合大廠自用產能鎖死外售，外購 CW 雷射供應商獲得巨大定價權與訂單能見度。",
+          "latest_summary_zh": "Coherent (COHR) 財報顯示資料中心收發器需求極為強勁，且印磷 (InP) 磷化銦雷射晶片產能已被預訂至 2027 年底。由於 COHR 與 AAOI 均將 InP 雷射留作自用而不對外銷售，導致第三方外購 CW 雷射供應商（如 MTSI）需求爆發。此外，COHR 重申共封裝光學 (CPO) 需求未延後反而提前，預計 Scale-up CPO 營收將於 2027 年下半年開始顯著貢獻。",
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bullish": 8,
+            "Bullish": 12,
             "Neutral": 8,
+            "Bearish": 1
+          }
+        },
+        {
+          "symbol": "SIVE",
+          "mentions": 21,
+          "dominant_sentiment": "Neutral",
+          "sentiment_score": 8,
+          "max_importance": 5,
+          "latest_at": "2026-08-12T07:54:08Z",
+          "latest_thesis": "光學財報驗證了 CW DFB 激光器瓶頸論點，Sivers ($SIVE) 身為少數西方 CPO 關鍵玩家，將顯著受益於供需失衡與架構轉型。",
+          "latest_summary_zh": "作者分析多家光電大廠（LITE、AAOI、MTSI）最新財報，驗證了連續波（CW）DFB 激光器與磷化銦（InP）產能嚴重短缺的論點。中國競爭對手技術落後數年，使具備量產能力的公司擁有定價權與高護城河。這有利於作為少數第一代 CPO 西方玩家之一且市值僅約 15 億美元的 Sivers ($SIVE)。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 9,
+            "Neutral": 11,
             "Bearish": 1
           }
         },
@@ -646,17 +750,17 @@
         },
         {
           "symbol": "NBIS",
-          "mentions": 11,
+          "mentions": 12,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 2,
+          "sentiment_score": 3,
           "max_importance": 5,
-          "latest_at": "2026-08-10T02:03:29Z",
-          "latest_thesis": "Just some near term events:  - OCP APAC tomorrow (Ayar, Lightmatter, $AMD, $NVDA) and your CPO players are giving announcements/updates.  This should be a catalyst for certain o...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
+          "latest_at": "2026-08-12T12:23:43Z",
+          "latest_thesis": "Nebius 展現極強的算力需求能見度與持續擴大的獲利能力，儘管資本支出龐大，強勁的預付款與產能預訂奠定其長期成長動能。",
+          "latest_summary_zh": "Nebius ($NBIS) 公布強勁的第二季財報，營收達 5.823 億美元（年增 454%、季增 46%），AI 雲端調整後 EBITDA 利潤率提升至 50%，手握 80.4 億美元現金。公司重申 2026 年財務指引，並指出強烈的需求訊號，包括 2027 年產能可按現行條件完售、包含 4 筆平均超過 10 億美元的大型合約，以及預約電力指引上調至 5 GW。",
+          "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Neutral": 9,
-            "Bullish": 2
+            "Bullish": 3,
+            "Neutral": 9
           }
         },
         {
@@ -673,6 +777,21 @@
             "Neutral": 4,
             "Bearish": 1,
             "Bullish": 5
+          }
+        },
+        {
+          "symbol": "COHR",
+          "mentions": 9,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 6,
+          "max_importance": 5,
+          "latest_at": "2026-08-12T22:59:29Z",
+          "latest_thesis": "InP CW 雷射晶片成為光通訊與 CPO 供應鏈的最核心瓶頸，垂直整合大廠自用產能鎖死外售，外購 CW 雷射供應商獲得巨大定價權與訂單能見度。",
+          "latest_summary_zh": "Coherent (COHR) 財報顯示資料中心收發器需求極為強勁，且印磷 (InP) 磷化銦雷射晶片產能已被預訂至 2027 年底。由於 COHR 與 AAOI 均將 InP 雷射留作自用而不對外銷售，導致第三方外購 CW 雷射供應商（如 MTSI）需求爆發。此外，COHR 重申共封裝光學 (CPO) 需求未延後反而提前，預計 Scale-up CPO 營收將於 2027 年下半年開始顯著貢獻。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 6,
+            "Neutral": 3
           }
         },
         {
@@ -708,6 +827,21 @@
           }
         },
         {
+          "symbol": "IREN",
+          "mentions": 8,
+          "dominant_sentiment": "Neutral",
+          "sentiment_score": 3,
+          "max_importance": 5,
+          "latest_at": "2026-08-12T12:23:43Z",
+          "latest_thesis": "Nebius 展現極強的算力需求能見度與持續擴大的獲利能力，儘管資本支出龐大，強勁的預付款與產能預訂奠定其長期成長動能。",
+          "latest_summary_zh": "Nebius ($NBIS) 公布強勁的第二季財報，營收達 5.823 億美元（年增 454%、季增 46%），AI 雲端調整後 EBITDA 利潤率提升至 50%，手握 80.4 億美元現金。公司重申 2026 年財務指引，並指出強烈的需求訊號，包括 2027 年產能可按現行條件完售、包含 4 筆平均超過 10 億美元的大型合約，以及預約電力指引上調至 5 GW。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 3,
+            "Neutral": 5
+          }
+        },
+        {
           "symbol": "INTC",
           "mentions": 8,
           "dominant_sentiment": "Neutral",
@@ -720,21 +854,6 @@
           "sentiments": {
             "Neutral": 7,
             "Bearish": 1
-          }
-        },
-        {
-          "symbol": "IREN",
-          "mentions": 7,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 2,
-          "max_importance": 5,
-          "latest_at": "2026-08-11T01:29:11Z",
-          "latest_thesis": "比特幣礦商轉型 AI 託管獲大廠巨額合約驗證，但營收爆發拐點需等到 2027 年下半年。",
-          "latest_summary_zh": "RIOT 宣布與 Anthropic 簽署高達 91 億至 161 億美元的 20 年期巨額託管合約，同時 AMD 也行使選擇權擴展與 RIOT 的合作。作者指出前比特幣礦商（如 RIOT、IREN）成功轉型 AI 主機託管（Colo），但整個族群的營收顯著轉折點（inflection）預計要到 2027 年下半年才會顯現。",
-          "latest_change": "INSUFFICIENT_HISTORY",
-          "sentiments": {
-            "Bullish": 2,
-            "Neutral": 5
           }
         },
         {
@@ -754,18 +873,18 @@
           }
         },
         {
-          "symbol": "COHR",
+          "symbol": "MTSI",
           "mentions": 6,
           "dominant_sentiment": "Bullish",
-          "sentiment_score": 3,
+          "sentiment_score": 4,
           "max_importance": 5,
-          "latest_at": "2026-08-08T17:52:29Z",
-          "latest_thesis": "Yes, I'm still bullish on memory like $MU / Samsung.  As I said earlier, markets tend to rotate from bottleneck to bottleneck.  This week it looks $AXTI to $LITE in the photonic...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
+          "latest_at": "2026-08-12T22:59:29Z",
+          "latest_thesis": "InP CW 雷射晶片成為光通訊與 CPO 供應鏈的最核心瓶頸，垂直整合大廠自用產能鎖死外售，外購 CW 雷射供應商獲得巨大定價權與訂單能見度。",
+          "latest_summary_zh": "Coherent (COHR) 財報顯示資料中心收發器需求極為強勁，且印磷 (InP) 磷化銦雷射晶片產能已被預訂至 2027 年底。由於 COHR 與 AAOI 均將 InP 雷射留作自用而不對外銷售，導致第三方外購 CW 雷射供應商（如 MTSI）需求爆發。此外，COHR 重申共封裝光學 (CPO) 需求未延後反而提前，預計 Scale-up CPO 營收將於 2027 年下半年開始顯著貢獻。",
+          "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bullish": 3,
-            "Neutral": 3
+            "Bullish": 4,
+            "Neutral": 2
           }
         },
         {
@@ -785,6 +904,36 @@
           }
         },
         {
+          "symbol": "AVGO",
+          "mentions": 5,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 3,
+          "max_importance": 5,
+          "latest_at": "2026-08-12T07:54:08Z",
+          "latest_thesis": "光學財報驗證了 CW DFB 激光器瓶頸論點，Sivers ($SIVE) 身為少數西方 CPO 關鍵玩家，將顯著受益於供需失衡與架構轉型。",
+          "latest_summary_zh": "作者分析多家光電大廠（LITE、AAOI、MTSI）最新財報，驗證了連續波（CW）DFB 激光器與磷化銦（InP）產能嚴重短缺的論點。中國競爭對手技術落後數年，使具備量產能力的公司擁有定價權與高護城河。這有利於作為少數第一代 CPO 西方玩家之一且市值僅約 15 億美元的 Sivers ($SIVE)。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 3,
+            "Neutral": 2
+          }
+        },
+        {
+          "symbol": "AXTI",
+          "mentions": 5,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 4,
+          "max_importance": 5,
+          "latest_at": "2026-08-12T00:06:12Z",
+          "latest_thesis": "Lumentum 財報驗證了 2027 下半年 CPO/CW 激光器大升級趨勢，CW 激光器極度稀缺帶來強烈定價權，並帶動上游 InP 基板需求。",
+          "latest_summary_zh": "Lumentum ($LITE) 財報會議摘要確認了其主要客戶在 2027 年下半年的 CPO（共封裝光學）擴展時程，澄清了市場關於延期的傳聞。同時，高功率（UHP）CW 激光器與 EML 需求出現嚴重供需失衡，公司具備顯著的提價能力。此外，中國競爭對手實際產出落後於市場預期，且 InP 基板（如 $AXTI 供應）正在成為新的供應鏈瓶頸。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 4,
+            "Neutral": 1
+          }
+        },
+        {
           "symbol": "CCXI",
           "mentions": 5,
           "dominant_sentiment": "Neutral",
@@ -797,36 +946,6 @@
           "sentiments": {
             "Bullish": 1,
             "Neutral": 4
-          }
-        },
-        {
-          "symbol": "AVGO",
-          "mentions": 4,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 2,
-          "max_importance": 5,
-          "latest_at": "2026-08-07T05:46:59Z",
-          "latest_thesis": "CPO 雷射與光收發器面臨嚴重供需失衡，AAOI 因產能限制退出第一代 CPO，將大幅推升其他擁有 CW 雷射產能的西方獨立廠商之價值。",
-          "latest_summary_zh": "AAOI 財報顯示 CW 雷射與光收發器供不應求，客戶需求超出擴充產能 20%-40%，雷射為當前主要瓶頸。AAOI 因需優先供應自家光收發器，無法參予第一代 CPO 部署，這對 SIVE、LITE、AVGO、COHR 等具備產能的西方業者屬利多。此外，中國在 CPO DWDM 雷射技術上仍落後西方至少 2 至 3 年，鞏固了西方業者的護城河。",
-          "latest_change": "INSUFFICIENT_HISTORY",
-          "sentiments": {
-            "Bullish": 2,
-            "Neutral": 2
-          }
-        },
-        {
-          "symbol": "AXTI",
-          "mentions": 4,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 3,
-          "max_importance": 5,
-          "latest_at": "2026-08-08T17:52:29Z",
-          "latest_thesis": "Yes, I'm still bullish on memory like $MU / Samsung.  As I said earlier, markets tend to rotate from bottleneck to bottleneck.  This week it looks $AXTI to $LITE in the photonic...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
-          "sentiments": {
-            "Bullish": 3,
-            "Neutral": 1
           }
         },
         {
@@ -862,18 +981,33 @@
           }
         },
         {
-          "symbol": "MTSI",
+          "symbol": "POET",
           "mentions": 4,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 2,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 3,
           "max_importance": 5,
-          "latest_at": "2026-08-09T00:23:56Z",
-          "latest_thesis": "I think it’s a good time to revisit $SIVE ~$427m/yr midpoint capacity revenue modeled projections.  Given recent industry earnings:  > $AAOI cited +20-40% demand imbalance for t...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
+          "latest_at": "2026-08-12T22:59:29Z",
+          "latest_thesis": "InP CW 雷射晶片成為光通訊與 CPO 供應鏈的最核心瓶頸，垂直整合大廠自用產能鎖死外售，外購 CW 雷射供應商獲得巨大定價權與訂單能見度。",
+          "latest_summary_zh": "Coherent (COHR) 財報顯示資料中心收發器需求極為強勁，且印磷 (InP) 磷化銦雷射晶片產能已被預訂至 2027 年底。由於 COHR 與 AAOI 均將 InP 雷射留作自用而不對外銷售，導致第三方外購 CW 雷射供應商（如 MTSI）需求爆發。此外，COHR 重申共封裝光學 (CPO) 需求未延後反而提前，預計 Scale-up CPO 營收將於 2027 年下半年開始顯著貢獻。",
+          "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Neutral": 2,
-            "Bullish": 2
+            "Bullish": 3,
+            "Neutral": 1
+          }
+        },
+        {
+          "symbol": "SPCX",
+          "mentions": 4,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 3,
+          "max_importance": 5,
+          "latest_at": "2026-08-11T20:51:04Z",
+          "latest_thesis": "SMCI 憑藉龐大的 AI 資料中心新訂單與超乎預期的 2027 財年營收指引，若毛利率能維持在 10-15%，目前市值具備強烈的重估（rerating）潛力。",
+          "latest_summary_zh": "SMCI 給出極為強勁的 2027 財年營收指引，預計達 650 億至 720 億美元，遠高於市場預期的 524 億美元。此次財報中更記錄了超過 600 億美元的新訂單，可能與先前宣布與 xAI 等合作建造資料中心有關。作者認為若 SMCI 能維持 10-15% 的毛利率，以目前約 200 億美元的市值來看，股價具備相當大的估值重估（rerating）空間。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 3,
+            "Neutral": 1
           }
         },
         {
@@ -906,6 +1040,21 @@
           }
         },
         {
+          "symbol": "CRWV",
+          "mentions": 3,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 2,
+          "max_importance": 5,
+          "latest_at": "2026-08-12T12:23:43Z",
+          "latest_thesis": "Nebius 展現極強的算力需求能見度與持續擴大的獲利能力，儘管資本支出龐大，強勁的預付款與產能預訂奠定其長期成長動能。",
+          "latest_summary_zh": "Nebius ($NBIS) 公布強勁的第二季財報，營收達 5.823 億美元（年增 454%、季增 46%），AI 雲端調整後 EBITDA 利潤率提升至 50%，手握 80.4 億美元現金。公司重申 2026 年財務指引，並指出強烈的需求訊號，包括 2027 年產能可按現行條件完售、包含 4 筆平均超過 10 億美元的大型合約，以及預約電力指引上調至 5 GW。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 2,
+            "Neutral": 1
+          }
+        },
+        {
           "symbol": "GFS",
           "mentions": 3,
           "dominant_sentiment": "Bullish",
@@ -917,6 +1066,21 @@
           "latest_change": "MENTION",
           "sentiments": {
             "Neutral": 1,
+            "Bullish": 2
+          }
+        },
+        {
+          "symbol": "SMCI",
+          "mentions": 3,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 1,
+          "max_importance": 5,
+          "latest_at": "2026-08-12T01:08:18Z",
+          "latest_thesis": "SMCI 管理階層在法說會上無法正視並正面回答毛利率展望等核心財務問題，展現出極高不確定性。",
+          "latest_summary_zh": "作者諷刺 Super Micro Computer ($SMCI) 的執行長 Charles Liang 在法說會 Q&A 環節中不斷迴避關鍵財務問題。當被問及 2027 年毛利率展望以及 9 月毛利率是否會改善時，CEO 的回答非常模糊且閃爍其詞。作者認為其應答態度宛如政客般避重就輕。",
+          "latest_change": "GENERAL",
+          "sentiments": {
+            "Bearish": 1,
             "Bullish": 2
           }
         },
@@ -933,36 +1097,6 @@
           "sentiments": {
             "Neutral": 2,
             "Bullish": 1
-          }
-        },
-        {
-          "symbol": "SPCX",
-          "mentions": 3,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 2,
-          "max_importance": 5,
-          "latest_at": "2026-08-08T17:52:29Z",
-          "latest_thesis": "Yes, I'm still bullish on memory like $MU / Samsung.  As I said earlier, markets tend to rotate from bottleneck to bottleneck.  This week it looks $AXTI to $LITE in the photonic...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
-          "sentiments": {
-            "Bullish": 2,
-            "Neutral": 1
-          }
-        },
-        {
-          "symbol": "POET",
-          "mentions": 3,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 2,
-          "max_importance": 4,
-          "latest_at": "2026-08-07T07:26:37Z",
-          "latest_thesis": "Earlier today, optical interconnect company Lumilens \"emerges from stealth\" at a $5.5B valuation, after raising $700m.  Just as a recap from $POET / $SIVE Linkedin OSINT mapping...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
-          "sentiments": {
-            "Neutral": 1,
-            "Bullish": 2
           }
         },
         {
@@ -1007,6 +1141,50 @@
           "latest_change": "NEW",
           "sentiments": {
             "Bullish": 2
+          }
+        },
+        {
+          "symbol": "SIVEF",
+          "mentions": 2,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 1,
+          "max_importance": 5,
+          "latest_at": "2026-08-11T20:16:01Z",
+          "latest_thesis": "Lumentum 業績與指引大幅超預期，驗證了 CPO 與機架內光學滲透帶動的強勁光通訊升級週期。",
+          "latest_summary_zh": "Lumentum ($LITE) 公布優於預期的業績與強勁的下季度指引，營收與營業利潤率持續擴張。公司提及對超高功率 CPO 激光器與 ELS 模組需求上升，且 NPO 參與度擴大顯示光學元件開始滲透機架內連接。這對 $COHR 與 $SIVEF 等光學夥伴形成利好讀取，但對可能錯失第一代部署的 $AAOI 相對不利。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 1,
+            "Neutral": 1
+          }
+        },
+        {
+          "symbol": "SMTC",
+          "mentions": 2,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 2,
+          "max_importance": 5,
+          "latest_at": "2026-08-12T07:54:08Z",
+          "latest_thesis": "光學財報驗證了 CW DFB 激光器瓶頸論點，Sivers ($SIVE) 身為少數西方 CPO 關鍵玩家，將顯著受益於供需失衡與架構轉型。",
+          "latest_summary_zh": "作者分析多家光電大廠（LITE、AAOI、MTSI）最新財報，驗證了連續波（CW）DFB 激光器與磷化銦（InP）產能嚴重短缺的論點。中國競爭對手技術落後數年，使具備量產能力的公司擁有定價權與高護城河。這有利於作為少數第一代 CPO 西方玩家之一且市值僅約 15 億美元的 Sivers ($SIVE)。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 2
+          }
+        },
+        {
+          "symbol": "AEHR",
+          "mentions": 2,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 1,
+          "max_importance": 4,
+          "latest_at": "2026-08-12T11:44:46Z",
+          "latest_thesis": "AEHR 憑藉 AI 處理器龍頭客戶的追加訂單以及多個垂直領域（記憶體、矽光子）的擴展，展現強勁成長動能。",
+          "latest_summary_zh": "Aehr Test Systems ($AEHR) 宣佈收到主要 AI 處理器客戶價值 2,200 萬美元的 AI 處理器晶圓級預燒（Wafer level burn-in）追加訂單。作者指出這家小型公司正迅速在記憶體與矽光子等多個垂直領域擴展。受此消息激勵，$AEHR 盤前股價上漲 5.39%。",
+          "latest_change": "NEW",
+          "sentiments": {
+            "Bullish": 1,
+            "Neutral": 1
           }
         },
         {
@@ -1137,20 +1315,6 @@
         },
         {
           "symbol": "MXL",
-          "mentions": 1,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 1,
-          "max_importance": 5,
-          "latest_at": "2026-08-07T12:55:47Z",
-          "latest_thesis": "Some more TLDR takeaways from $AAOI ER:  - They also flagged DSP and TIA bottlenecks, which is a positive industry read through for names like $MXL, then $SMTC and $MTSI.   - Fo...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
-          "sentiments": {
-            "Bullish": 1
-          }
-        },
-        {
-          "symbol": "SMTC",
           "mentions": 1,
           "dominant_sentiment": "Bullish",
           "sentiment_score": 1,
@@ -1304,20 +1468,6 @@
           }
         },
         {
-          "symbol": "AEHR",
-          "mentions": 1,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 0,
-          "max_importance": 3,
-          "latest_at": "2026-07-21T17:41:05Z",
-          "latest_thesis": "Wow, a historic single day recovery.  $SIVEF +30.89% $IQEF +28.6% $AEHR +26.53% $CIFR +17.82% $NBIS +17.3% $AAOI +15.6% $LPK +14.48% $AXTI +14.12% $MU +12.54% $SNDK +12.8% $SOI...",
-          "latest_summary_zh": "",
-          "latest_change": "MENTION",
-          "sentiments": {
-            "Neutral": 1
-          }
-        },
-        {
           "symbol": "AEVA",
           "mentions": 1,
           "dominant_sentiment": "Neutral",
@@ -1347,20 +1497,6 @@
         },
         {
           "symbol": "CLSK",
-          "mentions": 1,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 0,
-          "max_importance": 3,
-          "latest_at": "2026-07-20T17:18:38Z",
-          "latest_thesis": "$IREN +19.69% after revising ARR target to $4B+ from new AI cloud contracts. Its customer base now includes Microsoft, Nvidia, Perplexity, and Figure.  $HUT +10.45% off a 15Y $9...",
-          "latest_summary_zh": "",
-          "latest_change": "MENTION",
-          "sentiments": {
-            "Neutral": 1
-          }
-        },
-        {
-          "symbol": "CRWV",
           "mentions": 1,
           "dominant_sentiment": "Neutral",
           "sentiment_score": 0,
@@ -1417,20 +1553,6 @@
         },
         {
           "symbol": "IQEF",
-          "mentions": 1,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 0,
-          "max_importance": 3,
-          "latest_at": "2026-07-21T17:41:05Z",
-          "latest_thesis": "Wow, a historic single day recovery.  $SIVEF +30.89% $IQEF +28.6% $AEHR +26.53% $CIFR +17.82% $NBIS +17.3% $AAOI +15.6% $LPK +14.48% $AXTI +14.12% $MU +12.54% $SNDK +12.8% $SOI...",
-          "latest_summary_zh": "",
-          "latest_change": "MENTION",
-          "sentiments": {
-            "Neutral": 1
-          }
-        },
-        {
-          "symbol": "SIVEF",
           "mentions": 1,
           "dominant_sentiment": "Neutral",
           "sentiment_score": 0,
@@ -1561,38 +1683,38 @@
       "period": "quarterly",
       "label": "每季",
       "days": 90,
-      "start_at": "2026-05-15T00:57:24.784624Z",
-      "generated_at": "2026-08-13T00:57:24.953673Z",
+      "start_at": "2026-05-15T02:52:12.208033Z",
+      "generated_at": "2026-08-13T02:52:12.288117Z",
       "earliest_available_at": "2025-11-17T16:12:21Z",
       "traversed_until": "2026-04-13T02:42:25Z",
-      "coverage_days": 121,
+      "coverage_days": 122,
       "coverage_complete": true,
-      "tweet_count": 536,
-      "primary_post_count": 536,
+      "tweet_count": 547,
+      "primary_post_count": 547,
       "reply_context_count": 712,
-      "all_collected_count": 1248,
+      "all_collected_count": 1259,
       "symbol_count": 169,
-      "high_importance_count": 186,
-      "ai_analyzed_count": 18,
+      "high_importance_count": 194,
+      "ai_analyzed_count": 28,
       "sentiments": {
-        "Neutral": 367,
-        "Bullish": 138,
-        "Bearish": 30,
+        "Bullish": 147,
+        "Neutral": 368,
+        "Bearish": 31,
         "Mixed": 1
       },
       "symbols": [
         {
           "symbol": "SIVE",
-          "mentions": 138,
+          "mentions": 140,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 37,
+          "sentiment_score": 39,
           "max_importance": 5,
-          "latest_at": "2026-08-10T08:26:02Z",
-          "latest_thesis": "光學與科技主題具高波動特性，投資人應建立長線信念、避免頻繁交易與恐慌殺跌，才能把握光通訊族群強勁反彈的收益。",
-          "latest_summary_zh": "作者觀察到光通訊族群（SIVE、OE Solutions、LITE、Coherent、AAOI）迎來強勁反彈行情。他引用 Fidelity 與 UC Berkeley 的研究指出，不頻繁交易者的平均報酬率（18.5%）顯著高於頻繁交易者（11.4%）。作者提醒散戶往往在記憶體或光通訊等主題波動中恐慌殺跌，導致錯過隨後的劇烈反彈，強調建立投資信念能有效避免過度交易並掌握逢低加碼的機會。",
+          "latest_at": "2026-08-12T07:54:08Z",
+          "latest_thesis": "光學財報驗證了 CW DFB 激光器瓶頸論點，Sivers ($SIVE) 身為少數西方 CPO 關鍵玩家，將顯著受益於供需失衡與架構轉型。",
+          "latest_summary_zh": "作者分析多家光電大廠（LITE、AAOI、MTSI）最新財報，驗證了連續波（CW）DFB 激光器與磷化銦（InP）產能嚴重短缺的論點。中國競爭對手技術落後數年，使具備量產能力的公司擁有定價權與高護城河。這有利於作為少數第一代 CPO 西方玩家之一且市值僅約 15 億美元的 Sivers ($SIVE)。",
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bullish": 49,
+            "Bullish": 51,
             "Neutral": 76,
             "Bearish": 12,
             "Mixed": 1
@@ -1616,64 +1738,64 @@
         },
         {
           "symbol": "LITE",
-          "mentions": 78,
+          "mentions": 83,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 22,
+          "sentiment_score": 27,
           "max_importance": 5,
-          "latest_at": "2026-08-10T08:26:02Z",
-          "latest_thesis": "光學與科技主題具高波動特性，投資人應建立長線信念、避免頻繁交易與恐慌殺跌，才能把握光通訊族群強勁反彈的收益。",
-          "latest_summary_zh": "作者觀察到光通訊族群（SIVE、OE Solutions、LITE、Coherent、AAOI）迎來強勁反彈行情。他引用 Fidelity 與 UC Berkeley 的研究指出，不頻繁交易者的平均報酬率（18.5%）顯著高於頻繁交易者（11.4%）。作者提醒散戶往往在記憶體或光通訊等主題波動中恐慌殺跌，導致錯過隨後的劇烈反彈，強調建立投資信念能有效避免過度交易並掌握逢低加碼的機會。",
+          "latest_at": "2026-08-12T22:59:29Z",
+          "latest_thesis": "InP CW 雷射晶片成為光通訊與 CPO 供應鏈的最核心瓶頸，垂直整合大廠自用產能鎖死外售，外購 CW 雷射供應商獲得巨大定價權與訂單能見度。",
+          "latest_summary_zh": "Coherent (COHR) 財報顯示資料中心收發器需求極為強勁，且印磷 (InP) 磷化銦雷射晶片產能已被預訂至 2027 年底。由於 COHR 與 AAOI 均將 InP 雷射留作自用而不對外銷售，導致第三方外購 CW 雷射供應商（如 MTSI）需求爆發。此外，COHR 重申共封裝光學 (CPO) 需求未延後反而提前，預計 Scale-up CPO 營收將於 2027 年下半年開始顯著貢獻。",
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bullish": 30,
+            "Bullish": 35,
             "Neutral": 40,
             "Bearish": 8
           }
         },
         {
           "symbol": "AAOI",
-          "mentions": 71,
+          "mentions": 75,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 26,
+          "sentiment_score": 30,
           "max_importance": 5,
-          "latest_at": "2026-08-10T15:42:04Z",
-          "latest_thesis": "主流媒體因缺乏光學工程專業知識而將 $AAOI 誤批為迷因股，忽視了其在光學供應鏈中的技術瓶頸與基本面潛力。",
-          "latest_summary_zh": "作者以諷刺對話批評主流財經媒體 Barron's 對光學供應鏈（如 $AAOI）的報導極不專業。作者指出媒體聘用缺乏工程背景的人員，因看不懂 CW 雷射瓶頸與產能毛利模型等技術細節，便草率將其歸類為迷因股（memestock）。",
+          "latest_at": "2026-08-12T22:59:29Z",
+          "latest_thesis": "InP CW 雷射晶片成為光通訊與 CPO 供應鏈的最核心瓶頸，垂直整合大廠自用產能鎖死外售，外購 CW 雷射供應商獲得巨大定價權與訂單能見度。",
+          "latest_summary_zh": "Coherent (COHR) 財報顯示資料中心收發器需求極為強勁，且印磷 (InP) 磷化銦雷射晶片產能已被預訂至 2027 年底。由於 COHR 與 AAOI 均將 InP 雷射留作自用而不對外銷售，導致第三方外購 CW 雷射供應商（如 MTSI）需求爆發。此外，COHR 重申共封裝光學 (CPO) 需求未延後反而提前，預計 Scale-up CPO 營收將於 2027 年下半年開始顯著貢獻。",
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bullish": 30,
+            "Bullish": 34,
             "Neutral": 37,
             "Bearish": 4
           }
         },
         {
           "symbol": "NBIS",
-          "mentions": 45,
+          "mentions": 46,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 9,
+          "sentiment_score": 10,
           "max_importance": 5,
-          "latest_at": "2026-08-10T02:03:29Z",
-          "latest_thesis": "Just some near term events:  - OCP APAC tomorrow (Ayar, Lightmatter, $AMD, $NVDA) and your CPO players are giving announcements/updates.  This should be a catalyst for certain o...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
+          "latest_at": "2026-08-12T12:23:43Z",
+          "latest_thesis": "Nebius 展現極強的算力需求能見度與持續擴大的獲利能力，儘管資本支出龐大，強勁的預付款與產能預訂奠定其長期成長動能。",
+          "latest_summary_zh": "Nebius ($NBIS) 公布強勁的第二季財報，營收達 5.823 億美元（年增 454%、季增 46%），AI 雲端調整後 EBITDA 利潤率提升至 50%，手握 80.4 億美元現金。公司重申 2026 年財務指引，並指出強烈的需求訊號，包括 2027 年產能可按現行條件完售、包含 4 筆平均超過 10 億美元的大型合約，以及預約電力指引上調至 5 GW。",
+          "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
+            "Bullish": 13,
             "Neutral": 30,
-            "Bullish": 12,
             "Bearish": 3
           }
         },
         {
           "symbol": "AXTI",
-          "mentions": 41,
+          "mentions": 42,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": 15,
+          "sentiment_score": 16,
           "max_importance": 5,
-          "latest_at": "2026-08-08T17:52:29Z",
-          "latest_thesis": "Yes, I'm still bullish on memory like $MU / Samsung.  As I said earlier, markets tend to rotate from bottleneck to bottleneck.  This week it looks $AXTI to $LITE in the photonic...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
+          "latest_at": "2026-08-12T00:06:12Z",
+          "latest_thesis": "Lumentum 財報驗證了 2027 下半年 CPO/CW 激光器大升級趨勢，CW 激光器極度稀缺帶來強烈定價權，並帶動上游 InP 基板需求。",
+          "latest_summary_zh": "Lumentum ($LITE) 財報會議摘要確認了其主要客戶在 2027 年下半年的 CPO（共封裝光學）擴展時程，澄清了市場關於延期的傳聞。同時，高功率（UHP）CW 激光器與 EML 需求出現嚴重供需失衡，公司具備顯著的提價能力。此外，中國競爭對手實際產出落後於市場預期，且 InP 基板（如 $AXTI 供應）正在成為新的供應鏈瓶頸。",
+          "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bullish": 16,
+            "Bullish": 17,
             "Neutral": 23,
             "Mixed": 1,
             "Bearish": 1
@@ -1697,7 +1819,7 @@
         },
         {
           "symbol": "SOI",
-          "mentions": 39,
+          "mentions": 38,
           "dominant_sentiment": "Neutral",
           "sentiment_score": 10,
           "max_importance": 5,
@@ -1706,7 +1828,7 @@
           "latest_summary_zh": "",
           "latest_change": "UPDATE",
           "sentiments": {
-            "Neutral": 23,
+            "Neutral": 22,
             "Bullish": 13,
             "Bearish": 3
           }
@@ -1841,6 +1963,22 @@
           }
         },
         {
+          "symbol": "SPCX",
+          "mentions": 26,
+          "dominant_sentiment": "Neutral",
+          "sentiment_score": 7,
+          "max_importance": 5,
+          "latest_at": "2026-08-11T20:51:04Z",
+          "latest_thesis": "SMCI 憑藉龐大的 AI 資料中心新訂單與超乎預期的 2027 財年營收指引，若毛利率能維持在 10-15%，目前市值具備強烈的重估（rerating）潛力。",
+          "latest_summary_zh": "SMCI 給出極為強勁的 2027 財年營收指引，預計達 650 億至 720 億美元，遠高於市場預期的 524 億美元。此次財報中更記錄了超過 600 億美元的新訂單，可能與先前宣布與 xAI 等合作建造資料中心有關。作者認為若 SMCI 能維持 10-15% 的毛利率，以目前約 200 億美元的市值來看，股價具備相當大的估值重估（rerating）空間。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 8,
+            "Neutral": 17,
+            "Bearish": 1
+          }
+        },
+        {
           "symbol": "GOOGL",
           "mentions": 25,
           "dominant_sentiment": "Neutral",
@@ -1854,22 +1992,6 @@
             "Neutral": 16,
             "Bearish": 1,
             "Bullish": 8
-          }
-        },
-        {
-          "symbol": "SPCX",
-          "mentions": 25,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 6,
-          "max_importance": 5,
-          "latest_at": "2026-08-08T17:52:29Z",
-          "latest_thesis": "Yes, I'm still bullish on memory like $MU / Samsung.  As I said earlier, markets tend to rotate from bottleneck to bottleneck.  This week it looks $AXTI to $LITE in the photonic...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
-          "sentiments": {
-            "Bullish": 7,
-            "Neutral": 17,
-            "Bearish": 1
           }
         },
         {
@@ -1889,8 +2011,24 @@
           }
         },
         {
+          "symbol": "COHR",
+          "mentions": 23,
+          "dominant_sentiment": "Neutral",
+          "sentiment_score": 6,
+          "max_importance": 5,
+          "latest_at": "2026-08-12T22:59:29Z",
+          "latest_thesis": "InP CW 雷射晶片成為光通訊與 CPO 供應鏈的最核心瓶頸，垂直整合大廠自用產能鎖死外售，外購 CW 雷射供應商獲得巨大定價權與訂單能見度。",
+          "latest_summary_zh": "Coherent (COHR) 財報顯示資料中心收發器需求極為強勁，且印磷 (InP) 磷化銦雷射晶片產能已被預訂至 2027 年底。由於 COHR 與 AAOI 均將 InP 雷射留作自用而不對外銷售，導致第三方外購 CW 雷射供應商（如 MTSI）需求爆發。此外，COHR 重申共封裝光學 (CPO) 需求未延後反而提前，預計 Scale-up CPO 營收將於 2027 年下半年開始顯著貢獻。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 9,
+            "Neutral": 11,
+            "Bearish": 3
+          }
+        },
+        {
           "symbol": "IQE",
-          "mentions": 24,
+          "mentions": 23,
           "dominant_sentiment": "Neutral",
           "sentiment_score": 6,
           "max_importance": 5,
@@ -1900,8 +2038,39 @@
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
             "Bullish": 8,
-            "Neutral": 14,
+            "Neutral": 13,
             "Bearish": 2
+          }
+        },
+        {
+          "symbol": "IREN",
+          "mentions": 23,
+          "dominant_sentiment": "Neutral",
+          "sentiment_score": 7,
+          "max_importance": 5,
+          "latest_at": "2026-08-12T12:23:43Z",
+          "latest_thesis": "Nebius 展現極強的算力需求能見度與持續擴大的獲利能力，儘管資本支出龐大，強勁的預付款與產能預訂奠定其長期成長動能。",
+          "latest_summary_zh": "Nebius ($NBIS) 公布強勁的第二季財報，營收達 5.823 億美元（年增 454%、季增 46%），AI 雲端調整後 EBITDA 利潤率提升至 50%，手握 80.4 億美元現金。公司重申 2026 年財務指引，並指出強烈的需求訊號，包括 2027 年產能可按現行條件完售、包含 4 筆平均超過 10 億美元的大型合約，以及預約電力指引上調至 5 GW。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 7,
+            "Neutral": 16
+          }
+        },
+        {
+          "symbol": "POET",
+          "mentions": 23,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 9,
+          "max_importance": 5,
+          "latest_at": "2026-08-12T22:59:29Z",
+          "latest_thesis": "InP CW 雷射晶片成為光通訊與 CPO 供應鏈的最核心瓶頸，垂直整合大廠自用產能鎖死外售，外購 CW 雷射供應商獲得巨大定價權與訂單能見度。",
+          "latest_summary_zh": "Coherent (COHR) 財報顯示資料中心收發器需求極為強勁，且印磷 (InP) 磷化銦雷射晶片產能已被預訂至 2027 年底。由於 COHR 與 AAOI 均將 InP 雷射留作自用而不對外銷售，導致第三方外購 CW 雷射供應商（如 MTSI）需求爆發。此外，COHR 重申共封裝光學 (CPO) 需求未延後反而提前，預計 Scale-up CPO 營收將於 2027 年下半年開始顯著貢獻。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 13,
+            "Neutral": 6,
+            "Bearish": 4
           }
         },
         {
@@ -1918,37 +2087,6 @@
             "Neutral": 11,
             "Bullish": 9,
             "Bearish": 2
-          }
-        },
-        {
-          "symbol": "IREN",
-          "mentions": 22,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 6,
-          "max_importance": 5,
-          "latest_at": "2026-08-11T01:29:11Z",
-          "latest_thesis": "比特幣礦商轉型 AI 託管獲大廠巨額合約驗證，但營收爆發拐點需等到 2027 年下半年。",
-          "latest_summary_zh": "RIOT 宣布與 Anthropic 簽署高達 91 億至 161 億美元的 20 年期巨額託管合約，同時 AMD 也行使選擇權擴展與 RIOT 的合作。作者指出前比特幣礦商（如 RIOT、IREN）成功轉型 AI 主機託管（Colo），但整個族群的營收顯著轉折點（inflection）預計要到 2027 年下半年才會顯現。",
-          "latest_change": "INSUFFICIENT_HISTORY",
-          "sentiments": {
-            "Bullish": 6,
-            "Neutral": 16
-          }
-        },
-        {
-          "symbol": "POET",
-          "mentions": 22,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 8,
-          "max_importance": 5,
-          "latest_at": "2026-08-07T07:26:37Z",
-          "latest_thesis": "Earlier today, optical interconnect company Lumilens \"emerges from stealth\" at a $5.5B valuation, after raising $700m.  Just as a recap from $POET / $SIVE Linkedin OSINT mapping...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
-          "sentiments": {
-            "Neutral": 6,
-            "Bullish": 12,
-            "Bearish": 4
           }
         },
         {
@@ -1983,22 +2121,6 @@
           }
         },
         {
-          "symbol": "COHR",
-          "mentions": 20,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 3,
-          "max_importance": 5,
-          "latest_at": "2026-08-08T17:52:29Z",
-          "latest_thesis": "Yes, I'm still bullish on memory like $MU / Samsung.  As I said earlier, markets tend to rotate from bottleneck to bottleneck.  This week it looks $AXTI to $LITE in the photonic...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
-          "sentiments": {
-            "Bullish": 6,
-            "Neutral": 11,
-            "Bearish": 3
-          }
-        },
-        {
           "symbol": "LPK",
           "mentions": 20,
           "dominant_sentiment": "Neutral",
@@ -2016,7 +2138,7 @@
         },
         {
           "symbol": "TSLA",
-          "mentions": 20,
+          "mentions": 19,
           "dominant_sentiment": "Neutral",
           "sentiment_score": 2,
           "max_importance": 5,
@@ -2026,7 +2148,7 @@
           "latest_change": "UPDATE",
           "sentiments": {
             "Bullish": 3,
-            "Neutral": 16,
+            "Neutral": 15,
             "Bearish": 1
           }
         },
@@ -2047,16 +2169,16 @@
         },
         {
           "symbol": "AVGO",
-          "mentions": 15,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 4,
+          "mentions": 16,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 5,
           "max_importance": 5,
-          "latest_at": "2026-08-07T05:46:59Z",
-          "latest_thesis": "CPO 雷射與光收發器面臨嚴重供需失衡，AAOI 因產能限制退出第一代 CPO，將大幅推升其他擁有 CW 雷射產能的西方獨立廠商之價值。",
-          "latest_summary_zh": "AAOI 財報顯示 CW 雷射與光收發器供不應求，客戶需求超出擴充產能 20%-40%，雷射為當前主要瓶頸。AAOI 因需優先供應自家光收發器，無法參予第一代 CPO 部署，這對 SIVE、LITE、AVGO、COHR 等具備產能的西方業者屬利多。此外，中國在 CPO DWDM 雷射技術上仍落後西方至少 2 至 3 年，鞏固了西方業者的護城河。",
+          "latest_at": "2026-08-12T07:54:08Z",
+          "latest_thesis": "光學財報驗證了 CW DFB 激光器瓶頸論點，Sivers ($SIVE) 身為少數西方 CPO 關鍵玩家，將顯著受益於供需失衡與架構轉型。",
+          "latest_summary_zh": "作者分析多家光電大廠（LITE、AAOI、MTSI）最新財報，驗證了連續波（CW）DFB 激光器與磷化銦（InP）產能嚴重短缺的論點。中國競爭對手技術落後數年，使具備量產能力的公司擁有定價權與高護城河。這有利於作為少數第一代 CPO 西方玩家之一且市值僅約 15 億美元的 Sivers ($SIVE)。",
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bullish": 6,
+            "Bullish": 7,
             "Neutral": 7,
             "Bearish": 2
           }
@@ -2079,6 +2201,38 @@
           }
         },
         {
+          "symbol": "MTSI",
+          "mentions": 14,
+          "dominant_sentiment": "Neutral",
+          "sentiment_score": 3,
+          "max_importance": 5,
+          "latest_at": "2026-08-12T22:59:29Z",
+          "latest_thesis": "InP CW 雷射晶片成為光通訊與 CPO 供應鏈的最核心瓶頸，垂直整合大廠自用產能鎖死外售，外購 CW 雷射供應商獲得巨大定價權與訂單能見度。",
+          "latest_summary_zh": "Coherent (COHR) 財報顯示資料中心收發器需求極為強勁，且印磷 (InP) 磷化銦雷射晶片產能已被預訂至 2027 年底。由於 COHR 與 AAOI 均將 InP 雷射留作自用而不對外銷售，導致第三方外購 CW 雷射供應商（如 MTSI）需求爆發。此外，COHR 重申共封裝光學 (CPO) 需求未延後反而提前，預計 Scale-up CPO 營收將於 2027 年下半年開始顯著貢獻。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 5,
+            "Neutral": 7,
+            "Bearish": 2
+          }
+        },
+        {
+          "symbol": "AEHR",
+          "mentions": 13,
+          "dominant_sentiment": "Neutral",
+          "sentiment_score": 4,
+          "max_importance": 5,
+          "latest_at": "2026-08-12T11:44:46Z",
+          "latest_thesis": "AEHR 憑藉 AI 處理器龍頭客戶的追加訂單以及多個垂直領域（記憶體、矽光子）的擴展，展現強勁成長動能。",
+          "latest_summary_zh": "Aehr Test Systems ($AEHR) 宣佈收到主要 AI 處理器客戶價值 2,200 萬美元的 AI 處理器晶圓級預燒（Wafer level burn-in）追加訂單。作者指出這家小型公司正迅速在記憶體與矽光子等多個垂直領域擴展。受此消息激勵，$AEHR 盤前股價上漲 5.39%。",
+          "latest_change": "NEW",
+          "sentiments": {
+            "Bullish": 5,
+            "Neutral": 7,
+            "Bearish": 1
+          }
+        },
+        {
           "symbol": "MSFT",
           "mentions": 13,
           "dominant_sentiment": "Bullish",
@@ -2095,22 +2249,6 @@
           }
         },
         {
-          "symbol": "AEHR",
-          "mentions": 12,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 3,
-          "max_importance": 5,
-          "latest_at": "2026-07-21T17:41:05Z",
-          "latest_thesis": "Wow, a historic single day recovery.  $SIVEF +30.89% $IQEF +28.6% $AEHR +26.53% $CIFR +17.82% $NBIS +17.3% $AAOI +15.6% $LPK +14.48% $AXTI +14.12% $MU +12.54% $SNDK +12.8% $SOI...",
-          "latest_summary_zh": "",
-          "latest_change": "MENTION",
-          "sentiments": {
-            "Neutral": 7,
-            "Bullish": 4,
-            "Bearish": 1
-          }
-        },
-        {
           "symbol": "EWY",
           "mentions": 12,
           "dominant_sentiment": "Neutral",
@@ -2123,22 +2261,6 @@
           "sentiments": {
             "Bullish": 4,
             "Neutral": 6,
-            "Bearish": 2
-          }
-        },
-        {
-          "symbol": "MTSI",
-          "mentions": 12,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 1,
-          "max_importance": 5,
-          "latest_at": "2026-08-09T00:23:56Z",
-          "latest_thesis": "I think it’s a good time to revisit $SIVE ~$427m/yr midpoint capacity revenue modeled projections.  Given recent industry earnings:  > $AAOI cited +20-40% demand imbalance for t...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
-          "sentiments": {
-            "Neutral": 7,
-            "Bullish": 3,
             "Bearish": 2
           }
         },
@@ -2238,6 +2360,21 @@
           }
         },
         {
+          "symbol": "CRWV",
+          "mentions": 7,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 5,
+          "max_importance": 5,
+          "latest_at": "2026-08-12T12:23:43Z",
+          "latest_thesis": "Nebius 展現極強的算力需求能見度與持續擴大的獲利能力，儘管資本支出龐大，強勁的預付款與產能預訂奠定其長期成長動能。",
+          "latest_summary_zh": "Nebius ($NBIS) 公布強勁的第二季財報，營收達 5.823 億美元（年增 454%、季增 46%），AI 雲端調整後 EBITDA 利潤率提升至 50%，手握 80.4 億美元現金。公司重申 2026 年財務指引，並指出強烈的需求訊號，包括 2027 年產能可按現行條件完售、包含 4 筆平均超過 10 億美元的大型合約，以及預約電力指引上調至 5 GW。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 5,
+            "Neutral": 2
+          }
+        },
+        {
           "symbol": "POWI",
           "mentions": 7,
           "dominant_sentiment": "Bullish",
@@ -2331,18 +2468,34 @@
           }
         },
         {
-          "symbol": "CRWV",
+          "symbol": "SIVEF",
+          "mentions": 5,
+          "dominant_sentiment": "Neutral",
+          "sentiment_score": 2,
+          "max_importance": 5,
+          "latest_at": "2026-08-11T20:16:01Z",
+          "latest_thesis": "Lumentum 業績與指引大幅超預期，驗證了 CPO 與機架內光學滲透帶動的強勁光通訊升級週期。",
+          "latest_summary_zh": "Lumentum ($LITE) 公布優於預期的業績與強勁的下季度指引，營收與營業利潤率持續擴張。公司提及對超高功率 CPO 激光器與 ELS 模組需求上升，且 NPO 參與度擴大顯示光學元件開始滲透機架內連接。這對 $COHR 與 $SIVEF 等光學夥伴形成利好讀取，但對可能錯失第一代部署的 $AAOI 相對不利。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 2,
+            "Neutral": 3
+          }
+        },
+        {
+          "symbol": "SMCI",
           "mentions": 5,
           "dominant_sentiment": "Bullish",
-          "sentiment_score": 3,
+          "sentiment_score": 2,
           "max_importance": 5,
-          "latest_at": "2026-07-20T17:18:38Z",
-          "latest_thesis": "$IREN +19.69% after revising ARR target to $4B+ from new AI cloud contracts. Its customer base now includes Microsoft, Nvidia, Perplexity, and Figure.  $HUT +10.45% off a 15Y $9...",
-          "latest_summary_zh": "",
-          "latest_change": "MENTION",
+          "latest_at": "2026-08-12T01:08:18Z",
+          "latest_thesis": "SMCI 管理階層在法說會上無法正視並正面回答毛利率展望等核心財務問題，展現出極高不確定性。",
+          "latest_summary_zh": "作者諷刺 Super Micro Computer ($SMCI) 的執行長 Charles Liang 在法說會 Q&A 環節中不斷迴避關鍵財務問題。當被問及 2027 年毛利率展望以及 9 月毛利率是否會改善時，CEO 的回答非常模糊且閃爍其詞。作者認為其應答態度宛如政客般避重就輕。",
+          "latest_change": "GENERAL",
           "sentiments": {
-            "Neutral": 2,
-            "Bullish": 3
+            "Bearish": 1,
+            "Bullish": 3,
+            "Neutral": 1
           }
         },
         {
@@ -2480,21 +2633,6 @@
           "sentiments": {
             "Bullish": 2,
             "Neutral": 2
-          }
-        },
-        {
-          "symbol": "SIVEF",
-          "mentions": 4,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 1,
-          "max_importance": 4,
-          "latest_at": "2026-07-21T17:41:05Z",
-          "latest_thesis": "Wow, a historic single day recovery.  $SIVEF +30.89% $IQEF +28.6% $AEHR +26.53% $CIFR +17.82% $NBIS +17.3% $AAOI +15.6% $LPK +14.48% $AXTI +14.12% $MU +12.54% $SNDK +12.8% $SOI...",
-          "latest_summary_zh": "",
-          "latest_change": "MENTION",
-          "sentiments": {
-            "Neutral": 3,
-            "Bullish": 1
           }
         },
         {
@@ -2792,6 +2930,20 @@
           }
         },
         {
+          "symbol": "SMTC",
+          "mentions": 2,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 2,
+          "max_importance": 5,
+          "latest_at": "2026-08-12T07:54:08Z",
+          "latest_thesis": "光學財報驗證了 CW DFB 激光器瓶頸論點，Sivers ($SIVE) 身為少數西方 CPO 關鍵玩家，將顯著受益於供需失衡與架構轉型。",
+          "latest_summary_zh": "作者分析多家光電大廠（LITE、AAOI、MTSI）最新財報，驗證了連續波（CW）DFB 激光器與磷化銦（InP）產能嚴重短缺的論點。中國競爭對手技術落後數年，使具備量產能力的公司擁有定價權與高護城河。這有利於作為少數第一代 CPO 西方玩家之一且市值僅約 15 億美元的 Sivers ($SIVE)。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 2
+          }
+        },
+        {
           "symbol": "SNAP",
           "mentions": 2,
           "dominant_sentiment": "Bullish",
@@ -2891,21 +3043,6 @@
           "latest_change": "UPDATE",
           "sentiments": {
             "Neutral": 2
-          }
-        },
-        {
-          "symbol": "SMCI",
-          "mentions": 2,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 1,
-          "max_importance": 4,
-          "latest_at": "2026-05-17T13:56:41Z",
-          "latest_thesis": "I'm 100% sure if I met all you \"photonic memory\" experts in real life.  498 out of 500 of you couldn't explain CXL memory pooling or KV cache infrastructure and what $PENG actua...",
-          "latest_summary_zh": "",
-          "latest_change": "MENTION",
-          "sentiments": {
-            "Neutral": 1,
-            "Bullish": 1
           }
         },
         {
@@ -3132,20 +3269,6 @@
           "latest_thesis": "Sure, #1 thing is toxic financing structure/float dynamics.   Best example is current Neoclouds landscape:  - $IREN is basically trash, since they have $6,000,000,000 ATMs and v...",
           "latest_summary_zh": "",
           "latest_change": "UPDATE",
-          "sentiments": {
-            "Bullish": 1
-          }
-        },
-        {
-          "symbol": "SMTC",
-          "mentions": 1,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 1,
-          "max_importance": 5,
-          "latest_at": "2026-08-07T12:55:47Z",
-          "latest_thesis": "Some more TLDR takeaways from $AAOI ER:  - They also flagged DSP and TIA bottlenecks, which is a positive industry read through for names like $MXL, then $SMTC and $MTSI.   - Fo...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
           "sentiments": {
             "Bullish": 1
           }
@@ -4079,6 +4202,215 @@
   },
   "latest_primary_posts": [
     {
+      "tweet_id": "2087675367595380783",
+      "created_at": "2026-08-12T22:59:29Z",
+      "text": "My main takeaway was that your merchant CW laser suppliers seem to be EXTREMELY IMPORTANT now. \n\nBut TLDR of $COHR earnings:\n\n\"given the demand that we see in our DC business with transceivers, I don’t see any time in the near future where we would be selling indium phosphide lasers externally\"\n\n- Ton more value placed on companies that sell InP lasers externally if $AAOI can't doesn't enough capacity for first gen-CPO deployments, $COHR not selling externally...  \n\nI guess that's why $MTSI said a ton of customers are approaching them with urgency for InP CW DFB lasers (and they dont even have meaningful capacity coming online until EOY 2027)\n\n$AAOI -> Internal\n$COHR -> Internal\nBuyers -> fewer places to look for capacity. \n\n \"Our backlog now extends out, fiscal 2027 is basically completely booked out. We are booked really through the end of calendar 2027\" [ Massive massive demand visibility]\n\n- Coherent also mentioned LTAs spanning end of decade. So this kinda reinforces what $POET CEO said at their AGM that the \"big 3\" are fully sold out next 2 years.\n\n\"we’re not constrained in the assembly and test capacity right now. We’re really just constrained by the ramp of the indium phosphide production\"\n\n- Just for the bottleneck bros in terms of assembly/test not a bottleneck. \n\n\"absolutely no push-out of CPO demand. In fact, it has been the opposite. We have seen demand increase and request from customers’ demand getting pulled in\"\n\n\"we continue to expect revenue from CPO for scale-up applications to start to flow in the second half of calendar 2027\" \n\n- Big read through on other CPO players for scale up if $LITE, $COHR reaffirm revenue from CPO scale up coming h2027. \n\n- \"quarterly revenue exceeding $3 billion by the end of fiscal 2027\" \n\n- $COHR revenue go brrr\n\nSo for regular numbers it's:\n\n- $2.046B revenue (+13.3% Q/Q, +33.8% Y/Y), main revenue ramp looks to be happening entering Q4 into 2027\n- Non-GAAP gross margins: 40.2%\n\nNext quarter guide is:\n- Revenue: $2.2–$2.4B revenue\n- Non-GAAP gross margins: 39.5-41.5%\n\nBasically:\n$1.69B -> $1.81B -> $2.05B -> ~$2.30B -> $3.0B (end of FY 2027) \n~39% -> 39.6% -> 40.2% -> ~40.5% (gross margins)\n\nFor operating margins:\n18.0% -> 19.5% -> 19.9% -> 20.3% -> 21.8%\n\nLittle less impressed compared to $LITE margin growth in terms of profitability, but revenue scale for $COHR growing rapidly.",
+      "url": "https://x.com/aleabitoreddit/status/2087675367595380783",
+      "symbols": [
+        "AAOI",
+        "COHR",
+        "LITE",
+        "MTSI",
+        "POET"
+      ],
+      "sentiment": "Bullish",
+      "importance": 5,
+      "summary_zh": "Coherent (COHR) 財報顯示資料中心收發器需求極為強勁，且印磷 (InP) 磷化銦雷射晶片產能已被預訂至 2027 年底。由於 COHR 與 AAOI 均將 InP 雷射留作自用而不對外銷售，導致第三方外購 CW 雷射供應商（如 MTSI）需求爆發。此外，COHR 重申共封裝光學 (CPO) 需求未延後反而提前，預計 Scale-up CPO 營收將於 2027 年下半年開始顯著貢獻。",
+      "core_thesis": "InP CW 雷射晶片成為光通訊與 CPO 供應鏈的最核心瓶頸，垂直整合大廠自用產能鎖死外售，外購 CW 雷射供應商獲得巨大定價權與訂單能見度。",
+      "why_it_matters": "這證實了 AI 伺服器與資料中心對高速光收發模組及 CPO 的需求非常強勁，且訂單能見度已延伸至 2027 年底。同時明確定位了當前供應鏈的真實瓶頸在於 InP 雷射晶片的晶圓製造產能。",
+      "thesis_change": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "tweet_id": "2087515371750490383",
+      "created_at": "2026-08-12T12:23:43Z",
+      "text": "$NBIS outlook is pretty insane yet again.\n\n$582.3M revenue (+454% Y/Y, +46% Q/Q) off ~50% adjusted EBITDA margin (AI Cloud). $8.04B cash on hand. \n\nReiterates financial guide (2026 revenue: $3.0–$3.4B\n2026 EoY ARR: $7–$9B), I was hoping for a raise, but it's already massive growth. \n\nNot really about this quarter financials, but these signals:\n\n- \"We could sell our entire 2027 capacity on these terms today.\" massive visibility on demand\n- \"4 customer agreements averaging over $1B+ each in contract value\"\n- Around 70% of Q2 deals included customer prepayments\n- Contracted power guidance was raised again, from more ~4+ GW to 5 GW. (this used to be a concern vs. $IREN debate, but Nebius power guidance keeps going through the roof). \n- Expects $9B+ of prepayments in 2026 and says it has $40B+ of commitments.\n- annual contract value per MW keeps going brrr (>$40M/mw for Q3 short term capacity deals)  \n\nSame bear story will always be there (eg. large $5.66B of capex with current GAAP net loss), but demand is extreme with massive visibility, with increasing AI Cloud adjusted EBITDA margins ( 24% -> 45% -> 50% progression)\n\nWe kinda got this read through from all your hyperscaler cloud earnings and $CRWV backlog yesterday, but glad it's showing up in Weebius's earnings.",
+      "url": "https://x.com/aleabitoreddit/status/2087515371750490383",
+      "symbols": [
+        "CRWV",
+        "IREN",
+        "NBIS"
+      ],
+      "sentiment": "Bullish",
+      "importance": 5,
+      "summary_zh": "Nebius ($NBIS) 公布強勁的第二季財報，營收達 5.823 億美元（年增 454%、季增 46%），AI 雲端調整後 EBITDA 利潤率提升至 50%，手握 80.4 億美元現金。公司重申 2026 年財務指引，並指出強烈的需求訊號，包括 2027 年產能可按現行條件完售、包含 4 筆平均超過 10 億美元的大型合約，以及預約電力指引上調至 5 GW。",
+      "core_thesis": "Nebius 展現極強的算力需求能見度與持續擴大的獲利能力，儘管資本支出龐大，強勁的預付款與產能預訂奠定其長期成長動能。",
+      "why_it_matters": "此財報印證了科技巨頭與雲端廠商（如 CoreWeave）先前釋放出的強勁 AI 需求趨勢。同時，電力指引大幅上調至 5 GW 減緩了先前市場對其電力獲取能力的疑慮。",
+      "thesis_change": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "tweet_id": "2087505570941239683",
+      "created_at": "2026-08-12T11:44:46Z",
+      "text": "$AEHR receives another $22M follow on order for AI processor wafer level burn in systems.\n\nBy their lead AI processor company.\n\nIt’s cool to see this tiny company grow up so fast across so many verticals (memory, silicon photonics, etc).\n\nUp +5.39% premarket off the news. https://t.co/YkOtELzkmo",
+      "url": "https://x.com/aleabitoreddit/status/2087505570941239683",
+      "symbols": [
+        "AEHR"
+      ],
+      "sentiment": "Bullish",
+      "importance": 4,
+      "summary_zh": "Aehr Test Systems ($AEHR) 宣佈收到主要 AI 處理器客戶價值 2,200 萬美元的 AI 處理器晶圓級預燒（Wafer level burn-in）追加訂單。作者指出這家小型公司正迅速在記憶體與矽光子等多個垂直領域擴展。受此消息激勵，$AEHR 盤前股價上漲 5.39%。",
+      "core_thesis": "AEHR 憑藉 AI 處理器龍頭客戶的追加訂單以及多個垂直領域（記憶體、矽光子）的擴展，展現強勁成長動能。",
+      "why_it_matters": "主要 AI 處理器客戶的追加大單驗證了 AEHR 在 AI 晶片預燒測試領域的關鍵地位，也證明其產品在先進封裝與高算力晶片時代的不可或缺性。",
+      "thesis_change": "NEW"
+    },
+    {
+      "tweet_id": "2087447527595692180",
+      "created_at": "2026-08-12T07:54:08Z",
+      "text": "So this is just what I'm seeing with $SIVE and the CW DFB laser chokepoint right now. \n\nFrom optical earnings: \n\n1. $LITE: unexpected demand and imbalance for UHP CW lasers. \n\n- Had ability to price up ASP for lasers. \n- Scale up CPO on track for H2 2027 shipments, called out any CPO scale up delay rumors as noise. \n\nLumentum confirmed timelines (that CPO players like Sivers sold off of misleading reports from), high margins, and extreme demand for qualified CW lasers. \n\n2. $AAOI: doesn’t have enough CW laser capacity because of too much optical transceiver demand.\n\n-  Not meaningfully participating in first-gen CPO deployments, with $MTSI not looking like they're in it either but focusing on NPO. Haven't seen much with $SMTC after their HieFo acqusition. \n- Called lasers as the bottleneck within a 20-40% demand imbalance for transceivers. \n- Says customers approaching them every week asking them for supply + to move faster.\n\nAOI confirmed demand imbalances  + bottlenecks for lasers. And we got an even smaller pool for first-gen CPO players. \n\n3. Both $AAOI and $LITE claimed Chinese players were years behind for CPO lasers and far behind stated claims in qualified capacity. \n\n- $AAOI said 2-3 years+ behind with CPO lasers. \n- $LITE said they haven't seen anything like Chinese claims in terms of outputs (and no recourse if it's false). \n\nReaffirms moat for CPO related lasers, and no flooding from some shortseller claims on the optical sector.  \n\n4. $MTSI said that many customers are approaching them with urgency due to the general supply shortage of indium phosphide DFB lasers. \n\nAgain, puts Sivers in the that bottleneck, giving them likely more customer demand .\n\nAmong $COHR ($72.54B), $LITE ($66.57B), $AVGO ($2.13T): \n\nIt's very special you get one of the public 4 Western CPO leaders at a ~$1.5B MC with $SIVE.  \n\nFeels like my thesis with both:\n\n- The CW bottleneck that I predicted\n- CW laser chokepoint (where there's only a few CPO players, at least for gen-1)\n\nGot validated from earnings, now it's just waiting for the inflection points of next optical architecture shifts.",
+      "url": "https://x.com/aleabitoreddit/status/2087447527595692180",
+      "symbols": [
+        "AAOI",
+        "AVGO",
+        "COHR",
+        "LITE",
+        "MTSI",
+        "SIVE",
+        "SMTC"
+      ],
+      "sentiment": "Bullish",
+      "importance": 5,
+      "summary_zh": "作者分析多家光電大廠（LITE、AAOI、MTSI）最新財報，驗證了連續波（CW）DFB 激光器與磷化銦（InP）產能嚴重短缺的論點。中國競爭對手技術落後數年，使具備量產能力的公司擁有定價權與高護城河。這有利於作為少數第一代 CPO 西方玩家之一且市值僅約 15 億美元的 Sivers ($SIVE)。",
+      "core_thesis": "光學財報驗證了 CW DFB 激光器瓶頸論點，Sivers ($SIVE) 身為少數西方 CPO 關鍵玩家，將顯著受益於供需失衡與架構轉型。",
+      "why_it_matters": "CW 激光器供不應求讓供應商具備調漲平均售價 (ASP) 的能力，並打破了空頭對中國廠商將低價傾銷的質疑。這確立了第一代 CPO 光學供應鏈極高的高護城河與進入門檻。",
+      "thesis_change": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "tweet_id": "2087424400811507963",
+      "created_at": "2026-08-12T06:22:14Z",
+      "text": "What a legend, Situational Awareness bought 1/6th of the entire company of Taiyo Yuden.\n\nPretty wild to see this unfolding. https://t.co/nBQW5DOZ5f",
+      "url": "https://x.com/aleabitoreddit/status/2087424400811507963",
+      "symbols": [],
+      "sentiment": "Neutral",
+      "importance": 1,
+      "summary_zh": "",
+      "core_thesis": "",
+      "why_it_matters": "",
+      "thesis_change": "GENERAL"
+    },
+    {
+      "tweet_id": "2087397768314999183",
+      "created_at": "2026-08-12T04:36:24Z",
+      "text": "It was reported today that Leopold’s Situational Awareness acquired 11.62% of Taiyo Yuden (6976).\n\nUp from 5.99% as of July 16th. \n\nI do agree with his position (if he still has it) in terms of how valuable this MLCC manufacturer is to global AI supply chains. https://t.co/fAQNpAFfhU",
+      "url": "https://x.com/aleabitoreddit/status/2087397768314999183",
+      "symbols": [],
+      "sentiment": "Neutral",
+      "importance": 2,
+      "summary_zh": "",
+      "core_thesis": "",
+      "why_it_matters": "",
+      "thesis_change": "GENERAL"
+    },
+    {
+      "tweet_id": "2087357522093260938",
+      "created_at": "2026-08-12T01:56:29Z",
+      "text": "I didn’t know Leopold was a fellow MLCC bottleneck investor in Taiyo Yuden (6976)\n\nIt’s been disclosed today that Situational Awareness owns 5.99% of the company with a ~ ¥17,446/share avg as of June 29th. \n\nCurrent prices are ¥9,797. \n\nI actually added some today to show support since Taiyo Yuden is one of the largest % MLCC manufacturers globally.",
+      "url": "https://x.com/aleabitoreddit/status/2087357522093260938",
+      "symbols": [],
+      "sentiment": "Neutral",
+      "importance": 1,
+      "summary_zh": "",
+      "core_thesis": "",
+      "why_it_matters": "",
+      "thesis_change": "GENERAL"
+    },
+    {
+      "tweet_id": "2087345398130282801",
+      "created_at": "2026-08-12T01:08:18Z",
+      "text": "Bro Charles the $SMCI CEO needs to become a politician.\n\nI’ve never seen a guy dodge so many questions on a Q&A earnings transcript before.\n\n- “what’s your 2027 gross margins”\n\nA: “we look forward to growing them\n\n- “do you anticipate margins to improve September?”\n\nA: September. Which is September?",
+      "url": "https://x.com/aleabitoreddit/status/2087345398130282801",
+      "symbols": [
+        "SMCI"
+      ],
+      "sentiment": "Bearish",
+      "importance": 3,
+      "summary_zh": "作者諷刺 Super Micro Computer ($SMCI) 的執行長 Charles Liang 在法說會 Q&A 環節中不斷迴避關鍵財務問題。當被問及 2027 年毛利率展望以及 9 月毛利率是否會改善時，CEO 的回答非常模糊且閃爍其詞。作者認為其應答態度宛如政客般避重就輕。",
+      "core_thesis": "SMCI 管理階層在法說會上無法正視並正面回答毛利率展望等核心財務問題，展現出極高不確定性。",
+      "why_it_matters": "毛利率是市場評估伺服器製造商競爭力與獲利能力的核心指標。管理階層迴避此類關鍵問題，可能暗示未來利潤率承壓或缺乏能見度。",
+      "thesis_change": "GENERAL"
+    },
+    {
+      "tweet_id": "2087329770879197549",
+      "created_at": "2026-08-12T00:06:12Z",
+      "text": "$LITE earnings transcript TLDRs:\n\n- \"Our visibility into the timing of CPO scale-up deployments has also sharpened. We remain confident in a demand ramp for our ultra-high-power  laser chips in the second half of calendar 2027\"\n\nH2 2027 start of CPO scale up ramp confirmed from Lumentum for their lead customer. \n\n- \"We were recently given our first external light source, or ELS, module purchase for delivery by the second half of calendar 2027\" \n\nELS industry ramp timelines\n\n- \"The NPO opportunity is completely additive for us, significantly increasing the optical TAM.\"\n\nMore TAM for laser chokepoint club\n\n- \"we expect the 1.6T transceiver uptake to intensify starting in fiscal Q1 and sustain through calendar 2027.\"\n\n- \"Even in CW, we’ve been surprised at our ability to price up\"\n\nPositive pricing power for $SIVE and the other CW laser players. \n\n- \"As a result, we are able to command a nice price premium that we expect  to sustain, as these Chinese if these Chinese guys come online. \n\nI caution people also, I think people are some of these Chinese laser suppliers are not delivering in the market today, so they have there is no recourse when they throw out these big numbers. We have not seen anything like that to date in terms of their output.\"\n\nChinese players are more behind than markets expect, corroborated by $AAOI and $LITE. \n\n- \"We are way behind in our shipments, unfortunately, on high-powered lasers\"\n\n\"The demand signal has increased, and we are very much further behind relative to our ability to supply.\"\n\nExtreme demand imbalance for UHP CW laser capacity, continued demand imbalance for EML. Shipping roughly +$50M year end -> $100m+ (\"triple digit quarter\") into much larger H2 2027 and 2028 scale up demand,.\n\n- \"So what we are trying to do, I think, really in the last three months is secure even more substrate supply\" (because of demand imbalance), \"we found additional substrate help from $AXTI They are a great partner.\"\n\nHello InP substrate bottleneck. \n\nTLDR:\n\n- Lumentum CPO scale up H2 2027 shipments got confirmed, dismissed any \"delay\" news as market \"noise\". (one delay report caused so much damage, and it took Nvidia, Lumentum, and all these companies weeks to do damage control). \n- CW lasers demand ramp second half of 2027\n- Extreme demand imbalance for UHP CW laser capacity surprised Lumentum\n- UHP lasers commands very high margins and is able to price up CW laser capacity. \n- China further behind in the laser/capacity angle. \n\nBasically just validated timelines + demand/pricing for Western CW laser players. \n\nCW laser scarcity is already happening before the main volume ramp even begins...",
+      "url": "https://x.com/aleabitoreddit/status/2087329770879197549",
+      "symbols": [
+        "AAOI",
+        "AXTI",
+        "LITE",
+        "SIVE"
+      ],
+      "sentiment": "Bullish",
+      "importance": 5,
+      "summary_zh": "Lumentum ($LITE) 財報會議摘要確認了其主要客戶在 2027 年下半年的 CPO（共封裝光學）擴展時程，澄清了市場關於延期的傳聞。同時，高功率（UHP）CW 激光器與 EML 需求出現嚴重供需失衡，公司具備顯著的提價能力。此外，中國競爭對手實際產出落後於市場預期，且 InP 基板（如 $AXTI 供應）正在成為新的供應鏈瓶頸。",
+      "core_thesis": "Lumentum 財報驗證了 2027 下半年 CPO/CW 激光器大升級趨勢，CW 激光器極度稀缺帶來強烈定價權，並帶動上游 InP 基板需求。",
+      "why_it_matters": "解決了此前市場對 CPO 延期的恐懼，並點出 CW 激光器在量產前夕就已陷入嚴重供不應求，確立了光電鏈中激光器與 InP 基板的瓶頸地位。",
+      "thesis_change": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "tweet_id": "2087285356999958663",
+      "created_at": "2026-08-11T21:09:43Z",
+      "text": "Insane earnings today for the AI theme with $CRWV, $SMCI, and $LITE. \n\nCoreweave: Absurd ~$104B+ backlog, which doesn't include $25B+ of new customer agreements added in early Q3. \n\nCompute demand read through for Neoclouds is enormous (For Nebius, Iren and others)\n\nSupermicro:  Absurd $65-72B in revenue guidance, adding $60B+ in new orders... \n\nAI DC buildout read through is just enormous. \n\nLumentum: $808M -> $1.01B -> $1.25B revenue ramp, with operating margins growing quarter after quarter. \n\nPhotonics players just keeps printing. \n\nTLDR: Every layer of the AI buildout goes brrrrr, and it's showing up in earnings.",
+      "url": "https://x.com/aleabitoreddit/status/2087285356999958663",
+      "symbols": [
+        "CRWV",
+        "LITE",
+        "SMCI"
+      ],
+      "sentiment": "Bullish",
+      "importance": 5,
+      "summary_zh": "CoreWeave、Supermicro (SMCI) 與 Lumentum (LITE) 今日公佈的財報極為強勁。CoreWeave 在第三季初增加了超過 250 億美元的新客戶合約，積壓訂單累積高達約 1,040 億美元以上；SMCI 提供高達 650 億至 720 億美元的營收指引，新增超過 600 億美元訂單；Lumentum 則展現強勁的營收與營運利潤率季增趨勢。這些數據印證了從光電元件、伺服器組裝到新型雲端服務商（Neoclouds）等 AI 基礎建設各個層級的巨大需求。",
+      "core_thesis": "AI 基礎建設各個層級的需求正在全力爆發，並已直接體現在供應鏈業績與訂單指引上。",
+      "why_it_matters": "此財報結果為 AI 資本支出（CapEx）持續擴張提供了實質數據支持，消除市場對 AI 需求放緩的疑慮，對新型雲端運算提供者（如 Nebius、Iren）與光電供應鏈皆有強烈的正面暗示。",
+      "thesis_change": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "tweet_id": "2087280662802026931",
+      "created_at": "2026-08-11T20:51:04Z",
+      "text": "$SMCI 2027 guidance was actually unholy: $65-$72 billion FY 2027 revenue guidance... \n\nvs. ~$52.4B expected, a casual +$16.1B above consensus. \n\nSMCI logged a massive $60B+ in news order from this earnings. \n\nThat timeline is also interesting when they announced a plan to co-build $SPCX + xAI  DCs \"within a year\" back in June..\n\nBut if SMCI sustain 10-15% gross margins off that ~$70B revenue guidance... I think there's a lot of room for rerating given MC is ~$20B (NFA, I have short term positions in SMCI now from this ER). \n\nMost important thing is learning about 2027 margins from call today.",
+      "url": "https://x.com/aleabitoreddit/status/2087280662802026931",
+      "symbols": [
+        "SMCI",
+        "SPCX"
+      ],
+      "sentiment": "Bullish",
+      "importance": 5,
+      "summary_zh": "SMCI 給出極為強勁的 2027 財年營收指引，預計達 650 億至 720 億美元，遠高於市場預期的 524 億美元。此次財報中更記錄了超過 600 億美元的新訂單，可能與先前宣布與 xAI 等合作建造資料中心有關。作者認為若 SMCI 能維持 10-15% 的毛利率，以目前約 200 億美元的市值來看，股價具備相當大的估值重估（rerating）空間。",
+      "core_thesis": "SMCI 憑藉龐大的 AI 資料中心新訂單與超乎預期的 2027 財年營收指引，若毛利率能維持在 10-15%，目前市值具備強烈的重估（rerating）潛力。",
+      "why_it_matters": "SMCI 的指引遠超市場共識約 161 億美元，且新增單高達 600 億美元以上，顯示 AI 伺服器與資料中心建置需求依然極度強勁。毛利率能否維持將是決定獲利能力與股價能否大幅重估的關鍵。",
+      "thesis_change": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "tweet_id": "2087271842696593764",
+      "created_at": "2026-08-11T20:16:01Z",
+      "text": "$LITE earnings are out, very strong earnings:\n\nRevenue: $1.01B, +24.5% Q/Q, +109.3% Y/Y growth\nvs. ~$984.6M\nAdj. EPS: $3.23 vs. ~$2.95\nGross Margin (non-gaap): 50.4% / Operating margin (non-gaap) 36.6%\n\nQ1 FY2027 guidance is probably more important:\n\nRevenue: $1.225–1.275B vs. ~$1.16B\nAdj. EPS: $4.05–4.35 vs. ~$3.63\nOperating margin (non-gaap) of 39.5% - 40.5%\n\nIn terms of notes: \n\nSees: \"Increasing demand for ultra-high-power CPO lasers, an initial order for ELS modules\" \n\n- Great read through on other CPO players like $SIVEF, $COHR, and others. (maybe not AAOI since they're missing out on first-gen deployments)\n\n- \"Breath of NPO engagements are the first signs that optics are starting  to penetrate in-rack connectivity, significantly upping our optical TAM\"\n \n- Revenue projections \"reaching our target model more than a quarter ahead of schedule.\"\n\nExtremely strong earnings as expected, you have revenue going from:\n\n$808M -> $1.01B -> $1.25B while operating margin keeps increasing... Just my first impressions. \n\nMost important thing is the earnings call coming up soon.",
+      "url": "https://x.com/aleabitoreddit/status/2087271842696593764",
+      "symbols": [
+        "COHR",
+        "LITE",
+        "SIVEF"
+      ],
+      "sentiment": "Bullish",
+      "importance": 5,
+      "summary_zh": "Lumentum ($LITE) 公布優於預期的業績與強勁的下季度指引，營收與營業利潤率持續擴張。公司提及對超高功率 CPO 激光器與 ELS 模組需求上升，且 NPO 參與度擴大顯示光學元件開始滲透機架內連接。這對 $COHR 與 $SIVEF 等光學夥伴形成利好讀取，但對可能錯失第一代部署的 $AAOI 相對不利。",
+      "core_thesis": "Lumentum 業績與指引大幅超預期，驗證了 CPO 與機架內光學滲透帶動的強勁光通訊升級週期。",
+      "why_it_matters": "Lumentum 的營收加速與營業利潤率擴張展現了強大的營運槓桿，同時證明光學連接正從傳統模組延伸至機架內部，顯著擴大了整個光子產業的長期市場規模。",
+      "thesis_change": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "tweet_id": "2087249406638862506",
+      "created_at": "2026-08-11T18:46:52Z",
+      "text": "Just putting it out there for people that think AAOI is a one year cycle...\n\n$AAOI projects their ELSFP capacity for CPO to be 400K/units a month in 2028.\n\n400k * ~$400 ELS ASP (GS assumptions) = + another ~$1.92B 2028 annualized revenue capacity added as a new distinct (>50% gross margin) product line. \n\nOn top of their existing 2027 projections (eg. ~$5.6B annualized transceiver revenue off $471m/month entering H2). \n\nTAM for 1.6T also goes brrr so I'd expect their end of H2 2027 projections to go up as more capacity comes online... \n\nFor certain optical names, it's one cycle (eg. 1.6T, CPO scale out/up, NPO etc. ), stacked on top of one another... stacked on top of another...  with TAM + margins stacking like minions after Anivia uses W in line. \n\nRather than one-and-done off of one year. \n\nThis is a stark contrast to some other sectors where growth is likely to decelerate after maybe 1 year of triple digit Y/Y revenue growth.",
+      "url": "https://x.com/aleabitoreddit/status/2087249406638862506",
+      "symbols": [
+        "AAOI"
+      ],
+      "sentiment": "Bullish",
+      "importance": 4,
+      "summary_zh": "作者指出市場誤以為 AAOI 的成長僅是單一年的週期，但實際上光學產業的成長是多個升級週期層層疊加。AAOI 預計 2028 年 CPO 的 ELSFP 月產能將達 40 萬單位，若以高盛假設的 400 美元 ASP 計算，將額外貢獻約 19.2 億美元的高毛利年化產能。這是在其 2027 年原已預計的年化營收基礎上進一步疊加，顯示其成長具有長期持續性。",
+      "core_thesis": "AAOI 的光學業務並非單一年份的短暫週期，而是由多重技術升級（1.6T、CPO）層層疊加的長期複利成長模式。",
+      "why_it_matters": "市場常將光技術轉型視為短期的單一週期，作者透過具體產能與 ASP 數據說明 AAOI 具備長期的營收與毛利增長動能，反駁了市場對於營收成長即將放緩的疑慮。",
+      "thesis_change": "INSUFFICIENT_HISTORY"
+    },
+    {
       "tweet_id": "2087030220213870632",
       "created_at": "2026-08-11T04:15:54Z",
       "text": "Holy... We've reached 1,000,000 followers! \n\nIt's genuinely incredible that so many people care to read about my ideas around AI chokepoints and bottlenecks.\n\nFrom substrates, lasers, actuators, memory, power to some of the most niche parts of upstream supply chains.\n\nI've had a lot of fun sharing free thoughts I've come across along the way and tracking whether they get validated over time. \n\nA lot worked out, some haven't, and some are still playing out!\n\nBut honestly, all of this attention has come as a massive surprise to me this year, especially globally, from Sweden, Japan, Korea, to China. \n\nThank you for all your support! I'll be announcing something soon to celebrate.",
@@ -4358,214 +4690,6 @@
       "core_thesis": "",
       "why_it_matters": "",
       "thesis_change": "NEW"
-    },
-    {
-      "tweet_id": "2085603590903902621",
-      "created_at": "2026-08-07T05:46:59Z",
-      "text": "Wow, there's gem after gem in $AAOI earnings for $SIVE + other laser player readthrough.\n\n1. AAOI not meaningfully participating in CPO first-gen deployments.\n\n\"We just can’t make enough of them [CPO lasers] to be involved in their current first-generation [CPO] deployments because there’s just not enough capacity.   We have to prioritize our ability to make lasers for our own  transceivers first\"\n\nSo first-gen CPO laser deployments, might even be narrowed down further for Western players like $SIVE, $LITE, $AVGO, and $COHR.\n\nAnd independent CPO CW laser capacity became more valuable if $AAOI had to turn away more customers...\n\nAlso remember Trendforce was talking about $AMD singing CW LTAs? $COHR / $LITE have capacity signed with $NVDA ...\n\nI thought it would be $AAOI, but they might be out of the equation. $MTSI also doesn't look meaningful with early CPO participation (eg. no mention in ER aside from NPO, and removal from Ayar website).\n\nSo I wonder who players like $AMD is going to go with for Helios (eg. Sivers + Ayar more likely candidate now)?\n\nBtw, this is not bearish AAOI because they have too much demand for optical transceiver business. Just more bullish on the existing few qualified CPO laser names that have capacity. \n\n2. Demand imbalance and bottleneck for InP lasers / optical transceivers.\n\nAOI's CEO stated kinda supported that when they said: \"The customer demand is 20%-40% higher\" than expanded built out capacity.\n\n\"We are getting this kind of demand from several big customers almost every week. Lasers are the biggest bottleneck right now for the transceiver business\"\n\n3. China being years away from having CPO DWDM specification lasers.\n\nI covered this earlier when looking at CPO competition from channel checks.\n\nBut AAOI confirming that China is \"easily at least two, three years or even longer from having CPO lasers is incredible tread through on defensibility Western laser positioning in the CPO laser chokepoint.\n\nTLDR:\n\n- High demand imbalance for CW lasers and optical transceivers.\n\n- $AAOI not in first-gen CPO due to capacity constraints (not exactly bearish AAOI because they have too much demand for their optical transciver business, but even better news for the few independent players with capacity coming online like $SIVE)\n\n- China years behind in CPO lasers.",
-      "url": "https://x.com/aleabitoreddit/status/2085603590903902621",
-      "symbols": [
-        "AAOI",
-        "AMD",
-        "AVGO",
-        "COHR",
-        "LITE",
-        "MTSI",
-        "NVDA",
-        "SIVE"
-      ],
-      "sentiment": "Bullish",
-      "importance": 5,
-      "summary_zh": "AAOI 財報顯示 CW 雷射與光收發器供不應求，客戶需求超出擴充產能 20%-40%，雷射為當前主要瓶頸。AAOI 因需優先供應自家光收發器，無法參予第一代 CPO 部署，這對 SIVE、LITE、AVGO、COHR 等具備產能的西方業者屬利多。此外，中國在 CPO DWDM 雷射技術上仍落後西方至少 2 至 3 年，鞏固了西方業者的護城河。",
-      "core_thesis": "CPO 雷射與光收發器面臨嚴重供需失衡，AAOI 因產能限制退出第一代 CPO，將大幅推升其他擁有 CW 雷射產能的西方獨立廠商之價值。",
-      "why_it_matters": "這證實了 AI 伺服器與高速光通訊領域中「CW 雷射」成為關鍵供應瓶頸。AAOI 產能不足將直接轉移需求至 SIVE、LITE、COHR 等其他供應商，進一步確立西方供應鏈的護城河與定價能力。",
-      "thesis_change": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "tweet_id": "2085511646257332581",
-      "created_at": "2026-08-06T23:41:38Z",
-      "text": "$MTSI earnings transcript: \n\n\"Customers are coming to us with urgency due to the general supply shortage of indium phosphide DFB lasers\"\n\nEmphasis on \"Urgency\", CW \"DFB lasers\", \"coming to us\".\n\nCW DFB names, such as like $SIVE and $LITE should be happy to hear about this laser bottleneck getting validated.",
-      "url": "https://x.com/aleabitoreddit/status/2085511646257332581",
-      "symbols": [
-        "LITE",
-        "MTSI",
-        "SIVE"
-      ],
-      "sentiment": "Neutral",
-      "importance": 4,
-      "summary_zh": "",
-      "core_thesis": "",
-      "why_it_matters": "",
-      "thesis_change": "NEW"
-    },
-    {
-      "tweet_id": "2085499853099208716",
-      "created_at": "2026-08-06T22:54:46Z",
-      "text": "Just some TLDR notes on $AAOI earnings:\n\n- Expects full qualification of 1.6T products by their hyperscaler customer within next couple of weeks \n\n(helpful revenue ramp #2, timelines)\n\n-  Continues to believe that AOI will have the largest AI DC transceiver production capacity in the US\n \n(reiterating ambitions during a time when their competitors might get banned)\n\n- Expects facilities toward InP capacity to come online in early 2027 \n\n(timeline FYI in terms of further ramp) \n\n- Total capacity is approaching 200,000/u per month, EOY 650,000/u per month of 800g/1.6t. EOY 2027, 930,000/u \n\n(this is the ramp i want to see)\n\n- \"increase our manufacturing capacity for our external light source or ELSFP. That's for co-packaged optics or CPO\". we anticipate ramping production later this year and into 2027, ultimately culminating in about 400,000 pieces per month in 2028\n\n(need some time to model this into revenue)\n\n- \"As we have mentioned before, we've been manufacturing lasers internally for many years. This has allowed us to avoid some of the shortages that  have affected others in the industry\"\n\n(vertical integration bull case during CW/EML laser shortages) \n\n- We believe that in the future, CPO will continue to drive increased demand for high-power lasers\n\n(thesis validation on CPO sector)\n\n- \"to our long-term objective of returning non-GAAP gross margins to around 40%\"\n\n-  \"We ended the second quarter with $508.8 million in total cash equivalents\"\n\nI need to double check if the ATM finished or not\n\n- \"our ability to deliver revenue in general, and specifically when it  comes to 800G products, is limited by our production capacity right now\" \"If we could produce more, we could ship more right now\"\n\nDemand > Supply validation. \n\n- \"Most of the increased capacity will be in U.S. Even so, let me say that, like I keep emphasizing, that is not good enough for the customer demand. The customer demand is 20%-40% higher.\"\n\nUnholy photonics demand validation across the whole sector, read through for $LITE, $SIVE / $JBL, and others is amazing. \n\n- \"Not in the next two, three years, especially the demand is so big. Okay?  Even combined AI, $LITE, $COHR, $AVGO all together, it's still very tough to meet the customer demand in the next few years\"\n\nMore optical sector demand validation. \n\n- CPO Timelines: \"If you're talking about really high volume manufacturer [for CPO market], I would say more like the late Q3 next year\" and \"We have been working very close with at least five customer\"\n\nIf you care about current earnings (which I'm not really looking at closely)\n\nRevenue: $191M vs. $190m \nEPS: $.06 vs. $.02\n\nTLDR: Extraordinary demand across the laser + optical sector read through. Kinda supporting Lumentum CEO statement that laser shortage is worse than memory shortages. \n\n2027 capacity ramp on track. To map inflection period with timelines, would be around early next year, as stated in their previous earnings call. \n\nAAOI has the customers now. Limitation is making enough lasers and transceivers.",
-      "url": "https://x.com/aleabitoreddit/status/2085499853099208716",
-      "symbols": [
-        "AAOI",
-        "AVGO",
-        "COHR",
-        "JBL",
-        "LITE",
-        "SIVE"
-      ],
-      "sentiment": "Neutral",
-      "importance": 4,
-      "summary_zh": "",
-      "core_thesis": "",
-      "why_it_matters": "",
-      "thesis_change": "NEW"
-    },
-    {
-      "tweet_id": "2085304045099696547",
-      "created_at": "2026-08-06T09:56:42Z",
-      "text": "I remain convinced nobody knows how to pronounce or talk about $AAOI in real life. \n\nIt’s one letter too long to say $TSM or $AMD. \n\nAnd nobody ever says to a friend“Wow, I like applied optoelectronics!”",
-      "url": "https://x.com/aleabitoreddit/status/2085304045099696547",
-      "symbols": [
-        "AAOI",
-        "AMD",
-        "TSM"
-      ],
-      "sentiment": "Bullish",
-      "importance": 3,
-      "summary_zh": "",
-      "core_thesis": "",
-      "why_it_matters": "",
-      "thesis_change": "NEW"
-    },
-    {
-      "tweet_id": "2085217487864643658",
-      "created_at": "2026-08-06T04:12:45Z",
-      "text": "The unexpected thing of the week... Was $AEVA becoming a CPO/NPO optical source player. \n\nFor background: $SIVE is viewed as the high confidence CW DFB laser supplier to Aeva (which is known for lidar). \n\nToday, Aeva reacted with +18.26% AH on news that they signed a JDA with an optical engine player for deployment at a major hyperscaler in H2 2027, production ramp 2028. \n\n\"Optical Connectivity will leverage that foundation along with Aeva’s EXISTING high-volume manufacturing and foundry supply chain\" for:\n\n- ELSFP (similar to O-Net/Enablence + $SIVE), with Sivers as the likely CW laser + potential amplifier supplier\n\n- On-chip integrated light source (likely $SIVE DFB + Aeva PIC on the architecture/integration side)\n\nTLDR: New TAM and a hyperscaler programs for Aeva for CPO/NPO, positive read through for upstream suppliers like $SIVE.",
-      "url": "https://x.com/aleabitoreddit/status/2085217487864643658",
-      "symbols": [
-        "AEVA",
-        "SIVE"
-      ],
-      "sentiment": "Neutral",
-      "importance": 3,
-      "summary_zh": "",
-      "core_thesis": "",
-      "why_it_matters": "",
-      "thesis_change": "MENTION"
-    },
-    {
-      "tweet_id": "2085174977272360987",
-      "created_at": "2026-08-06T01:23:49Z",
-      "text": "Funniest callout of the year from $VIAV on CPO timelines:\n\n\"Well, there's been a lot of industry talk [about delays], like, 'Oh, because the yield is going to be slower.' \n\nThat's all nonsense. CPO and all that thing is moving forward\"\n\nThey stated that Yes there's always issues, but the process is being improved and things are getting better. \n\nTo follow up on that, the CEO stated: \n\n- Viavi has POs for CPO-testing activity\n- “We’re already getting [CPO revenue] this quarter, and probably in December it will start accelerating.”\n\nOn a side note, they also stated, 1.6T is \"ramping very quickly\", should reach parity with 800g next year, and signaled longer tail for 800g demand. \n\nTLDR: Seeing CPO test revenues hit for $VIAV to $FORM around now. Nvidia also stated switch-side CPO for scale out and scale across has entered mass production earlier. \n\nAs for scale up timelines, early production should be H2 2027 for some players, with other CPO players Ayar stating 2028 is the volume inflection period. \n\nBasically, all the timelines seem to be the same as before and revenue is starting to hit testing players first.",
-      "url": "https://x.com/aleabitoreddit/status/2085174977272360987",
-      "symbols": [
-        "FORM",
-        "VIAV"
-      ],
-      "sentiment": "Bullish",
-      "importance": 4,
-      "summary_zh": "",
-      "core_thesis": "",
-      "why_it_matters": "",
-      "thesis_change": "NEW"
-    },
-    {
-      "tweet_id": "2084795597417263442",
-      "created_at": "2026-08-05T00:16:18Z",
-      "text": "$RKLB has been awarded a $397M contract by the US Space Force.\n\nTo build out Flatellite satellites and launch them on their Medium Lift rocket, Neutron. https://t.co/0jsPPf9ucI",
-      "url": "https://x.com/aleabitoreddit/status/2084795597417263442",
-      "symbols": [
-        "RKLB"
-      ],
-      "sentiment": "Neutral",
-      "importance": 2,
-      "summary_zh": "",
-      "core_thesis": "",
-      "why_it_matters": "",
-      "thesis_change": "MENTION"
-    },
-    {
-      "tweet_id": "2084613071423893692",
-      "created_at": "2026-08-04T12:11:01Z",
-      "text": "Bessent says: \"There may be deal Tuesday or Wednesday to open Strait of Hormuz with freedom of movement\"\n\nI think markets might like the sound of this. https://t.co/qXc8u2050N",
-      "url": "https://x.com/aleabitoreddit/status/2084613071423893692",
-      "symbols": [],
-      "sentiment": "Neutral",
-      "importance": 1,
-      "summary_zh": "",
-      "core_thesis": "",
-      "why_it_matters": "",
-      "thesis_change": "GENERAL"
-    },
-    {
-      "tweet_id": "2084597612175618342",
-      "created_at": "2026-08-04T11:09:35Z",
-      "text": "A very material catalyst came about for Western supply chains from $AAOI, $SIVE / Jabil, to $LITE and Coherent: \n\nThe Trump administration is drafting a ban of new Chinese optical transceivers and DC devices. \n\nWhich would likely hit China’s Innolight, Eoptolink, and other Chinese optical interconnect supply chains. \n\n\"The agency would ban all imports of new transceiver models ​and then exempt many ⁠non-Chinese suppliers from the restrictions\"\n\nWe'll likely see a larger bifurcation of supply chains with even greater importance put on Western players.",
-      "url": "https://x.com/aleabitoreddit/status/2084597612175618342",
-      "symbols": [
-        "AAOI",
-        "LITE",
-        "SIVE"
-      ],
-      "sentiment": "Neutral",
-      "importance": 4,
-      "summary_zh": "",
-      "core_thesis": "",
-      "why_it_matters": "",
-      "thesis_change": "MENTION"
-    },
-    {
-      "tweet_id": "2084468063228060092",
-      "created_at": "2026-08-04T02:34:48Z",
-      "text": "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM.\n\n$SNDK, Samsung, Micron current annual NAND capacity has been sold out, with Kioxia and SK Hynix expected to finalize allocations by August 2026. \n\n- Customers are being allocated only 60–70% of the volumes they initially requested\n\n- industry insiders pointed out that 2027 will enter the most severe moment of memory shortage\n\n- Allocation amounts are mostly decided, but final shipment pricing will be determined closer to delivery \n\nSource: Digitimes, citing industry sources. \n\nHard to see those memory \"oversupply\" claims in early-mid 2027 when they're all sold out of capacity already.",
-      "url": "https://x.com/aleabitoreddit/status/2084468063228060092",
-      "symbols": [
-        "MU",
-        "SNDK"
-      ],
-      "sentiment": "Neutral",
-      "importance": 3,
-      "summary_zh": "",
-      "core_thesis": "",
-      "why_it_matters": "",
-      "thesis_change": "MENTION"
-    },
-    {
-      "tweet_id": "2084422873423519844",
-      "created_at": "2026-08-03T23:35:14Z",
-      "text": "Be Citadel:\n\n> calls for unexpected rate hike few days ago, causing market panic\n\n> reaches out and buys billions of liquidated hedge fund AI assets\n\n> no rate hike \n\n> “Bull market drivers are fully intact” https://t.co/gyy4Nk4SHq",
-      "url": "https://x.com/aleabitoreddit/status/2084422873423519844",
-      "symbols": [],
-      "sentiment": "Neutral",
-      "importance": 1,
-      "summary_zh": "",
-      "core_thesis": "",
-      "why_it_matters": "",
-      "thesis_change": "GENERAL"
-    },
-    {
-      "tweet_id": "2084388023689679001",
-      "created_at": "2026-08-03T21:16:45Z",
-      "text": "The bears have gone back into hibernation",
-      "url": "https://x.com/aleabitoreddit/status/2084388023689679001",
-      "symbols": [],
-      "sentiment": "Neutral",
-      "importance": 1,
-      "summary_zh": "",
-      "core_thesis": "",
-      "why_it_matters": "",
-      "thesis_change": "GENERAL"
-    },
-    {
-      "tweet_id": "2083760320062083406",
-      "created_at": "2026-08-02T03:42:29Z",
-      "text": "Trump announced that US has cancelled its attack on Iran.\n\nAnd that they’ve agreed to the perimeters of a deal to open the Strait and end the nuclear program.\n\nAnyone else feel like they’ve aged a few years in the past 6 months? https://t.co/4PK671c548",
-      "url": "https://x.com/aleabitoreddit/status/2083760320062083406",
-      "symbols": [],
-      "sentiment": "Neutral",
-      "importance": 1,
-      "summary_zh": "",
-      "core_thesis": "",
-      "why_it_matters": "",
-      "thesis_change": "GENERAL"
     }
   ],
   "public_symbols": [
@@ -4585,16 +4709,16 @@
     "SNDK",
     "XFAB",
     "AMZN",
-    "GOOGL",
     "SPCX",
+    "GOOGL",
     "TSM",
+    "COHR",
     "IQE",
-    "GFS",
     "IREN",
     "POET",
+    "GFS",
     "TSEM",
     "CCXI",
-    "COHR",
     "LPK",
     "TSLA",
     "RDDT",
