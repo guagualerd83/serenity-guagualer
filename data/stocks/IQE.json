@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T04:09:16.907573Z",
+  "generated_at": "2026-08-14T08:47:29.247204Z",
   "symbol": "IQE",
   "summary": {
     "primary_count": 52,
@@ -2049,7 +2049,7 @@
           "risks": [],
           "confidence": 95,
           "ai_status": "ok",
-          "favorite_count": 753,
+          "favorite_count": 763,
           "retweet_count": 19
         },
         {
@@ -2079,7 +2079,7 @@
           ],
           "confidence": 95,
           "ai_status": "ok",
-          "favorite_count": 494,
+          "favorite_count": 518,
           "retweet_count": 24
         }
       ]
@@ -4133,7 +4133,7 @@
             "risks": [],
             "confidence": 95,
             "ai_status": "ok",
-            "favorite_count": 753,
+            "favorite_count": 763,
             "retweet_count": 19
           },
           {
@@ -4163,7 +4163,7 @@
             ],
             "confidence": 95,
             "ai_status": "ok",
-            "favorite_count": 494,
+            "favorite_count": 518,
             "retweet_count": 24
           }
         ]
@@ -4227,7 +4227,7 @@
       ],
       "confidence": 95,
       "ai_status": "ok",
-      "favorite_count": 494,
+      "favorite_count": 518,
       "retweet_count": 24
     },
     {
@@ -4250,7 +4250,7 @@
       "risks": [],
       "confidence": 95,
       "ai_status": "ok",
-      "favorite_count": 753,
+      "favorite_count": 763,
       "retweet_count": 19
     },
     {

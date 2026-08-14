@@ -2,7 +2,7 @@
   "site": {
     "title": "Serenity Research",
     "subtitle": "Public research dashboard based on Serenity's public X posts.",
-    "generated_at": "2026-08-14T04:09:16.907573Z",
+    "generated_at": "2026-08-14T08:47:29.247204Z",
     "disclaimer": "Public-post aggregation for research only. Not investment advice."
   },
   "periods": {
@@ -11,22 +11,65 @@
       "label": "每日",
       "days": 1,
       "start_at": "2026-08-13T16:00:00Z",
-      "generated_at": "2026-08-14T04:09:16.544315Z",
+      "generated_at": "2026-08-14T08:47:28.981588Z",
       "earliest_available_at": "2025-11-17T16:12:21Z",
       "traversed_until": "2026-04-13T02:42:25Z",
       "coverage_days": 123,
       "coverage_complete": true,
-      "tweet_count": 1,
-      "primary_post_count": 1,
+      "tweet_count": 2,
+      "primary_post_count": 2,
       "reply_context_count": 0,
-      "all_collected_count": 1,
-      "symbol_count": 1,
-      "high_importance_count": 0,
-      "ai_analyzed_count": 1,
+      "all_collected_count": 2,
+      "symbol_count": 4,
+      "high_importance_count": 1,
+      "ai_analyzed_count": 2,
       "sentiments": {
+        "Bullish": 1,
         "Neutral": 1
       },
       "symbols": [
+        {
+          "symbol": "ONDS",
+          "mentions": 1,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 1,
+          "max_importance": 4,
+          "latest_at": "2026-08-14T08:30:20Z",
+          "latest_thesis": "美國無人機新關稅政策大幅提高外國產品進口成本，將利好美國本土無人機供應鏈與製造商（如 UMAC、ONDS、RCAT）。",
+          "latest_summary_zh": "美國前總統川普簽署一項旨在加強美國無人機供應鏈的公告，對特定進口無人機及其零組件加徵關稅。這項政策將大幅提高無人機停靠站、特定關鍵零組件以及超過25公斤重型無人機的關稅至100%，並對其他更廣泛的無人機零組件徵收25%關稅。預計這將直接造福美國本土的無人機零組件供應商（如 UMAC）以及無人機系統製造商（如 ONDS 與 RCAT）。",
+          "latest_change": "NEW",
+          "sentiments": {
+            "Bullish": 1
+          }
+        },
+        {
+          "symbol": "RCAT",
+          "mentions": 1,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 1,
+          "max_importance": 4,
+          "latest_at": "2026-08-14T08:30:20Z",
+          "latest_thesis": "美國無人機新關稅政策大幅提高外國產品進口成本，將利好美國本土無人機供應鏈與製造商（如 UMAC、ONDS、RCAT）。",
+          "latest_summary_zh": "美國前總統川普簽署一項旨在加強美國無人機供應鏈的公告，對特定進口無人機及其零組件加徵關稅。這項政策將大幅提高無人機停靠站、特定關鍵零組件以及超過25公斤重型無人機的關稅至100%，並對其他更廣泛的無人機零組件徵收25%關稅。預計這將直接造福美國本土的無人機零組件供應商（如 UMAC）以及無人機系統製造商（如 ONDS 與 RCAT）。",
+          "latest_change": "NEW",
+          "sentiments": {
+            "Bullish": 1
+          }
+        },
+        {
+          "symbol": "UMAC",
+          "mentions": 1,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 1,
+          "max_importance": 4,
+          "latest_at": "2026-08-14T08:30:20Z",
+          "latest_thesis": "美國無人機新關稅政策大幅提高外國產品進口成本，將利好美國本土無人機供應鏈與製造商（如 UMAC、ONDS、RCAT）。",
+          "latest_summary_zh": "美國前總統川普簽署一項旨在加強美國無人機供應鏈的公告，對特定進口無人機及其零組件加徵關稅。這項政策將大幅提高無人機停靠站、特定關鍵零組件以及超過25公斤重型無人機的關稅至100%，並對其他更廣泛的無人機零組件徵收25%關稅。預計這將直接造福美國本土的無人機零組件供應商（如 UMAC）以及無人機系統製造商（如 ONDS 與 RCAT）。",
+          "latest_change": "NEW",
+          "sentiments": {
+            "Bullish": 1
+          }
+        },
         {
           "symbol": "LPK",
           "mentions": 1,
@@ -47,51 +90,35 @@
       "period": "weekly",
       "label": "每週",
       "days": 7,
-      "start_at": "2026-08-07T04:09:16.544315Z",
-      "generated_at": "2026-08-14T04:09:16.588829Z",
+      "start_at": "2026-08-07T08:47:28.981588Z",
+      "generated_at": "2026-08-14T08:47:29.014632Z",
       "earliest_available_at": "2025-11-17T16:12:21Z",
       "traversed_until": "2026-04-13T02:42:25Z",
       "coverage_days": 123,
       "coverage_complete": true,
-      "tweet_count": 37,
-      "primary_post_count": 37,
-      "reply_context_count": 14,
-      "all_collected_count": 51,
-      "symbol_count": 38,
+      "tweet_count": 35,
+      "primary_post_count": 35,
+      "reply_context_count": 7,
+      "all_collected_count": 42,
+      "symbol_count": 41,
       "high_importance_count": 22,
       "ai_analyzed_count": 21,
       "sentiments": {
-        "Neutral": 14,
-        "Mixed": 1,
         "Bullish": 20,
+        "Neutral": 12,
+        "Mixed": 1,
         "Bearish": 2
       },
       "symbols": [
         {
           "symbol": "AAOI",
-          "mentions": 12,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 9,
-          "max_importance": 5,
-          "latest_at": "2026-08-13T10:17:49Z",
-          "latest_thesis": "POET 手握充沛現金且產能規劃雄厚，儘管目前缺乏明確訂單且護城河較弱，仍是一項具備非對稱向上潛力的期權型投資。",
-          "latest_summary_zh": "作者分析了 POET Technologies ($POET) 的投資機會，指出該公司透過大規模稀釋股權累積了高達 8.3 億美元的現金，且近期企業價值 (EV) 顯著下降。公司目標在 2027 年將光學引擎年產能擴充至 1,200 萬顆，若以平均售價 (ASP) 150 美元計算，營收天花板可達 18 億美元。然而，POET 目前面臨無明顯可見需求來填補產能的風險，技術護城河相較於上游 CW 激光龍頭 Sivers ($SIVE) 較弱，作者僅建立小額倉位，將其視為一項高風險高回報的選擇期權。",
-          "latest_change": "INSUFFICIENT_HISTORY",
-          "sentiments": {
-            "Bullish": 10,
-            "Neutral": 1,
-            "Bearish": 1
-          }
-        },
-        {
-          "symbol": "LITE",
           "mentions": 11,
           "dominant_sentiment": "Bullish",
           "sentiment_score": 8,
           "max_importance": 5,
-          "latest_at": "2026-08-13T09:46:26Z",
-          "latest_thesis": "IQE 已走出財務危機並完成債務清償，作為西方光通訊與 AI 資料中心供應鏈中的關鍵 III-V 族外延片瓶頸，其投資論點已獲成功驗證。",
-          "latest_summary_zh": "作者指出其於今年二月提出關於 IQE 的投資論點已獲得驗證。IQE 從面臨債務危機的困境轉變為轉虧為盈，透過與 MACOM（$MTSI）及高塔半導體（$TSEM）簽署長期外延片（epiwafer）供應協議，已徹底清償銀行債務。隨著產能逐步轉向 AI 資料中心（DC）領域，且 2026 財年營收指引超過 1.265 億英鎊，IQE 再次鞏固其作為西方光學供應鏈關鍵瓶頸的地位。",
+          "latest_at": "2026-08-13T10:17:49Z",
+          "latest_thesis": "POET 手握充沛現金且產能規劃雄厚，儘管目前缺乏明確訂單且護城河較弱，仍是一項具備非對稱向上潛力的期權型投資。",
+          "latest_summary_zh": "作者分析了 POET Technologies ($POET) 的投資機會，指出該公司透過大規模稀釋股權累積了高達 8.3 億美元的現金，且近期企業價值 (EV) 顯著下降。公司目標在 2027 年將光學引擎年產能擴充至 1,200 萬顆，若以平均售價 (ASP) 150 美元計算，營收天花板可達 18 億美元。然而，POET 目前面臨無明顯可見需求來填補產能的風險，技術護城河相較於上游 CW 激光龍頭 Sivers ($SIVE) 較弱，作者僅建立小額倉位，將其視為一項高風險高回報的選擇期權。",
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
             "Bullish": 9,
@@ -100,64 +127,64 @@
           }
         },
         {
-          "symbol": "SIVE",
-          "mentions": 9,
+          "symbol": "LITE",
+          "mentions": 10,
           "dominant_sentiment": "Bullish",
-          "sentiment_score": 5,
-          "max_importance": 5,
-          "latest_at": "2026-08-13T10:17:49Z",
-          "latest_thesis": "POET 手握充沛現金且產能規劃雄厚，儘管目前缺乏明確訂單且護城河較弱，仍是一項具備非對稱向上潛力的期權型投資。",
-          "latest_summary_zh": "作者分析了 POET Technologies ($POET) 的投資機會，指出該公司透過大規模稀釋股權累積了高達 8.3 億美元的現金，且近期企業價值 (EV) 顯著下降。公司目標在 2027 年將光學引擎年產能擴充至 1,200 萬顆，若以平均售價 (ASP) 150 美元計算，營收天花板可達 18 億美元。然而，POET 目前面臨無明顯可見需求來填補產能的風險，技術護城河相較於上游 CW 激光龍頭 Sivers ($SIVE) 較弱，作者僅建立小額倉位，將其視為一項高風險高回報的選擇期權。",
-          "latest_change": "INSUFFICIENT_HISTORY",
-          "sentiments": {
-            "Bullish": 6,
-            "Neutral": 2,
-            "Bearish": 1
-          }
-        },
-        {
-          "symbol": "MTSI",
-          "mentions": 6,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 5,
+          "sentiment_score": 7,
           "max_importance": 5,
           "latest_at": "2026-08-13T09:46:26Z",
           "latest_thesis": "IQE 已走出財務危機並完成債務清償，作為西方光通訊與 AI 資料中心供應鏈中的關鍵 III-V 族外延片瓶頸，其投資論點已獲成功驗證。",
           "latest_summary_zh": "作者指出其於今年二月提出關於 IQE 的投資論點已獲得驗證。IQE 從面臨債務危機的困境轉變為轉虧為盈，透過與 MACOM（$MTSI）及高塔半導體（$TSEM）簽署長期外延片（epiwafer）供應協議，已徹底清償銀行債務。隨著產能逐步轉向 AI 資料中心（DC）領域，且 2026 財年營收指引超過 1.265 億英鎊，IQE 再次鞏固其作為西方光學供應鏈關鍵瓶頸的地位。",
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
+            "Bullish": 8,
+            "Neutral": 1,
+            "Bearish": 1
+          }
+        },
+        {
+          "symbol": "SIVE",
+          "mentions": 7,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 4,
+          "max_importance": 5,
+          "latest_at": "2026-08-13T10:17:49Z",
+          "latest_thesis": "POET 手握充沛現金且產能規劃雄厚，儘管目前缺乏明確訂單且護城河較弱，仍是一項具備非對稱向上潛力的期權型投資。",
+          "latest_summary_zh": "作者分析了 POET Technologies ($POET) 的投資機會，指出該公司透過大規模稀釋股權累積了高達 8.3 億美元的現金，且近期企業價值 (EV) 顯著下降。公司目標在 2027 年將光學引擎年產能擴充至 1,200 萬顆，若以平均售價 (ASP) 150 美元計算，營收天花板可達 18 億美元。然而，POET 目前面臨無明顯可見需求來填補產能的風險，技術護城河相較於上游 CW 激光龍頭 Sivers ($SIVE) 較弱，作者僅建立小額倉位，將其視為一項高風險高回報的選擇期權。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
             "Bullish": 5,
+            "Neutral": 1,
+            "Bearish": 1
+          }
+        },
+        {
+          "symbol": "MTSI",
+          "mentions": 5,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 4,
+          "max_importance": 5,
+          "latest_at": "2026-08-13T09:46:26Z",
+          "latest_thesis": "IQE 已走出財務危機並完成債務清償，作為西方光通訊與 AI 資料中心供應鏈中的關鍵 III-V 族外延片瓶頸，其投資論點已獲成功驗證。",
+          "latest_summary_zh": "作者指出其於今年二月提出關於 IQE 的投資論點已獲得驗證。IQE 從面臨債務危機的困境轉變為轉虧為盈，透過與 MACOM（$MTSI）及高塔半導體（$TSEM）簽署長期外延片（epiwafer）供應協議，已徹底清償銀行債務。隨著產能逐步轉向 AI 資料中心（DC）領域，且 2026 財年營收指引超過 1.265 億英鎊，IQE 再次鞏固其作為西方光學供應鏈關鍵瓶頸的地位。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 4,
             "Neutral": 1
           }
         },
         {
           "symbol": "COHR",
-          "mentions": 5,
+          "mentions": 4,
           "dominant_sentiment": "Bullish",
-          "sentiment_score": 5,
+          "sentiment_score": 4,
           "max_importance": 5,
           "latest_at": "2026-08-12T22:59:29Z",
           "latest_thesis": "InP CW 雷射晶片成為光通訊與 CPO 供應鏈的最核心瓶頸，垂直整合大廠自用產能鎖死外售，外購 CW 雷射供應商獲得巨大定價權與訂單能見度。",
           "latest_summary_zh": "Coherent (COHR) 財報顯示資料中心收發器需求極為強勁，且印磷 (InP) 磷化銦雷射晶片產能已被預訂至 2027 年底。由於 COHR 與 AAOI 均將 InP 雷射留作自用而不對外銷售，導致第三方外購 CW 雷射供應商（如 MTSI）需求爆發。此外，COHR 重申共封裝光學 (CPO) 需求未延後反而提前，預計 Scale-up CPO 營收將於 2027 年下半年開始顯著貢獻。",
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bullish": 5
-          }
-        },
-        {
-          "symbol": "AMD",
-          "mentions": 4,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 1,
-          "max_importance": 5,
-          "latest_at": "2026-08-11T01:29:11Z",
-          "latest_thesis": "比特幣礦商轉型 AI 託管獲大廠巨額合約驗證，但營收爆發拐點需等到 2027 年下半年。",
-          "latest_summary_zh": "RIOT 宣布與 Anthropic 簽署高達 91 億至 161 億美元的 20 年期巨額託管合約，同時 AMD 也行使選擇權擴展與 RIOT 的合作。作者指出前比特幣礦商（如 RIOT、IREN）成功轉型 AI 主機託管（Colo），但整個族群的營收顯著轉折點（inflection）預計要到 2027 年下半年才會顯現。",
-          "latest_change": "INSUFFICIENT_HISTORY",
-          "sentiments": {
-            "Bullish": 2,
-            "Neutral": 1,
-            "Bearish": 1
+            "Bullish": 4
           }
         },
         {
@@ -205,36 +232,6 @@
           }
         },
         {
-          "symbol": "NVDA",
-          "mentions": 3,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 2,
-          "max_importance": 5,
-          "latest_at": "2026-08-11T02:19:36Z",
-          "latest_thesis": "宇樹科技 IPO 的極端超額認購凸顯市場對人形機器人板塊的強烈渴望，其高估值上市將為估值相對較低的美國同業帶來外溢效應與重新定價機會。",
-          "latest_summary_zh": "宇樹科技（Unitree）IPO 獲得散戶超額認購超過 8000 倍，顯示市場對純人形機器人標的的需求極度狂熱。作者指出自己透過 CCXI 參與投資美國人形機器人公司 Agility Robotics（前輪估值約 25 億美元），並認為宇樹若以 300 億美元以上的估值開盤，將在未來一至兩週內吸引資金關注美國領先的人形機器人業者。",
-          "latest_change": "INSUFFICIENT_HISTORY",
-          "sentiments": {
-            "Bullish": 2,
-            "Neutral": 1
-          }
-        },
-        {
-          "symbol": "POET",
-          "mentions": 3,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 2,
-          "max_importance": 5,
-          "latest_at": "2026-08-13T10:17:49Z",
-          "latest_thesis": "POET 手握充沛現金且產能規劃雄厚，儘管目前缺乏明確訂單且護城河較弱，仍是一項具備非對稱向上潛力的期權型投資。",
-          "latest_summary_zh": "作者分析了 POET Technologies ($POET) 的投資機會，指出該公司透過大規模稀釋股權累積了高達 8.3 億美元的現金，且近期企業價值 (EV) 顯著下降。公司目標在 2027 年將光學引擎年產能擴充至 1,200 萬顆，若以平均售價 (ASP) 150 美元計算，營收天花板可達 18 億美元。然而，POET 目前面臨無明顯可見需求來填補產能的風險，技術護城河相較於上游 CW 激光龍頭 Sivers ($SIVE) 較弱，作者僅建立小額倉位，將其視為一項高風險高回報的選擇期權。",
-          "latest_change": "INSUFFICIENT_HISTORY",
-          "sentiments": {
-            "Bullish": 2,
-            "Neutral": 1
-          }
-        },
-        {
           "symbol": "SMCI",
           "mentions": 3,
           "dominant_sentiment": "Bullish",
@@ -250,32 +247,19 @@
           }
         },
         {
-          "symbol": "CCXI",
+          "symbol": "AMD",
           "mentions": 3,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 1,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 0,
           "max_importance": 4,
-          "latest_at": "2026-08-11T02:19:36Z",
-          "latest_thesis": "宇樹科技 IPO 的極端超額認購凸顯市場對人形機器人板塊的強烈渴望，其高估值上市將為估值相對較低的美國同業帶來外溢效應與重新定價機會。",
-          "latest_summary_zh": "宇樹科技（Unitree）IPO 獲得散戶超額認購超過 8000 倍，顯示市場對純人形機器人標的的需求極度狂熱。作者指出自己透過 CCXI 參與投資美國人形機器人公司 Agility Robotics（前輪估值約 25 億美元），並認為宇樹若以 300 億美元以上的估值開盤，將在未來一至兩週內吸引資金關注美國領先的人形機器人業者。",
+          "latest_at": "2026-08-11T01:29:11Z",
+          "latest_thesis": "比特幣礦商轉型 AI 託管獲大廠巨額合約驗證，但營收爆發拐點需等到 2027 年下半年。",
+          "latest_summary_zh": "RIOT 宣布與 Anthropic 簽署高達 91 億至 161 億美元的 20 年期巨額託管合約，同時 AMD 也行使選擇權擴展與 RIOT 的合作。作者指出前比特幣礦商（如 RIOT、IREN）成功轉型 AI 主機託管（Colo），但整個族群的營收顯著轉折點（inflection）預計要到 2027 年下半年才會顯現。",
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
             "Bullish": 1,
-            "Neutral": 2
-          }
-        },
-        {
-          "symbol": "AVGO",
-          "mentions": 2,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 2,
-          "max_importance": 5,
-          "latest_at": "2026-08-12T07:54:08Z",
-          "latest_thesis": "光學財報驗證了 CW DFB 激光器瓶頸論點，Sivers ($SIVE) 身為少數西方 CPO 關鍵玩家，將顯著受益於供需失衡與架構轉型。",
-          "latest_summary_zh": "作者分析多家光電大廠（LITE、AAOI、MTSI）最新財報，驗證了連續波（CW）DFB 激光器與磷化銦（InP）產能嚴重短缺的論點。中國競爭對手技術落後數年，使具備量產能力的公司擁有定價權與高護城河。這有利於作為少數第一代 CPO 西方玩家之一且市值僅約 15 億美元的 Sivers ($SIVE)。",
-          "latest_change": "INSUFFICIENT_HISTORY",
-          "sentiments": {
-            "Bullish": 2
+            "Neutral": 1,
+            "Bearish": 1
           }
         },
         {
@@ -322,6 +306,20 @@
           }
         },
         {
+          "symbol": "POET",
+          "mentions": 2,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 2,
+          "max_importance": 5,
+          "latest_at": "2026-08-13T10:17:49Z",
+          "latest_thesis": "POET 手握充沛現金且產能規劃雄厚，儘管目前缺乏明確訂單且護城河較弱，仍是一項具備非對稱向上潛力的期權型投資。",
+          "latest_summary_zh": "作者分析了 POET Technologies ($POET) 的投資機會，指出該公司透過大規模稀釋股權累積了高達 8.3 億美元的現金，且近期企業價值 (EV) 顯著下降。公司目標在 2027 年將光學引擎年產能擴充至 1,200 萬顆，若以平均售價 (ASP) 150 美元計算，營收天花板可達 18 億美元。然而，POET 目前面臨無明顯可見需求來填補產能的風險，技術護城河相較於上游 CW 激光龍頭 Sivers ($SIVE) 較弱，作者僅建立小額倉位，將其視為一項高風險高回報的選擇期權。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 2
+          }
+        },
+        {
           "symbol": "SMTC",
           "mentions": 2,
           "dominant_sentiment": "Bullish",
@@ -348,6 +346,50 @@
           "sentiments": {
             "Bullish": 1,
             "Neutral": 1
+          }
+        },
+        {
+          "symbol": "CCXI",
+          "mentions": 2,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 1,
+          "max_importance": 4,
+          "latest_at": "2026-08-11T02:19:36Z",
+          "latest_thesis": "宇樹科技 IPO 的極端超額認購凸顯市場對人形機器人板塊的強烈渴望，其高估值上市將為估值相對較低的美國同業帶來外溢效應與重新定價機會。",
+          "latest_summary_zh": "宇樹科技（Unitree）IPO 獲得散戶超額認購超過 8000 倍，顯示市場對純人形機器人標的的需求極度狂熱。作者指出自己透過 CCXI 參與投資美國人形機器人公司 Agility Robotics（前輪估值約 25 億美元），並認為宇樹若以 300 億美元以上的估值開盤，將在未來一至兩週內吸引資金關注美國領先的人形機器人業者。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 1,
+            "Neutral": 1
+          }
+        },
+        {
+          "symbol": "NVDA",
+          "mentions": 2,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 1,
+          "max_importance": 4,
+          "latest_at": "2026-08-11T02:19:36Z",
+          "latest_thesis": "宇樹科技 IPO 的極端超額認購凸顯市場對人形機器人板塊的強烈渴望，其高估值上市將為估值相對較低的美國同業帶來外溢效應與重新定價機會。",
+          "latest_summary_zh": "宇樹科技（Unitree）IPO 獲得散戶超額認購超過 8000 倍，顯示市場對純人形機器人標的的需求極度狂熱。作者指出自己透過 CCXI 參與投資美國人形機器人公司 Agility Robotics（前輪估值約 25 億美元），並認為宇樹若以 300 億美元以上的估值開盤，將在未來一至兩週內吸引資金關注美國領先的人形機器人業者。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 1,
+            "Neutral": 1
+          }
+        },
+        {
+          "symbol": "AVGO",
+          "mentions": 1,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 1,
+          "max_importance": 5,
+          "latest_at": "2026-08-12T07:54:08Z",
+          "latest_thesis": "光學財報驗證了 CW DFB 激光器瓶頸論點，Sivers ($SIVE) 身為少數西方 CPO 關鍵玩家，將顯著受益於供需失衡與架構轉型。",
+          "latest_summary_zh": "作者分析多家光電大廠（LITE、AAOI、MTSI）最新財報，驗證了連續波（CW）DFB 激光器與磷化銦（InP）產能嚴重短缺的論點。中國競爭對手技術落後數年，使具備量產能力的公司擁有定價權與高護城河。這有利於作為少數第一代 CPO 西方玩家之一且市值僅約 15 億美元的 Sivers ($SIVE)。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 1
           }
         },
         {
@@ -491,6 +533,34 @@
           }
         },
         {
+          "symbol": "ONDS",
+          "mentions": 1,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 1,
+          "max_importance": 4,
+          "latest_at": "2026-08-14T08:30:20Z",
+          "latest_thesis": "美國無人機新關稅政策大幅提高外國產品進口成本，將利好美國本土無人機供應鏈與製造商（如 UMAC、ONDS、RCAT）。",
+          "latest_summary_zh": "美國前總統川普簽署一項旨在加強美國無人機供應鏈的公告，對特定進口無人機及其零組件加徵關稅。這項政策將大幅提高無人機停靠站、特定關鍵零組件以及超過25公斤重型無人機的關稅至100%，並對其他更廣泛的無人機零組件徵收25%關稅。預計這將直接造福美國本土的無人機零組件供應商（如 UMAC）以及無人機系統製造商（如 ONDS 與 RCAT）。",
+          "latest_change": "NEW",
+          "sentiments": {
+            "Bullish": 1
+          }
+        },
+        {
+          "symbol": "RCAT",
+          "mentions": 1,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 1,
+          "max_importance": 4,
+          "latest_at": "2026-08-14T08:30:20Z",
+          "latest_thesis": "美國無人機新關稅政策大幅提高外國產品進口成本，將利好美國本土無人機供應鏈與製造商（如 UMAC、ONDS、RCAT）。",
+          "latest_summary_zh": "美國前總統川普簽署一項旨在加強美國無人機供應鏈的公告，對特定進口無人機及其零組件加徵關稅。這項政策將大幅提高無人機停靠站、特定關鍵零組件以及超過25公斤重型無人機的關稅至100%，並對其他更廣泛的無人機零組件徵收25%關稅。預計這將直接造福美國本土的無人機零組件供應商（如 UMAC）以及無人機系統製造商（如 ONDS 與 RCAT）。",
+          "latest_change": "NEW",
+          "sentiments": {
+            "Bullish": 1
+          }
+        },
+        {
           "symbol": "RIOT",
           "mentions": 1,
           "dominant_sentiment": "Bullish",
@@ -500,6 +570,20 @@
           "latest_thesis": "比特幣礦商轉型 AI 託管獲大廠巨額合約驗證，但營收爆發拐點需等到 2027 年下半年。",
           "latest_summary_zh": "RIOT 宣布與 Anthropic 簽署高達 91 億至 161 億美元的 20 年期巨額託管合約，同時 AMD 也行使選擇權擴展與 RIOT 的合作。作者指出前比特幣礦商（如 RIOT、IREN）成功轉型 AI 主機託管（Colo），但整個族群的營收顯著轉折點（inflection）預計要到 2027 年下半年才會顯現。",
           "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 1
+          }
+        },
+        {
+          "symbol": "UMAC",
+          "mentions": 1,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 1,
+          "max_importance": 4,
+          "latest_at": "2026-08-14T08:30:20Z",
+          "latest_thesis": "美國無人機新關稅政策大幅提高外國產品進口成本，將利好美國本土無人機供應鏈與製造商（如 UMAC、ONDS、RCAT）。",
+          "latest_summary_zh": "美國前總統川普簽署一項旨在加強美國無人機供應鏈的公告，對特定進口無人機及其零組件加徵關稅。這項政策將大幅提高無人機停靠站、特定關鍵零組件以及超過25公斤重型無人機的關稅至100%，並對其他更廣泛的無人機零組件徵收25%關稅。預計這將直接造福美國本土的無人機零組件供應商（如 UMAC）以及無人機系統製造商（如 ONDS 與 RCAT）。",
+          "latest_change": "NEW",
           "sentiments": {
             "Bullish": 1
           }
@@ -622,23 +706,23 @@
       "period": "monthly",
       "label": "每月",
       "days": 28,
-      "start_at": "2026-07-17T04:09:16.590335Z",
-      "generated_at": "2026-08-14T04:09:16.645367Z",
+      "start_at": "2026-07-17T08:47:29.015632Z",
+      "generated_at": "2026-08-14T08:47:29.054345Z",
       "earliest_available_at": "2025-11-17T16:12:21Z",
       "traversed_until": "2026-04-13T02:42:25Z",
       "coverage_days": 123,
       "coverage_complete": true,
-      "tweet_count": 99,
-      "primary_post_count": 99,
-      "reply_context_count": 69,
+      "tweet_count": 100,
+      "primary_post_count": 100,
+      "reply_context_count": 68,
       "all_collected_count": 168,
-      "symbol_count": 70,
-      "high_importance_count": 44,
-      "ai_analyzed_count": 24,
+      "symbol_count": 73,
+      "high_importance_count": 45,
+      "ai_analyzed_count": 25,
       "sentiments": {
+        "Bullish": 38,
         "Neutral": 56,
         "Mixed": 1,
-        "Bullish": 37,
         "Bearish": 5
       },
       "symbols": [
@@ -1387,6 +1471,20 @@
           }
         },
         {
+          "symbol": "ONDS",
+          "mentions": 1,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 1,
+          "max_importance": 4,
+          "latest_at": "2026-08-14T08:30:20Z",
+          "latest_thesis": "美國無人機新關稅政策大幅提高外國產品進口成本，將利好美國本土無人機供應鏈與製造商（如 UMAC、ONDS、RCAT）。",
+          "latest_summary_zh": "美國前總統川普簽署一項旨在加強美國無人機供應鏈的公告，對特定進口無人機及其零組件加徵關稅。這項政策將大幅提高無人機停靠站、特定關鍵零組件以及超過25公斤重型無人機的關稅至100%，並對其他更廣泛的無人機零組件徵收25%關稅。預計這將直接造福美國本土的無人機零組件供應商（如 UMAC）以及無人機系統製造商（如 ONDS 與 RCAT）。",
+          "latest_change": "NEW",
+          "sentiments": {
+            "Bullish": 1
+          }
+        },
+        {
           "symbol": "POWI",
           "mentions": 1,
           "dominant_sentiment": "Bullish",
@@ -1415,6 +1513,20 @@
           }
         },
         {
+          "symbol": "RCAT",
+          "mentions": 1,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 1,
+          "max_importance": 4,
+          "latest_at": "2026-08-14T08:30:20Z",
+          "latest_thesis": "美國無人機新關稅政策大幅提高外國產品進口成本，將利好美國本土無人機供應鏈與製造商（如 UMAC、ONDS、RCAT）。",
+          "latest_summary_zh": "美國前總統川普簽署一項旨在加強美國無人機供應鏈的公告，對特定進口無人機及其零組件加徵關稅。這項政策將大幅提高無人機停靠站、特定關鍵零組件以及超過25公斤重型無人機的關稅至100%，並對其他更廣泛的無人機零組件徵收25%關稅。預計這將直接造福美國本土的無人機零組件供應商（如 UMAC）以及無人機系統製造商（如 ONDS 與 RCAT）。",
+          "latest_change": "NEW",
+          "sentiments": {
+            "Bullish": 1
+          }
+        },
+        {
           "symbol": "RIOT",
           "mentions": 1,
           "dominant_sentiment": "Bullish",
@@ -1424,6 +1536,20 @@
           "latest_thesis": "比特幣礦商轉型 AI 託管獲大廠巨額合約驗證，但營收爆發拐點需等到 2027 年下半年。",
           "latest_summary_zh": "RIOT 宣布與 Anthropic 簽署高達 91 億至 161 億美元的 20 年期巨額託管合約，同時 AMD 也行使選擇權擴展與 RIOT 的合作。作者指出前比特幣礦商（如 RIOT、IREN）成功轉型 AI 主機託管（Colo），但整個族群的營收顯著轉折點（inflection）預計要到 2027 年下半年才會顯現。",
           "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 1
+          }
+        },
+        {
+          "symbol": "UMAC",
+          "mentions": 1,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 1,
+          "max_importance": 4,
+          "latest_at": "2026-08-14T08:30:20Z",
+          "latest_thesis": "美國無人機新關稅政策大幅提高外國產品進口成本，將利好美國本土無人機供應鏈與製造商（如 UMAC、ONDS、RCAT）。",
+          "latest_summary_zh": "美國前總統川普簽署一項旨在加強美國無人機供應鏈的公告，對特定進口無人機及其零組件加徵關稅。這項政策將大幅提高無人機停靠站、特定關鍵零組件以及超過25公斤重型無人機的關稅至100%，並對其他更廣泛的無人機零組件徵收25%關稅。預計這將直接造福美國本土的無人機零組件供應商（如 UMAC）以及無人機系統製造商（如 ONDS 與 RCAT）。",
+          "latest_change": "NEW",
           "sentiments": {
             "Bullish": 1
           }
@@ -1672,23 +1798,23 @@
       "period": "quarterly",
       "label": "每季",
       "days": 90,
-      "start_at": "2026-05-16T04:09:16.645367Z",
-      "generated_at": "2026-08-14T04:09:16.854026Z",
+      "start_at": "2026-05-16T08:47:29.055343Z",
+      "generated_at": "2026-08-14T08:47:29.208624Z",
       "earliest_available_at": "2025-11-17T16:12:21Z",
       "traversed_until": "2026-04-13T02:42:25Z",
       "coverage_days": 123,
       "coverage_complete": true,
-      "tweet_count": 544,
-      "primary_post_count": 544,
+      "tweet_count": 545,
+      "primary_post_count": 545,
       "reply_context_count": 697,
-      "all_collected_count": 1241,
-      "symbol_count": 168,
-      "high_importance_count": 194,
-      "ai_analyzed_count": 34,
+      "all_collected_count": 1242,
+      "symbol_count": 171,
+      "high_importance_count": 195,
+      "ai_analyzed_count": 35,
       "sentiments": {
+        "Bullish": 146,
         "Neutral": 366,
         "Mixed": 2,
-        "Bullish": 145,
         "Bearish": 31
       },
       "symbols": [
@@ -3568,6 +3694,20 @@
           }
         },
         {
+          "symbol": "ONDS",
+          "mentions": 1,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 1,
+          "max_importance": 4,
+          "latest_at": "2026-08-14T08:30:20Z",
+          "latest_thesis": "美國無人機新關稅政策大幅提高外國產品進口成本，將利好美國本土無人機供應鏈與製造商（如 UMAC、ONDS、RCAT）。",
+          "latest_summary_zh": "美國前總統川普簽署一項旨在加強美國無人機供應鏈的公告，對特定進口無人機及其零組件加徵關稅。這項政策將大幅提高無人機停靠站、特定關鍵零組件以及超過25公斤重型無人機的關稅至100%，並對其他更廣泛的無人機零組件徵收25%關稅。預計這將直接造福美國本土的無人機零組件供應商（如 UMAC）以及無人機系統製造商（如 ONDS 與 RCAT）。",
+          "latest_change": "NEW",
+          "sentiments": {
+            "Bullish": 1
+          }
+        },
+        {
           "symbol": "OUST",
           "mentions": 1,
           "dominant_sentiment": "Bullish",
@@ -3605,6 +3745,20 @@
           "latest_thesis": "OFC I'm aware. But I'm personally sleeping comfortably since I have conviction in my hyperscaler mapping research with $SIVE.   And yes, I still have my million+ share position....",
           "latest_summary_zh": "",
           "latest_change": "UPDATE",
+          "sentiments": {
+            "Bullish": 1
+          }
+        },
+        {
+          "symbol": "RCAT",
+          "mentions": 1,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 1,
+          "max_importance": 4,
+          "latest_at": "2026-08-14T08:30:20Z",
+          "latest_thesis": "美國無人機新關稅政策大幅提高外國產品進口成本，將利好美國本土無人機供應鏈與製造商（如 UMAC、ONDS、RCAT）。",
+          "latest_summary_zh": "美國前總統川普簽署一項旨在加強美國無人機供應鏈的公告，對特定進口無人機及其零組件加徵關稅。這項政策將大幅提高無人機停靠站、特定關鍵零組件以及超過25公斤重型無人機的關稅至100%，並對其他更廣泛的無人機零組件徵收25%關稅。預計這將直接造福美國本土的無人機零組件供應商（如 UMAC）以及無人機系統製造商（如 ONDS 與 RCAT）。",
+          "latest_change": "NEW",
           "sentiments": {
             "Bullish": 1
           }
@@ -3677,6 +3831,20 @@
           "latest_change": "MENTION",
           "sentiments": {
             "Neutral": 1
+          }
+        },
+        {
+          "symbol": "UMAC",
+          "mentions": 1,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 1,
+          "max_importance": 4,
+          "latest_at": "2026-08-14T08:30:20Z",
+          "latest_thesis": "美國無人機新關稅政策大幅提高外國產品進口成本，將利好美國本土無人機供應鏈與製造商（如 UMAC、ONDS、RCAT）。",
+          "latest_summary_zh": "美國前總統川普簽署一項旨在加強美國無人機供應鏈的公告，對特定進口無人機及其零組件加徵關稅。這項政策將大幅提高無人機停靠站、特定關鍵零組件以及超過25公斤重型無人機的關稅至100%，並對其他更廣泛的無人機零組件徵收25%關稅。預計這將直接造福美國本土的無人機零組件供應商（如 UMAC）以及無人機系統製造商（如 ONDS 與 RCAT）。",
+          "latest_change": "NEW",
+          "sentiments": {
+            "Bullish": 1
           }
         },
         {
@@ -4174,6 +4342,23 @@
   },
   "latest_primary_posts": [
     {
+      "tweet_id": "2088181416148562017",
+      "created_at": "2026-08-14T08:30:20Z",
+      "text": "Donald Trump signs a proclamation to strengthen US supply chains for drones.\n\nBenefiting U.S. drone component suppliers like $UMAC to UAS manufacturers like $ONDS + $RCAT. \n\n TLDR, 100% tariffs on:\n- UAS docking stations + certain critical components\n- certain parts for >25 kg drones\n- Drones >25 kg\n\n25% tariffs on: \n- broader components \n \nUAS = Unmanned Aircraft System (don't have any positions in any above)",
+      "url": "https://x.com/aleabitoreddit/status/2088181416148562017",
+      "symbols": [
+        "ONDS",
+        "RCAT",
+        "UMAC"
+      ],
+      "sentiment": "Bullish",
+      "importance": 4,
+      "summary_zh": "美國前總統川普簽署一項旨在加強美國無人機供應鏈的公告，對特定進口無人機及其零組件加徵關稅。這項政策將大幅提高無人機停靠站、特定關鍵零組件以及超過25公斤重型無人機的關稅至100%，並對其他更廣泛的無人機零組件徵收25%關稅。預計這將直接造福美國本土的無人機零組件供應商（如 UMAC）以及無人機系統製造商（如 ONDS 與 RCAT）。",
+      "core_thesis": "美國無人機新關稅政策大幅提高外國產品進口成本，將利好美國本土無人機供應鏈與製造商（如 UMAC、ONDS、RCAT）。",
+      "why_it_matters": "無人機供應鏈本土化與關稅保護是美國國家安全與工業政策的重點方向。對外國無人機課徵高達 100% 的關稅，將直接重塑市場競爭格局，推動本土供應商訂單成長。",
+      "thesis_change": "NEW"
+    },
+    {
       "tweet_id": "2088115008827715971",
       "created_at": "2026-08-14T04:06:28Z",
       "text": "Feels like glass substrate timelines got pushed back at least another quarter.\n\n- \"Samsung Electro-Mechanics Delays Semiconductor Glass Substrate Investment\" due to a bottleneck in customer reliability evaluations of prototypes.\n\nAt its recent second-quarter earnings presentation, less than a month later, the company revised the start of operations to 2028.\n\n- \"SKC Reportedly Pushes Glass Substrate Mass Production to 2027, Targets Final Validation by Year-end\" (Trendforce), earlier last month. \n\nTLDR: \n- SKC Absolics H2 2026 -> H1 2027\n- Samsung H2 2027 -> H1 2028\n\nNot everything is always good news with timeline shifts, but glass core substrate shifts do feel imminent.\n\nVolume ramp for some players eg. $LPK / Philoptics (161580) / E&R (8027) likely track these  mass production timelines.",
@@ -4639,26 +4824,6 @@
       ],
       "sentiment": "Neutral",
       "importance": 4,
-      "summary_zh": "",
-      "core_thesis": "",
-      "why_it_matters": "",
-      "thesis_change": "NEW"
-    },
-    {
-      "tweet_id": "2086148557187461412",
-      "created_at": "2026-08-08T17:52:29Z",
-      "text": "Yes, I'm still bullish on memory like $MU / Samsung.\n\nAs I said earlier, markets tend to rotate from bottleneck to bottleneck.\n\nThis week it looks $AXTI to $LITE in the photonics sector is the focus again. \n\nThe thing is... the primary thing that changed are the stock prices, followed by some narratives + updates sprinkled in here and there.\n\nFor photonics:\n\n> We already knew $COHR / $LITE lasers were completely sold out for the next 2 years during July's drop. \n\n> We knew about demand imbalance from $AAOI from last quarter's earnings calls.\n\nNothing deteriorated fundamentally during July's crash, other than listed price after liquidations. \n\nYet tons of people called $AAOI a \"scam\" when it dropped to $75, or $AXTI a \"scam\" on its drop to $35... \n\nBut are bullish again at $140 or $80, when the transciver/InP substrate bottleneck hasn't changed at all, but maybe even got worse... (eg. draft for US ban on new china optical transceivers, scale up demand projections)\n\nFor Memory:\n\nI'm witnessing a lot of retail capitulation, but the same people I'm seeing were mega bullish after $MU signed 16 SCAs and gave exceptional projections a month ago. \n\nOr were celebrating Samsung having the highest operating profit in the world.\n\nThere's updates here and there eg. Rubin Ultra with memory optimizations (which Nvidia strives for every generation), with prices no longer being hiked way above expectations to the extreme. \n\nBut the operating income relative to MC is just absurd around current prices, especially memory becomes structural. \n\nAnd the demand imbalance should be even worse next year.  \n\nPeople tend to capitulate and follow narratives when a sector drops (eg. Helium/LNG back in Iran war), even if the bottleneck or fundamental situation hasn't really changed much (eg. $SPCX Elon earnings call reiterating memory tightness). \n\nI can't tell others what to to do: \n\nBut $AAOI at $140 and $AAOI at $75 are the same company.\n\nSamsung at a $1.5T MC and Samsung at a $980B MC are the same company. \n\nJust valuations and narratives (often noise) change, and markets rotate from sector to sector.",
-      "url": "https://x.com/aleabitoreddit/status/2086148557187461412",
-      "symbols": [
-        "AAOI",
-        "AXTI",
-        "COHR",
-        "LITE",
-        "MU",
-        "SPCX"
-      ],
-      "sentiment": "Bullish",
-      "importance": 5,
       "summary_zh": "",
       "core_thesis": "",
       "why_it_matters": "",

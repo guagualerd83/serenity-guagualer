@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T04:09:16.907573Z",
+  "generated_at": "2026-08-14T08:47:29.247204Z",
   "symbol": "LPK",
   "summary": {
     "primary_count": 42,
@@ -1713,8 +1713,8 @@
           ],
           "confidence": 90,
           "ai_status": "ok",
-          "favorite_count": 30,
-          "retweet_count": 5
+          "favorite_count": 412,
+          "retweet_count": 24
         }
       ]
     }
@@ -3431,8 +3431,8 @@
             ],
             "confidence": 90,
             "ai_status": "ok",
-            "favorite_count": 30,
-            "retweet_count": 5
+            "favorite_count": 412,
+            "retweet_count": 24
           }
         ]
       }
@@ -3494,8 +3494,8 @@
       ],
       "confidence": 90,
       "ai_status": "ok",
-      "favorite_count": 30,
-      "retweet_count": 5
+      "favorite_count": 412,
+      "retweet_count": 24
     },
     {
       "tweet_id": "2081472671129501729",
