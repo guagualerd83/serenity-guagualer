@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-13T07:47:06.186514Z",
+  "generated_at": "2026-08-14T02:08:28.533136Z",
   "symbol": "LITE",
   "summary": {
-    "primary_count": 147,
+    "primary_count": 148,
     "reply_count": 81,
     "first_mentioned_at": "2025-12-11T22:10:45Z",
-    "last_mentioned_at": "2026-08-12T22:59:29Z",
+    "last_mentioned_at": "2026-08-13T09:46:26Z",
     "latest_sentiment": "Bullish",
-    "latest_thesis": "InP CW 雷射晶片成為光通訊與 CPO 供應鏈的最核心瓶頸，垂直整合大廠自用產能鎖死外售，外購 CW 雷射供應商獲得巨大定價權與訂單能見度。",
+    "latest_thesis": "IQE 已走出財務危機並完成債務清償，作為西方光通訊與 AI 資料中心供應鏈中的關鍵 III-V 族外延片瓶頸，其投資論點已獲成功驗證。",
     "latest_change": "INSUFFICIENT_HISTORY",
     "sentiments": {
       "Neutral": 137,
-      "Bullish": 76,
+      "Bullish": 77,
       "Bearish": 15
     }
   },
@@ -5190,8 +5190,8 @@
           ],
           "confidence": 95,
           "ai_status": "ok",
-          "favorite_count": 1436,
-          "retweet_count": 96
+          "favorite_count": 1439,
+          "retweet_count": 95
         },
         {
           "tweet_id": "2087285356999958663",
@@ -5217,7 +5217,7 @@
           "risks": [],
           "confidence": 95,
           "ai_status": "ok",
-          "favorite_count": 2108,
+          "favorite_count": 2124,
           "retweet_count": 136
         }
       ]
@@ -5269,7 +5269,7 @@
           ],
           "confidence": 90,
           "ai_status": "ok",
-          "favorite_count": 883,
+          "favorite_count": 888,
           "retweet_count": 73
         },
         {
@@ -5299,7 +5299,7 @@
           ],
           "confidence": 90,
           "ai_status": "ok",
-          "favorite_count": 1340,
+          "favorite_count": 1372,
           "retweet_count": 95
         },
         {
@@ -5329,8 +5329,59 @@
           ],
           "confidence": 90,
           "ai_status": "ok",
-          "favorite_count": 761,
-          "retweet_count": 52
+          "favorite_count": 881,
+          "retweet_count": 70
+        }
+      ]
+    },
+    {
+      "date": "2026-08-13",
+      "created_at": "2026-08-13T09:46:26Z",
+      "sentiment": "Bullish",
+      "bull_count": 1,
+      "bear_count": 0,
+      "neutral_count": 0,
+      "mixed_count": 0,
+      "mention_count": 1,
+      "bull_weight": 4.75,
+      "bear_weight": 0.0,
+      "bull_share": 1.0,
+      "importance": 5,
+      "confidence": 95,
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "core_thesis": "IQE 已走出財務危機並完成債務清償，作為西方光通訊與 AI 資料中心供應鏈中的關鍵 III-V 族外延片瓶頸，其投資論點已獲成功驗證。",
+      "url": "https://x.com/aleabitoreddit/status/2087838176677376186",
+      "tweet_id": "2087838176677376186",
+      "items": [
+        {
+          "tweet_id": "2087838176677376186",
+          "is_reply": false,
+          "kind": "post",
+          "reply_signal_eligible": false,
+          "created_at": "2026-08-13T09:46:26Z",
+          "text": "Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both)  \n\nSo I stopped covering them as much. But TLDR on  updates:\n\nEarly this year, IQE was a distressed but critical chokepoint in the optical supply chain with links to $LITE and others when I published my thesis on it.\n\nSince then:\n\n- $MTSI signed long term epiwafer supply agreements, took a stake in the company, now IQE is bank debt free (Macom has convertibles, but that's positive)\n- $TSEM signed agreements for InP epiwafers. \n- Management explicitly said its IQE agreement was signed to secure the \"strategic III-V epiwafer supply required for that roadmap\"\n- IQE signed another ~$14M mysterious AI DC contract. \n\nThe only part that's still playing out with my earlier thesis is IQE converting their latent/underutilized capacity toward AI DC segment, to match peers like Landmark in the space (which takes time, like slightly over a year if I remember correctly). \n\nThere's some national security implications that I'll avoid talking about that makes them more important.\n\nBut basically:\nFY2025 revenue: £97.3m\nFY2026 guidance: over £126.5m\n\nThey're rapidly growing again in the optical sector, out of bank debt/distressed liquidation state, and remains a critical chokepoint in Western optical supply chains. \n\nNow... with new agreements with your leading photonics companies for revenue growth, and players like Macom serving as a soft backstop.  \n\nAfter a thesis gets validated, typically I just sit back and enjoy growth of a business.",
+          "url": "https://x.com/aleabitoreddit/status/2087838176677376186",
+          "sentiment": "Bullish",
+          "importance": 5,
+          "thesis_change": "INSUFFICIENT_HISTORY",
+          "summary_zh": "作者指出其於今年二月提出關於 IQE 的投資論點已獲得驗證。IQE 從面臨債務危機的困境轉變為轉虧為盈，透過與 MACOM（$MTSI）及高塔半導體（$TSEM）簽署長期外延片（epiwafer）供應協議，已徹底清償銀行債務。隨著產能逐步轉向 AI 資料中心（DC）領域，且 2026 財年營收指引超過 1.265 億英鎊，IQE 再次鞏固其作為西方光學供應鏈關鍵瓶頸的地位。",
+          "plain_zh": "IQE 之前是一家瀕臨財務危機但掌握關鍵技術的晶圓外延片供應商。今年以來，公司獲得了 MACOM 入股及長期訂單，擺脫了銀行債務，並與高塔半導體等大廠簽約，鎖定 AI 與光子學所需的關鍵化合物半導體（III-V 族）產能。隨著產能調整至 AI 資料中心領域，公司的營運轉危為安並進入快速成長期。",
+          "core_thesis": "IQE 已走出財務危機並完成債務清償，作為西方光通訊與 AI 資料中心供應鏈中的關鍵 III-V 族外延片瓶頸，其投資論點已獲成功驗證。",
+          "why_it_matters": "IQE 成功清償銀行債務並與 MACOM、TSEM 等業界領頭羊達成長期合作，確保了西方國家在光子學與 AI 關鍵材料上的自主供應，且未來的營收指引大幅成長（2026財年預計超過 1.265 億英鎊）。",
+          "history_note": "雖然作者提及今年二月曾發布論點，但系統無資料庫歷史貼文可供比對，故列為歷史資料不足。就本篇內容而言，作者強烈肯定先前論點已被驗證。",
+          "catalysts": [
+            "與 MACOM（$MTSI）及高塔半導體（$TSEM）簽署長期外延片供應協議",
+            "簽署價值約 1,400 萬美元的神秘 AI 資料中心合約",
+            "產能轉向 AI 資料中心領域（預計需時一年多）"
+          ],
+          "risks": [
+            "將閒置/未充分利用的產能轉換至 AI 資料中心領域需要時間（超過一年）",
+            "MACOM 持有可轉換債券可能帶來的股本稀釋效果"
+          ],
+          "confidence": 95,
+          "ai_status": "ok",
+          "favorite_count": 484,
+          "retweet_count": 22
         }
       ]
     }
@@ -6026,6 +6077,10 @@
         {
           "date": "2026-08-12",
           "close": 932.47
+        },
+        {
+          "date": "2026-08-13",
+          "close": 880.41
         }
       ]
     },
@@ -6064,10 +6119,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 33.06,
-            "score_return": 33.06,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
+            "raw_return": 25.63,
+            "score_return": 25.63,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
             "hit": true
           }
         },
@@ -6111,10 +6166,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 32.69,
-            "score_return": 32.69,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
+            "raw_return": 25.28,
+            "score_return": 25.28,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
             "hit": true
           }
         },
@@ -6158,10 +6213,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 9.34,
-            "score_return": 9.34,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
+            "raw_return": 3.24,
+            "score_return": 3.24,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
             "hit": true
           }
         },
@@ -6205,11 +6260,11 @@
             "hit": false
           },
           "now": {
-            "raw_return": 4.17,
-            "score_return": 4.17,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
-            "hit": true
+            "raw_return": -1.64,
+            "score_return": -1.64,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
+            "hit": false
           }
         },
         "mention_count": 2,
@@ -6252,11 +6307,11 @@
             "hit": false
           },
           "now": {
-            "raw_return": 4.17,
-            "score_return": 4.17,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
-            "hit": true
+            "raw_return": -1.64,
+            "score_return": -1.64,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
+            "hit": false
           }
         },
         "mention_count": 3,
@@ -6299,10 +6354,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": 10.11,
-            "score_return": -10.11,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
+            "raw_return": 3.96,
+            "score_return": -3.96,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
             "hit": false
           }
         },
@@ -6346,11 +6401,11 @@
             "hit": false
           },
           "now": {
-            "raw_return": 5.77,
-            "score_return": -5.77,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
-            "hit": false
+            "raw_return": -0.14,
+            "score_return": 0.14,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
+            "hit": true
           }
         },
         "mention_count": 3,
@@ -6393,10 +6448,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 8.47,
-            "score_return": 8.47,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
+            "raw_return": 2.41,
+            "score_return": 2.41,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
             "hit": true
           }
         },
@@ -6440,10 +6495,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 8.47,
-            "score_return": 8.47,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
+            "raw_return": 2.41,
+            "score_return": 2.41,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
             "hit": true
           }
         },
@@ -6487,10 +6542,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 17.83,
-            "score_return": 17.83,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
+            "raw_return": 11.25,
+            "score_return": 11.25,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
             "hit": true
           }
         },
@@ -6534,10 +6589,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": 8.64,
-            "score_return": 8.64,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
+            "raw_return": 2.57,
+            "score_return": 2.57,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
             "hit": true
           }
         },
@@ -6581,11 +6636,11 @@
             "hit": false
           },
           "now": {
-            "raw_return": 3.34,
-            "score_return": -3.34,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
-            "hit": false
+            "raw_return": -2.43,
+            "score_return": 2.43,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
+            "hit": true
           }
         },
         "mention_count": 3,
@@ -6628,10 +6683,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -4.48,
-            "score_return": -4.48,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
+            "raw_return": -9.81,
+            "score_return": -9.81,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
             "hit": false
           }
         },
@@ -6675,10 +6730,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -6.24,
-            "score_return": -6.24,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
+            "raw_return": -11.48,
+            "score_return": -11.48,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
             "hit": false
           }
         },
@@ -6722,10 +6777,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -1.25,
-            "score_return": -1.25,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
+            "raw_return": -6.76,
+            "score_return": -6.76,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
             "hit": false
           }
         },
@@ -6769,10 +6824,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -9.5,
-            "score_return": -9.5,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
+            "raw_return": -14.55,
+            "score_return": -14.55,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
             "hit": false
           }
         },
@@ -6816,10 +6871,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -6.92,
-            "score_return": -6.92,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
+            "raw_return": -12.12,
+            "score_return": -12.12,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
             "hit": false
           }
         },
@@ -6863,10 +6918,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -3.94,
-            "score_return": -3.94,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
+            "raw_return": -9.3,
+            "score_return": -9.3,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
             "hit": false
           }
         },
@@ -6910,11 +6965,11 @@
             "hit": true
           },
           "now": {
-            "raw_return": 5.37,
-            "score_return": -5.37,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
-            "hit": false
+            "raw_return": -0.52,
+            "score_return": 0.52,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
+            "hit": true
           }
         },
         "mention_count": 2,
@@ -6957,11 +7012,11 @@
             "hit": true
           },
           "now": {
-            "raw_return": 2.38,
-            "score_return": -2.38,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
-            "hit": false
+            "raw_return": -3.34,
+            "score_return": 3.34,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
+            "hit": true
           }
         },
         "mention_count": 3,
@@ -7004,11 +7059,11 @@
             "hit": false
           },
           "now": {
-            "raw_return": 3.34,
-            "score_return": 3.34,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
-            "hit": true
+            "raw_return": -2.43,
+            "score_return": -2.43,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
+            "hit": false
           }
         },
         "mention_count": 2,
@@ -7051,10 +7106,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": 8.35,
-            "score_return": 8.35,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
+            "raw_return": 2.3,
+            "score_return": 2.3,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
             "hit": true
           }
         },
@@ -7098,11 +7153,11 @@
             "hit": false
           },
           "now": {
-            "raw_return": 3.04,
-            "score_return": 3.04,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
-            "hit": true
+            "raw_return": -2.72,
+            "score_return": -2.72,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
+            "hit": false
           }
         },
         "mention_count": 3,
@@ -7145,11 +7200,11 @@
             "hit": true
           },
           "now": {
-            "raw_return": 3.04,
-            "score_return": -3.04,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
-            "hit": false
+            "raw_return": -2.72,
+            "score_return": 2.72,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
+            "hit": true
           }
         },
         "mention_count": 2,
@@ -7192,10 +7247,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -0.59,
-            "score_return": -0.59,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
+            "raw_return": -6.14,
+            "score_return": -6.14,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
             "hit": false
           }
         },
@@ -7239,10 +7294,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -1.33,
-            "score_return": 1.33,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
+            "raw_return": -6.84,
+            "score_return": 6.84,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
             "hit": true
           }
         },
@@ -7286,10 +7341,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": 7.97,
-            "score_return": 7.97,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
+            "raw_return": 1.94,
+            "score_return": 1.94,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
             "hit": true
           }
         },
@@ -7333,11 +7388,11 @@
             "hit": false
           },
           "now": {
-            "raw_return": 4.14,
-            "score_return": 4.14,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
-            "hit": true
+            "raw_return": -1.67,
+            "score_return": -1.67,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
+            "hit": false
           }
         },
         "mention_count": 1,
@@ -7380,10 +7435,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": 9.28,
-            "score_return": 9.28,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
+            "raw_return": 3.18,
+            "score_return": 3.18,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
             "hit": true
           }
         },
@@ -7427,11 +7482,11 @@
             "hit": false
           },
           "now": {
-            "raw_return": 1.18,
-            "score_return": 1.18,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
-            "hit": true
+            "raw_return": -4.47,
+            "score_return": -4.47,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
+            "hit": false
           }
         },
         "mention_count": 1,
@@ -7474,10 +7529,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": 6.52,
-            "score_return": 6.52,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
+            "raw_return": 0.58,
+            "score_return": 0.58,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
             "hit": true
           }
         },
@@ -7521,11 +7576,11 @@
             "hit": false
           },
           "now": {
-            "raw_return": 4.31,
-            "score_return": 4.31,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
-            "hit": true
+            "raw_return": -1.51,
+            "score_return": -1.51,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
+            "hit": false
           }
         },
         "mention_count": 1,
@@ -7568,10 +7623,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": 12.63,
-            "score_return": -12.63,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
+            "raw_return": 6.34,
+            "score_return": -6.34,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
             "hit": false
           }
         },
@@ -7615,10 +7670,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": 14.14,
-            "score_return": 14.14,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
+            "raw_return": 7.76,
+            "score_return": 7.76,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
             "hit": true
           }
         },
@@ -7662,10 +7717,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": 9.52,
-            "score_return": 9.52,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
+            "raw_return": 3.41,
+            "score_return": 3.41,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
             "hit": true
           }
         },
@@ -7709,10 +7764,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 28.03,
-            "score_return": 28.03,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
+            "raw_return": 20.88,
+            "score_return": 20.88,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
             "hit": true
           }
         },
@@ -7756,10 +7811,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": 27.52,
-            "score_return": -27.52,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
+            "raw_return": 20.4,
+            "score_return": -20.4,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
             "hit": false
           }
         },
@@ -7803,10 +7858,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 27.52,
-            "score_return": 27.52,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
+            "raw_return": 20.4,
+            "score_return": 20.4,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
             "hit": true
           }
         },
@@ -7850,10 +7905,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 33.42,
-            "score_return": 33.42,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
+            "raw_return": 25.97,
+            "score_return": 25.97,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
             "hit": true
           }
         },
@@ -7897,10 +7952,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 16.27,
-            "score_return": 16.27,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
+            "raw_return": 9.78,
+            "score_return": 9.78,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
             "hit": true
           }
         },
@@ -7944,10 +7999,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 21.39,
-            "score_return": 21.39,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
+            "raw_return": 14.61,
+            "score_return": 14.61,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
             "hit": true
           }
         },
@@ -7991,10 +8046,10 @@
             "hit": null
           },
           "now": {
-            "raw_return": 27.24,
-            "score_return": 27.24,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
+            "raw_return": 20.14,
+            "score_return": 20.14,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
             "hit": true
           }
         },
@@ -8038,10 +8093,10 @@
             "hit": null
           },
           "now": {
-            "raw_return": 12.39,
-            "score_return": 12.39,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
+            "raw_return": 6.11,
+            "score_return": 6.11,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
             "hit": true
           }
         },
@@ -8085,10 +8140,10 @@
             "hit": null
           },
           "now": {
-            "raw_return": 43.03,
-            "score_return": 43.03,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
+            "raw_return": 35.05,
+            "score_return": 35.05,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
             "hit": true
           }
         },
@@ -8132,10 +8187,10 @@
             "hit": null
           },
           "now": {
-            "raw_return": 54.81,
-            "score_return": 54.81,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
+            "raw_return": 46.16,
+            "score_return": 46.16,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
             "hit": true
           }
         },
@@ -8179,10 +8234,10 @@
             "hit": null
           },
           "now": {
-            "raw_return": 30.61,
-            "score_return": 30.61,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
+            "raw_return": 23.32,
+            "score_return": 23.32,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
             "hit": true
           }
         },
@@ -8226,10 +8281,10 @@
             "hit": null
           },
           "now": {
-            "raw_return": 14.62,
-            "score_return": 14.62,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
+            "raw_return": 8.22,
+            "score_return": 8.22,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
             "hit": true
           }
         },
@@ -8273,10 +8328,10 @@
             "hit": null
           },
           "now": {
-            "raw_return": 14.62,
-            "score_return": 14.62,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
+            "raw_return": 8.22,
+            "score_return": 8.22,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
             "hit": true
           }
         },
@@ -8320,10 +8375,10 @@
             "hit": null
           },
           "now": {
-            "raw_return": 13.63,
-            "score_return": 13.63,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
+            "raw_return": 7.29,
+            "score_return": 7.29,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
             "hit": true
           }
         },
@@ -8344,6 +8399,53 @@
         "core_thesis": "InP CW 雷射晶片成為光通訊與 CPO 供應鏈的最核心瓶頸，垂直整合大廠自用產能鎖死外售，外購 CW 雷射供應商獲得巨大定價權與訂單能見度。",
         "entry_date": "2026-08-12",
         "entry_price": 932.47,
+        "returns": {
+          "1d": {
+            "raw_return": -5.58,
+            "score_return": -5.58,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
+            "hit": false
+          },
+          "7d": {
+            "raw_return": null,
+            "score_return": null,
+            "exit_date": null,
+            "exit_price": null,
+            "hit": null
+          },
+          "30d": {
+            "raw_return": null,
+            "score_return": null,
+            "exit_date": null,
+            "exit_price": null,
+            "hit": null
+          },
+          "now": {
+            "raw_return": -5.58,
+            "score_return": -5.58,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
+            "hit": false
+          }
+        },
+        "mention_count": 3,
+        "bull_count": 3,
+        "bear_count": 0,
+        "neutral_count": 0,
+        "bull_share": 1.0
+      },
+      {
+        "date": "2026-08-13",
+        "created_at": "2026-08-13T09:46:26Z",
+        "url": "https://x.com/aleabitoreddit/status/2087838176677376186",
+        "sentiment": "Bullish",
+        "confidence": 95,
+        "importance": 5,
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "IQE 已走出財務危機並完成債務清償，作為西方光通訊與 AI 資料中心供應鏈中的關鍵 III-V 族外延片瓶頸，其投資論點已獲成功驗證。",
+        "entry_date": "2026-08-13",
+        "entry_price": 880.41,
         "returns": {
           "1d": {
             "raw_return": null,
@@ -8369,13 +8471,13 @@
           "now": {
             "raw_return": 0.0,
             "score_return": 0.0,
-            "exit_date": "2026-08-12",
-            "exit_price": 932.47,
+            "exit_date": "2026-08-13",
+            "exit_price": 880.41,
             "hit": false
           }
         },
-        "mention_count": 3,
-        "bull_count": 3,
+        "mention_count": 1,
+        "bull_count": 1,
         "bear_count": 0,
         "neutral_count": 0,
         "bull_share": 1.0
@@ -13556,8 +13658,8 @@
             ],
             "confidence": 95,
             "ai_status": "ok",
-            "favorite_count": 1436,
-            "retweet_count": 96
+            "favorite_count": 1439,
+            "retweet_count": 95
           },
           {
             "tweet_id": "2087285356999958663",
@@ -13583,7 +13685,7 @@
             "risks": [],
             "confidence": 95,
             "ai_status": "ok",
-            "favorite_count": 2108,
+            "favorite_count": 2124,
             "retweet_count": 136
           }
         ]
@@ -13635,7 +13737,7 @@
             ],
             "confidence": 90,
             "ai_status": "ok",
-            "favorite_count": 883,
+            "favorite_count": 888,
             "retweet_count": 73
           },
           {
@@ -13665,7 +13767,7 @@
             ],
             "confidence": 90,
             "ai_status": "ok",
-            "favorite_count": 1340,
+            "favorite_count": 1372,
             "retweet_count": 95
           },
           {
@@ -13695,20 +13797,71 @@
             ],
             "confidence": 90,
             "ai_status": "ok",
-            "favorite_count": 761,
-            "retweet_count": 52
+            "favorite_count": 881,
+            "retweet_count": 70
+          }
+        ]
+      },
+      {
+        "date": "2026-08-13",
+        "created_at": "2026-08-13T09:46:26Z",
+        "sentiment": "Bullish",
+        "bull_count": 1,
+        "bear_count": 0,
+        "neutral_count": 0,
+        "mixed_count": 0,
+        "mention_count": 1,
+        "bull_weight": 4.75,
+        "bear_weight": 0.0,
+        "bull_share": 1.0,
+        "importance": 5,
+        "confidence": 95,
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "IQE 已走出財務危機並完成債務清償，作為西方光通訊與 AI 資料中心供應鏈中的關鍵 III-V 族外延片瓶頸，其投資論點已獲成功驗證。",
+        "url": "https://x.com/aleabitoreddit/status/2087838176677376186",
+        "tweet_id": "2087838176677376186",
+        "items": [
+          {
+            "tweet_id": "2087838176677376186",
+            "is_reply": false,
+            "kind": "post",
+            "reply_signal_eligible": false,
+            "created_at": "2026-08-13T09:46:26Z",
+            "text": "Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both)  \n\nSo I stopped covering them as much. But TLDR on  updates:\n\nEarly this year, IQE was a distressed but critical chokepoint in the optical supply chain with links to $LITE and others when I published my thesis on it.\n\nSince then:\n\n- $MTSI signed long term epiwafer supply agreements, took a stake in the company, now IQE is bank debt free (Macom has convertibles, but that's positive)\n- $TSEM signed agreements for InP epiwafers. \n- Management explicitly said its IQE agreement was signed to secure the \"strategic III-V epiwafer supply required for that roadmap\"\n- IQE signed another ~$14M mysterious AI DC contract. \n\nThe only part that's still playing out with my earlier thesis is IQE converting their latent/underutilized capacity toward AI DC segment, to match peers like Landmark in the space (which takes time, like slightly over a year if I remember correctly). \n\nThere's some national security implications that I'll avoid talking about that makes them more important.\n\nBut basically:\nFY2025 revenue: £97.3m\nFY2026 guidance: over £126.5m\n\nThey're rapidly growing again in the optical sector, out of bank debt/distressed liquidation state, and remains a critical chokepoint in Western optical supply chains. \n\nNow... with new agreements with your leading photonics companies for revenue growth, and players like Macom serving as a soft backstop.  \n\nAfter a thesis gets validated, typically I just sit back and enjoy growth of a business.",
+            "url": "https://x.com/aleabitoreddit/status/2087838176677376186",
+            "sentiment": "Bullish",
+            "importance": 5,
+            "thesis_change": "INSUFFICIENT_HISTORY",
+            "summary_zh": "作者指出其於今年二月提出關於 IQE 的投資論點已獲得驗證。IQE 從面臨債務危機的困境轉變為轉虧為盈，透過與 MACOM（$MTSI）及高塔半導體（$TSEM）簽署長期外延片（epiwafer）供應協議，已徹底清償銀行債務。隨著產能逐步轉向 AI 資料中心（DC）領域，且 2026 財年營收指引超過 1.265 億英鎊，IQE 再次鞏固其作為西方光學供應鏈關鍵瓶頸的地位。",
+            "plain_zh": "IQE 之前是一家瀕臨財務危機但掌握關鍵技術的晶圓外延片供應商。今年以來，公司獲得了 MACOM 入股及長期訂單，擺脫了銀行債務，並與高塔半導體等大廠簽約，鎖定 AI 與光子學所需的關鍵化合物半導體（III-V 族）產能。隨著產能調整至 AI 資料中心領域，公司的營運轉危為安並進入快速成長期。",
+            "core_thesis": "IQE 已走出財務危機並完成債務清償，作為西方光通訊與 AI 資料中心供應鏈中的關鍵 III-V 族外延片瓶頸，其投資論點已獲成功驗證。",
+            "why_it_matters": "IQE 成功清償銀行債務並與 MACOM、TSEM 等業界領頭羊達成長期合作，確保了西方國家在光子學與 AI 關鍵材料上的自主供應，且未來的營收指引大幅成長（2026財年預計超過 1.265 億英鎊）。",
+            "history_note": "雖然作者提及今年二月曾發布論點，但系統無資料庫歷史貼文可供比對，故列為歷史資料不足。就本篇內容而言，作者強烈肯定先前論點已被驗證。",
+            "catalysts": [
+              "與 MACOM（$MTSI）及高塔半導體（$TSEM）簽署長期外延片供應協議",
+              "簽署價值約 1,400 萬美元的神秘 AI 資料中心合約",
+              "產能轉向 AI 資料中心領域（預計需時一年多）"
+            ],
+            "risks": [
+              "將閒置/未充分利用的產能轉換至 AI 資料中心領域需要時間（超過一年）",
+              "MACOM 持有可轉換債券可能帶來的股本稀釋效果"
+            ],
+            "confidence": 95,
+            "ai_status": "ok",
+            "favorite_count": 484,
+            "retweet_count": 22
           }
         ]
       }
     ],
     "excluded_days": 38,
     "summary": {
-      "signals": 50,
+      "signals": 51,
       "horizons": {
         "1d": {
-          "sample": 49,
-          "avg_score_return": 0.14,
-          "hit_rate": 40.8
+          "sample": 50,
+          "avg_score_return": 0.03,
+          "hit_rate": 40.0
         },
         "7d": {
           "sample": 46,
@@ -13721,9 +13874,9 @@
           "hit_rate": 39.0
         },
         "now": {
-          "sample": 50,
-          "avg_score_return": 8.69,
-          "hit_rate": 68.0
+          "sample": 51,
+          "avg_score_return": 4.54,
+          "hit_rate": 62.7
         }
       }
     },
@@ -13732,6 +13885,36 @@
     "include_replies": false
   },
   "primary_posts": [
+    {
+      "tweet_id": "2087838176677376186",
+      "is_reply": false,
+      "kind": "post",
+      "reply_signal_eligible": false,
+      "created_at": "2026-08-13T09:46:26Z",
+      "text": "Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both)  \n\nSo I stopped covering them as much. But TLDR on  updates:\n\nEarly this year, IQE was a distressed but critical chokepoint in the optical supply chain with links to $LITE and others when I published my thesis on it.\n\nSince then:\n\n- $MTSI signed long term epiwafer supply agreements, took a stake in the company, now IQE is bank debt free (Macom has convertibles, but that's positive)\n- $TSEM signed agreements for InP epiwafers. \n- Management explicitly said its IQE agreement was signed to secure the \"strategic III-V epiwafer supply required for that roadmap\"\n- IQE signed another ~$14M mysterious AI DC contract. \n\nThe only part that's still playing out with my earlier thesis is IQE converting their latent/underutilized capacity toward AI DC segment, to match peers like Landmark in the space (which takes time, like slightly over a year if I remember correctly). \n\nThere's some national security implications that I'll avoid talking about that makes them more important.\n\nBut basically:\nFY2025 revenue: £97.3m\nFY2026 guidance: over £126.5m\n\nThey're rapidly growing again in the optical sector, out of bank debt/distressed liquidation state, and remains a critical chokepoint in Western optical supply chains. \n\nNow... with new agreements with your leading photonics companies for revenue growth, and players like Macom serving as a soft backstop.  \n\nAfter a thesis gets validated, typically I just sit back and enjoy growth of a business.",
+      "url": "https://x.com/aleabitoreddit/status/2087838176677376186",
+      "sentiment": "Bullish",
+      "importance": 5,
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "summary_zh": "作者指出其於今年二月提出關於 IQE 的投資論點已獲得驗證。IQE 從面臨債務危機的困境轉變為轉虧為盈，透過與 MACOM（$MTSI）及高塔半導體（$TSEM）簽署長期外延片（epiwafer）供應協議，已徹底清償銀行債務。隨著產能逐步轉向 AI 資料中心（DC）領域，且 2026 財年營收指引超過 1.265 億英鎊，IQE 再次鞏固其作為西方光學供應鏈關鍵瓶頸的地位。",
+      "plain_zh": "IQE 之前是一家瀕臨財務危機但掌握關鍵技術的晶圓外延片供應商。今年以來，公司獲得了 MACOM 入股及長期訂單，擺脫了銀行債務，並與高塔半導體等大廠簽約，鎖定 AI 與光子學所需的關鍵化合物半導體（III-V 族）產能。隨著產能調整至 AI 資料中心領域，公司的營運轉危為安並進入快速成長期。",
+      "core_thesis": "IQE 已走出財務危機並完成債務清償，作為西方光通訊與 AI 資料中心供應鏈中的關鍵 III-V 族外延片瓶頸，其投資論點已獲成功驗證。",
+      "why_it_matters": "IQE 成功清償銀行債務並與 MACOM、TSEM 等業界領頭羊達成長期合作，確保了西方國家在光子學與 AI 關鍵材料上的自主供應，且未來的營收指引大幅成長（2026財年預計超過 1.265 億英鎊）。",
+      "history_note": "雖然作者提及今年二月曾發布論點，但系統無資料庫歷史貼文可供比對，故列為歷史資料不足。就本篇內容而言，作者強烈肯定先前論點已被驗證。",
+      "catalysts": [
+        "與 MACOM（$MTSI）及高塔半導體（$TSEM）簽署長期外延片供應協議",
+        "簽署價值約 1,400 萬美元的神秘 AI 資料中心合約",
+        "產能轉向 AI 資料中心領域（預計需時一年多）"
+      ],
+      "risks": [
+        "將閒置/未充分利用的產能轉換至 AI 資料中心領域需要時間（超過一年）",
+        "MACOM 持有可轉換債券可能帶來的股本稀釋效果"
+      ],
+      "confidence": 95,
+      "ai_status": "ok",
+      "favorite_count": 484,
+      "retweet_count": 22
+    },
     {
       "tweet_id": "2087675367595380783",
       "is_reply": false,
@@ -13759,8 +13942,8 @@
       ],
       "confidence": 90,
       "ai_status": "ok",
-      "favorite_count": 761,
-      "retweet_count": 52
+      "favorite_count": 881,
+      "retweet_count": 70
     },
     {
       "tweet_id": "2087447527595692180",
@@ -13789,7 +13972,7 @@
       ],
       "confidence": 90,
       "ai_status": "ok",
-      "favorite_count": 1340,
+      "favorite_count": 1372,
       "retweet_count": 95
     },
     {
@@ -13820,7 +14003,7 @@
       ],
       "confidence": 90,
       "ai_status": "ok",
-      "favorite_count": 883,
+      "favorite_count": 888,
       "retweet_count": 73
     },
     {
@@ -13847,7 +14030,7 @@
       "risks": [],
       "confidence": 95,
       "ai_status": "ok",
-      "favorite_count": 2108,
+      "favorite_count": 2124,
       "retweet_count": 136
     },
     {
@@ -13877,8 +14060,8 @@
       ],
       "confidence": 95,
       "ai_status": "ok",
-      "favorite_count": 1436,
-      "retweet_count": 96
+      "favorite_count": 1439,
+      "retweet_count": 95
     },
     {
       "tweet_id": "2086730782425727183",
@@ -15637,29 +15820,6 @@
       "ai_status": "",
       "favorite_count": 1490,
       "retweet_count": 45
-    },
-    {
-      "tweet_id": "2055865012565254591",
-      "is_reply": false,
-      "kind": "post",
-      "reply_signal_eligible": false,
-      "created_at": "2026-05-17T04:16:29Z",
-      "text": "I'm not sure why people look at 13F filings so deeply when all the hedge funds are super behind on names like $JBL, $LITE and others.\n\nThe most returns come from frontrunning institutions before they figure out the next $SNDK.\n\nNot following them 3 months after they file.",
-      "url": "https://x.com/aleabitoreddit/status/2055865012565254591",
-      "sentiment": "Neutral",
-      "importance": 3,
-      "thesis_change": "MENTION",
-      "summary_zh": "",
-      "plain_zh": "",
-      "core_thesis": "",
-      "why_it_matters": "",
-      "history_note": "",
-      "catalysts": [],
-      "risks": [],
-      "confidence": 0,
-      "ai_status": "",
-      "favorite_count": 1971,
-      "retweet_count": 47
     }
   ],
   "reply_context": [

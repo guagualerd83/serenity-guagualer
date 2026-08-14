@@ -1,18 +1,19 @@
 {
-  "generated_at": "2026-08-13T07:47:06.186514Z",
+  "generated_at": "2026-08-14T02:08:28.533136Z",
   "symbol": "SPCX",
   "summary": {
-    "primary_count": 27,
+    "primary_count": 28,
     "reply_count": 7,
     "first_mentioned_at": "2026-05-25T17:49:06Z",
-    "last_mentioned_at": "2026-08-13T07:44:59Z",
-    "latest_sentiment": "Bullish",
-    "latest_thesis": "Sivers 與 SemiNex 合作開發 CPO 雷射元件，透過前期合作降低技術驗證風險，為 2027 年下半年的 CPO 量產時程做準備。",
-    "latest_change": "NEW",
+    "last_mentioned_at": "2026-08-13T11:43:50Z",
+    "latest_sentiment": "Mixed",
+    "latest_thesis": "AI 供應鏈與軟體公司迎來大規模 IPO 潮，但部分 LLM 獨角獸高估值與產品實力存在背離風險。",
+    "latest_change": "INSUFFICIENT_HISTORY",
     "sentiments": {
       "Neutral": 24,
       "Bearish": 1,
-      "Bullish": 9
+      "Bullish": 9,
+      "Mixed": 1
     }
   },
   "daily_stances": [
@@ -1078,8 +1079,8 @@
           ],
           "confidence": 90,
           "ai_status": "ok",
-          "favorite_count": 667,
-          "retweet_count": 46
+          "favorite_count": 674,
+          "retweet_count": 45
         }
       ]
     },
@@ -1090,12 +1091,12 @@
       "bull_count": 1,
       "bear_count": 0,
       "neutral_count": 0,
-      "mixed_count": 0,
-      "mention_count": 1,
+      "mixed_count": 1,
+      "mention_count": 2,
       "bull_weight": 2.55,
       "bear_weight": 0.0,
       "bull_share": 1.0,
-      "importance": 3,
+      "importance": 5,
       "confidence": 85,
       "thesis_change": "NEW",
       "core_thesis": "Sivers 與 SemiNex 合作開發 CPO 雷射元件，透過前期合作降低技術驗證風險，為 2027 年下半年的 CPO 量產時程做準備。",
@@ -1129,8 +1130,38 @@
           ],
           "confidence": 85,
           "ai_status": "ok",
-          "favorite_count": 50,
-          "retweet_count": 2
+          "favorite_count": 1074,
+          "retweet_count": 58
+        },
+        {
+          "tweet_id": "2087867722784805170",
+          "is_reply": false,
+          "kind": "post",
+          "reply_signal_eligible": false,
+          "created_at": "2026-08-13T11:43:50Z",
+          "text": "In IPO news… Vantage Data Centers is exploring going public at an enormous $100B valuation. \n\nIf you’re not familiar, $ORCL is their anchor tenant for Stargate (OpenAI end user), and Vantage develops/operates hyperscaler DCs.\n\nAnthropic IPO is also expected, with investors expecting $2T valuation, eclipsing $SPCX per FT.\n\nYeah… idk about Anthropic valuations. Jim Cramer defending that valuation is never a good sign. \n\nOn a side note, Opus 5 is probably the worst consumer LLM I’ve used to date, it’s like a 5 IQ LLM operating off terrible data retrieval. With a Fable-like God complex on top.\n\nEnterprise is probably having a better time though. \n\nUnitree IPO is also expected this month and priced it at a $9B valuation. Which is a positive tailwind for Unitree for the humanoid sectors. \n\nNot really an AI name but SHEIN is going public as soon as the 19th this month.\n\nGo ask any girl you know and they’re probably familiar with this platform.",
+          "url": "https://x.com/aleabitoreddit/status/2087867722784805170",
+          "sentiment": "Mixed",
+          "importance": 5,
+          "thesis_change": "INSUFFICIENT_HISTORY",
+          "summary_zh": "貼文指出 Vantage Data Centers 正在評估以高達 1000 億美元的估值上市，其為 Oracle 的超大型資料中心開發營運商，背後涉及 OpenAI 的 Stargate 計畫。此外，Anthropic 與人形機器人公司 Unitree 及快時尚平台 SHEIN 也均有上市傳聞或計畫。然而，作者對 Anthropic 高達 2 兆美元的估值持懷疑態度，並批評其 Opus 5 模型在消費端的表現極差。",
+          "plain_zh": "這篇貼文主要在整理近期市場上的重大 IPO（首次公開發行）傳聞與進展。資料中心大廠 Vantage 傳出將以千億美元估值上市；Anthropic 傳出估值高達兩兆美元，但作者覺得估值太誇張且模型表現不好；人形機器人業者宇樹科技（Unitree）與知名快時尚電商 SHEIN 也都有上市消息。",
+          "core_thesis": "AI 供應鏈與軟體公司迎來大規模 IPO 潮，但部分 LLM 獨角獸高估值與產品實力存在背離風險。",
+          "why_it_matters": "Vantage 的上市反映出 AI 基礎建設（超大型資料中心）龐大的資本需求與極高的市場估值。同時，市場對 Anthropic 的超高估值與作者體驗到的模型實際表現形成強烈對比，提醒投資人留意 AI 泡沫與估值過高的風險。",
+          "history_note": "由於沒有歷史貼文可供比對，無法評估觀點演進歷史。",
+          "catalysts": [
+            "Vantage Data Centers 評估以 1000 億美元估值進行 IPO",
+            "Unitree（宇樹科技）預計本月 IPO，估值為 90 億美元",
+            "SHEIN 最快於本月 19 日進行 IPO"
+          ],
+          "risks": [
+            "Anthropic 模型（Opus 5）消費端體驗不佳，產品力可能無法支撐高估值",
+            "AI 領域部分公司估值過高（如 Anthropic 2 兆美元估值），存在估值修正風險"
+          ],
+          "confidence": 85,
+          "ai_status": "ok",
+          "favorite_count": 560,
+          "retweet_count": 32
         }
       ]
     }
@@ -1314,6 +1345,10 @@
         {
           "date": "2026-08-12",
           "close": 146.15
+        },
+        {
+          "date": "2026-08-13",
+          "close": 141.29
         }
       ]
     },
@@ -1352,10 +1387,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -9.2,
-            "score_return": 9.2,
-            "exit_date": "2026-08-12",
-            "exit_price": 146.15,
+            "raw_return": -12.21,
+            "score_return": 12.21,
+            "exit_date": "2026-08-13",
+            "exit_price": 141.29,
             "hit": true
           }
         },
@@ -1399,10 +1434,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -24.08,
-            "score_return": -24.08,
-            "exit_date": "2026-08-12",
-            "exit_price": 146.15,
+            "raw_return": -26.6,
+            "score_return": -26.6,
+            "exit_date": "2026-08-13",
+            "exit_price": 141.29,
             "hit": false
           }
         },
@@ -1446,10 +1481,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -30.86,
-            "score_return": -30.86,
-            "exit_date": "2026-08-12",
-            "exit_price": 146.15,
+            "raw_return": -33.16,
+            "score_return": -33.16,
+            "exit_date": "2026-08-13",
+            "exit_price": 141.29,
             "hit": false
           }
         },
@@ -1493,10 +1528,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -5.47,
-            "score_return": -5.47,
-            "exit_date": "2026-08-12",
-            "exit_price": 146.15,
+            "raw_return": -8.61,
+            "score_return": -8.61,
+            "exit_date": "2026-08-13",
+            "exit_price": 141.29,
             "hit": false
           }
         },
@@ -1540,10 +1575,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -2.22,
-            "score_return": -2.22,
-            "exit_date": "2026-08-12",
-            "exit_price": 146.15,
+            "raw_return": -5.47,
+            "score_return": -5.47,
+            "exit_date": "2026-08-13",
+            "exit_price": 141.29,
             "hit": false
           }
         },
@@ -1580,17 +1615,17 @@
             "hit": false
           },
           "30d": {
-            "raw_return": null,
-            "score_return": null,
-            "exit_date": null,
-            "exit_price": null,
-            "hit": null
+            "raw_return": 3.83,
+            "score_return": 3.83,
+            "exit_date": "2026-08-13",
+            "exit_price": 141.29,
+            "hit": true
           },
           "now": {
-            "raw_return": 7.4,
-            "score_return": 7.4,
-            "exit_date": "2026-08-12",
-            "exit_price": 146.15,
+            "raw_return": 3.83,
+            "score_return": 3.83,
+            "exit_date": "2026-08-13",
+            "exit_price": 141.29,
             "hit": true
           }
         },
@@ -1634,10 +1669,10 @@
             "hit": null
           },
           "now": {
-            "raw_return": 26.8,
-            "score_return": 26.8,
-            "exit_date": "2026-08-12",
-            "exit_price": 146.15,
+            "raw_return": 22.58,
+            "score_return": 22.58,
+            "exit_date": "2026-08-13",
+            "exit_price": 141.29,
             "hit": true
           }
         },
@@ -1681,10 +1716,10 @@
             "hit": null
           },
           "now": {
-            "raw_return": 5.34,
-            "score_return": 5.34,
-            "exit_date": "2026-08-12",
-            "exit_price": 146.15,
+            "raw_return": 1.84,
+            "score_return": 1.84,
+            "exit_date": "2026-08-13",
+            "exit_price": 141.29,
             "hit": true
           }
         },
@@ -1728,14 +1763,61 @@
             "hit": null
           },
           "now": {
-            "raw_return": 9.65,
-            "score_return": 9.65,
-            "exit_date": "2026-08-12",
-            "exit_price": 146.15,
+            "raw_return": 6.0,
+            "score_return": 6.0,
+            "exit_date": "2026-08-13",
+            "exit_price": 141.29,
             "hit": true
           }
         },
         "mention_count": 1,
+        "bull_count": 1,
+        "bear_count": 0,
+        "neutral_count": 0,
+        "bull_share": 1.0
+      },
+      {
+        "date": "2026-08-13",
+        "created_at": "2026-08-13T07:44:59Z",
+        "url": "https://x.com/aleabitoreddit/status/2087807614172488131",
+        "sentiment": "Bullish",
+        "confidence": 85,
+        "importance": 5,
+        "thesis_change": "NEW",
+        "core_thesis": "Sivers 與 SemiNex 合作開發 CPO 雷射元件，透過前期合作降低技術驗證風險，為 2027 年下半年的 CPO 量產時程做準備。",
+        "entry_date": "2026-08-13",
+        "entry_price": 141.29,
+        "returns": {
+          "1d": {
+            "raw_return": null,
+            "score_return": null,
+            "exit_date": null,
+            "exit_price": null,
+            "hit": null
+          },
+          "7d": {
+            "raw_return": null,
+            "score_return": null,
+            "exit_date": null,
+            "exit_price": null,
+            "hit": null
+          },
+          "30d": {
+            "raw_return": null,
+            "score_return": null,
+            "exit_date": null,
+            "exit_price": null,
+            "hit": null
+          },
+          "now": {
+            "raw_return": 0.0,
+            "score_return": 0.0,
+            "exit_date": "2026-08-13",
+            "exit_price": 141.29,
+            "hit": false
+          }
+        },
+        "mention_count": 2,
         "bull_count": 1,
         "bear_count": 0,
         "neutral_count": 0,
@@ -2805,8 +2887,8 @@
             ],
             "confidence": 90,
             "ai_status": "ok",
-            "favorite_count": 667,
-            "retweet_count": 46
+            "favorite_count": 674,
+            "retweet_count": 45
           }
         ]
       },
@@ -2817,12 +2899,12 @@
         "bull_count": 1,
         "bear_count": 0,
         "neutral_count": 0,
-        "mixed_count": 0,
-        "mention_count": 1,
+        "mixed_count": 1,
+        "mention_count": 2,
         "bull_weight": 2.55,
         "bear_weight": 0.0,
         "bull_share": 1.0,
-        "importance": 3,
+        "importance": 5,
         "confidence": 85,
         "thesis_change": "NEW",
         "core_thesis": "Sivers 與 SemiNex 合作開發 CPO 雷射元件，透過前期合作降低技術驗證風險，為 2027 年下半年的 CPO 量產時程做準備。",
@@ -2856,15 +2938,45 @@
             ],
             "confidence": 85,
             "ai_status": "ok",
-            "favorite_count": 50,
-            "retweet_count": 2
+            "favorite_count": 1074,
+            "retweet_count": 58
+          },
+          {
+            "tweet_id": "2087867722784805170",
+            "is_reply": false,
+            "kind": "post",
+            "reply_signal_eligible": false,
+            "created_at": "2026-08-13T11:43:50Z",
+            "text": "In IPO news… Vantage Data Centers is exploring going public at an enormous $100B valuation. \n\nIf you’re not familiar, $ORCL is their anchor tenant for Stargate (OpenAI end user), and Vantage develops/operates hyperscaler DCs.\n\nAnthropic IPO is also expected, with investors expecting $2T valuation, eclipsing $SPCX per FT.\n\nYeah… idk about Anthropic valuations. Jim Cramer defending that valuation is never a good sign. \n\nOn a side note, Opus 5 is probably the worst consumer LLM I’ve used to date, it’s like a 5 IQ LLM operating off terrible data retrieval. With a Fable-like God complex on top.\n\nEnterprise is probably having a better time though. \n\nUnitree IPO is also expected this month and priced it at a $9B valuation. Which is a positive tailwind for Unitree for the humanoid sectors. \n\nNot really an AI name but SHEIN is going public as soon as the 19th this month.\n\nGo ask any girl you know and they’re probably familiar with this platform.",
+            "url": "https://x.com/aleabitoreddit/status/2087867722784805170",
+            "sentiment": "Mixed",
+            "importance": 5,
+            "thesis_change": "INSUFFICIENT_HISTORY",
+            "summary_zh": "貼文指出 Vantage Data Centers 正在評估以高達 1000 億美元的估值上市，其為 Oracle 的超大型資料中心開發營運商，背後涉及 OpenAI 的 Stargate 計畫。此外，Anthropic 與人形機器人公司 Unitree 及快時尚平台 SHEIN 也均有上市傳聞或計畫。然而，作者對 Anthropic 高達 2 兆美元的估值持懷疑態度，並批評其 Opus 5 模型在消費端的表現極差。",
+            "plain_zh": "這篇貼文主要在整理近期市場上的重大 IPO（首次公開發行）傳聞與進展。資料中心大廠 Vantage 傳出將以千億美元估值上市；Anthropic 傳出估值高達兩兆美元，但作者覺得估值太誇張且模型表現不好；人形機器人業者宇樹科技（Unitree）與知名快時尚電商 SHEIN 也都有上市消息。",
+            "core_thesis": "AI 供應鏈與軟體公司迎來大規模 IPO 潮，但部分 LLM 獨角獸高估值與產品實力存在背離風險。",
+            "why_it_matters": "Vantage 的上市反映出 AI 基礎建設（超大型資料中心）龐大的資本需求與極高的市場估值。同時，市場對 Anthropic 的超高估值與作者體驗到的模型實際表現形成強烈對比，提醒投資人留意 AI 泡沫與估值過高的風險。",
+            "history_note": "由於沒有歷史貼文可供比對，無法評估觀點演進歷史。",
+            "catalysts": [
+              "Vantage Data Centers 評估以 1000 億美元估值進行 IPO",
+              "Unitree（宇樹科技）預計本月 IPO，估值為 90 億美元",
+              "SHEIN 最快於本月 19 日進行 IPO"
+            ],
+            "risks": [
+              "Anthropic 模型（Opus 5）消費端體驗不佳，產品力可能無法支撐高估值",
+              "AI 領域部分公司估值過高（如 Anthropic 2 兆美元估值），存在估值修正風險"
+            ],
+            "confidence": 85,
+            "ai_status": "ok",
+            "favorite_count": 560,
+            "retweet_count": 32
           }
         ]
       }
     ],
     "excluded_days": 13,
     "summary": {
-      "signals": 9,
+      "signals": 10,
       "horizons": {
         "1d": {
           "sample": 9,
@@ -2877,14 +2989,14 @@
           "hit_rate": 28.6
         },
         "30d": {
-          "sample": 5,
-          "avg_score_return": -20.55,
-          "hit_rate": 20.0
+          "sample": 6,
+          "avg_score_return": -16.48,
+          "hit_rate": 33.3
         },
         "now": {
-          "sample": 9,
-          "avg_score_return": -0.47,
-          "hit_rate": 55.6
+          "sample": 10,
+          "avg_score_return": -2.74,
+          "hit_rate": 50.0
         }
       }
     },
@@ -2893,6 +3005,36 @@
     "include_replies": false
   },
   "primary_posts": [
+    {
+      "tweet_id": "2087867722784805170",
+      "is_reply": false,
+      "kind": "post",
+      "reply_signal_eligible": false,
+      "created_at": "2026-08-13T11:43:50Z",
+      "text": "In IPO news… Vantage Data Centers is exploring going public at an enormous $100B valuation. \n\nIf you’re not familiar, $ORCL is their anchor tenant for Stargate (OpenAI end user), and Vantage develops/operates hyperscaler DCs.\n\nAnthropic IPO is also expected, with investors expecting $2T valuation, eclipsing $SPCX per FT.\n\nYeah… idk about Anthropic valuations. Jim Cramer defending that valuation is never a good sign. \n\nOn a side note, Opus 5 is probably the worst consumer LLM I’ve used to date, it’s like a 5 IQ LLM operating off terrible data retrieval. With a Fable-like God complex on top.\n\nEnterprise is probably having a better time though. \n\nUnitree IPO is also expected this month and priced it at a $9B valuation. Which is a positive tailwind for Unitree for the humanoid sectors. \n\nNot really an AI name but SHEIN is going public as soon as the 19th this month.\n\nGo ask any girl you know and they’re probably familiar with this platform.",
+      "url": "https://x.com/aleabitoreddit/status/2087867722784805170",
+      "sentiment": "Mixed",
+      "importance": 5,
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "summary_zh": "貼文指出 Vantage Data Centers 正在評估以高達 1000 億美元的估值上市，其為 Oracle 的超大型資料中心開發營運商，背後涉及 OpenAI 的 Stargate 計畫。此外，Anthropic 與人形機器人公司 Unitree 及快時尚平台 SHEIN 也均有上市傳聞或計畫。然而，作者對 Anthropic 高達 2 兆美元的估值持懷疑態度，並批評其 Opus 5 模型在消費端的表現極差。",
+      "plain_zh": "這篇貼文主要在整理近期市場上的重大 IPO（首次公開發行）傳聞與進展。資料中心大廠 Vantage 傳出將以千億美元估值上市；Anthropic 傳出估值高達兩兆美元，但作者覺得估值太誇張且模型表現不好；人形機器人業者宇樹科技（Unitree）與知名快時尚電商 SHEIN 也都有上市消息。",
+      "core_thesis": "AI 供應鏈與軟體公司迎來大規模 IPO 潮，但部分 LLM 獨角獸高估值與產品實力存在背離風險。",
+      "why_it_matters": "Vantage 的上市反映出 AI 基礎建設（超大型資料中心）龐大的資本需求與極高的市場估值。同時，市場對 Anthropic 的超高估值與作者體驗到的模型實際表現形成強烈對比，提醒投資人留意 AI 泡沫與估值過高的風險。",
+      "history_note": "由於沒有歷史貼文可供比對，無法評估觀點演進歷史。",
+      "catalysts": [
+        "Vantage Data Centers 評估以 1000 億美元估值進行 IPO",
+        "Unitree（宇樹科技）預計本月 IPO，估值為 90 億美元",
+        "SHEIN 最快於本月 19 日進行 IPO"
+      ],
+      "risks": [
+        "Anthropic 模型（Opus 5）消費端體驗不佳，產品力可能無法支撐高估值",
+        "AI 領域部分公司估值過高（如 Anthropic 2 兆美元估值），存在估值修正風險"
+      ],
+      "confidence": 85,
+      "ai_status": "ok",
+      "favorite_count": 560,
+      "retweet_count": 32
+    },
     {
       "tweet_id": "2087807614172488131",
       "is_reply": false,
@@ -2920,8 +3062,8 @@
       ],
       "confidence": 85,
       "ai_status": "ok",
-      "favorite_count": 50,
-      "retweet_count": 2
+      "favorite_count": 1074,
+      "retweet_count": 58
     },
     {
       "tweet_id": "2087280662802026931",
@@ -2950,8 +3092,8 @@
       ],
       "confidence": 90,
       "ai_status": "ok",
-      "favorite_count": 667,
-      "retweet_count": 46
+      "favorite_count": 674,
+      "retweet_count": 45
     },
     {
       "tweet_id": "2086148557187461412",

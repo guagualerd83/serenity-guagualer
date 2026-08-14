@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-13T07:47:06.186514Z",
+  "generated_at": "2026-08-14T02:08:28.533136Z",
   "symbol": "AAOI",
   "summary": {
-    "primary_count": 113,
+    "primary_count": 114,
     "reply_count": 79,
     "first_mentioned_at": "2025-12-11T22:10:45Z",
-    "last_mentioned_at": "2026-08-12T22:59:29Z",
+    "last_mentioned_at": "2026-08-13T10:17:49Z",
     "latest_sentiment": "Bullish",
-    "latest_thesis": "InP CW 雷射晶片成為光通訊與 CPO 供應鏈的最核心瓶頸，垂直整合大廠自用產能鎖死外售，外購 CW 雷射供應商獲得巨大定價權與訂單能見度。",
+    "latest_thesis": "POET 手握充沛現金且產能規劃雄厚，儘管目前缺乏明確訂單且護城河較弱，仍是一項具備非對稱向上潛力的期權型投資。",
     "latest_change": "INSUFFICIENT_HISTORY",
     "sentiments": {
       "Neutral": 121,
-      "Bullish": 61,
+      "Bullish": 62,
       "Bearish": 10
     }
   },
@@ -4136,7 +4136,7 @@
           ],
           "confidence": 90,
           "ai_status": "ok",
-          "favorite_count": 1265,
+          "favorite_count": 1282,
           "retweet_count": 75
         }
       ]
@@ -4188,7 +4188,7 @@
           ],
           "confidence": 90,
           "ai_status": "ok",
-          "favorite_count": 883,
+          "favorite_count": 888,
           "retweet_count": 73
         },
         {
@@ -4218,7 +4218,7 @@
           ],
           "confidence": 90,
           "ai_status": "ok",
-          "favorite_count": 1340,
+          "favorite_count": 1372,
           "retweet_count": 95
         },
         {
@@ -4248,8 +4248,60 @@
           ],
           "confidence": 90,
           "ai_status": "ok",
-          "favorite_count": 761,
-          "retweet_count": 52
+          "favorite_count": 881,
+          "retweet_count": 70
+        }
+      ]
+    },
+    {
+      "date": "2026-08-13",
+      "created_at": "2026-08-13T10:17:49Z",
+      "sentiment": "Bullish",
+      "bull_count": 1,
+      "bear_count": 0,
+      "neutral_count": 0,
+      "mixed_count": 0,
+      "mention_count": 1,
+      "bull_weight": 3.2,
+      "bear_weight": 0.0,
+      "bull_share": 1.0,
+      "importance": 4,
+      "confidence": 80,
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "core_thesis": "POET 手握充沛現金且產能規劃雄厚，儘管目前缺乏明確訂單且護城河較弱，仍是一項具備非對稱向上潛力的期權型投資。",
+      "url": "https://x.com/aleabitoreddit/status/2087846074027295020",
+      "tweet_id": "2087846074027295020",
+      "items": [
+        {
+          "tweet_id": "2087846074027295020",
+          "is_reply": false,
+          "kind": "post",
+          "reply_signal_eligible": false,
+          "created_at": "2026-08-13T10:17:49Z",
+          "text": "Okay here's my take on $POET, since apparently people are celebrating on the subreddit that I took small positions. \n\n- I have 0 idea. ZERO. How they convinced shareholders to allow them dilute SO MUCH to the point:\n\nThey have an absurd ~$830m cash on hand now. \n\nAnd my guess is that they're close to done, since I would be in disbelief if they needed more. \n\nSo now... they have ~$830m to grow their business like M&A, and EV actually dropped really low recently (eg. $1.25B MC vs. $830m cash on hand), that I thought it was compelling to take a risk. \n\n- Annualized production capacity target is 12M optical engines/year for 2027, which is pretty absurd ramp. \n\nNeed to do more research into ASP for Poet's products, but maybe $125-$200? So at ~$150 ASP, $1.8B revenue ceiling. \n\nBut they're like inverse AAOI right now: no visible demand to fill all that capacity. Aside from Lumilens, which is now a highly valued hyperscaler supplier (probably Amazon or Microsoft), with billions in customer agreements. \n\nThe interesting thing is if Poet signed prepayment EML agreements with players like Mitsubishi, or CW agreements with Sivers behind the scenes with that balance sheet. \n\nAnd given the current bottleneck, players might use Poet as a workaround for supply procurement. \n\nBut basically, you have a super cash-rich company with a ton of capacity coming online. And they're not really disappearing anytime soon with their financials. \n\nI don't quite think it's as technically defensible compared to upstream laser chokepoints with something like $SIVE around the same valuation in terms of technical moat for CW lasers vs. OE packaging side. As you've seen recently with Celestial and Poet. \n\nBut maybe... there's a chance some hyperscaler or downstream company announces a volume agreement sometime in the future. and $POET takes off. And they do have the supply chain setup for ramp with that.  \n\nThat's the risk I ended up taking, but it's not exactly a clear as day long for me like $AAOI.",
+          "url": "https://x.com/aleabitoreddit/status/2087846074027295020",
+          "sentiment": "Bullish",
+          "importance": 4,
+          "thesis_change": "INSUFFICIENT_HISTORY",
+          "summary_zh": "作者分析了 POET Technologies ($POET) 的投資機會，指出該公司透過大規模稀釋股權累積了高達 8.3 億美元的現金，且近期企業價值 (EV) 顯著下降。公司目標在 2027 年將光學引擎年產能擴充至 1,200 萬顆，若以平均售價 (ASP) 150 美元計算，營收天花板可達 18 億美元。然而，POET 目前面臨無明顯可見需求來填補產能的風險，技術護城河相較於上游 CW 激光龍頭 Sivers ($SIVE) 較弱，作者僅建立小額倉位，將其視為一項高風險高回報的選擇期權。",
+          "plain_zh": "POET 這家公司雖然之前大幅增資稀釋股東權益，但現在手握約 8.3 億美元的鉅額現金，且未來幾年產能規劃非常龐大。目前的缺點是還看不到足夠的大客戶訂單來消化這些產能，且技術護城河不如上游雷射元件廠（如 Sivers）。作者認為 POET 倒閉風險極低，若未來有超大型雲端服務商（Hyperscaler）宣布合作，股價就有爆發潛力，因此決定建立少量實驗性部位。",
+          "core_thesis": "POET 手握充沛現金且產能規劃雄厚，儘管目前缺乏明確訂單且護城河較弱，仍是一項具備非對稱向上潛力的期權型投資。",
+          "why_it_matters": "光通訊模組與光學引擎是當前 AI 算力基礎建設的主要瓶頸之一。POET 充沛的資金與產能擴張，可能使其成為下游客戶繞過傳統供應鏈瓶頸的替代方案。",
+          "history_note": "由於沒有該作者過去針對 $POET 的歷史貼文紀錄，無法比較觀點演變。",
+          "catalysts": [
+            "超大型雲端服務商 (Hyperscaler) 或下游大廠宣布與 POET 簽署大規模量產協議",
+            "透過強大資產負債表進行策略性 M&A（併購）推動業務成長",
+            "與 Mitsubishi 或 Sivers 等夥伴簽署預付款或 CW 雷射供應協議"
+          ],
+          "risks": [
+            "缺乏足夠的可見訂單需求以填補 2027 年 1,200 萬顆光學引擎的庞大產能",
+            "光學引擎封裝 (OE Packaging) 的技術護城河可能不如上游 CW 雷射元件（如 Sivers）堅固",
+            "過度股權稀釋對既存股東權益造成損害"
+          ],
+          "confidence": 80,
+          "ai_status": "ok",
+          "favorite_count": 616,
+          "retweet_count": 23
         }
       ]
     }
@@ -4945,6 +4997,10 @@
         {
           "date": "2026-08-12",
           "close": 138.08
+        },
+        {
+          "date": "2026-08-13",
+          "close": 130.08
         }
       ]
     },
@@ -4983,10 +5039,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 49.07,
-            "score_return": 49.07,
-            "exit_date": "2026-08-12",
-            "exit_price": 138.08,
+            "raw_return": 40.43,
+            "score_return": 40.43,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
             "hit": true
           }
         },
@@ -5030,10 +5086,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 28.51,
-            "score_return": 28.51,
-            "exit_date": "2026-08-12",
-            "exit_price": 138.08,
+            "raw_return": 21.06,
+            "score_return": 21.06,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
             "hit": true
           }
         },
@@ -5077,10 +5133,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -9.86,
-            "score_return": 9.86,
-            "exit_date": "2026-08-12",
-            "exit_price": 138.08,
+            "raw_return": -15.09,
+            "score_return": 15.09,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
             "hit": true
           }
         },
@@ -5124,10 +5180,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -5.68,
-            "score_return": -5.68,
-            "exit_date": "2026-08-12",
-            "exit_price": 138.08,
+            "raw_return": -11.14,
+            "score_return": -11.14,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
             "hit": false
           }
         },
@@ -5171,11 +5227,11 @@
             "hit": false
           },
           "now": {
-            "raw_return": 0.25,
-            "score_return": -0.25,
-            "exit_date": "2026-08-12",
-            "exit_price": 138.08,
-            "hit": false
+            "raw_return": -5.55,
+            "score_return": 5.55,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
+            "hit": true
           }
         },
         "mention_count": 1,
@@ -5218,10 +5274,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -14.85,
-            "score_return": 14.85,
-            "exit_date": "2026-08-12",
-            "exit_price": 138.08,
+            "raw_return": -19.79,
+            "score_return": 19.79,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
             "hit": true
           }
         },
@@ -5265,11 +5321,11 @@
             "hit": true
           },
           "now": {
-            "raw_return": 0.6,
-            "score_return": 0.6,
-            "exit_date": "2026-08-12",
-            "exit_price": 138.08,
-            "hit": true
+            "raw_return": -5.23,
+            "score_return": -5.23,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
+            "hit": false
           }
         },
         "mention_count": 2,
@@ -5312,10 +5368,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -9.65,
-            "score_return": -9.65,
-            "exit_date": "2026-08-12",
-            "exit_price": 138.08,
+            "raw_return": -14.89,
+            "score_return": -14.89,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
             "hit": false
           }
         },
@@ -5359,10 +5415,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -22.66,
-            "score_return": -22.66,
-            "exit_date": "2026-08-12",
-            "exit_price": 138.08,
+            "raw_return": -27.14,
+            "score_return": -27.14,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
             "hit": false
           }
         },
@@ -5406,10 +5462,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -12.36,
-            "score_return": -12.36,
-            "exit_date": "2026-08-12",
-            "exit_price": 138.08,
+            "raw_return": -17.44,
+            "score_return": -17.44,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
             "hit": false
           }
         },
@@ -5453,10 +5509,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -25.32,
-            "score_return": -25.32,
-            "exit_date": "2026-08-12",
-            "exit_price": 138.08,
+            "raw_return": -29.65,
+            "score_return": -29.65,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
             "hit": false
           }
         },
@@ -5500,10 +5556,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -38.11,
-            "score_return": -38.11,
-            "exit_date": "2026-08-12",
-            "exit_price": 138.08,
+            "raw_return": -41.69,
+            "score_return": -41.69,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
             "hit": false
           }
         },
@@ -5547,10 +5603,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -27.46,
-            "score_return": -27.46,
-            "exit_date": "2026-08-12",
-            "exit_price": 138.08,
+            "raw_return": -31.67,
+            "score_return": -31.67,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
             "hit": false
           }
         },
@@ -5594,10 +5650,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -20.3,
-            "score_return": 20.3,
-            "exit_date": "2026-08-12",
-            "exit_price": 138.08,
+            "raw_return": -24.92,
+            "score_return": 24.92,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
             "hit": true
           }
         },
@@ -5641,10 +5697,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -22.26,
-            "score_return": 22.26,
-            "exit_date": "2026-08-12",
-            "exit_price": 138.08,
+            "raw_return": -26.77,
+            "score_return": 26.77,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
             "hit": true
           }
         },
@@ -5688,10 +5744,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -23.22,
-            "score_return": -23.22,
-            "exit_date": "2026-08-12",
-            "exit_price": 138.08,
+            "raw_return": -27.67,
+            "score_return": -27.67,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
             "hit": false
           }
         },
@@ -5735,10 +5791,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -18.31,
-            "score_return": -18.31,
-            "exit_date": "2026-08-12",
-            "exit_price": 138.08,
+            "raw_return": -23.04,
+            "score_return": -23.04,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
             "hit": false
           }
         },
@@ -5782,10 +5838,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -25.63,
-            "score_return": -25.63,
-            "exit_date": "2026-08-12",
-            "exit_price": 138.08,
+            "raw_return": -29.94,
+            "score_return": -29.94,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
             "hit": false
           }
         },
@@ -5829,10 +5885,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -25.63,
-            "score_return": -25.63,
-            "exit_date": "2026-08-12",
-            "exit_price": 138.08,
+            "raw_return": -29.94,
+            "score_return": -29.94,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
             "hit": false
           }
         },
@@ -5876,10 +5932,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -21.99,
-            "score_return": -21.99,
-            "exit_date": "2026-08-12",
-            "exit_price": 138.08,
+            "raw_return": -26.51,
+            "score_return": -26.51,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
             "hit": false
           }
         },
@@ -5923,10 +5979,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -29.78,
-            "score_return": -29.78,
-            "exit_date": "2026-08-12",
-            "exit_price": 138.08,
+            "raw_return": -33.85,
+            "score_return": -33.85,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
             "hit": false
           }
         },
@@ -5970,10 +6026,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -15.23,
-            "score_return": -15.23,
-            "exit_date": "2026-08-12",
-            "exit_price": 138.08,
+            "raw_return": -20.14,
+            "score_return": -20.14,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
             "hit": false
           }
         },
@@ -6017,10 +6073,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -18.32,
-            "score_return": -18.32,
-            "exit_date": "2026-08-12",
-            "exit_price": 138.08,
+            "raw_return": -23.05,
+            "score_return": -23.05,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
             "hit": false
           }
         },
@@ -6064,10 +6120,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -27.91,
-            "score_return": -27.91,
-            "exit_date": "2026-08-12",
-            "exit_price": 138.08,
+            "raw_return": -32.09,
+            "score_return": -32.09,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
             "hit": false
           }
         },
@@ -6111,10 +6167,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -19.36,
-            "score_return": -19.36,
-            "exit_date": "2026-08-12",
-            "exit_price": 138.08,
+            "raw_return": -24.03,
+            "score_return": -24.03,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
             "hit": false
           }
         },
@@ -6158,10 +6214,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -6.35,
-            "score_return": 6.35,
-            "exit_date": "2026-08-12",
-            "exit_price": 138.08,
+            "raw_return": -11.77,
+            "score_return": 11.77,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
             "hit": true
           }
         },
@@ -6205,10 +6261,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -0.33,
-            "score_return": -0.33,
-            "exit_date": "2026-08-12",
-            "exit_price": 138.08,
+            "raw_return": -6.11,
+            "score_return": -6.11,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
             "hit": false
           }
         },
@@ -6252,10 +6308,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -8.01,
-            "score_return": -8.01,
-            "exit_date": "2026-08-12",
-            "exit_price": 138.08,
+            "raw_return": -13.34,
+            "score_return": -13.34,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
             "hit": false
           }
         },
@@ -6299,10 +6355,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": 14.16,
-            "score_return": 14.16,
-            "exit_date": "2026-08-12",
-            "exit_price": 138.08,
+            "raw_return": 7.55,
+            "score_return": 7.55,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
             "hit": true
           }
         },
@@ -6346,10 +6402,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 11.93,
-            "score_return": 11.93,
-            "exit_date": "2026-08-12",
-            "exit_price": 138.08,
+            "raw_return": 5.45,
+            "score_return": 5.45,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
             "hit": true
           }
         },
@@ -6393,10 +6449,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 15.14,
-            "score_return": 15.14,
-            "exit_date": "2026-08-12",
-            "exit_price": 138.08,
+            "raw_return": 8.47,
+            "score_return": 8.47,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
             "hit": true
           }
         },
@@ -6440,10 +6496,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 23.42,
-            "score_return": 23.42,
-            "exit_date": "2026-08-12",
-            "exit_price": 138.08,
+            "raw_return": 16.27,
+            "score_return": 16.27,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
             "hit": true
           }
         },
@@ -6487,10 +6543,10 @@
             "hit": null
           },
           "now": {
-            "raw_return": 34.83,
-            "score_return": 34.83,
-            "exit_date": "2026-08-12",
-            "exit_price": 138.08,
+            "raw_return": 27.02,
+            "score_return": 27.02,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
             "hit": true
           }
         },
@@ -6534,10 +6590,10 @@
             "hit": null
           },
           "now": {
-            "raw_return": 56.66,
-            "score_return": 56.66,
-            "exit_date": "2026-08-12",
-            "exit_price": 138.08,
+            "raw_return": 47.58,
+            "score_return": 47.58,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
             "hit": true
           }
         },
@@ -6567,11 +6623,11 @@
             "hit": true
           },
           "7d": {
-            "raw_return": null,
-            "score_return": null,
-            "exit_date": null,
-            "exit_price": null,
-            "hit": null
+            "raw_return": 4.72,
+            "score_return": 4.72,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
+            "hit": true
           },
           "30d": {
             "raw_return": null,
@@ -6581,10 +6637,10 @@
             "hit": null
           },
           "now": {
-            "raw_return": 11.16,
-            "score_return": 11.16,
-            "exit_date": "2026-08-12",
-            "exit_price": 138.08,
+            "raw_return": 4.72,
+            "score_return": 4.72,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
             "hit": true
           }
         },
@@ -6628,11 +6684,11 @@
             "hit": null
           },
           "now": {
-            "raw_return": 1.81,
-            "score_return": 1.81,
-            "exit_date": "2026-08-12",
-            "exit_price": 138.08,
-            "hit": true
+            "raw_return": -4.09,
+            "score_return": -4.09,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
+            "hit": false
           }
         },
         "mention_count": 3,
@@ -6675,11 +6731,11 @@
             "hit": null
           },
           "now": {
-            "raw_return": 3.97,
-            "score_return": 3.97,
-            "exit_date": "2026-08-12",
-            "exit_price": 138.08,
-            "hit": true
+            "raw_return": -2.06,
+            "score_return": -2.06,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
+            "hit": false
           }
         },
         "mention_count": 1,
@@ -6722,11 +6778,11 @@
             "hit": null
           },
           "now": {
-            "raw_return": 3.97,
-            "score_return": 3.97,
-            "exit_date": "2026-08-12",
-            "exit_price": 138.08,
-            "hit": true
+            "raw_return": -2.06,
+            "score_return": -2.06,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
+            "hit": false
           }
         },
         "mention_count": 2,
@@ -6769,11 +6825,11 @@
             "hit": null
           },
           "now": {
-            "raw_return": 2.79,
-            "score_return": 2.79,
-            "exit_date": "2026-08-12",
-            "exit_price": 138.08,
-            "hit": true
+            "raw_return": -3.16,
+            "score_return": -3.16,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
+            "hit": false
           }
         },
         "mention_count": 1,
@@ -6793,6 +6849,53 @@
         "core_thesis": "InP CW 雷射晶片成為光通訊與 CPO 供應鏈的最核心瓶頸，垂直整合大廠自用產能鎖死外售，外購 CW 雷射供應商獲得巨大定價權與訂單能見度。",
         "entry_date": "2026-08-12",
         "entry_price": 138.08,
+        "returns": {
+          "1d": {
+            "raw_return": -5.79,
+            "score_return": -5.79,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
+            "hit": false
+          },
+          "7d": {
+            "raw_return": null,
+            "score_return": null,
+            "exit_date": null,
+            "exit_price": null,
+            "hit": null
+          },
+          "30d": {
+            "raw_return": null,
+            "score_return": null,
+            "exit_date": null,
+            "exit_price": null,
+            "hit": null
+          },
+          "now": {
+            "raw_return": -5.79,
+            "score_return": -5.79,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
+            "hit": false
+          }
+        },
+        "mention_count": 3,
+        "bull_count": 3,
+        "bear_count": 0,
+        "neutral_count": 0,
+        "bull_share": 1.0
+      },
+      {
+        "date": "2026-08-13",
+        "created_at": "2026-08-13T10:17:49Z",
+        "url": "https://x.com/aleabitoreddit/status/2087846074027295020",
+        "sentiment": "Bullish",
+        "confidence": 80,
+        "importance": 4,
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "POET 手握充沛現金且產能規劃雄厚，儘管目前缺乏明確訂單且護城河較弱，仍是一項具備非對稱向上潛力的期權型投資。",
+        "entry_date": "2026-08-13",
+        "entry_price": 130.08,
         "returns": {
           "1d": {
             "raw_return": null,
@@ -6818,13 +6921,13 @@
           "now": {
             "raw_return": 0.0,
             "score_return": 0.0,
-            "exit_date": "2026-08-12",
-            "exit_price": 138.08,
+            "exit_date": "2026-08-13",
+            "exit_price": 130.08,
             "hit": false
           }
         },
-        "mention_count": 3,
-        "bull_count": 3,
+        "mention_count": 1,
+        "bull_count": 1,
         "bear_count": 0,
         "neutral_count": 0,
         "bull_share": 1.0
@@ -10951,7 +11054,7 @@
             ],
             "confidence": 90,
             "ai_status": "ok",
-            "favorite_count": 1265,
+            "favorite_count": 1282,
             "retweet_count": 75
           }
         ]
@@ -11003,7 +11106,7 @@
             ],
             "confidence": 90,
             "ai_status": "ok",
-            "favorite_count": 883,
+            "favorite_count": 888,
             "retweet_count": 73
           },
           {
@@ -11033,7 +11136,7 @@
             ],
             "confidence": 90,
             "ai_status": "ok",
-            "favorite_count": 1340,
+            "favorite_count": 1372,
             "retweet_count": 95
           },
           {
@@ -11063,25 +11166,77 @@
             ],
             "confidence": 90,
             "ai_status": "ok",
-            "favorite_count": 761,
-            "retweet_count": 52
+            "favorite_count": 881,
+            "retweet_count": 70
+          }
+        ]
+      },
+      {
+        "date": "2026-08-13",
+        "created_at": "2026-08-13T10:17:49Z",
+        "sentiment": "Bullish",
+        "bull_count": 1,
+        "bear_count": 0,
+        "neutral_count": 0,
+        "mixed_count": 0,
+        "mention_count": 1,
+        "bull_weight": 3.2,
+        "bear_weight": 0.0,
+        "bull_share": 1.0,
+        "importance": 4,
+        "confidence": 80,
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "POET 手握充沛現金且產能規劃雄厚，儘管目前缺乏明確訂單且護城河較弱，仍是一項具備非對稱向上潛力的期權型投資。",
+        "url": "https://x.com/aleabitoreddit/status/2087846074027295020",
+        "tweet_id": "2087846074027295020",
+        "items": [
+          {
+            "tweet_id": "2087846074027295020",
+            "is_reply": false,
+            "kind": "post",
+            "reply_signal_eligible": false,
+            "created_at": "2026-08-13T10:17:49Z",
+            "text": "Okay here's my take on $POET, since apparently people are celebrating on the subreddit that I took small positions. \n\n- I have 0 idea. ZERO. How they convinced shareholders to allow them dilute SO MUCH to the point:\n\nThey have an absurd ~$830m cash on hand now. \n\nAnd my guess is that they're close to done, since I would be in disbelief if they needed more. \n\nSo now... they have ~$830m to grow their business like M&A, and EV actually dropped really low recently (eg. $1.25B MC vs. $830m cash on hand), that I thought it was compelling to take a risk. \n\n- Annualized production capacity target is 12M optical engines/year for 2027, which is pretty absurd ramp. \n\nNeed to do more research into ASP for Poet's products, but maybe $125-$200? So at ~$150 ASP, $1.8B revenue ceiling. \n\nBut they're like inverse AAOI right now: no visible demand to fill all that capacity. Aside from Lumilens, which is now a highly valued hyperscaler supplier (probably Amazon or Microsoft), with billions in customer agreements. \n\nThe interesting thing is if Poet signed prepayment EML agreements with players like Mitsubishi, or CW agreements with Sivers behind the scenes with that balance sheet. \n\nAnd given the current bottleneck, players might use Poet as a workaround for supply procurement. \n\nBut basically, you have a super cash-rich company with a ton of capacity coming online. And they're not really disappearing anytime soon with their financials. \n\nI don't quite think it's as technically defensible compared to upstream laser chokepoints with something like $SIVE around the same valuation in terms of technical moat for CW lasers vs. OE packaging side. As you've seen recently with Celestial and Poet. \n\nBut maybe... there's a chance some hyperscaler or downstream company announces a volume agreement sometime in the future. and $POET takes off. And they do have the supply chain setup for ramp with that.  \n\nThat's the risk I ended up taking, but it's not exactly a clear as day long for me like $AAOI.",
+            "url": "https://x.com/aleabitoreddit/status/2087846074027295020",
+            "sentiment": "Bullish",
+            "importance": 4,
+            "thesis_change": "INSUFFICIENT_HISTORY",
+            "summary_zh": "作者分析了 POET Technologies ($POET) 的投資機會，指出該公司透過大規模稀釋股權累積了高達 8.3 億美元的現金，且近期企業價值 (EV) 顯著下降。公司目標在 2027 年將光學引擎年產能擴充至 1,200 萬顆，若以平均售價 (ASP) 150 美元計算，營收天花板可達 18 億美元。然而，POET 目前面臨無明顯可見需求來填補產能的風險，技術護城河相較於上游 CW 激光龍頭 Sivers ($SIVE) 較弱，作者僅建立小額倉位，將其視為一項高風險高回報的選擇期權。",
+            "plain_zh": "POET 這家公司雖然之前大幅增資稀釋股東權益，但現在手握約 8.3 億美元的鉅額現金，且未來幾年產能規劃非常龐大。目前的缺點是還看不到足夠的大客戶訂單來消化這些產能，且技術護城河不如上游雷射元件廠（如 Sivers）。作者認為 POET 倒閉風險極低，若未來有超大型雲端服務商（Hyperscaler）宣布合作，股價就有爆發潛力，因此決定建立少量實驗性部位。",
+            "core_thesis": "POET 手握充沛現金且產能規劃雄厚，儘管目前缺乏明確訂單且護城河較弱，仍是一項具備非對稱向上潛力的期權型投資。",
+            "why_it_matters": "光通訊模組與光學引擎是當前 AI 算力基礎建設的主要瓶頸之一。POET 充沛的資金與產能擴張，可能使其成為下游客戶繞過傳統供應鏈瓶頸的替代方案。",
+            "history_note": "由於沒有該作者過去針對 $POET 的歷史貼文紀錄，無法比較觀點演變。",
+            "catalysts": [
+              "超大型雲端服務商 (Hyperscaler) 或下游大廠宣布與 POET 簽署大規模量產協議",
+              "透過強大資產負債表進行策略性 M&A（併購）推動業務成長",
+              "與 Mitsubishi 或 Sivers 等夥伴簽署預付款或 CW 雷射供應協議"
+            ],
+            "risks": [
+              "缺乏足夠的可見訂單需求以填補 2027 年 1,200 萬顆光學引擎的庞大產能",
+              "光學引擎封裝 (OE Packaging) 的技術護城河可能不如上游 CW 雷射元件（如 Sivers）堅固",
+              "過度股權稀釋對既存股東權益造成損害"
+            ],
+            "confidence": 80,
+            "ai_status": "ok",
+            "favorite_count": 616,
+            "retweet_count": 23
           }
         ]
       }
     ],
     "excluded_days": 33,
     "summary": {
-      "signals": 40,
+      "signals": 41,
       "horizons": {
         "1d": {
-          "sample": 39,
-          "avg_score_return": 0.09,
-          "hit_rate": 43.6
+          "sample": 40,
+          "avg_score_return": -0.06,
+          "hit_rate": 42.5
         },
         "7d": {
-          "sample": 34,
-          "avg_score_return": 2.15,
-          "hit_rate": 44.1
+          "sample": 35,
+          "avg_score_return": 2.23,
+          "hit_rate": 45.7
         },
         "30d": {
           "sample": 32,
@@ -11089,9 +11244,9 @@
           "hit_rate": 40.6
         },
         "now": {
-          "sample": 40,
-          "avg_score_return": -1.09,
-          "hit_rate": 47.5
+          "sample": 41,
+          "avg_score_return": -4.96,
+          "hit_rate": 36.6
         }
       }
     },
@@ -11100,6 +11255,37 @@
     "include_replies": false
   },
   "primary_posts": [
+    {
+      "tweet_id": "2087846074027295020",
+      "is_reply": false,
+      "kind": "post",
+      "reply_signal_eligible": false,
+      "created_at": "2026-08-13T10:17:49Z",
+      "text": "Okay here's my take on $POET, since apparently people are celebrating on the subreddit that I took small positions. \n\n- I have 0 idea. ZERO. How they convinced shareholders to allow them dilute SO MUCH to the point:\n\nThey have an absurd ~$830m cash on hand now. \n\nAnd my guess is that they're close to done, since I would be in disbelief if they needed more. \n\nSo now... they have ~$830m to grow their business like M&A, and EV actually dropped really low recently (eg. $1.25B MC vs. $830m cash on hand), that I thought it was compelling to take a risk. \n\n- Annualized production capacity target is 12M optical engines/year for 2027, which is pretty absurd ramp. \n\nNeed to do more research into ASP for Poet's products, but maybe $125-$200? So at ~$150 ASP, $1.8B revenue ceiling. \n\nBut they're like inverse AAOI right now: no visible demand to fill all that capacity. Aside from Lumilens, which is now a highly valued hyperscaler supplier (probably Amazon or Microsoft), with billions in customer agreements. \n\nThe interesting thing is if Poet signed prepayment EML agreements with players like Mitsubishi, or CW agreements with Sivers behind the scenes with that balance sheet. \n\nAnd given the current bottleneck, players might use Poet as a workaround for supply procurement. \n\nBut basically, you have a super cash-rich company with a ton of capacity coming online. And they're not really disappearing anytime soon with their financials. \n\nI don't quite think it's as technically defensible compared to upstream laser chokepoints with something like $SIVE around the same valuation in terms of technical moat for CW lasers vs. OE packaging side. As you've seen recently with Celestial and Poet. \n\nBut maybe... there's a chance some hyperscaler or downstream company announces a volume agreement sometime in the future. and $POET takes off. And they do have the supply chain setup for ramp with that.  \n\nThat's the risk I ended up taking, but it's not exactly a clear as day long for me like $AAOI.",
+      "url": "https://x.com/aleabitoreddit/status/2087846074027295020",
+      "sentiment": "Bullish",
+      "importance": 4,
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "summary_zh": "作者分析了 POET Technologies ($POET) 的投資機會，指出該公司透過大規模稀釋股權累積了高達 8.3 億美元的現金，且近期企業價值 (EV) 顯著下降。公司目標在 2027 年將光學引擎年產能擴充至 1,200 萬顆，若以平均售價 (ASP) 150 美元計算，營收天花板可達 18 億美元。然而，POET 目前面臨無明顯可見需求來填補產能的風險，技術護城河相較於上游 CW 激光龍頭 Sivers ($SIVE) 較弱，作者僅建立小額倉位，將其視為一項高風險高回報的選擇期權。",
+      "plain_zh": "POET 這家公司雖然之前大幅增資稀釋股東權益，但現在手握約 8.3 億美元的鉅額現金，且未來幾年產能規劃非常龐大。目前的缺點是還看不到足夠的大客戶訂單來消化這些產能，且技術護城河不如上游雷射元件廠（如 Sivers）。作者認為 POET 倒閉風險極低，若未來有超大型雲端服務商（Hyperscaler）宣布合作，股價就有爆發潛力，因此決定建立少量實驗性部位。",
+      "core_thesis": "POET 手握充沛現金且產能規劃雄厚，儘管目前缺乏明確訂單且護城河較弱，仍是一項具備非對稱向上潛力的期權型投資。",
+      "why_it_matters": "光通訊模組與光學引擎是當前 AI 算力基礎建設的主要瓶頸之一。POET 充沛的資金與產能擴張，可能使其成為下游客戶繞過傳統供應鏈瓶頸的替代方案。",
+      "history_note": "由於沒有該作者過去針對 $POET 的歷史貼文紀錄，無法比較觀點演變。",
+      "catalysts": [
+        "超大型雲端服務商 (Hyperscaler) 或下游大廠宣布與 POET 簽署大規模量產協議",
+        "透過強大資產負債表進行策略性 M&A（併購）推動業務成長",
+        "與 Mitsubishi 或 Sivers 等夥伴簽署預付款或 CW 雷射供應協議"
+      ],
+      "risks": [
+        "缺乏足夠的可見訂單需求以填補 2027 年 1,200 萬顆光學引擎的庞大產能",
+        "光學引擎封裝 (OE Packaging) 的技術護城河可能不如上游 CW 雷射元件（如 Sivers）堅固",
+        "過度股權稀釋對既存股東權益造成損害"
+      ],
+      "confidence": 80,
+      "ai_status": "ok",
+      "favorite_count": 616,
+      "retweet_count": 23
+    },
     {
       "tweet_id": "2087675367595380783",
       "is_reply": false,
@@ -11127,8 +11313,8 @@
       ],
       "confidence": 90,
       "ai_status": "ok",
-      "favorite_count": 761,
-      "retweet_count": 52
+      "favorite_count": 881,
+      "retweet_count": 70
     },
     {
       "tweet_id": "2087447527595692180",
@@ -11157,7 +11343,7 @@
       ],
       "confidence": 90,
       "ai_status": "ok",
-      "favorite_count": 1340,
+      "favorite_count": 1372,
       "retweet_count": 95
     },
     {
@@ -11188,7 +11374,7 @@
       ],
       "confidence": 90,
       "ai_status": "ok",
-      "favorite_count": 883,
+      "favorite_count": 888,
       "retweet_count": 73
     },
     {
@@ -11217,7 +11403,7 @@
       ],
       "confidence": 90,
       "ai_status": "ok",
-      "favorite_count": 1265,
+      "favorite_count": 1282,
       "retweet_count": 75
     },
     {
@@ -13021,29 +13207,6 @@
       "ai_status": "",
       "favorite_count": 1798,
       "retweet_count": 125
-    },
-    {
-      "tweet_id": "2054402515756781762",
-      "is_reply": false,
-      "kind": "post",
-      "reply_signal_eligible": false,
-      "created_at": "2026-05-13T03:25:03Z",
-      "text": "Markets are forward looking by 8-12 months. \n\nI like to find plays at the very bottom and capture full supercycle exposure like $AXTI, $SIVE, $IQE, $SOI, $LITE, $AAOI, etc. \n\nOtherwise you won't get 10x returns if something is already priced in. If something fully scales 2028, and starts from 0 in H1 2026. \n\nMarkets will start pricing in the company all the way past 2028, H2 onward as production ramps.",
-      "url": "https://x.com/aleabitoreddit/status/2054402515756781762",
-      "sentiment": "Neutral",
-      "importance": 3,
-      "thesis_change": "MENTION",
-      "summary_zh": "",
-      "plain_zh": "",
-      "core_thesis": "",
-      "why_it_matters": "",
-      "history_note": "",
-      "catalysts": [],
-      "risks": [],
-      "confidence": 0,
-      "ai_status": "",
-      "favorite_count": 194,
-      "retweet_count": 7
     }
   ],
   "reply_context": [

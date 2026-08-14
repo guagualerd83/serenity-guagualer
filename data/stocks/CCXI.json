@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T07:47:06.186514Z",
+  "generated_at": "2026-08-14T02:08:28.533136Z",
   "symbol": "CCXI",
   "summary": {
     "primary_count": 20,
@@ -986,6 +986,10 @@
         {
           "date": "2026-08-12",
           "close": 16.19
+        },
+        {
+          "date": "2026-08-13",
+          "close": 16.19
         }
       ]
     },
@@ -1026,7 +1030,7 @@
           "now": {
             "raw_return": 6.09,
             "score_return": 6.09,
-            "exit_date": "2026-08-12",
+            "exit_date": "2026-08-13",
             "exit_price": 16.19,
             "hit": true
           }
@@ -1073,7 +1077,7 @@
           "now": {
             "raw_return": -0.25,
             "score_return": -0.25,
-            "exit_date": "2026-08-12",
+            "exit_date": "2026-08-13",
             "exit_price": 16.19,
             "hit": false
           }
@@ -1120,7 +1124,7 @@
           "now": {
             "raw_return": -1.1,
             "score_return": -1.1,
-            "exit_date": "2026-08-12",
+            "exit_date": "2026-08-13",
             "exit_price": 16.19,
             "hit": false
           }

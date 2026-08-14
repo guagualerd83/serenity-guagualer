@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-13T07:47:06.186514Z",
+  "generated_at": "2026-08-14T02:08:28.533136Z",
   "symbol": "SIVE",
   "summary": {
-    "primary_count": 229,
+    "primary_count": 230,
     "reply_count": 258,
     "first_mentioned_at": "2026-03-27T04:34:39Z",
-    "last_mentioned_at": "2026-08-13T07:44:59Z",
+    "last_mentioned_at": "2026-08-13T10:17:49Z",
     "latest_sentiment": "Bullish",
-    "latest_thesis": "Sivers 與 SemiNex 合作開發 CPO 雷射元件，透過前期合作降低技術驗證風險，為 2027 年下半年的 CPO 量產時程做準備。",
-    "latest_change": "NEW",
+    "latest_thesis": "POET 手握充沛現金且產能規劃雄厚，儘管目前缺乏明確訂單且護城河較弱，仍是一項具備非對稱向上潛力的期權型投資。",
+    "latest_change": "INSUFFICIENT_HISTORY",
     "sentiments": {
-      "Bullish": 149,
+      "Bullish": 150,
       "Neutral": 311,
       "Bearish": 26,
       "Mixed": 1
@@ -7362,7 +7362,7 @@
           ],
           "confidence": 90,
           "ai_status": "ok",
-          "favorite_count": 883,
+          "favorite_count": 888,
           "retweet_count": 73
         },
         {
@@ -7392,29 +7392,29 @@
           ],
           "confidence": 90,
           "ai_status": "ok",
-          "favorite_count": 1340,
+          "favorite_count": 1372,
           "retweet_count": 95
         }
       ]
     },
     {
       "date": "2026-08-13",
-      "created_at": "2026-08-13T07:44:59Z",
+      "created_at": "2026-08-13T10:17:49Z",
       "sentiment": "Bullish",
-      "bull_count": 1,
+      "bull_count": 2,
       "bear_count": 0,
       "neutral_count": 0,
       "mixed_count": 0,
-      "mention_count": 1,
-      "bull_weight": 2.55,
+      "mention_count": 2,
+      "bull_weight": 5.75,
       "bear_weight": 0.0,
       "bull_share": 1.0,
-      "importance": 3,
+      "importance": 4,
       "confidence": 85,
-      "thesis_change": "NEW",
-      "core_thesis": "Sivers 與 SemiNex 合作開發 CPO 雷射元件，透過前期合作降低技術驗證風險，為 2027 年下半年的 CPO 量產時程做準備。",
-      "url": "https://x.com/aleabitoreddit/status/2087807614172488131",
-      "tweet_id": "2087807614172488131",
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "core_thesis": "POET 手握充沛現金且產能規劃雄厚，儘管目前缺乏明確訂單且護城河較弱，仍是一項具備非對稱向上潛力的期權型投資。",
+      "url": "https://x.com/aleabitoreddit/status/2087846074027295020",
+      "tweet_id": "2087846074027295020",
       "items": [
         {
           "tweet_id": "2087807614172488131",
@@ -7443,8 +7443,39 @@
           ],
           "confidence": 85,
           "ai_status": "ok",
-          "favorite_count": 50,
-          "retweet_count": 2
+          "favorite_count": 1074,
+          "retweet_count": 58
+        },
+        {
+          "tweet_id": "2087846074027295020",
+          "is_reply": false,
+          "kind": "post",
+          "reply_signal_eligible": false,
+          "created_at": "2026-08-13T10:17:49Z",
+          "text": "Okay here's my take on $POET, since apparently people are celebrating on the subreddit that I took small positions. \n\n- I have 0 idea. ZERO. How they convinced shareholders to allow them dilute SO MUCH to the point:\n\nThey have an absurd ~$830m cash on hand now. \n\nAnd my guess is that they're close to done, since I would be in disbelief if they needed more. \n\nSo now... they have ~$830m to grow their business like M&A, and EV actually dropped really low recently (eg. $1.25B MC vs. $830m cash on hand), that I thought it was compelling to take a risk. \n\n- Annualized production capacity target is 12M optical engines/year for 2027, which is pretty absurd ramp. \n\nNeed to do more research into ASP for Poet's products, but maybe $125-$200? So at ~$150 ASP, $1.8B revenue ceiling. \n\nBut they're like inverse AAOI right now: no visible demand to fill all that capacity. Aside from Lumilens, which is now a highly valued hyperscaler supplier (probably Amazon or Microsoft), with billions in customer agreements. \n\nThe interesting thing is if Poet signed prepayment EML agreements with players like Mitsubishi, or CW agreements with Sivers behind the scenes with that balance sheet. \n\nAnd given the current bottleneck, players might use Poet as a workaround for supply procurement. \n\nBut basically, you have a super cash-rich company with a ton of capacity coming online. And they're not really disappearing anytime soon with their financials. \n\nI don't quite think it's as technically defensible compared to upstream laser chokepoints with something like $SIVE around the same valuation in terms of technical moat for CW lasers vs. OE packaging side. As you've seen recently with Celestial and Poet. \n\nBut maybe... there's a chance some hyperscaler or downstream company announces a volume agreement sometime in the future. and $POET takes off. And they do have the supply chain setup for ramp with that.  \n\nThat's the risk I ended up taking, but it's not exactly a clear as day long for me like $AAOI.",
+          "url": "https://x.com/aleabitoreddit/status/2087846074027295020",
+          "sentiment": "Bullish",
+          "importance": 4,
+          "thesis_change": "INSUFFICIENT_HISTORY",
+          "summary_zh": "作者分析了 POET Technologies ($POET) 的投資機會，指出該公司透過大規模稀釋股權累積了高達 8.3 億美元的現金，且近期企業價值 (EV) 顯著下降。公司目標在 2027 年將光學引擎年產能擴充至 1,200 萬顆，若以平均售價 (ASP) 150 美元計算，營收天花板可達 18 億美元。然而，POET 目前面臨無明顯可見需求來填補產能的風險，技術護城河相較於上游 CW 激光龍頭 Sivers ($SIVE) 較弱，作者僅建立小額倉位，將其視為一項高風險高回報的選擇期權。",
+          "plain_zh": "POET 這家公司雖然之前大幅增資稀釋股東權益，但現在手握約 8.3 億美元的鉅額現金，且未來幾年產能規劃非常龐大。目前的缺點是還看不到足夠的大客戶訂單來消化這些產能，且技術護城河不如上游雷射元件廠（如 Sivers）。作者認為 POET 倒閉風險極低，若未來有超大型雲端服務商（Hyperscaler）宣布合作，股價就有爆發潛力，因此決定建立少量實驗性部位。",
+          "core_thesis": "POET 手握充沛現金且產能規劃雄厚，儘管目前缺乏明確訂單且護城河較弱，仍是一項具備非對稱向上潛力的期權型投資。",
+          "why_it_matters": "光通訊模組與光學引擎是當前 AI 算力基礎建設的主要瓶頸之一。POET 充沛的資金與產能擴張，可能使其成為下游客戶繞過傳統供應鏈瓶頸的替代方案。",
+          "history_note": "由於沒有該作者過去針對 $POET 的歷史貼文紀錄，無法比較觀點演變。",
+          "catalysts": [
+            "超大型雲端服務商 (Hyperscaler) 或下游大廠宣布與 POET 簽署大規模量產協議",
+            "透過強大資產負債表進行策略性 M&A（併購）推動業務成長",
+            "與 Mitsubishi 或 Sivers 等夥伴簽署預付款或 CW 雷射供應協議"
+          ],
+          "risks": [
+            "缺乏足夠的可見訂單需求以填補 2027 年 1,200 萬顆光學引擎的庞大產能",
+            "光學引擎封裝 (OE Packaging) 的技術護城河可能不如上游 CW 雷射元件（如 Sivers）堅固",
+            "過度股權稀釋對既存股東權益造成損害"
+          ],
+          "confidence": 80,
+          "ai_status": "ok",
+          "favorite_count": 616,
+          "retweet_count": 23
         }
       ]
     }
@@ -7846,8 +7877,8 @@
           "close": 41.6
         },
         {
-          "date": "2026-08-13",
-          "close": 42.26
+          "date": "2026-08-12",
+          "close": 42.52
         }
       ]
     },
@@ -7886,10 +7917,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 326.22,
-            "score_return": 326.22,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": 328.85,
+            "score_return": 328.85,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": true
           }
         },
@@ -7933,10 +7964,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 338.15,
-            "score_return": 338.15,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": 340.85,
+            "score_return": 340.85,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": true
           }
         },
@@ -7980,10 +8011,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 103.37,
-            "score_return": 103.37,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": 104.62,
+            "score_return": 104.62,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": true
           }
         },
@@ -8027,10 +8058,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 85.35,
-            "score_return": 85.35,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": 86.49,
+            "score_return": 86.49,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": true
           }
         },
@@ -8074,10 +8105,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 35.71,
-            "score_return": 35.71,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": 36.54,
+            "score_return": 36.54,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": true
           }
         },
@@ -8121,10 +8152,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 35.71,
-            "score_return": 35.71,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": 36.54,
+            "score_return": 36.54,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": true
           }
         },
@@ -8168,10 +8199,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": 23.57,
-            "score_return": -23.57,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": 24.33,
+            "score_return": -24.33,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": false
           }
         },
@@ -8215,10 +8246,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 40.87,
-            "score_return": 40.87,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": 41.73,
+            "score_return": 41.73,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": true
           }
         },
@@ -8262,10 +8293,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": 32.23,
-            "score_return": -32.23,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": 33.04,
+            "score_return": -33.04,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": false
           }
         },
@@ -8309,10 +8340,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 42.87,
-            "score_return": 42.87,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": 43.75,
+            "score_return": 43.75,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": true
           }
         },
@@ -8356,10 +8387,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 42.87,
-            "score_return": 42.87,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": 43.75,
+            "score_return": 43.75,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": true
           }
         },
@@ -8403,10 +8434,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 42.87,
-            "score_return": 42.87,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": 43.75,
+            "score_return": 43.75,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": true
           }
         },
@@ -8450,10 +8481,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 32.39,
-            "score_return": 32.39,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": 33.21,
+            "score_return": 33.21,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": true
           }
         },
@@ -8497,10 +8528,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 5.97,
-            "score_return": 5.97,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": 6.62,
+            "score_return": 6.62,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": true
           }
         },
@@ -8544,10 +8575,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 11.21,
-            "score_return": 11.21,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": 11.89,
+            "score_return": 11.89,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": true
           }
         },
@@ -8591,10 +8622,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -24.47,
-            "score_return": -24.47,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -24.0,
+            "score_return": -24.0,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": false
           }
         },
@@ -8638,10 +8669,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -24.47,
-            "score_return": -24.47,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -24.0,
+            "score_return": -24.0,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": false
           }
         },
@@ -8685,10 +8716,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -24.47,
-            "score_return": -24.47,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -24.0,
+            "score_return": -24.0,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": false
           }
         },
@@ -8732,10 +8763,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -22.74,
-            "score_return": -22.74,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -22.27,
+            "score_return": -22.27,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": false
           }
         },
@@ -8779,10 +8810,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -12.43,
-            "score_return": -12.43,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -11.89,
+            "score_return": -11.89,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": false
           }
         },
@@ -8826,10 +8857,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -25.4,
-            "score_return": -25.4,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -24.94,
+            "score_return": -24.94,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": false
           }
         },
@@ -8873,10 +8904,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -24.13,
-            "score_return": -24.13,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -23.66,
+            "score_return": -23.66,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": false
           }
         },
@@ -8920,10 +8951,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -24.13,
-            "score_return": -24.13,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -23.66,
+            "score_return": -23.66,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": false
           }
         },
@@ -8967,10 +8998,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -12.14,
-            "score_return": 12.14,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -11.6,
+            "score_return": 11.6,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": true
           }
         },
@@ -9014,10 +9045,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -21.74,
-            "score_return": -21.74,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -21.26,
+            "score_return": -21.26,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": false
           }
         },
@@ -9061,10 +9092,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -42.03,
-            "score_return": -42.03,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -41.67,
+            "score_return": -41.67,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": false
           }
         },
@@ -9108,10 +9139,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -50.6,
-            "score_return": 50.6,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -50.3,
+            "score_return": 50.3,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": true
           }
         },
@@ -9155,10 +9186,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -50.6,
-            "score_return": -50.6,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -50.3,
+            "score_return": -50.3,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": false
           }
         },
@@ -9202,10 +9233,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -50.6,
-            "score_return": -50.6,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -50.3,
+            "score_return": -50.3,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": false
           }
         },
@@ -9249,10 +9280,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -42.43,
-            "score_return": -42.43,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -42.07,
+            "score_return": -42.07,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": false
           }
         },
@@ -9296,10 +9327,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -39.8,
-            "score_return": -39.8,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -39.43,
+            "score_return": -39.43,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": false
           }
         },
@@ -9343,10 +9374,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -38.71,
-            "score_return": -38.71,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -38.33,
+            "score_return": -38.33,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": false
           }
         },
@@ -9390,10 +9421,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -30.55,
-            "score_return": -30.55,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -30.12,
+            "score_return": -30.12,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": false
           }
         },
@@ -9437,10 +9468,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -56.63,
-            "score_return": 56.63,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -56.37,
+            "score_return": 56.37,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": true
           }
         },
@@ -9484,10 +9515,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -54.31,
-            "score_return": -54.31,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -54.03,
+            "score_return": -54.03,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": false
           }
         },
@@ -9531,10 +9562,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -51.29,
-            "score_return": 51.29,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -50.99,
+            "score_return": 50.99,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": true
           }
         },
@@ -9578,10 +9609,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -52.73,
-            "score_return": -52.73,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -52.44,
+            "score_return": -52.44,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": false
           }
         },
@@ -9625,10 +9656,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -44.76,
-            "score_return": -44.76,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -44.42,
+            "score_return": -44.42,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": false
           }
         },
@@ -9672,10 +9703,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -47.01,
-            "score_return": 47.01,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -46.68,
+            "score_return": 46.68,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": true
           }
         },
@@ -9719,10 +9750,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -54.41,
-            "score_return": -54.41,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -54.13,
+            "score_return": -54.13,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": false
           }
         },
@@ -9766,10 +9797,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -51.06,
-            "score_return": -51.06,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -50.76,
+            "score_return": -50.76,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": false
           }
         },
@@ -9813,10 +9844,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -57.4,
-            "score_return": -57.4,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -57.14,
+            "score_return": -57.14,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": false
           }
         },
@@ -9860,10 +9891,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -57.4,
-            "score_return": -57.4,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -57.14,
+            "score_return": -57.14,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": false
           }
         },
@@ -9907,10 +9938,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -57.4,
-            "score_return": -57.4,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -57.14,
+            "score_return": -57.14,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": false
           }
         },
@@ -9954,10 +9985,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -51.73,
-            "score_return": 51.73,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -51.43,
+            "score_return": 51.43,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": true
           }
         },
@@ -10001,10 +10032,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -50.22,
-            "score_return": -50.22,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -49.92,
+            "score_return": -49.92,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": false
           }
         },
@@ -10048,10 +10079,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -36.93,
-            "score_return": -36.93,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -36.54,
+            "score_return": -36.54,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": false
           }
         },
@@ -10095,10 +10126,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -33.29,
-            "score_return": -33.29,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -32.88,
+            "score_return": -32.88,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": false
           }
         },
@@ -10142,10 +10173,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -35.53,
-            "score_return": -35.53,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -35.13,
+            "score_return": -35.13,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": false
           }
         },
@@ -10189,10 +10220,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -33.08,
-            "score_return": -33.08,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -32.67,
+            "score_return": -32.67,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": false
           }
         },
@@ -10236,10 +10267,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -30.44,
-            "score_return": -30.44,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -30.01,
+            "score_return": -30.01,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": false
           }
         },
@@ -10283,10 +10314,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -13.76,
-            "score_return": -13.76,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -13.22,
+            "score_return": -13.22,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": false
           }
         },
@@ -10330,10 +10361,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -9.51,
-            "score_return": -9.51,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -8.95,
+            "score_return": -8.95,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": false
           }
         },
@@ -10377,10 +10408,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": 2.47,
-            "score_return": 2.47,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": 3.1,
+            "score_return": 3.1,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": true
           }
         },
@@ -10424,10 +10455,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 7.37,
-            "score_return": 7.37,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": 8.03,
+            "score_return": 8.03,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": true
           }
         },
@@ -10471,10 +10502,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 1.1,
-            "score_return": 1.1,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": 1.72,
+            "score_return": 1.72,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": true
           }
         },
@@ -10518,10 +10549,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -10.62,
-            "score_return": -10.62,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -10.07,
+            "score_return": -10.07,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": false
           }
         },
@@ -10558,17 +10589,17 @@
             "hit": false
           },
           "30d": {
-            "raw_return": -1.26,
-            "score_return": -1.26,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -0.65,
+            "score_return": -0.65,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": false
           },
           "now": {
-            "raw_return": -1.26,
-            "score_return": -1.26,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -0.65,
+            "score_return": -0.65,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": false
           }
         },
@@ -10612,10 +10643,10 @@
             "hit": null
           },
           "now": {
-            "raw_return": 18.77,
-            "score_return": 18.77,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": 19.51,
+            "score_return": 19.51,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": true
           }
         },
@@ -10659,10 +10690,10 @@
             "hit": null
           },
           "now": {
-            "raw_return": 26.22,
-            "score_return": 26.22,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": 27.0,
+            "score_return": 27.0,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": true
           }
         },
@@ -10706,10 +10737,10 @@
             "hit": null
           },
           "now": {
-            "raw_return": 3.12,
-            "score_return": 3.12,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": 3.76,
+            "score_return": 3.76,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": true
           }
         },
@@ -10753,10 +10784,10 @@
             "hit": null
           },
           "now": {
-            "raw_return": 48.49,
-            "score_return": 48.49,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": 49.4,
+            "score_return": 49.4,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": true
           }
         },
@@ -10800,10 +10831,10 @@
             "hit": null
           },
           "now": {
-            "raw_return": 37.48,
-            "score_return": 37.48,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": 38.32,
+            "score_return": 38.32,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": true
           }
         },
@@ -10847,10 +10878,10 @@
             "hit": null
           },
           "now": {
-            "raw_return": -3.6,
-            "score_return": -3.6,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "raw_return": -3.01,
+            "score_return": -3.01,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": false
           }
         },
@@ -10869,15 +10900,15 @@
         "importance": 5,
         "thesis_change": "INSUFFICIENT_HISTORY",
         "core_thesis": "光學財報驗證了 CW DFB 激光器瓶頸論點，Sivers ($SIVE) 身為少數西方 CPO 關鍵玩家，將顯著受益於供需失衡與架構轉型。",
-        "entry_date": "2026-08-13",
-        "entry_price": 42.26,
+        "entry_date": "2026-08-12",
+        "entry_price": 42.52,
         "returns": {
           "1d": {
-            "raw_return": 0.0,
-            "score_return": 0.0,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
-            "hit": false
+            "raw_return": null,
+            "score_return": null,
+            "exit_date": null,
+            "exit_price": null,
+            "hit": null
           },
           "7d": {
             "raw_return": null,
@@ -10896,60 +10927,13 @@
           "now": {
             "raw_return": 0.0,
             "score_return": 0.0,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
+            "exit_date": "2026-08-12",
+            "exit_price": 42.52,
             "hit": false
           }
         },
         "mention_count": 2,
         "bull_count": 2,
-        "bear_count": 0,
-        "neutral_count": 0,
-        "bull_share": 1.0
-      },
-      {
-        "date": "2026-08-13",
-        "created_at": "2026-08-13T07:44:59Z",
-        "url": "https://x.com/aleabitoreddit/status/2087807614172488131",
-        "sentiment": "Bullish",
-        "confidence": 85,
-        "importance": 3,
-        "thesis_change": "NEW",
-        "core_thesis": "Sivers 與 SemiNex 合作開發 CPO 雷射元件，透過前期合作降低技術驗證風險，為 2027 年下半年的 CPO 量產時程做準備。",
-        "entry_date": "2026-08-13",
-        "entry_price": 42.26,
-        "returns": {
-          "1d": {
-            "raw_return": null,
-            "score_return": null,
-            "exit_date": null,
-            "exit_price": null,
-            "hit": null
-          },
-          "7d": {
-            "raw_return": null,
-            "score_return": null,
-            "exit_date": null,
-            "exit_price": null,
-            "hit": null
-          },
-          "30d": {
-            "raw_return": null,
-            "score_return": null,
-            "exit_date": null,
-            "exit_price": null,
-            "hit": null
-          },
-          "now": {
-            "raw_return": 0.0,
-            "score_return": 0.0,
-            "exit_date": "2026-08-13",
-            "exit_price": 42.26,
-            "hit": false
-          }
-        },
-        "mention_count": 1,
-        "bull_count": 1,
         "bear_count": 0,
         "neutral_count": 0,
         "bull_share": 1.0
@@ -18301,7 +18285,7 @@
             ],
             "confidence": 90,
             "ai_status": "ok",
-            "favorite_count": 883,
+            "favorite_count": 888,
             "retweet_count": 73
           },
           {
@@ -18331,29 +18315,29 @@
             ],
             "confidence": 90,
             "ai_status": "ok",
-            "favorite_count": 1340,
+            "favorite_count": 1372,
             "retweet_count": 95
           }
         ]
       },
       {
         "date": "2026-08-13",
-        "created_at": "2026-08-13T07:44:59Z",
+        "created_at": "2026-08-13T10:17:49Z",
         "sentiment": "Bullish",
-        "bull_count": 1,
+        "bull_count": 2,
         "bear_count": 0,
         "neutral_count": 0,
         "mixed_count": 0,
-        "mention_count": 1,
-        "bull_weight": 2.55,
+        "mention_count": 2,
+        "bull_weight": 5.75,
         "bear_weight": 0.0,
         "bull_share": 1.0,
-        "importance": 3,
+        "importance": 4,
         "confidence": 85,
-        "thesis_change": "NEW",
-        "core_thesis": "Sivers 與 SemiNex 合作開發 CPO 雷射元件，透過前期合作降低技術驗證風險，為 2027 年下半年的 CPO 量產時程做準備。",
-        "url": "https://x.com/aleabitoreddit/status/2087807614172488131",
-        "tweet_id": "2087807614172488131",
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "POET 手握充沛現金且產能規劃雄厚，儘管目前缺乏明確訂單且護城河較弱，仍是一項具備非對稱向上潛力的期權型投資。",
+        "url": "https://x.com/aleabitoreddit/status/2087846074027295020",
+        "tweet_id": "2087846074027295020",
         "items": [
           {
             "tweet_id": "2087807614172488131",
@@ -18382,20 +18366,51 @@
             ],
             "confidence": 85,
             "ai_status": "ok",
-            "favorite_count": 50,
-            "retweet_count": 2
+            "favorite_count": 1074,
+            "retweet_count": 58
+          },
+          {
+            "tweet_id": "2087846074027295020",
+            "is_reply": false,
+            "kind": "post",
+            "reply_signal_eligible": false,
+            "created_at": "2026-08-13T10:17:49Z",
+            "text": "Okay here's my take on $POET, since apparently people are celebrating on the subreddit that I took small positions. \n\n- I have 0 idea. ZERO. How they convinced shareholders to allow them dilute SO MUCH to the point:\n\nThey have an absurd ~$830m cash on hand now. \n\nAnd my guess is that they're close to done, since I would be in disbelief if they needed more. \n\nSo now... they have ~$830m to grow their business like M&A, and EV actually dropped really low recently (eg. $1.25B MC vs. $830m cash on hand), that I thought it was compelling to take a risk. \n\n- Annualized production capacity target is 12M optical engines/year for 2027, which is pretty absurd ramp. \n\nNeed to do more research into ASP for Poet's products, but maybe $125-$200? So at ~$150 ASP, $1.8B revenue ceiling. \n\nBut they're like inverse AAOI right now: no visible demand to fill all that capacity. Aside from Lumilens, which is now a highly valued hyperscaler supplier (probably Amazon or Microsoft), with billions in customer agreements. \n\nThe interesting thing is if Poet signed prepayment EML agreements with players like Mitsubishi, or CW agreements with Sivers behind the scenes with that balance sheet. \n\nAnd given the current bottleneck, players might use Poet as a workaround for supply procurement. \n\nBut basically, you have a super cash-rich company with a ton of capacity coming online. And they're not really disappearing anytime soon with their financials. \n\nI don't quite think it's as technically defensible compared to upstream laser chokepoints with something like $SIVE around the same valuation in terms of technical moat for CW lasers vs. OE packaging side. As you've seen recently with Celestial and Poet. \n\nBut maybe... there's a chance some hyperscaler or downstream company announces a volume agreement sometime in the future. and $POET takes off. And they do have the supply chain setup for ramp with that.  \n\nThat's the risk I ended up taking, but it's not exactly a clear as day long for me like $AAOI.",
+            "url": "https://x.com/aleabitoreddit/status/2087846074027295020",
+            "sentiment": "Bullish",
+            "importance": 4,
+            "thesis_change": "INSUFFICIENT_HISTORY",
+            "summary_zh": "作者分析了 POET Technologies ($POET) 的投資機會，指出該公司透過大規模稀釋股權累積了高達 8.3 億美元的現金，且近期企業價值 (EV) 顯著下降。公司目標在 2027 年將光學引擎年產能擴充至 1,200 萬顆，若以平均售價 (ASP) 150 美元計算，營收天花板可達 18 億美元。然而，POET 目前面臨無明顯可見需求來填補產能的風險，技術護城河相較於上游 CW 激光龍頭 Sivers ($SIVE) 較弱，作者僅建立小額倉位，將其視為一項高風險高回報的選擇期權。",
+            "plain_zh": "POET 這家公司雖然之前大幅增資稀釋股東權益，但現在手握約 8.3 億美元的鉅額現金，且未來幾年產能規劃非常龐大。目前的缺點是還看不到足夠的大客戶訂單來消化這些產能，且技術護城河不如上游雷射元件廠（如 Sivers）。作者認為 POET 倒閉風險極低，若未來有超大型雲端服務商（Hyperscaler）宣布合作，股價就有爆發潛力，因此決定建立少量實驗性部位。",
+            "core_thesis": "POET 手握充沛現金且產能規劃雄厚，儘管目前缺乏明確訂單且護城河較弱，仍是一項具備非對稱向上潛力的期權型投資。",
+            "why_it_matters": "光通訊模組與光學引擎是當前 AI 算力基礎建設的主要瓶頸之一。POET 充沛的資金與產能擴張，可能使其成為下游客戶繞過傳統供應鏈瓶頸的替代方案。",
+            "history_note": "由於沒有該作者過去針對 $POET 的歷史貼文紀錄，無法比較觀點演變。",
+            "catalysts": [
+              "超大型雲端服務商 (Hyperscaler) 或下游大廠宣布與 POET 簽署大規模量產協議",
+              "透過強大資產負債表進行策略性 M&A（併購）推動業務成長",
+              "與 Mitsubishi 或 Sivers 等夥伴簽署預付款或 CW 雷射供應協議"
+            ],
+            "risks": [
+              "缺乏足夠的可見訂單需求以填補 2027 年 1,200 萬顆光學引擎的庞大產能",
+              "光學引擎封裝 (OE Packaging) 的技術護城河可能不如上游 CW 雷射元件（如 Sivers）堅固",
+              "過度股權稀釋對既存股東權益造成損害"
+            ],
+            "confidence": 80,
+            "ai_status": "ok",
+            "favorite_count": 616,
+            "retweet_count": 23
           }
         ]
       }
     ],
     "excluded_days": 31,
     "summary": {
-      "signals": 66,
+      "signals": 65,
       "horizons": {
         "1d": {
-          "sample": 65,
-          "avg_score_return": 0.28,
-          "hit_rate": 32.3
+          "sample": 64,
+          "avg_score_return": 0.29,
+          "hit_rate": 32.8
         },
         "7d": {
           "sample": 63,
@@ -18404,13 +18419,13 @@
         },
         "30d": {
           "sample": 58,
-          "avg_score_return": 27.02,
+          "avg_score_return": 27.03,
           "hit_rate": 53.4
         },
         "now": {
-          "sample": 66,
-          "avg_score_return": 4.78,
-          "hit_rate": 40.9
+          "sample": 65,
+          "avg_score_return": 5.34,
+          "hit_rate": 41.5
         }
       }
     },
@@ -18419,6 +18434,37 @@
     "include_replies": false
   },
   "primary_posts": [
+    {
+      "tweet_id": "2087846074027295020",
+      "is_reply": false,
+      "kind": "post",
+      "reply_signal_eligible": false,
+      "created_at": "2026-08-13T10:17:49Z",
+      "text": "Okay here's my take on $POET, since apparently people are celebrating on the subreddit that I took small positions. \n\n- I have 0 idea. ZERO. How they convinced shareholders to allow them dilute SO MUCH to the point:\n\nThey have an absurd ~$830m cash on hand now. \n\nAnd my guess is that they're close to done, since I would be in disbelief if they needed more. \n\nSo now... they have ~$830m to grow their business like M&A, and EV actually dropped really low recently (eg. $1.25B MC vs. $830m cash on hand), that I thought it was compelling to take a risk. \n\n- Annualized production capacity target is 12M optical engines/year for 2027, which is pretty absurd ramp. \n\nNeed to do more research into ASP for Poet's products, but maybe $125-$200? So at ~$150 ASP, $1.8B revenue ceiling. \n\nBut they're like inverse AAOI right now: no visible demand to fill all that capacity. Aside from Lumilens, which is now a highly valued hyperscaler supplier (probably Amazon or Microsoft), with billions in customer agreements. \n\nThe interesting thing is if Poet signed prepayment EML agreements with players like Mitsubishi, or CW agreements with Sivers behind the scenes with that balance sheet. \n\nAnd given the current bottleneck, players might use Poet as a workaround for supply procurement. \n\nBut basically, you have a super cash-rich company with a ton of capacity coming online. And they're not really disappearing anytime soon with their financials. \n\nI don't quite think it's as technically defensible compared to upstream laser chokepoints with something like $SIVE around the same valuation in terms of technical moat for CW lasers vs. OE packaging side. As you've seen recently with Celestial and Poet. \n\nBut maybe... there's a chance some hyperscaler or downstream company announces a volume agreement sometime in the future. and $POET takes off. And they do have the supply chain setup for ramp with that.  \n\nThat's the risk I ended up taking, but it's not exactly a clear as day long for me like $AAOI.",
+      "url": "https://x.com/aleabitoreddit/status/2087846074027295020",
+      "sentiment": "Bullish",
+      "importance": 4,
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "summary_zh": "作者分析了 POET Technologies ($POET) 的投資機會，指出該公司透過大規模稀釋股權累積了高達 8.3 億美元的現金，且近期企業價值 (EV) 顯著下降。公司目標在 2027 年將光學引擎年產能擴充至 1,200 萬顆，若以平均售價 (ASP) 150 美元計算，營收天花板可達 18 億美元。然而，POET 目前面臨無明顯可見需求來填補產能的風險，技術護城河相較於上游 CW 激光龍頭 Sivers ($SIVE) 較弱，作者僅建立小額倉位，將其視為一項高風險高回報的選擇期權。",
+      "plain_zh": "POET 這家公司雖然之前大幅增資稀釋股東權益，但現在手握約 8.3 億美元的鉅額現金，且未來幾年產能規劃非常龐大。目前的缺點是還看不到足夠的大客戶訂單來消化這些產能，且技術護城河不如上游雷射元件廠（如 Sivers）。作者認為 POET 倒閉風險極低，若未來有超大型雲端服務商（Hyperscaler）宣布合作，股價就有爆發潛力，因此決定建立少量實驗性部位。",
+      "core_thesis": "POET 手握充沛現金且產能規劃雄厚，儘管目前缺乏明確訂單且護城河較弱，仍是一項具備非對稱向上潛力的期權型投資。",
+      "why_it_matters": "光通訊模組與光學引擎是當前 AI 算力基礎建設的主要瓶頸之一。POET 充沛的資金與產能擴張，可能使其成為下游客戶繞過傳統供應鏈瓶頸的替代方案。",
+      "history_note": "由於沒有該作者過去針對 $POET 的歷史貼文紀錄，無法比較觀點演變。",
+      "catalysts": [
+        "超大型雲端服務商 (Hyperscaler) 或下游大廠宣布與 POET 簽署大規模量產協議",
+        "透過強大資產負債表進行策略性 M&A（併購）推動業務成長",
+        "與 Mitsubishi 或 Sivers 等夥伴簽署預付款或 CW 雷射供應協議"
+      ],
+      "risks": [
+        "缺乏足夠的可見訂單需求以填補 2027 年 1,200 萬顆光學引擎的庞大產能",
+        "光學引擎封裝 (OE Packaging) 的技術護城河可能不如上游 CW 雷射元件（如 Sivers）堅固",
+        "過度股權稀釋對既存股東權益造成損害"
+      ],
+      "confidence": 80,
+      "ai_status": "ok",
+      "favorite_count": 616,
+      "retweet_count": 23
+    },
     {
       "tweet_id": "2087807614172488131",
       "is_reply": false,
@@ -18446,8 +18492,8 @@
       ],
       "confidence": 85,
       "ai_status": "ok",
-      "favorite_count": 50,
-      "retweet_count": 2
+      "favorite_count": 1074,
+      "retweet_count": 58
     },
     {
       "tweet_id": "2087447527595692180",
@@ -18476,7 +18522,7 @@
       ],
       "confidence": 90,
       "ai_status": "ok",
-      "favorite_count": 1340,
+      "favorite_count": 1372,
       "retweet_count": 95
     },
     {
@@ -18507,7 +18553,7 @@
       ],
       "confidence": 90,
       "ai_status": "ok",
-      "favorite_count": 883,
+      "favorite_count": 888,
       "retweet_count": 73
     },
     {
@@ -20362,29 +20408,6 @@
       "ai_status": "",
       "favorite_count": 1765,
       "retweet_count": 131
-    },
-    {
-      "tweet_id": "2062520852537917649",
-      "is_reply": false,
-      "kind": "post",
-      "reply_signal_eligible": false,
-      "created_at": "2026-06-04T13:04:25Z",
-      "text": "Found this news funny about a new Swedish Hedge fund:\n\nOrigo’s fund has lost substantial money shorting $SIVE.\n\n“The loss is one of the biggest this year\"\n\nMany of these Swedish hedge funds are now heavily underwater.\n\nJust as an accidental byproduct of $SIVE being a core part of the CPO supercycle. \n\nStarting to make more sense why there’s a lot of false news being published. \n\nEspecially if they’re facing infinite losses?",
-      "url": "https://x.com/aleabitoreddit/status/2062520852537917649",
-      "sentiment": "Neutral",
-      "importance": 2,
-      "thesis_change": "MENTION",
-      "summary_zh": "",
-      "plain_zh": "",
-      "core_thesis": "",
-      "why_it_matters": "",
-      "history_note": "",
-      "catalysts": [],
-      "risks": [],
-      "confidence": 0,
-      "ai_status": "",
-      "favorite_count": 1443,
-      "retweet_count": 82
     }
   ],
   "reply_context": [

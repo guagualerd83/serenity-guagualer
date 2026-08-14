@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-13T07:47:06.186514Z",
+  "generated_at": "2026-08-14T02:08:28.533136Z",
   "symbol": "TSEM",
   "summary": {
-    "primary_count": 40,
+    "primary_count": 41,
     "reply_count": 9,
     "first_mentioned_at": "2026-03-11T08:28:37Z",
-    "last_mentioned_at": "2026-07-21T17:41:05Z",
-    "latest_sentiment": "Neutral",
-    "latest_thesis": "",
-    "latest_change": "MENTION",
+    "last_mentioned_at": "2026-08-13T09:46:26Z",
+    "latest_sentiment": "Bullish",
+    "latest_thesis": "IQE 已走出財務危機並完成債務清償，作為西方光通訊與 AI 資料中心供應鏈中的關鍵 III-V 族外延片瓶頸，其投資論點已獲成功驗證。",
+    "latest_change": "INSUFFICIENT_HISTORY",
     "sentiments": {
-      "Bullish": 16,
+      "Bullish": 17,
       "Neutral": 30,
       "Bearish": 3
     }
@@ -1635,6 +1635,57 @@
           "retweet_count": 261
         }
       ]
+    },
+    {
+      "date": "2026-08-13",
+      "created_at": "2026-08-13T09:46:26Z",
+      "sentiment": "Bullish",
+      "bull_count": 1,
+      "bear_count": 0,
+      "neutral_count": 0,
+      "mixed_count": 0,
+      "mention_count": 1,
+      "bull_weight": 4.75,
+      "bear_weight": 0.0,
+      "bull_share": 1.0,
+      "importance": 5,
+      "confidence": 95,
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "core_thesis": "IQE 已走出財務危機並完成債務清償，作為西方光通訊與 AI 資料中心供應鏈中的關鍵 III-V 族外延片瓶頸，其投資論點已獲成功驗證。",
+      "url": "https://x.com/aleabitoreddit/status/2087838176677376186",
+      "tweet_id": "2087838176677376186",
+      "items": [
+        {
+          "tweet_id": "2087838176677376186",
+          "is_reply": false,
+          "kind": "post",
+          "reply_signal_eligible": false,
+          "created_at": "2026-08-13T09:46:26Z",
+          "text": "Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both)  \n\nSo I stopped covering them as much. But TLDR on  updates:\n\nEarly this year, IQE was a distressed but critical chokepoint in the optical supply chain with links to $LITE and others when I published my thesis on it.\n\nSince then:\n\n- $MTSI signed long term epiwafer supply agreements, took a stake in the company, now IQE is bank debt free (Macom has convertibles, but that's positive)\n- $TSEM signed agreements for InP epiwafers. \n- Management explicitly said its IQE agreement was signed to secure the \"strategic III-V epiwafer supply required for that roadmap\"\n- IQE signed another ~$14M mysterious AI DC contract. \n\nThe only part that's still playing out with my earlier thesis is IQE converting their latent/underutilized capacity toward AI DC segment, to match peers like Landmark in the space (which takes time, like slightly over a year if I remember correctly). \n\nThere's some national security implications that I'll avoid talking about that makes them more important.\n\nBut basically:\nFY2025 revenue: £97.3m\nFY2026 guidance: over £126.5m\n\nThey're rapidly growing again in the optical sector, out of bank debt/distressed liquidation state, and remains a critical chokepoint in Western optical supply chains. \n\nNow... with new agreements with your leading photonics companies for revenue growth, and players like Macom serving as a soft backstop.  \n\nAfter a thesis gets validated, typically I just sit back and enjoy growth of a business.",
+          "url": "https://x.com/aleabitoreddit/status/2087838176677376186",
+          "sentiment": "Bullish",
+          "importance": 5,
+          "thesis_change": "INSUFFICIENT_HISTORY",
+          "summary_zh": "作者指出其於今年二月提出關於 IQE 的投資論點已獲得驗證。IQE 從面臨債務危機的困境轉變為轉虧為盈，透過與 MACOM（$MTSI）及高塔半導體（$TSEM）簽署長期外延片（epiwafer）供應協議，已徹底清償銀行債務。隨著產能逐步轉向 AI 資料中心（DC）領域，且 2026 財年營收指引超過 1.265 億英鎊，IQE 再次鞏固其作為西方光學供應鏈關鍵瓶頸的地位。",
+          "plain_zh": "IQE 之前是一家瀕臨財務危機但掌握關鍵技術的晶圓外延片供應商。今年以來，公司獲得了 MACOM 入股及長期訂單，擺脫了銀行債務，並與高塔半導體等大廠簽約，鎖定 AI 與光子學所需的關鍵化合物半導體（III-V 族）產能。隨著產能調整至 AI 資料中心領域，公司的營運轉危為安並進入快速成長期。",
+          "core_thesis": "IQE 已走出財務危機並完成債務清償，作為西方光通訊與 AI 資料中心供應鏈中的關鍵 III-V 族外延片瓶頸，其投資論點已獲成功驗證。",
+          "why_it_matters": "IQE 成功清償銀行債務並與 MACOM、TSEM 等業界領頭羊達成長期合作，確保了西方國家在光子學與 AI 關鍵材料上的自主供應，且未來的營收指引大幅成長（2026財年預計超過 1.265 億英鎊）。",
+          "history_note": "雖然作者提及今年二月曾發布論點，但系統無資料庫歷史貼文可供比對，故列為歷史資料不足。就本篇內容而言，作者強烈肯定先前論點已被驗證。",
+          "catalysts": [
+            "與 MACOM（$MTSI）及高塔半導體（$TSEM）簽署長期外延片供應協議",
+            "簽署價值約 1,400 萬美元的神秘 AI 資料中心合約",
+            "產能轉向 AI 資料中心領域（預計需時一年多）"
+          ],
+          "risks": [
+            "將閒置/未充分利用的產能轉換至 AI 資料中心領域需要時間（超過一年）",
+            "MACOM 持有可轉換債券可能帶來的股本稀釋效果"
+          ],
+          "confidence": 95,
+          "ai_status": "ok",
+          "favorite_count": 484,
+          "retweet_count": 22
+        }
+      ]
     }
   ],
   "performance": {
@@ -2084,6 +2135,10 @@
         {
           "date": "2026-08-12",
           "close": 260.31
+        },
+        {
+          "date": "2026-08-13",
+          "close": 252.95
         }
       ]
     },
@@ -2122,10 +2177,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 117.94,
-            "score_return": 117.94,
-            "exit_date": "2026-08-12",
-            "exit_price": 260.31,
+            "raw_return": 111.78,
+            "score_return": 111.78,
+            "exit_date": "2026-08-13",
+            "exit_price": 252.95,
             "hit": true
           }
         },
@@ -2169,10 +2224,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 15.96,
-            "score_return": 15.96,
-            "exit_date": "2026-08-12",
-            "exit_price": 260.31,
+            "raw_return": 12.68,
+            "score_return": 12.68,
+            "exit_date": "2026-08-13",
+            "exit_price": 252.95,
             "hit": true
           }
         },
@@ -2216,10 +2271,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 28.02,
-            "score_return": 28.02,
-            "exit_date": "2026-08-12",
-            "exit_price": 260.31,
+            "raw_return": 24.4,
+            "score_return": 24.4,
+            "exit_date": "2026-08-13",
+            "exit_price": 252.95,
             "hit": true
           }
         },
@@ -2263,10 +2318,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 21.04,
-            "score_return": 21.04,
-            "exit_date": "2026-08-12",
-            "exit_price": 260.31,
+            "raw_return": 17.62,
+            "score_return": 17.62,
+            "exit_date": "2026-08-13",
+            "exit_price": 252.95,
             "hit": true
           }
         },
@@ -2310,10 +2365,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -4.99,
-            "score_return": -4.99,
-            "exit_date": "2026-08-12",
-            "exit_price": 260.31,
+            "raw_return": -7.68,
+            "score_return": -7.68,
+            "exit_date": "2026-08-13",
+            "exit_price": 252.95,
             "hit": false
           }
         },
@@ -2357,10 +2412,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -6.7,
-            "score_return": -6.7,
-            "exit_date": "2026-08-12",
-            "exit_price": 260.31,
+            "raw_return": -9.34,
+            "score_return": -9.34,
+            "exit_date": "2026-08-13",
+            "exit_price": 252.95,
             "hit": false
           }
         },
@@ -2404,10 +2459,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -9.78,
-            "score_return": 9.78,
-            "exit_date": "2026-08-12",
-            "exit_price": 260.31,
+            "raw_return": -12.33,
+            "score_return": 12.33,
+            "exit_date": "2026-08-13",
+            "exit_price": 252.95,
             "hit": true
           }
         },
@@ -2451,10 +2506,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -6.29,
-            "score_return": -6.29,
-            "exit_date": "2026-08-12",
-            "exit_price": 260.31,
+            "raw_return": -8.94,
+            "score_return": -8.94,
+            "exit_date": "2026-08-13",
+            "exit_price": 252.95,
             "hit": false
           }
         },
@@ -2498,10 +2553,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -5.24,
-            "score_return": 5.24,
-            "exit_date": "2026-08-12",
-            "exit_price": 260.31,
+            "raw_return": -7.92,
+            "score_return": 7.92,
+            "exit_date": "2026-08-13",
+            "exit_price": 252.95,
             "hit": true
           }
         },
@@ -2545,10 +2600,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": 10.54,
-            "score_return": 10.54,
-            "exit_date": "2026-08-12",
-            "exit_price": 260.31,
+            "raw_return": 7.42,
+            "score_return": 7.42,
+            "exit_date": "2026-08-13",
+            "exit_price": 252.95,
             "hit": true
           }
         },
@@ -2592,10 +2647,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": 7.55,
-            "score_return": 7.55,
-            "exit_date": "2026-08-12",
-            "exit_price": 260.31,
+            "raw_return": 4.51,
+            "score_return": 4.51,
+            "exit_date": "2026-08-13",
+            "exit_price": 252.95,
             "hit": true
           }
         },
@@ -2639,10 +2694,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": 7.55,
-            "score_return": 7.55,
-            "exit_date": "2026-08-12",
-            "exit_price": 260.31,
+            "raw_return": 4.51,
+            "score_return": 4.51,
+            "exit_date": "2026-08-13",
+            "exit_price": 252.95,
             "hit": true
           }
         },
@@ -2686,10 +2741,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -17.84,
-            "score_return": -17.84,
-            "exit_date": "2026-08-12",
-            "exit_price": 260.31,
+            "raw_return": -20.17,
+            "score_return": -20.17,
+            "exit_date": "2026-08-13",
+            "exit_price": 252.95,
             "hit": false
           }
         },
@@ -2733,10 +2788,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -7.9,
-            "score_return": 7.9,
-            "exit_date": "2026-08-12",
-            "exit_price": 260.31,
+            "raw_return": -10.51,
+            "score_return": 10.51,
+            "exit_date": "2026-08-13",
+            "exit_price": 252.95,
             "hit": true
           }
         },
@@ -2745,6 +2800,53 @@
         "bear_count": 1,
         "neutral_count": 1,
         "bull_share": 0.0
+      },
+      {
+        "date": "2026-08-13",
+        "created_at": "2026-08-13T09:46:26Z",
+        "url": "https://x.com/aleabitoreddit/status/2087838176677376186",
+        "sentiment": "Bullish",
+        "confidence": 95,
+        "importance": 5,
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "IQE 已走出財務危機並完成債務清償，作為西方光通訊與 AI 資料中心供應鏈中的關鍵 III-V 族外延片瓶頸，其投資論點已獲成功驗證。",
+        "entry_date": "2026-08-13",
+        "entry_price": 252.95,
+        "returns": {
+          "1d": {
+            "raw_return": null,
+            "score_return": null,
+            "exit_date": null,
+            "exit_price": null,
+            "hit": null
+          },
+          "7d": {
+            "raw_return": null,
+            "score_return": null,
+            "exit_date": null,
+            "exit_price": null,
+            "hit": null
+          },
+          "30d": {
+            "raw_return": null,
+            "score_return": null,
+            "exit_date": null,
+            "exit_price": null,
+            "hit": null
+          },
+          "now": {
+            "raw_return": 0.0,
+            "score_return": 0.0,
+            "exit_date": "2026-08-13",
+            "exit_price": 252.95,
+            "hit": false
+          }
+        },
+        "mention_count": 1,
+        "bull_count": 1,
+        "bear_count": 0,
+        "neutral_count": 0,
+        "bull_share": 1.0
       }
     ],
     "daily_stances": [
@@ -4367,11 +4469,62 @@
             "retweet_count": 261
           }
         ]
+      },
+      {
+        "date": "2026-08-13",
+        "created_at": "2026-08-13T09:46:26Z",
+        "sentiment": "Bullish",
+        "bull_count": 1,
+        "bear_count": 0,
+        "neutral_count": 0,
+        "mixed_count": 0,
+        "mention_count": 1,
+        "bull_weight": 4.75,
+        "bear_weight": 0.0,
+        "bull_share": 1.0,
+        "importance": 5,
+        "confidence": 95,
+        "thesis_change": "INSUFFICIENT_HISTORY",
+        "core_thesis": "IQE 已走出財務危機並完成債務清償，作為西方光通訊與 AI 資料中心供應鏈中的關鍵 III-V 族外延片瓶頸，其投資論點已獲成功驗證。",
+        "url": "https://x.com/aleabitoreddit/status/2087838176677376186",
+        "tweet_id": "2087838176677376186",
+        "items": [
+          {
+            "tweet_id": "2087838176677376186",
+            "is_reply": false,
+            "kind": "post",
+            "reply_signal_eligible": false,
+            "created_at": "2026-08-13T09:46:26Z",
+            "text": "Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both)  \n\nSo I stopped covering them as much. But TLDR on  updates:\n\nEarly this year, IQE was a distressed but critical chokepoint in the optical supply chain with links to $LITE and others when I published my thesis on it.\n\nSince then:\n\n- $MTSI signed long term epiwafer supply agreements, took a stake in the company, now IQE is bank debt free (Macom has convertibles, but that's positive)\n- $TSEM signed agreements for InP epiwafers. \n- Management explicitly said its IQE agreement was signed to secure the \"strategic III-V epiwafer supply required for that roadmap\"\n- IQE signed another ~$14M mysterious AI DC contract. \n\nThe only part that's still playing out with my earlier thesis is IQE converting their latent/underutilized capacity toward AI DC segment, to match peers like Landmark in the space (which takes time, like slightly over a year if I remember correctly). \n\nThere's some national security implications that I'll avoid talking about that makes them more important.\n\nBut basically:\nFY2025 revenue: £97.3m\nFY2026 guidance: over £126.5m\n\nThey're rapidly growing again in the optical sector, out of bank debt/distressed liquidation state, and remains a critical chokepoint in Western optical supply chains. \n\nNow... with new agreements with your leading photonics companies for revenue growth, and players like Macom serving as a soft backstop.  \n\nAfter a thesis gets validated, typically I just sit back and enjoy growth of a business.",
+            "url": "https://x.com/aleabitoreddit/status/2087838176677376186",
+            "sentiment": "Bullish",
+            "importance": 5,
+            "thesis_change": "INSUFFICIENT_HISTORY",
+            "summary_zh": "作者指出其於今年二月提出關於 IQE 的投資論點已獲得驗證。IQE 從面臨債務危機的困境轉變為轉虧為盈，透過與 MACOM（$MTSI）及高塔半導體（$TSEM）簽署長期外延片（epiwafer）供應協議，已徹底清償銀行債務。隨著產能逐步轉向 AI 資料中心（DC）領域，且 2026 財年營收指引超過 1.265 億英鎊，IQE 再次鞏固其作為西方光學供應鏈關鍵瓶頸的地位。",
+            "plain_zh": "IQE 之前是一家瀕臨財務危機但掌握關鍵技術的晶圓外延片供應商。今年以來，公司獲得了 MACOM 入股及長期訂單，擺脫了銀行債務，並與高塔半導體等大廠簽約，鎖定 AI 與光子學所需的關鍵化合物半導體（III-V 族）產能。隨著產能調整至 AI 資料中心領域，公司的營運轉危為安並進入快速成長期。",
+            "core_thesis": "IQE 已走出財務危機並完成債務清償，作為西方光通訊與 AI 資料中心供應鏈中的關鍵 III-V 族外延片瓶頸，其投資論點已獲成功驗證。",
+            "why_it_matters": "IQE 成功清償銀行債務並與 MACOM、TSEM 等業界領頭羊達成長期合作，確保了西方國家在光子學與 AI 關鍵材料上的自主供應，且未來的營收指引大幅成長（2026財年預計超過 1.265 億英鎊）。",
+            "history_note": "雖然作者提及今年二月曾發布論點，但系統無資料庫歷史貼文可供比對，故列為歷史資料不足。就本篇內容而言，作者強烈肯定先前論點已被驗證。",
+            "catalysts": [
+              "與 MACOM（$MTSI）及高塔半導體（$TSEM）簽署長期外延片供應協議",
+              "簽署價值約 1,400 萬美元的神秘 AI 資料中心合約",
+              "產能轉向 AI 資料中心領域（預計需時一年多）"
+            ],
+            "risks": [
+              "將閒置/未充分利用的產能轉換至 AI 資料中心領域需要時間（超過一年）",
+              "MACOM 持有可轉換債券可能帶來的股本稀釋效果"
+            ],
+            "confidence": 95,
+            "ai_status": "ok",
+            "favorite_count": 484,
+            "retweet_count": 22
+          }
+        ]
       }
     ],
     "excluded_days": 19,
     "summary": {
-      "signals": 14,
+      "signals": 15,
       "horizons": {
         "1d": {
           "sample": 14,
@@ -4389,9 +4542,9 @@
           "hit_rate": 57.1
         },
         "now": {
-          "sample": 14,
-          "avg_score_return": 13.98,
-          "hit_rate": 71.4
+          "sample": 15,
+          "avg_score_return": 11.17,
+          "hit_rate": 66.7
         }
       }
     },
@@ -4400,6 +4553,36 @@
     "include_replies": false
   },
   "primary_posts": [
+    {
+      "tweet_id": "2087838176677376186",
+      "is_reply": false,
+      "kind": "post",
+      "reply_signal_eligible": false,
+      "created_at": "2026-08-13T09:46:26Z",
+      "text": "Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both)  \n\nSo I stopped covering them as much. But TLDR on  updates:\n\nEarly this year, IQE was a distressed but critical chokepoint in the optical supply chain with links to $LITE and others when I published my thesis on it.\n\nSince then:\n\n- $MTSI signed long term epiwafer supply agreements, took a stake in the company, now IQE is bank debt free (Macom has convertibles, but that's positive)\n- $TSEM signed agreements for InP epiwafers. \n- Management explicitly said its IQE agreement was signed to secure the \"strategic III-V epiwafer supply required for that roadmap\"\n- IQE signed another ~$14M mysterious AI DC contract. \n\nThe only part that's still playing out with my earlier thesis is IQE converting their latent/underutilized capacity toward AI DC segment, to match peers like Landmark in the space (which takes time, like slightly over a year if I remember correctly). \n\nThere's some national security implications that I'll avoid talking about that makes them more important.\n\nBut basically:\nFY2025 revenue: £97.3m\nFY2026 guidance: over £126.5m\n\nThey're rapidly growing again in the optical sector, out of bank debt/distressed liquidation state, and remains a critical chokepoint in Western optical supply chains. \n\nNow... with new agreements with your leading photonics companies for revenue growth, and players like Macom serving as a soft backstop.  \n\nAfter a thesis gets validated, typically I just sit back and enjoy growth of a business.",
+      "url": "https://x.com/aleabitoreddit/status/2087838176677376186",
+      "sentiment": "Bullish",
+      "importance": 5,
+      "thesis_change": "INSUFFICIENT_HISTORY",
+      "summary_zh": "作者指出其於今年二月提出關於 IQE 的投資論點已獲得驗證。IQE 從面臨債務危機的困境轉變為轉虧為盈，透過與 MACOM（$MTSI）及高塔半導體（$TSEM）簽署長期外延片（epiwafer）供應協議，已徹底清償銀行債務。隨著產能逐步轉向 AI 資料中心（DC）領域，且 2026 財年營收指引超過 1.265 億英鎊，IQE 再次鞏固其作為西方光學供應鏈關鍵瓶頸的地位。",
+      "plain_zh": "IQE 之前是一家瀕臨財務危機但掌握關鍵技術的晶圓外延片供應商。今年以來，公司獲得了 MACOM 入股及長期訂單，擺脫了銀行債務，並與高塔半導體等大廠簽約，鎖定 AI 與光子學所需的關鍵化合物半導體（III-V 族）產能。隨著產能調整至 AI 資料中心領域，公司的營運轉危為安並進入快速成長期。",
+      "core_thesis": "IQE 已走出財務危機並完成債務清償，作為西方光通訊與 AI 資料中心供應鏈中的關鍵 III-V 族外延片瓶頸，其投資論點已獲成功驗證。",
+      "why_it_matters": "IQE 成功清償銀行債務並與 MACOM、TSEM 等業界領頭羊達成長期合作，確保了西方國家在光子學與 AI 關鍵材料上的自主供應，且未來的營收指引大幅成長（2026財年預計超過 1.265 億英鎊）。",
+      "history_note": "雖然作者提及今年二月曾發布論點，但系統無資料庫歷史貼文可供比對，故列為歷史資料不足。就本篇內容而言，作者強烈肯定先前論點已被驗證。",
+      "catalysts": [
+        "與 MACOM（$MTSI）及高塔半導體（$TSEM）簽署長期外延片供應協議",
+        "簽署價值約 1,400 萬美元的神秘 AI 資料中心合約",
+        "產能轉向 AI 資料中心領域（預計需時一年多）"
+      ],
+      "risks": [
+        "將閒置/未充分利用的產能轉換至 AI 資料中心領域需要時間（超過一年）",
+        "MACOM 持有可轉換債券可能帶來的股本稀釋效果"
+      ],
+      "confidence": 95,
+      "ai_status": "ok",
+      "favorite_count": 484,
+      "retweet_count": 22
+    },
     {
       "tweet_id": "2079622706572804368",
       "is_reply": false,
