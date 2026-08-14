@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T02:08:28.533136Z",
+  "generated_at": "2026-08-14T04:09:16.907573Z",
   "symbol": "SIVE",
   "summary": {
     "primary_count": 230,
@@ -7362,8 +7362,8 @@
           ],
           "confidence": 90,
           "ai_status": "ok",
-          "favorite_count": 888,
-          "retweet_count": 73
+          "favorite_count": 890,
+          "retweet_count": 74
         },
         {
           "tweet_id": "2087447527595692180",
@@ -7392,7 +7392,7 @@
           ],
           "confidence": 90,
           "ai_status": "ok",
-          "favorite_count": 1372,
+          "favorite_count": 1373,
           "retweet_count": 95
         }
       ]
@@ -7443,8 +7443,8 @@
           ],
           "confidence": 85,
           "ai_status": "ok",
-          "favorite_count": 1074,
-          "retweet_count": 58
+          "favorite_count": 1084,
+          "retweet_count": 60
         },
         {
           "tweet_id": "2087846074027295020",
@@ -7474,8 +7474,8 @@
           ],
           "confidence": 80,
           "ai_status": "ok",
-          "favorite_count": 616,
-          "retweet_count": 23
+          "favorite_count": 631,
+          "retweet_count": 26
         }
       ]
     }
@@ -18285,8 +18285,8 @@
             ],
             "confidence": 90,
             "ai_status": "ok",
-            "favorite_count": 888,
-            "retweet_count": 73
+            "favorite_count": 890,
+            "retweet_count": 74
           },
           {
             "tweet_id": "2087447527595692180",
@@ -18315,7 +18315,7 @@
             ],
             "confidence": 90,
             "ai_status": "ok",
-            "favorite_count": 1372,
+            "favorite_count": 1373,
             "retweet_count": 95
           }
         ]
@@ -18366,8 +18366,8 @@
             ],
             "confidence": 85,
             "ai_status": "ok",
-            "favorite_count": 1074,
-            "retweet_count": 58
+            "favorite_count": 1084,
+            "retweet_count": 60
           },
           {
             "tweet_id": "2087846074027295020",
@@ -18397,8 +18397,8 @@
             ],
             "confidence": 80,
             "ai_status": "ok",
-            "favorite_count": 616,
-            "retweet_count": 23
+            "favorite_count": 631,
+            "retweet_count": 26
           }
         ]
       }
@@ -18462,8 +18462,8 @@
       ],
       "confidence": 80,
       "ai_status": "ok",
-      "favorite_count": 616,
-      "retweet_count": 23
+      "favorite_count": 631,
+      "retweet_count": 26
     },
     {
       "tweet_id": "2087807614172488131",
@@ -18492,8 +18492,8 @@
       ],
       "confidence": 85,
       "ai_status": "ok",
-      "favorite_count": 1074,
-      "retweet_count": 58
+      "favorite_count": 1084,
+      "retweet_count": 60
     },
     {
       "tweet_id": "2087447527595692180",
@@ -18522,7 +18522,7 @@
       ],
       "confidence": 90,
       "ai_status": "ok",
-      "favorite_count": 1372,
+      "favorite_count": 1373,
       "retweet_count": 95
     },
     {
@@ -18553,8 +18553,8 @@
       ],
       "confidence": 90,
       "ai_status": "ok",
-      "favorite_count": 888,
-      "retweet_count": 73
+      "favorite_count": 890,
+      "retweet_count": 74
     },
     {
       "tweet_id": "2086730782425727183",

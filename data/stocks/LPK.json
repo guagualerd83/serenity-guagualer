@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-14T02:08:28.533136Z",
+  "generated_at": "2026-08-14T04:09:16.907573Z",
   "symbol": "LPK",
   "summary": {
-    "primary_count": 41,
+    "primary_count": 42,
     "reply_count": 17,
     "first_mentioned_at": "2026-04-21T04:43:57Z",
-    "last_mentioned_at": "2026-07-26T20:12:11Z",
+    "last_mentioned_at": "2026-08-14T04:06:28Z",
     "latest_sentiment": "Neutral",
-    "latest_thesis": "",
-    "latest_change": "UPDATE",
+    "latest_thesis": "玻璃基板大廠量產時程延後 1-2 個季度，設備供應商的放量時程亦將隨之同步後移。",
+    "latest_change": "NEW",
     "sentiments": {
       "Bullish": 15,
-      "Neutral": 39,
+      "Neutral": 40,
       "Bearish": 4
     }
   },
@@ -1665,6 +1665,56 @@
           "ai_status": "",
           "favorite_count": 1291,
           "retweet_count": 87
+        }
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "created_at": "2026-08-14T04:06:28Z",
+      "sentiment": "Neutral",
+      "bull_count": 0,
+      "bear_count": 0,
+      "neutral_count": 1,
+      "mixed_count": 0,
+      "mention_count": 1,
+      "bull_weight": 0.0,
+      "bear_weight": 0.0,
+      "bull_share": null,
+      "importance": 3,
+      "confidence": 90,
+      "thesis_change": "NEW",
+      "core_thesis": "玻璃基板大廠量產時程延後 1-2 個季度，設備供應商的放量時程亦將隨之同步後移。",
+      "url": "https://x.com/aleabitoreddit/status/2088115008827715971",
+      "tweet_id": "2088115008827715971",
+      "items": [
+        {
+          "tweet_id": "2088115008827715971",
+          "is_reply": false,
+          "kind": "post",
+          "reply_signal_eligible": false,
+          "created_at": "2026-08-14T04:06:28Z",
+          "text": "Feels like glass substrate timelines got pushed back at least another quarter.\n\n- \"Samsung Electro-Mechanics Delays Semiconductor Glass Substrate Investment\" due to a bottleneck in customer reliability evaluations of prototypes.\n\nAt its recent second-quarter earnings presentation, less than a month later, the company revised the start of operations to 2028.\n\n- \"SKC Reportedly Pushes Glass Substrate Mass Production to 2027, Targets Final Validation by Year-end\" (Trendforce), earlier last month. \n\nTLDR: \n- SKC Absolics H2 2026 -> H1 2027\n- Samsung H2 2027 -> H1 2028\n\nNot everything is always good news with timeline shifts, but glass core substrate shifts do feel imminent.\n\nVolume ramp for some players eg. $LPK / Philoptics (161580) / E&R (8027) likely track these  mass production timelines.",
+          "url": "https://x.com/aleabitoreddit/status/2088115008827715971",
+          "sentiment": "Neutral",
+          "importance": 3,
+          "thesis_change": "NEW",
+          "summary_zh": "貼文指出玻璃基板（Glass Substrate）的量產時程似乎普遍延後了至少一個季度。包含三星電機（Samsung Electro-Mechanics）營運時間延至 2028 年，以及 SKC Absolics 量產推遲至 2027 年上半年。儘管時程推遲，但玻璃核心基板的技術採用仍被視為勢在必行，相關設備供應商（如 LPKF、Philoptics、E&R）的放量時程將隨之同步後移。",
+          "plain_zh": "下一代半導體封裝關鍵技術「玻璃基板」的量產時間比預期慢了。韓國兩大巨頭三星電機和 SKC 都把大規模量產時間往後延了半年至一年（主要是客戶驗證原型產品遇到瓶頸）。雖然進度延後，但這項技術轉型的大趨勢沒有變，只是提供相關生產設備的供應商，其營收爆發的時間點需要相應往後推遲。",
+          "core_thesis": "玻璃基板大廠量產時程延後 1-2 個季度，設備供應商的放量時程亦將隨之同步後移。",
+          "why_it_matters": "玻璃基板被視為先進封裝的關鍵突破方向，但商業化時程延後將直接影響供應鏈設備廠的營收認列時間點，投資人需調整對相關設備股的短期成長預期。",
+          "history_note": "歷史資料庫無相關貼文，本次為首次記錄作者對玻璃基板供應鏈時程的看法。",
+          "catalysts": [
+            "SKC Absolics 預計於年底前完成客戶最終驗證",
+            "各家玻璃基板廠原型產品的客戶可靠度驗證 bottleneck 得到解決"
+          ],
+          "risks": [
+            "客戶可靠度驗證持續遇到瓶頸，導致量產時程進一步延後",
+            "設備廠商因客戶量產放量延後而面臨短期營收延宕"
+          ],
+          "confidence": 90,
+          "ai_status": "ok",
+          "favorite_count": 30,
+          "retweet_count": 5
         }
       ]
     }
@@ -3335,9 +3385,59 @@
             "retweet_count": 87
           }
         ]
+      },
+      {
+        "date": "2026-08-14",
+        "created_at": "2026-08-14T04:06:28Z",
+        "sentiment": "Neutral",
+        "bull_count": 0,
+        "bear_count": 0,
+        "neutral_count": 1,
+        "mixed_count": 0,
+        "mention_count": 1,
+        "bull_weight": 0.0,
+        "bear_weight": 0.0,
+        "bull_share": null,
+        "importance": 3,
+        "confidence": 90,
+        "thesis_change": "NEW",
+        "core_thesis": "玻璃基板大廠量產時程延後 1-2 個季度，設備供應商的放量時程亦將隨之同步後移。",
+        "url": "https://x.com/aleabitoreddit/status/2088115008827715971",
+        "tweet_id": "2088115008827715971",
+        "items": [
+          {
+            "tweet_id": "2088115008827715971",
+            "is_reply": false,
+            "kind": "post",
+            "reply_signal_eligible": false,
+            "created_at": "2026-08-14T04:06:28Z",
+            "text": "Feels like glass substrate timelines got pushed back at least another quarter.\n\n- \"Samsung Electro-Mechanics Delays Semiconductor Glass Substrate Investment\" due to a bottleneck in customer reliability evaluations of prototypes.\n\nAt its recent second-quarter earnings presentation, less than a month later, the company revised the start of operations to 2028.\n\n- \"SKC Reportedly Pushes Glass Substrate Mass Production to 2027, Targets Final Validation by Year-end\" (Trendforce), earlier last month. \n\nTLDR: \n- SKC Absolics H2 2026 -> H1 2027\n- Samsung H2 2027 -> H1 2028\n\nNot everything is always good news with timeline shifts, but glass core substrate shifts do feel imminent.\n\nVolume ramp for some players eg. $LPK / Philoptics (161580) / E&R (8027) likely track these  mass production timelines.",
+            "url": "https://x.com/aleabitoreddit/status/2088115008827715971",
+            "sentiment": "Neutral",
+            "importance": 3,
+            "thesis_change": "NEW",
+            "summary_zh": "貼文指出玻璃基板（Glass Substrate）的量產時程似乎普遍延後了至少一個季度。包含三星電機（Samsung Electro-Mechanics）營運時間延至 2028 年，以及 SKC Absolics 量產推遲至 2027 年上半年。儘管時程推遲，但玻璃核心基板的技術採用仍被視為勢在必行，相關設備供應商（如 LPKF、Philoptics、E&R）的放量時程將隨之同步後移。",
+            "plain_zh": "下一代半導體封裝關鍵技術「玻璃基板」的量產時間比預期慢了。韓國兩大巨頭三星電機和 SKC 都把大規模量產時間往後延了半年至一年（主要是客戶驗證原型產品遇到瓶頸）。雖然進度延後，但這項技術轉型的大趨勢沒有變，只是提供相關生產設備的供應商，其營收爆發的時間點需要相應往後推遲。",
+            "core_thesis": "玻璃基板大廠量產時程延後 1-2 個季度，設備供應商的放量時程亦將隨之同步後移。",
+            "why_it_matters": "玻璃基板被視為先進封裝的關鍵突破方向，但商業化時程延後將直接影響供應鏈設備廠的營收認列時間點，投資人需調整對相關設備股的短期成長預期。",
+            "history_note": "歷史資料庫無相關貼文，本次為首次記錄作者對玻璃基板供應鏈時程的看法。",
+            "catalysts": [
+              "SKC Absolics 預計於年底前完成客戶最終驗證",
+              "各家玻璃基板廠原型產品的客戶可靠度驗證 bottleneck 得到解決"
+            ],
+            "risks": [
+              "客戶可靠度驗證持續遇到瓶頸，導致量產時程進一步延後",
+              "設備廠商因客戶量產放量延後而面臨短期營收延宕"
+            ],
+            "confidence": 90,
+            "ai_status": "ok",
+            "favorite_count": 30,
+            "retweet_count": 5
+          }
+        ]
       }
     ],
-    "excluded_days": 21,
+    "excluded_days": 22,
     "summary": {
       "signals": 0,
       "horizons": {
@@ -3368,6 +3468,35 @@
     "include_replies": false
   },
   "primary_posts": [
+    {
+      "tweet_id": "2088115008827715971",
+      "is_reply": false,
+      "kind": "post",
+      "reply_signal_eligible": false,
+      "created_at": "2026-08-14T04:06:28Z",
+      "text": "Feels like glass substrate timelines got pushed back at least another quarter.\n\n- \"Samsung Electro-Mechanics Delays Semiconductor Glass Substrate Investment\" due to a bottleneck in customer reliability evaluations of prototypes.\n\nAt its recent second-quarter earnings presentation, less than a month later, the company revised the start of operations to 2028.\n\n- \"SKC Reportedly Pushes Glass Substrate Mass Production to 2027, Targets Final Validation by Year-end\" (Trendforce), earlier last month. \n\nTLDR: \n- SKC Absolics H2 2026 -> H1 2027\n- Samsung H2 2027 -> H1 2028\n\nNot everything is always good news with timeline shifts, but glass core substrate shifts do feel imminent.\n\nVolume ramp for some players eg. $LPK / Philoptics (161580) / E&R (8027) likely track these  mass production timelines.",
+      "url": "https://x.com/aleabitoreddit/status/2088115008827715971",
+      "sentiment": "Neutral",
+      "importance": 3,
+      "thesis_change": "NEW",
+      "summary_zh": "貼文指出玻璃基板（Glass Substrate）的量產時程似乎普遍延後了至少一個季度。包含三星電機（Samsung Electro-Mechanics）營運時間延至 2028 年，以及 SKC Absolics 量產推遲至 2027 年上半年。儘管時程推遲，但玻璃核心基板的技術採用仍被視為勢在必行，相關設備供應商（如 LPKF、Philoptics、E&R）的放量時程將隨之同步後移。",
+      "plain_zh": "下一代半導體封裝關鍵技術「玻璃基板」的量產時間比預期慢了。韓國兩大巨頭三星電機和 SKC 都把大規模量產時間往後延了半年至一年（主要是客戶驗證原型產品遇到瓶頸）。雖然進度延後，但這項技術轉型的大趨勢沒有變，只是提供相關生產設備的供應商，其營收爆發的時間點需要相應往後推遲。",
+      "core_thesis": "玻璃基板大廠量產時程延後 1-2 個季度，設備供應商的放量時程亦將隨之同步後移。",
+      "why_it_matters": "玻璃基板被視為先進封裝的關鍵突破方向，但商業化時程延後將直接影響供應鏈設備廠的營收認列時間點，投資人需調整對相關設備股的短期成長預期。",
+      "history_note": "歷史資料庫無相關貼文，本次為首次記錄作者對玻璃基板供應鏈時程的看法。",
+      "catalysts": [
+        "SKC Absolics 預計於年底前完成客戶最終驗證",
+        "各家玻璃基板廠原型產品的客戶可靠度驗證 bottleneck 得到解決"
+      ],
+      "risks": [
+        "客戶可靠度驗證持續遇到瓶頸，導致量產時程進一步延後",
+        "設備廠商因客戶量產放量延後而面臨短期營收延宕"
+      ],
+      "confidence": 90,
+      "ai_status": "ok",
+      "favorite_count": 30,
+      "retweet_count": 5
+    },
     {
       "tweet_id": "2081472671129501729",
       "is_reply": false,

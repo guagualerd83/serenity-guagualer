@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T02:08:28.533136Z",
+  "generated_at": "2026-08-14T04:09:16.907573Z",
   "symbol": "IQE",
   "summary": {
     "primary_count": 52,
@@ -2049,7 +2049,7 @@
           "risks": [],
           "confidence": 95,
           "ai_status": "ok",
-          "favorite_count": 745,
+          "favorite_count": 753,
           "retweet_count": 19
         },
         {
@@ -2079,8 +2079,8 @@
           ],
           "confidence": 95,
           "ai_status": "ok",
-          "favorite_count": 484,
-          "retweet_count": 22
+          "favorite_count": 494,
+          "retweet_count": 24
         }
       ]
     }
@@ -4133,7 +4133,7 @@
             "risks": [],
             "confidence": 95,
             "ai_status": "ok",
-            "favorite_count": 745,
+            "favorite_count": 753,
             "retweet_count": 19
           },
           {
@@ -4163,8 +4163,8 @@
             ],
             "confidence": 95,
             "ai_status": "ok",
-            "favorite_count": 484,
-            "retweet_count": 22
+            "favorite_count": 494,
+            "retweet_count": 24
           }
         ]
       }
@@ -4227,8 +4227,8 @@
       ],
       "confidence": 95,
       "ai_status": "ok",
-      "favorite_count": 484,
-      "retweet_count": 22
+      "favorite_count": 494,
+      "retweet_count": 24
     },
     {
       "tweet_id": "2087733927930929435",
@@ -4250,7 +4250,7 @@
       "risks": [],
       "confidence": 95,
       "ai_status": "ok",
-      "favorite_count": 745,
+      "favorite_count": 753,
       "retweet_count": 19
     },
     {

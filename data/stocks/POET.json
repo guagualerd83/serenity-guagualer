@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T02:08:28.533136Z",
+  "generated_at": "2026-08-14T04:09:16.907573Z",
   "symbol": "POET",
   "summary": {
     "primary_count": 41,
@@ -1626,8 +1626,8 @@
           ],
           "confidence": 90,
           "ai_status": "ok",
-          "favorite_count": 881,
-          "retweet_count": 70
+          "favorite_count": 887,
+          "retweet_count": 71
         }
       ]
     },
@@ -1678,8 +1678,8 @@
           ],
           "confidence": 80,
           "ai_status": "ok",
-          "favorite_count": 616,
-          "retweet_count": 23
+          "favorite_count": 631,
+          "retweet_count": 26
         }
       ]
     }
@@ -4721,8 +4721,8 @@
             ],
             "confidence": 90,
             "ai_status": "ok",
-            "favorite_count": 881,
-            "retweet_count": 70
+            "favorite_count": 887,
+            "retweet_count": 71
           }
         ]
       },
@@ -4773,8 +4773,8 @@
             ],
             "confidence": 80,
             "ai_status": "ok",
-            "favorite_count": 616,
-            "retweet_count": 23
+            "favorite_count": 631,
+            "retweet_count": 26
           }
         ]
       }
@@ -4838,8 +4838,8 @@
       ],
       "confidence": 80,
       "ai_status": "ok",
-      "favorite_count": 616,
-      "retweet_count": 23
+      "favorite_count": 631,
+      "retweet_count": 26
     },
     {
       "tweet_id": "2087675367595380783",
@@ -4868,8 +4868,8 @@
       ],
       "confidence": 90,
       "ai_status": "ok",
-      "favorite_count": 881,
-      "retweet_count": 70
+      "favorite_count": 887,
+      "retweet_count": 71
     },
     {
       "tweet_id": "2085628664528662818",

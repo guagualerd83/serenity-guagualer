@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T02:08:28.533136Z",
+  "generated_at": "2026-08-14T04:09:16.907573Z",
   "symbol": "TSM",
   "summary": {
     "primary_count": 52,
@@ -2233,7 +2233,7 @@
         },
         {
           "date": "2025-12-30",
-          "close": 298.0402
+          "close": 298.0403
         },
         {
           "date": "2025-12-31",
@@ -2281,7 +2281,7 @@
         },
         {
           "date": "2026-01-16",
-          "close": 340.6402
+          "close": 340.6401
         },
         {
           "date": "2026-01-20",
@@ -2325,7 +2325,7 @@
         },
         {
           "date": "2026-02-03",
-          "close": 334.0244
+          "close": 334.0243
         },
         {
           "date": "2026-02-04",
@@ -2361,7 +2361,7 @@
         },
         {
           "date": "2026-02-17",
-          "close": 362.3282
+          "close": 362.3281
         },
         {
           "date": "2026-02-18",
@@ -2425,7 +2425,7 @@
         },
         {
           "date": "2026-03-11",
-          "close": 352.7377
+          "close": 352.7376
         },
         {
           "date": "2026-03-12",
@@ -2437,7 +2437,7 @@
         },
         {
           "date": "2026-03-16",
-          "close": 338.4814
+          "close": 338.4813
         },
         {
           "date": "2026-03-17",
@@ -2874,7 +2874,7 @@
             "raw_return": -0.59,
             "score_return": -0.59,
             "exit_date": "2026-02-17",
-            "exit_price": 362.3282,
+            "exit_price": 362.3281,
             "hit": false
           },
           "7d": {
@@ -2888,7 +2888,7 @@
             "raw_return": -7.13,
             "score_return": -7.13,
             "exit_date": "2026-03-16",
-            "exit_price": 338.4814,
+            "exit_price": 338.4813,
             "hit": false
           },
           "now": {
@@ -2928,7 +2928,7 @@
             "raw_return": -0.81,
             "score_return": 0.81,
             "exit_date": "2026-03-11",
-            "exit_price": 352.7377,
+            "exit_price": 352.7376,
             "hit": true
           },
           "30d": {
@@ -2975,7 +2975,7 @@
             "raw_return": -2.43,
             "score_return": 2.43,
             "exit_date": "2026-03-16",
-            "exit_price": 338.4814,
+            "exit_price": 338.4813,
             "hit": true
           },
           "30d": {
@@ -3009,7 +3009,7 @@
         "thesis_change": "UPDATE",
         "core_thesis": "",
         "entry_date": "2026-03-11",
-        "entry_price": 352.7377,
+        "entry_price": 352.7376,
         "returns": {
           "1d": {
             "raw_return": -5.03,

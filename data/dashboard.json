@@ -2,7 +2,7 @@
   "site": {
     "title": "Serenity Research",
     "subtitle": "Public research dashboard based on Serenity's public X posts.",
-    "generated_at": "2026-08-14T02:08:28.533136Z",
+    "generated_at": "2026-08-14T04:09:16.907573Z",
     "disclaimer": "Public-post aggregation for research only. Not investment advice."
   },
   "periods": {
@@ -11,42 +11,59 @@
       "label": "每日",
       "days": 1,
       "start_at": "2026-08-13T16:00:00Z",
-      "generated_at": "2026-08-14T02:08:28.407511Z",
+      "generated_at": "2026-08-14T04:09:16.544315Z",
       "earliest_available_at": "2025-11-17T16:12:21Z",
       "traversed_until": "2026-04-13T02:42:25Z",
-      "coverage_days": 122,
+      "coverage_days": 123,
       "coverage_complete": true,
-      "tweet_count": 0,
-      "primary_post_count": 0,
+      "tweet_count": 1,
+      "primary_post_count": 1,
       "reply_context_count": 0,
-      "all_collected_count": 0,
-      "symbol_count": 0,
+      "all_collected_count": 1,
+      "symbol_count": 1,
       "high_importance_count": 0,
-      "ai_analyzed_count": 0,
-      "sentiments": {},
-      "symbols": []
+      "ai_analyzed_count": 1,
+      "sentiments": {
+        "Neutral": 1
+      },
+      "symbols": [
+        {
+          "symbol": "LPK",
+          "mentions": 1,
+          "dominant_sentiment": "Neutral",
+          "sentiment_score": 0,
+          "max_importance": 3,
+          "latest_at": "2026-08-14T04:06:28Z",
+          "latest_thesis": "玻璃基板大廠量產時程延後 1-2 個季度，設備供應商的放量時程亦將隨之同步後移。",
+          "latest_summary_zh": "貼文指出玻璃基板（Glass Substrate）的量產時程似乎普遍延後了至少一個季度。包含三星電機（Samsung Electro-Mechanics）營運時間延至 2028 年，以及 SKC Absolics 量產推遲至 2027 年上半年。儘管時程推遲，但玻璃核心基板的技術採用仍被視為勢在必行，相關設備供應商（如 LPKF、Philoptics、E&R）的放量時程將隨之同步後移。",
+          "latest_change": "NEW",
+          "sentiments": {
+            "Neutral": 1
+          }
+        }
+      ]
     },
     "weekly": {
       "period": "weekly",
       "label": "每週",
       "days": 7,
-      "start_at": "2026-08-07T02:08:28.407511Z",
-      "generated_at": "2026-08-14T02:08:28.423023Z",
+      "start_at": "2026-08-07T04:09:16.544315Z",
+      "generated_at": "2026-08-14T04:09:16.588829Z",
       "earliest_available_at": "2025-11-17T16:12:21Z",
       "traversed_until": "2026-04-13T02:42:25Z",
-      "coverage_days": 122,
+      "coverage_days": 123,
       "coverage_complete": true,
-      "tweet_count": 36,
-      "primary_post_count": 36,
+      "tweet_count": 37,
+      "primary_post_count": 37,
       "reply_context_count": 14,
-      "all_collected_count": 50,
-      "symbol_count": 37,
+      "all_collected_count": 51,
+      "symbol_count": 38,
       "high_importance_count": 22,
-      "ai_analyzed_count": 20,
+      "ai_analyzed_count": 21,
       "sentiments": {
+        "Neutral": 14,
         "Mixed": 1,
         "Bullish": 20,
-        "Neutral": 13,
         "Bearish": 2
       },
       "symbols": [
@@ -530,6 +547,20 @@
           }
         },
         {
+          "symbol": "LPK",
+          "mentions": 1,
+          "dominant_sentiment": "Neutral",
+          "sentiment_score": 0,
+          "max_importance": 3,
+          "latest_at": "2026-08-14T04:06:28Z",
+          "latest_thesis": "玻璃基板大廠量產時程延後 1-2 個季度，設備供應商的放量時程亦將隨之同步後移。",
+          "latest_summary_zh": "貼文指出玻璃基板（Glass Substrate）的量產時程似乎普遍延後了至少一個季度。包含三星電機（Samsung Electro-Mechanics）營運時間延至 2028 年，以及 SKC Absolics 量產推遲至 2027 年上半年。儘管時程推遲，但玻璃核心基板的技術採用仍被視為勢在必行，相關設備供應商（如 LPKF、Philoptics、E&R）的放量時程將隨之同步後移。",
+          "latest_change": "NEW",
+          "sentiments": {
+            "Neutral": 1
+          }
+        },
+        {
           "symbol": "RKLB",
           "mentions": 1,
           "dominant_sentiment": "Neutral",
@@ -591,24 +622,24 @@
       "period": "monthly",
       "label": "每月",
       "days": 28,
-      "start_at": "2026-07-17T02:08:28.423023Z",
-      "generated_at": "2026-08-14T02:08:28.444252Z",
+      "start_at": "2026-07-17T04:09:16.590335Z",
+      "generated_at": "2026-08-14T04:09:16.645367Z",
       "earliest_available_at": "2025-11-17T16:12:21Z",
       "traversed_until": "2026-04-13T02:42:25Z",
-      "coverage_days": 122,
+      "coverage_days": 123,
       "coverage_complete": true,
       "tweet_count": 99,
       "primary_post_count": 99,
       "reply_context_count": 69,
       "all_collected_count": 168,
       "symbol_count": 70,
-      "high_importance_count": 45,
-      "ai_analyzed_count": 23,
+      "high_importance_count": 44,
+      "ai_analyzed_count": 24,
       "sentiments": {
+        "Neutral": 56,
         "Mixed": 1,
         "Bullish": 37,
-        "Neutral": 55,
-        "Bearish": 6
+        "Bearish": 5
       },
       "symbols": [
         {
@@ -769,22 +800,6 @@
           }
         },
         {
-          "symbol": "MU",
-          "mentions": 8,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 3,
-          "max_importance": 5,
-          "latest_at": "2026-08-08T17:52:29Z",
-          "latest_thesis": "Yes, I'm still bullish on memory like $MU / Samsung.  As I said earlier, markets tend to rotate from bottleneck to bottleneck.  This week it looks $AXTI to $LITE in the photonic...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
-          "sentiments": {
-            "Bullish": 4,
-            "Neutral": 3,
-            "Bearish": 1
-          }
-        },
-        {
           "symbol": "MTSI",
           "mentions": 7,
           "dominant_sentiment": "Bullish",
@@ -797,6 +812,21 @@
           "sentiments": {
             "Bullish": 5,
             "Neutral": 2
+          }
+        },
+        {
+          "symbol": "MU",
+          "mentions": 7,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 4,
+          "max_importance": 5,
+          "latest_at": "2026-08-08T17:52:29Z",
+          "latest_thesis": "Yes, I'm still bullish on memory like $MU / Samsung.  As I said earlier, markets tend to rotate from bottleneck to bottleneck.  This week it looks $AXTI to $LITE in the photonic...",
+          "latest_summary_zh": "",
+          "latest_change": "NEW",
+          "sentiments": {
+            "Bullish": 4,
+            "Neutral": 3
           }
         },
         {
@@ -813,21 +843,6 @@
             "Neutral": 5,
             "Bearish": 1,
             "Bullish": 1
-          }
-        },
-        {
-          "symbol": "INTC",
-          "mentions": 7,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": -1,
-          "max_importance": 4,
-          "latest_at": "2026-07-30T18:31:07Z",
-          "latest_thesis": "Did Citadel really just liquidate Situational Awareness…  Then brought up entire markets the next day?  $NBIS +26.25% $IREN +25.96% $SHAZ +22.82% $SNDK + 23.98% $BE +23.67% $SKH...",
-          "latest_summary_zh": "",
-          "latest_change": "MENTION",
-          "sentiments": {
-            "Neutral": 6,
-            "Bearish": 1
           }
         },
         {
@@ -859,6 +874,20 @@
             "Mixed": 1,
             "Bullish": 4,
             "Neutral": 1
+          }
+        },
+        {
+          "symbol": "INTC",
+          "mentions": 6,
+          "dominant_sentiment": "Neutral",
+          "sentiment_score": 0,
+          "max_importance": 4,
+          "latest_at": "2026-07-30T18:31:07Z",
+          "latest_thesis": "Did Citadel really just liquidate Situational Awareness…  Then brought up entire markets the next day?  $NBIS +26.25% $IREN +25.96% $SHAZ +22.82% $SNDK + 23.98% $BE +23.67% $SKH...",
+          "latest_summary_zh": "",
+          "latest_change": "MENTION",
+          "sentiments": {
+            "Neutral": 6
           }
         },
         {
@@ -1029,18 +1058,17 @@
           }
         },
         {
-          "symbol": "SKHY",
+          "symbol": "LPK",
           "mentions": 3,
           "dominant_sentiment": "Neutral",
-          "sentiment_score": -1,
+          "sentiment_score": 0,
           "max_importance": 4,
-          "latest_at": "2026-07-30T18:31:07Z",
-          "latest_thesis": "Did Citadel really just liquidate Situational Awareness…  Then brought up entire markets the next day?  $NBIS +26.25% $IREN +25.96% $SHAZ +22.82% $SNDK + 23.98% $BE +23.67% $SKH...",
-          "latest_summary_zh": "",
-          "latest_change": "MENTION",
+          "latest_at": "2026-08-14T04:06:28Z",
+          "latest_thesis": "玻璃基板大廠量產時程延後 1-2 個季度，設備供應商的放量時程亦將隨之同步後移。",
+          "latest_summary_zh": "貼文指出玻璃基板（Glass Substrate）的量產時程似乎普遍延後了至少一個季度。包含三星電機（Samsung Electro-Mechanics）營運時間延至 2028 年，以及 SKC Absolics 量產推遲至 2027 年上半年。儘管時程推遲，但玻璃核心基板的技術採用仍被視為勢在必行，相關設備供應商（如 LPKF、Philoptics、E&R）的放量時程將隨之同步後移。",
+          "latest_change": "NEW",
           "sentiments": {
-            "Neutral": 2,
-            "Bearish": 1
+            "Neutral": 3
           }
         },
         {
@@ -1177,20 +1205,6 @@
           }
         },
         {
-          "symbol": "LPK",
-          "mentions": 2,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 0,
-          "max_importance": 4,
-          "latest_at": "2026-07-26T20:12:11Z",
-          "latest_thesis": "Just some TLDR news:  - $CXMT IPO tomorrow if you like Chinese memory.   - Samsung Electronics reportedly struggling to secure large FC-BGA substrates. Ibiden (4062) reportedly...",
-          "latest_summary_zh": "",
-          "latest_change": "UPDATE",
-          "sentiments": {
-            "Neutral": 2
-          }
-        },
-        {
           "symbol": "CIFR",
           "mentions": 2,
           "dominant_sentiment": "Neutral",
@@ -1234,6 +1248,20 @@
         },
         {
           "symbol": "SHAZ",
+          "mentions": 2,
+          "dominant_sentiment": "Neutral",
+          "sentiment_score": 0,
+          "max_importance": 3,
+          "latest_at": "2026-07-30T18:31:07Z",
+          "latest_thesis": "Did Citadel really just liquidate Situational Awareness…  Then brought up entire markets the next day?  $NBIS +26.25% $IREN +25.96% $SHAZ +22.82% $SNDK + 23.98% $BE +23.67% $SKH...",
+          "latest_summary_zh": "",
+          "latest_change": "MENTION",
+          "sentiments": {
+            "Neutral": 2
+          }
+        },
+        {
+          "symbol": "SKHY",
           "mentions": 2,
           "dominant_sentiment": "Neutral",
           "sentiment_score": 0,
@@ -1644,23 +1672,23 @@
       "period": "quarterly",
       "label": "每季",
       "days": 90,
-      "start_at": "2026-05-16T02:08:28.444252Z",
-      "generated_at": "2026-08-14T02:08:28.508791Z",
+      "start_at": "2026-05-16T04:09:16.645367Z",
+      "generated_at": "2026-08-14T04:09:16.854026Z",
       "earliest_available_at": "2025-11-17T16:12:21Z",
       "traversed_until": "2026-04-13T02:42:25Z",
-      "coverage_days": 122,
+      "coverage_days": 123,
       "coverage_complete": true,
-      "tweet_count": 543,
-      "primary_post_count": 543,
+      "tweet_count": 544,
+      "primary_post_count": 544,
       "reply_context_count": 697,
-      "all_collected_count": 1240,
+      "all_collected_count": 1241,
       "symbol_count": 168,
       "high_importance_count": 194,
-      "ai_analyzed_count": 33,
+      "ai_analyzed_count": 34,
       "sentiments": {
+        "Neutral": 366,
         "Mixed": 2,
         "Bullish": 145,
-        "Neutral": 365,
         "Bearish": 31
       },
       "symbols": [
@@ -2084,16 +2112,16 @@
         },
         {
           "symbol": "LPK",
-          "mentions": 19,
+          "mentions": 20,
           "dominant_sentiment": "Neutral",
           "sentiment_score": 2,
           "max_importance": 5,
-          "latest_at": "2026-07-26T20:12:11Z",
-          "latest_thesis": "Just some TLDR news:  - $CXMT IPO tomorrow if you like Chinese memory.   - Samsung Electronics reportedly struggling to secure large FC-BGA substrates. Ibiden (4062) reportedly...",
-          "latest_summary_zh": "",
-          "latest_change": "UPDATE",
+          "latest_at": "2026-08-14T04:06:28Z",
+          "latest_thesis": "玻璃基板大廠量產時程延後 1-2 個季度，設備供應商的放量時程亦將隨之同步後移。",
+          "latest_summary_zh": "貼文指出玻璃基板（Glass Substrate）的量產時程似乎普遍延後了至少一個季度。包含三星電機（Samsung Electro-Mechanics）營運時間延至 2028 年，以及 SKC Absolics 量產推遲至 2027 年上半年。儘管時程推遲，但玻璃核心基板的技術採用仍被視為勢在必行，相關設備供應商（如 LPKF、Philoptics、E&R）的放量時程將隨之同步後移。",
+          "latest_change": "NEW",
           "sentiments": {
-            "Neutral": 13,
+            "Neutral": 14,
             "Bullish": 4,
             "Bearish": 2
           }
@@ -4146,6 +4174,21 @@
   },
   "latest_primary_posts": [
     {
+      "tweet_id": "2088115008827715971",
+      "created_at": "2026-08-14T04:06:28Z",
+      "text": "Feels like glass substrate timelines got pushed back at least another quarter.\n\n- \"Samsung Electro-Mechanics Delays Semiconductor Glass Substrate Investment\" due to a bottleneck in customer reliability evaluations of prototypes.\n\nAt its recent second-quarter earnings presentation, less than a month later, the company revised the start of operations to 2028.\n\n- \"SKC Reportedly Pushes Glass Substrate Mass Production to 2027, Targets Final Validation by Year-end\" (Trendforce), earlier last month. \n\nTLDR: \n- SKC Absolics H2 2026 -> H1 2027\n- Samsung H2 2027 -> H1 2028\n\nNot everything is always good news with timeline shifts, but glass core substrate shifts do feel imminent.\n\nVolume ramp for some players eg. $LPK / Philoptics (161580) / E&R (8027) likely track these  mass production timelines.",
+      "url": "https://x.com/aleabitoreddit/status/2088115008827715971",
+      "symbols": [
+        "LPK"
+      ],
+      "sentiment": "Neutral",
+      "importance": 3,
+      "summary_zh": "貼文指出玻璃基板（Glass Substrate）的量產時程似乎普遍延後了至少一個季度。包含三星電機（Samsung Electro-Mechanics）營運時間延至 2028 年，以及 SKC Absolics 量產推遲至 2027 年上半年。儘管時程推遲，但玻璃核心基板的技術採用仍被視為勢在必行，相關設備供應商（如 LPKF、Philoptics、E&R）的放量時程將隨之同步後移。",
+      "core_thesis": "玻璃基板大廠量產時程延後 1-2 個季度，設備供應商的放量時程亦將隨之同步後移。",
+      "why_it_matters": "玻璃基板被視為先進封裝的關鍵突破方向，但商業化時程延後將直接影響供應鏈設備廠的營收認列時間點，投資人需調整對相關設備股的短期成長預期。",
+      "thesis_change": "NEW"
+    },
+    {
       "tweet_id": "2087867722784805170",
       "created_at": "2026-08-13T11:43:50Z",
       "text": "In IPO news… Vantage Data Centers is exploring going public at an enormous $100B valuation. \n\nIf you’re not familiar, $ORCL is their anchor tenant for Stargate (OpenAI end user), and Vantage develops/operates hyperscaler DCs.\n\nAnthropic IPO is also expected, with investors expecting $2T valuation, eclipsing $SPCX per FT.\n\nYeah… idk about Anthropic valuations. Jim Cramer defending that valuation is never a good sign. \n\nOn a side note, Opus 5 is probably the worst consumer LLM I’ve used to date, it’s like a 5 IQ LLM operating off terrible data retrieval. With a Fable-like God complex on top.\n\nEnterprise is probably having a better time though. \n\nUnitree IPO is also expected this month and priced it at a $9B valuation. Which is a positive tailwind for Unitree for the humanoid sectors. \n\nNot really an AI name but SHEIN is going public as soon as the 19th this month.\n\nGo ask any girl you know and they’re probably familiar with this platform.",
@@ -4620,19 +4663,6 @@
       "core_thesis": "",
       "why_it_matters": "",
       "thesis_change": "NEW"
-    },
-    {
-      "tweet_id": "2085974141501612461",
-      "created_at": "2026-08-08T06:19:25Z",
-      "text": "I've mapped the entire Wall Street bear playbook on AI names:\n\nHave your favorite institution/media insert one of these name down below:\n\n1. < ______ [GPUs, Transcivers, MLCC, Memory...] are a commodity set to crash> \n\n2. < ______ [YMTC, CXMT, Dongshan...] from China will flood the market > \n\n3. < ______ [Micron, Nvidia, ...] from unverifiable channel checks is facing issues > \n\n4. < ______ [Kospi, Sivers, ...] is a bubble like the ____ [2007, 2021] crash> \n\n5. <____ [1,2,3, ...] unexpected rate hikes this year>\n\n6. < _____ [Google, Nvidia, Deepseek ...] optimization removes the need of this!>  \n\nin a new headline, and it's ready to go!",
-      "url": "https://x.com/aleabitoreddit/status/2085974141501612461",
-      "symbols": [],
-      "sentiment": "Neutral",
-      "importance": 3,
-      "summary_zh": "",
-      "core_thesis": "",
-      "why_it_matters": "",
-      "thesis_change": "GENERAL"
     }
   ],
   "public_symbols": [
