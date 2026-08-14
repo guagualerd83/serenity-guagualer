@@ -1,6 +1,23 @@
 {
-  "generated_at": "2026-08-14T08:47:29.247204Z",
+  "generated_at": "2026-08-14T16:15:10.182892Z",
   "symbols": [
+    "SIVE",
+    "NVDA",
+    "LITE",
+    "AAOI",
+    "NBIS",
+    "AMD",
+    "AXTI",
+    "SOI",
+    "MU",
+    "META",
+    "MRVL",
+    "JBL",
+    "INTC",
+    "SNDK",
+    "SPCX",
+    "XFAB",
+    "AMZN",
     "IQE",
     "TSM",
     "COHR",
@@ -15,5 +32,5 @@
     "RDDT",
     "AVGO"
   ],
-  "stock_count": 13
+  "stock_count": 30
 }

@@ -2,7 +2,7 @@
   "site": {
     "title": "Serenity Research",
     "subtitle": "Public research dashboard based on Serenity's public X posts.",
-    "generated_at": "2026-08-14T08:47:29.247204Z",
+    "generated_at": "2026-08-14T16:15:10.182892Z",
     "disclaimer": "Public-post aggregation for research only. Not investment advice."
   },
   "periods": {
@@ -10,109 +10,49 @@
       "period": "daily",
       "label": "每日",
       "days": 1,
-      "start_at": "2026-08-13T16:00:00Z",
-      "generated_at": "2026-08-14T08:47:28.981588Z",
+      "start_at": "2026-08-14T16:00:00Z",
+      "generated_at": "2026-08-14T16:15:10.058428Z",
       "earliest_available_at": "2025-11-17T16:12:21Z",
       "traversed_until": "2026-04-13T02:42:25Z",
       "coverage_days": 123,
       "coverage_complete": true,
-      "tweet_count": 2,
-      "primary_post_count": 2,
+      "tweet_count": 0,
+      "primary_post_count": 0,
       "reply_context_count": 0,
-      "all_collected_count": 2,
-      "symbol_count": 4,
-      "high_importance_count": 1,
-      "ai_analyzed_count": 2,
-      "sentiments": {
-        "Bullish": 1,
-        "Neutral": 1
-      },
-      "symbols": [
-        {
-          "symbol": "ONDS",
-          "mentions": 1,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 1,
-          "max_importance": 4,
-          "latest_at": "2026-08-14T08:30:20Z",
-          "latest_thesis": "美國無人機新關稅政策大幅提高外國產品進口成本，將利好美國本土無人機供應鏈與製造商（如 UMAC、ONDS、RCAT）。",
-          "latest_summary_zh": "美國前總統川普簽署一項旨在加強美國無人機供應鏈的公告，對特定進口無人機及其零組件加徵關稅。這項政策將大幅提高無人機停靠站、特定關鍵零組件以及超過25公斤重型無人機的關稅至100%，並對其他更廣泛的無人機零組件徵收25%關稅。預計這將直接造福美國本土的無人機零組件供應商（如 UMAC）以及無人機系統製造商（如 ONDS 與 RCAT）。",
-          "latest_change": "NEW",
-          "sentiments": {
-            "Bullish": 1
-          }
-        },
-        {
-          "symbol": "RCAT",
-          "mentions": 1,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 1,
-          "max_importance": 4,
-          "latest_at": "2026-08-14T08:30:20Z",
-          "latest_thesis": "美國無人機新關稅政策大幅提高外國產品進口成本，將利好美國本土無人機供應鏈與製造商（如 UMAC、ONDS、RCAT）。",
-          "latest_summary_zh": "美國前總統川普簽署一項旨在加強美國無人機供應鏈的公告，對特定進口無人機及其零組件加徵關稅。這項政策將大幅提高無人機停靠站、特定關鍵零組件以及超過25公斤重型無人機的關稅至100%，並對其他更廣泛的無人機零組件徵收25%關稅。預計這將直接造福美國本土的無人機零組件供應商（如 UMAC）以及無人機系統製造商（如 ONDS 與 RCAT）。",
-          "latest_change": "NEW",
-          "sentiments": {
-            "Bullish": 1
-          }
-        },
-        {
-          "symbol": "UMAC",
-          "mentions": 1,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 1,
-          "max_importance": 4,
-          "latest_at": "2026-08-14T08:30:20Z",
-          "latest_thesis": "美國無人機新關稅政策大幅提高外國產品進口成本，將利好美國本土無人機供應鏈與製造商（如 UMAC、ONDS、RCAT）。",
-          "latest_summary_zh": "美國前總統川普簽署一項旨在加強美國無人機供應鏈的公告，對特定進口無人機及其零組件加徵關稅。這項政策將大幅提高無人機停靠站、特定關鍵零組件以及超過25公斤重型無人機的關稅至100%，並對其他更廣泛的無人機零組件徵收25%關稅。預計這將直接造福美國本土的無人機零組件供應商（如 UMAC）以及無人機系統製造商（如 ONDS 與 RCAT）。",
-          "latest_change": "NEW",
-          "sentiments": {
-            "Bullish": 1
-          }
-        },
-        {
-          "symbol": "LPK",
-          "mentions": 1,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 0,
-          "max_importance": 3,
-          "latest_at": "2026-08-14T04:06:28Z",
-          "latest_thesis": "玻璃基板大廠量產時程延後 1-2 個季度，設備供應商的放量時程亦將隨之同步後移。",
-          "latest_summary_zh": "貼文指出玻璃基板（Glass Substrate）的量產時程似乎普遍延後了至少一個季度。包含三星電機（Samsung Electro-Mechanics）營運時間延至 2028 年，以及 SKC Absolics 量產推遲至 2027 年上半年。儘管時程推遲，但玻璃核心基板的技術採用仍被視為勢在必行，相關設備供應商（如 LPKF、Philoptics、E&R）的放量時程將隨之同步後移。",
-          "latest_change": "NEW",
-          "sentiments": {
-            "Neutral": 1
-          }
-        }
-      ]
+      "all_collected_count": 0,
+      "symbol_count": 0,
+      "high_importance_count": 0,
+      "ai_analyzed_count": 0,
+      "sentiments": {},
+      "symbols": []
     },
     "weekly": {
       "period": "weekly",
       "label": "每週",
       "days": 7,
-      "start_at": "2026-08-07T08:47:28.981588Z",
-      "generated_at": "2026-08-14T08:47:29.014632Z",
+      "start_at": "2026-08-07T16:15:10.058428Z",
+      "generated_at": "2026-08-14T16:15:10.073826Z",
       "earliest_available_at": "2025-11-17T16:12:21Z",
       "traversed_until": "2026-04-13T02:42:25Z",
       "coverage_days": 123,
       "coverage_complete": true,
-      "tweet_count": 35,
-      "primary_post_count": 35,
-      "reply_context_count": 7,
-      "all_collected_count": 42,
-      "symbol_count": 41,
-      "high_importance_count": 22,
-      "ai_analyzed_count": 21,
+      "tweet_count": 34,
+      "primary_post_count": 34,
+      "reply_context_count": 6,
+      "all_collected_count": 40,
+      "symbol_count": 42,
+      "high_importance_count": 20,
+      "ai_analyzed_count": 22,
       "sentiments": {
-        "Bullish": 20,
-        "Neutral": 12,
+        "Neutral": 13,
+        "Bullish": 19,
         "Mixed": 1,
-        "Bearish": 2
+        "Bearish": 1
       },
       "symbols": [
         {
           "symbol": "AAOI",
-          "mentions": 11,
+          "mentions": 9,
           "dominant_sentiment": "Bullish",
           "sentiment_score": 8,
           "max_importance": 5,
@@ -121,16 +61,15 @@
           "latest_summary_zh": "作者分析了 POET Technologies ($POET) 的投資機會，指出該公司透過大規模稀釋股權累積了高達 8.3 億美元的現金，且近期企業價值 (EV) 顯著下降。公司目標在 2027 年將光學引擎年產能擴充至 1,200 萬顆，若以平均售價 (ASP) 150 美元計算，營收天花板可達 18 億美元。然而，POET 目前面臨無明顯可見需求來填補產能的風險，技術護城河相較於上游 CW 激光龍頭 Sivers ($SIVE) 較弱，作者僅建立小額倉位，將其視為一項高風險高回報的選擇期權。",
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bullish": 9,
-            "Neutral": 1,
-            "Bearish": 1
+            "Bullish": 8,
+            "Neutral": 1
           }
         },
         {
           "symbol": "LITE",
-          "mentions": 10,
+          "mentions": 9,
           "dominant_sentiment": "Bullish",
-          "sentiment_score": 7,
+          "sentiment_score": 8,
           "max_importance": 5,
           "latest_at": "2026-08-13T09:46:26Z",
           "latest_thesis": "IQE 已走出財務危機並完成債務清償，作為西方光通訊與 AI 資料中心供應鏈中的關鍵 III-V 族外延片瓶頸，其投資論點已獲成功驗證。",
@@ -138,15 +77,14 @@
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
             "Bullish": 8,
-            "Neutral": 1,
-            "Bearish": 1
+            "Neutral": 1
           }
         },
         {
           "symbol": "SIVE",
-          "mentions": 7,
+          "mentions": 6,
           "dominant_sentiment": "Bullish",
-          "sentiment_score": 4,
+          "sentiment_score": 5,
           "max_importance": 5,
           "latest_at": "2026-08-13T10:17:49Z",
           "latest_thesis": "POET 手握充沛現金且產能規劃雄厚，儘管目前缺乏明確訂單且護城河較弱，仍是一項具備非對稱向上潛力的期權型投資。",
@@ -154,22 +92,6 @@
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
             "Bullish": 5,
-            "Neutral": 1,
-            "Bearish": 1
-          }
-        },
-        {
-          "symbol": "MTSI",
-          "mentions": 5,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 4,
-          "max_importance": 5,
-          "latest_at": "2026-08-13T09:46:26Z",
-          "latest_thesis": "IQE 已走出財務危機並完成債務清償，作為西方光通訊與 AI 資料中心供應鏈中的關鍵 III-V 族外延片瓶頸，其投資論點已獲成功驗證。",
-          "latest_summary_zh": "作者指出其於今年二月提出關於 IQE 的投資論點已獲得驗證。IQE 從面臨債務危機的困境轉變為轉虧為盈，透過與 MACOM（$MTSI）及高塔半導體（$TSEM）簽署長期外延片（epiwafer）供應協議，已徹底清償銀行債務。隨著產能逐步轉向 AI 資料中心（DC）領域，且 2026 財年營收指引超過 1.265 億英鎊，IQE 再次鞏固其作為西方光學供應鏈關鍵瓶頸的地位。",
-          "latest_change": "INSUFFICIENT_HISTORY",
-          "sentiments": {
-            "Bullish": 4,
             "Neutral": 1
           }
         },
@@ -185,6 +107,21 @@
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
             "Bullish": 4
+          }
+        },
+        {
+          "symbol": "MTSI",
+          "mentions": 4,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 3,
+          "max_importance": 5,
+          "latest_at": "2026-08-13T09:46:26Z",
+          "latest_thesis": "IQE 已走出財務危機並完成債務清償，作為西方光通訊與 AI 資料中心供應鏈中的關鍵 III-V 族外延片瓶頸，其投資論點已獲成功驗證。",
+          "latest_summary_zh": "作者指出其於今年二月提出關於 IQE 的投資論點已獲得驗證。IQE 從面臨債務危機的困境轉變為轉虧為盈，透過與 MACOM（$MTSI）及高塔半導體（$TSEM）簽署長期外延片（epiwafer）供應協議，已徹底清償銀行債務。隨著產能逐步轉向 AI 資料中心（DC）領域，且 2026 財年營收指引超過 1.265 億英鎊，IQE 再次鞏固其作為西方光學供應鏈關鍵瓶頸的地位。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 3,
+            "Neutral": 1
           }
         },
         {
@@ -247,22 +184,6 @@
           }
         },
         {
-          "symbol": "AMD",
-          "mentions": 3,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 0,
-          "max_importance": 4,
-          "latest_at": "2026-08-11T01:29:11Z",
-          "latest_thesis": "比特幣礦商轉型 AI 託管獲大廠巨額合約驗證，但營收爆發拐點需等到 2027 年下半年。",
-          "latest_summary_zh": "RIOT 宣布與 Anthropic 簽署高達 91 億至 161 億美元的 20 年期巨額託管合約，同時 AMD 也行使選擇權擴展與 RIOT 的合作。作者指出前比特幣礦商（如 RIOT、IREN）成功轉型 AI 主機託管（Colo），但整個族群的營收顯著轉折點（inflection）預計要到 2027 年下半年才會顯現。",
-          "latest_change": "INSUFFICIENT_HISTORY",
-          "sentiments": {
-            "Bullish": 1,
-            "Neutral": 1,
-            "Bearish": 1
-          }
-        },
-        {
           "symbol": "CRWV",
           "mentions": 2,
           "dominant_sentiment": "Bullish",
@@ -306,6 +227,21 @@
           }
         },
         {
+          "symbol": "MU",
+          "mentions": 2,
+          "dominant_sentiment": "Neutral",
+          "sentiment_score": 1,
+          "max_importance": 5,
+          "latest_at": "2026-08-14T11:29:05Z",
+          "latest_thesis": "記憶體產業（如 SK Hynix、Samsung、Micron 等）的瓶頸現象持續存在。",
+          "latest_summary_zh": "作者指出高頻寬記憶體與記憶體供應的瓶頸問題從未改變。貼文提及 SK Hynix (SHKY)、Samsung、SanDisk (SNDK) 及 Micron (MU) 等記憶體大廠。這顯示記憶體領域的供需吃緊狀況仍在延續。",
+          "latest_change": "MENTION",
+          "sentiments": {
+            "Neutral": 1,
+            "Bullish": 1
+          }
+        },
+        {
           "symbol": "POET",
           "mentions": 2,
           "dominant_sentiment": "Bullish",
@@ -320,17 +256,18 @@
           }
         },
         {
-          "symbol": "SMTC",
+          "symbol": "AMD",
           "mentions": 2,
           "dominant_sentiment": "Bullish",
-          "sentiment_score": 2,
-          "max_importance": 5,
-          "latest_at": "2026-08-12T07:54:08Z",
-          "latest_thesis": "光學財報驗證了 CW DFB 激光器瓶頸論點，Sivers ($SIVE) 身為少數西方 CPO 關鍵玩家，將顯著受益於供需失衡與架構轉型。",
-          "latest_summary_zh": "作者分析多家光電大廠（LITE、AAOI、MTSI）最新財報，驗證了連續波（CW）DFB 激光器與磷化銦（InP）產能嚴重短缺的論點。中國競爭對手技術落後數年，使具備量產能力的公司擁有定價權與高護城河。這有利於作為少數第一代 CPO 西方玩家之一且市值僅約 15 億美元的 Sivers ($SIVE)。",
+          "sentiment_score": 1,
+          "max_importance": 4,
+          "latest_at": "2026-08-11T01:29:11Z",
+          "latest_thesis": "比特幣礦商轉型 AI 託管獲大廠巨額合約驗證，但營收爆發拐點需等到 2027 年下半年。",
+          "latest_summary_zh": "RIOT 宣布與 Anthropic 簽署高達 91 億至 161 億美元的 20 年期巨額託管合約，同時 AMD 也行使選擇權擴展與 RIOT 的合作。作者指出前比特幣礦商（如 RIOT、IREN）成功轉型 AI 主機託管（Colo），但整個族群的營收顯著轉折點（inflection）預計要到 2027 年下半年才會顯現。",
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
-            "Bullish": 2
+            "Bullish": 1,
+            "Neutral": 1
           }
         },
         {
@@ -393,34 +330,6 @@
           }
         },
         {
-          "symbol": "MU",
-          "mentions": 1,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 1,
-          "max_importance": 5,
-          "latest_at": "2026-08-08T17:52:29Z",
-          "latest_thesis": "Yes, I'm still bullish on memory like $MU / Samsung.  As I said earlier, markets tend to rotate from bottleneck to bottleneck.  This week it looks $AXTI to $LITE in the photonic...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
-          "sentiments": {
-            "Bullish": 1
-          }
-        },
-        {
-          "symbol": "MXL",
-          "mentions": 1,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 1,
-          "max_importance": 5,
-          "latest_at": "2026-08-07T12:55:47Z",
-          "latest_thesis": "Some more TLDR takeaways from $AAOI ER:  - They also flagged DSP and TIA bottlenecks, which is a positive industry read through for names like $MXL, then $SMTC and $MTSI.   - Fo...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
-          "sentiments": {
-            "Bullish": 1
-          }
-        },
-        {
           "symbol": "ORCL",
           "mentions": 1,
           "dominant_sentiment": "Mixed",
@@ -443,6 +352,20 @@
           "latest_at": "2026-08-11T20:16:01Z",
           "latest_thesis": "Lumentum 業績與指引大幅超預期，驗證了 CPO 與機架內光學滲透帶動的強勁光通訊升級週期。",
           "latest_summary_zh": "Lumentum ($LITE) 公布優於預期的業績與強勁的下季度指引，營收與營業利潤率持續擴張。公司提及對超高功率 CPO 激光器與 ELS 模組需求上升，且 NPO 參與度擴大顯示光學元件開始滲透機架內連接。這對 $COHR 與 $SIVEF 等光學夥伴形成利好讀取，但對可能錯失第一代部署的 $AAOI 相對不利。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 1
+          }
+        },
+        {
+          "symbol": "SMTC",
+          "mentions": 1,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 1,
+          "max_importance": 5,
+          "latest_at": "2026-08-12T07:54:08Z",
+          "latest_thesis": "光學財報驗證了 CW DFB 激光器瓶頸論點，Sivers ($SIVE) 身為少數西方 CPO 關鍵玩家，將顯著受益於供需失衡與架構轉型。",
+          "latest_summary_zh": "作者分析多家光電大廠（LITE、AAOI、MTSI）最新財報，驗證了連續波（CW）DFB 激光器與磷化銦（InP）產能嚴重短缺的論點。中國競爭對手技術落後數年，使具備量產能力的公司擁有定價權與高護城河。這有利於作為少數第一代 CPO 西方玩家之一且市值僅約 15 億美元的 Sivers ($SIVE)。",
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
             "Bullish": 1
@@ -659,6 +582,34 @@
           }
         },
         {
+          "symbol": "SHKY",
+          "mentions": 1,
+          "dominant_sentiment": "Neutral",
+          "sentiment_score": 0,
+          "max_importance": 3,
+          "latest_at": "2026-08-14T11:29:05Z",
+          "latest_thesis": "記憶體產業（如 SK Hynix、Samsung、Micron 等）的瓶頸現象持續存在。",
+          "latest_summary_zh": "作者指出高頻寬記憶體與記憶體供應的瓶頸問題從未改變。貼文提及 SK Hynix (SHKY)、Samsung、SanDisk (SNDK) 及 Micron (MU) 等記憶體大廠。這顯示記憶體領域的供需吃緊狀況仍在延續。",
+          "latest_change": "MENTION",
+          "sentiments": {
+            "Neutral": 1
+          }
+        },
+        {
+          "symbol": "SNDK",
+          "mentions": 1,
+          "dominant_sentiment": "Neutral",
+          "sentiment_score": 0,
+          "max_importance": 3,
+          "latest_at": "2026-08-14T11:29:05Z",
+          "latest_thesis": "記憶體產業（如 SK Hynix、Samsung、Micron 等）的瓶頸現象持續存在。",
+          "latest_summary_zh": "作者指出高頻寬記憶體與記憶體供應的瓶頸問題從未改變。貼文提及 SK Hynix (SHKY)、Samsung、SanDisk (SNDK) 及 Micron (MU) 等記憶體大廠。這顯示記憶體領域的供需吃緊狀況仍在延續。",
+          "latest_change": "MENTION",
+          "sentiments": {
+            "Neutral": 1
+          }
+        },
+        {
           "symbol": "SRL",
           "mentions": 1,
           "dominant_sentiment": "Neutral",
@@ -706,22 +657,22 @@
       "period": "monthly",
       "label": "每月",
       "days": 28,
-      "start_at": "2026-07-17T08:47:29.015632Z",
-      "generated_at": "2026-08-14T08:47:29.054345Z",
+      "start_at": "2026-07-17T16:15:10.074827Z",
+      "generated_at": "2026-08-14T16:15:10.092831Z",
       "earliest_available_at": "2025-11-17T16:12:21Z",
       "traversed_until": "2026-04-13T02:42:25Z",
       "coverage_days": 123,
       "coverage_complete": true,
-      "tweet_count": 100,
-      "primary_post_count": 100,
-      "reply_context_count": 68,
-      "all_collected_count": 168,
-      "symbol_count": 73,
-      "high_importance_count": 45,
-      "ai_analyzed_count": 25,
+      "tweet_count": 99,
+      "primary_post_count": 99,
+      "reply_context_count": 65,
+      "all_collected_count": 164,
+      "symbol_count": 74,
+      "high_importance_count": 44,
+      "ai_analyzed_count": 26,
       "sentiments": {
+        "Neutral": 55,
         "Bullish": 38,
-        "Neutral": 56,
         "Mixed": 1,
         "Bearish": 5
       },
@@ -744,7 +695,7 @@
         },
         {
           "symbol": "AAOI",
-          "mentions": 22,
+          "mentions": 21,
           "dominant_sentiment": "Bullish",
           "sentiment_score": 12,
           "max_importance": 5,
@@ -754,14 +705,14 @@
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
             "Bullish": 13,
-            "Neutral": 8,
+            "Neutral": 7,
             "Bearish": 1
           }
         },
         {
           "symbol": "SIVE",
-          "mentions": 22,
-          "dominant_sentiment": "Neutral",
+          "mentions": 21,
+          "dominant_sentiment": "Bullish",
           "sentiment_score": 9,
           "max_importance": 5,
           "latest_at": "2026-08-13T10:17:49Z",
@@ -770,7 +721,7 @@
           "latest_change": "INSUFFICIENT_HISTORY",
           "sentiments": {
             "Bullish": 10,
-            "Neutral": 11,
+            "Neutral": 10,
             "Bearish": 1
           }
         },
@@ -791,22 +742,6 @@
           }
         },
         {
-          "symbol": "NVDA",
-          "mentions": 13,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 6,
-          "max_importance": 5,
-          "latest_at": "2026-08-11T02:19:36Z",
-          "latest_thesis": "宇樹科技 IPO 的極端超額認購凸顯市場對人形機器人板塊的強烈渴望，其高估值上市將為估值相對較低的美國同業帶來外溢效應與重新定價機會。",
-          "latest_summary_zh": "宇樹科技（Unitree）IPO 獲得散戶超額認購超過 8000 倍，顯示市場對純人形機器人標的的需求極度狂熱。作者指出自己透過 CCXI 參與投資美國人形機器人公司 Agility Robotics（前輪估值約 25 億美元），並認為宇樹若以 300 億美元以上的估值開盤，將在未來一至兩週內吸引資金關注美國領先的人形機器人業者。",
-          "latest_change": "INSUFFICIENT_HISTORY",
-          "sentiments": {
-            "Bullish": 7,
-            "Neutral": 5,
-            "Bearish": 1
-          }
-        },
-        {
           "symbol": "NBIS",
           "mentions": 12,
           "dominant_sentiment": "Neutral",
@@ -819,6 +754,22 @@
           "sentiments": {
             "Bullish": 3,
             "Neutral": 9
+          }
+        },
+        {
+          "symbol": "NVDA",
+          "mentions": 12,
+          "dominant_sentiment": "Bullish",
+          "sentiment_score": 6,
+          "max_importance": 5,
+          "latest_at": "2026-08-11T02:19:36Z",
+          "latest_thesis": "宇樹科技 IPO 的極端超額認購凸顯市場對人形機器人板塊的強烈渴望，其高估值上市將為估值相對較低的美國同業帶來外溢效應與重新定價機會。",
+          "latest_summary_zh": "宇樹科技（Unitree）IPO 獲得散戶超額認購超過 8000 倍，顯示市場對純人形機器人標的的需求極度狂熱。作者指出自己透過 CCXI 參與投資美國人形機器人公司 Agility Robotics（前輪估值約 25 億美元），並認為宇樹若以 300 億美元以上的估值開盤，將在未來一至兩週內吸引資金關注美國領先的人形機器人業者。",
+          "latest_change": "INSUFFICIENT_HISTORY",
+          "sentiments": {
+            "Bullish": 7,
+            "Neutral": 4,
+            "Bearish": 1
           }
         },
         {
@@ -884,6 +835,37 @@
           }
         },
         {
+          "symbol": "MU",
+          "mentions": 8,
+          "dominant_sentiment": "Neutral",
+          "sentiment_score": 4,
+          "max_importance": 5,
+          "latest_at": "2026-08-14T11:29:05Z",
+          "latest_thesis": "記憶體產業（如 SK Hynix、Samsung、Micron 等）的瓶頸現象持續存在。",
+          "latest_summary_zh": "作者指出高頻寬記憶體與記憶體供應的瓶頸問題從未改變。貼文提及 SK Hynix (SHKY)、Samsung、SanDisk (SNDK) 及 Micron (MU) 等記憶體大廠。這顯示記憶體領域的供需吃緊狀況仍在延續。",
+          "latest_change": "MENTION",
+          "sentiments": {
+            "Neutral": 4,
+            "Bullish": 4
+          }
+        },
+        {
+          "symbol": "SNDK",
+          "mentions": 8,
+          "dominant_sentiment": "Neutral",
+          "sentiment_score": 0,
+          "max_importance": 5,
+          "latest_at": "2026-08-14T11:29:05Z",
+          "latest_thesis": "記憶體產業（如 SK Hynix、Samsung、Micron 等）的瓶頸現象持續存在。",
+          "latest_summary_zh": "作者指出高頻寬記憶體與記憶體供應的瓶頸問題從未改變。貼文提及 SK Hynix (SHKY)、Samsung、SanDisk (SNDK) 及 Micron (MU) 等記憶體大廠。這顯示記憶體領域的供需吃緊狀況仍在延續。",
+          "latest_change": "MENTION",
+          "sentiments": {
+            "Neutral": 6,
+            "Bearish": 1,
+            "Bullish": 1
+          }
+        },
+        {
           "symbol": "MTSI",
           "mentions": 7,
           "dominant_sentiment": "Bullish",
@@ -896,37 +878,6 @@
           "sentiments": {
             "Bullish": 5,
             "Neutral": 2
-          }
-        },
-        {
-          "symbol": "MU",
-          "mentions": 7,
-          "dominant_sentiment": "Bullish",
-          "sentiment_score": 4,
-          "max_importance": 5,
-          "latest_at": "2026-08-08T17:52:29Z",
-          "latest_thesis": "Yes, I'm still bullish on memory like $MU / Samsung.  As I said earlier, markets tend to rotate from bottleneck to bottleneck.  This week it looks $AXTI to $LITE in the photonic...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
-          "sentiments": {
-            "Bullish": 4,
-            "Neutral": 3
-          }
-        },
-        {
-          "symbol": "SNDK",
-          "mentions": 7,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 0,
-          "max_importance": 5,
-          "latest_at": "2026-08-04T02:34:48Z",
-          "latest_thesis": "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM.  $SNDK, Samsung, Micron current annual NAND capacity has been sold out, with Kioxia and SK Hynix expecte...",
-          "latest_summary_zh": "",
-          "latest_change": "MENTION",
-          "sentiments": {
-            "Neutral": 5,
-            "Bearish": 1,
-            "Bullish": 1
           }
         },
         {
@@ -1695,6 +1646,20 @@
           }
         },
         {
+          "symbol": "SHKY",
+          "mentions": 1,
+          "dominant_sentiment": "Neutral",
+          "sentiment_score": 0,
+          "max_importance": 3,
+          "latest_at": "2026-08-14T11:29:05Z",
+          "latest_thesis": "記憶體產業（如 SK Hynix、Samsung、Micron 等）的瓶頸現象持續存在。",
+          "latest_summary_zh": "作者指出高頻寬記憶體與記憶體供應的瓶頸問題從未改變。貼文提及 SK Hynix (SHKY)、Samsung、SanDisk (SNDK) 及 Micron (MU) 等記憶體大廠。這顯示記憶體領域的供需吃緊狀況仍在延續。",
+          "latest_change": "MENTION",
+          "sentiments": {
+            "Neutral": 1
+          }
+        },
+        {
           "symbol": "SRL",
           "mentions": 1,
           "dominant_sentiment": "Neutral",
@@ -1798,22 +1763,22 @@
       "period": "quarterly",
       "label": "每季",
       "days": 90,
-      "start_at": "2026-05-16T08:47:29.055343Z",
-      "generated_at": "2026-08-14T08:47:29.208624Z",
+      "start_at": "2026-05-16T16:15:10.092831Z",
+      "generated_at": "2026-08-14T16:15:10.165363Z",
       "earliest_available_at": "2025-11-17T16:12:21Z",
       "traversed_until": "2026-04-13T02:42:25Z",
       "coverage_days": 123,
       "coverage_complete": true,
-      "tweet_count": 545,
-      "primary_post_count": 545,
-      "reply_context_count": 697,
-      "all_collected_count": 1242,
-      "symbol_count": 171,
+      "tweet_count": 546,
+      "primary_post_count": 546,
+      "reply_context_count": 691,
+      "all_collected_count": 1237,
+      "symbol_count": 172,
       "high_importance_count": 195,
-      "ai_analyzed_count": 35,
+      "ai_analyzed_count": 36,
       "sentiments": {
+        "Neutral": 367,
         "Bullish": 146,
-        "Neutral": 366,
         "Mixed": 2,
         "Bearish": 31
       },
@@ -1949,6 +1914,23 @@
           }
         },
         {
+          "symbol": "MU",
+          "mentions": 37,
+          "dominant_sentiment": "Neutral",
+          "sentiment_score": 9,
+          "max_importance": 5,
+          "latest_at": "2026-08-14T11:29:05Z",
+          "latest_thesis": "記憶體產業（如 SK Hynix、Samsung、Micron 等）的瓶頸現象持續存在。",
+          "latest_summary_zh": "作者指出高頻寬記憶體與記憶體供應的瓶頸問題從未改變。貼文提及 SK Hynix (SHKY)、Samsung、SanDisk (SNDK) 及 Micron (MU) 等記憶體大廠。這顯示記憶體領域的供需吃緊狀況仍在延續。",
+          "latest_change": "MENTION",
+          "sentiments": {
+            "Neutral": 21,
+            "Bullish": 12,
+            "Bearish": 3,
+            "Mixed": 1
+          }
+        },
+        {
           "symbol": "META",
           "mentions": 36,
           "dominant_sentiment": "Neutral",
@@ -1962,23 +1944,6 @@
             "Neutral": 21,
             "Bearish": 4,
             "Bullish": 11
-          }
-        },
-        {
-          "symbol": "MU",
-          "mentions": 36,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 9,
-          "max_importance": 5,
-          "latest_at": "2026-08-08T17:52:29Z",
-          "latest_thesis": "Yes, I'm still bullish on memory like $MU / Samsung.  As I said earlier, markets tend to rotate from bottleneck to bottleneck.  This week it looks $AXTI to $LITE in the photonic...",
-          "latest_summary_zh": "",
-          "latest_change": "NEW",
-          "sentiments": {
-            "Bullish": 12,
-            "Neutral": 20,
-            "Bearish": 3,
-            "Mixed": 1
           }
         },
         {
@@ -2030,6 +1995,22 @@
           }
         },
         {
+          "symbol": "SNDK",
+          "mentions": 28,
+          "dominant_sentiment": "Neutral",
+          "sentiment_score": 1,
+          "max_importance": 5,
+          "latest_at": "2026-08-14T11:29:05Z",
+          "latest_thesis": "記憶體產業（如 SK Hynix、Samsung、Micron 等）的瓶頸現象持續存在。",
+          "latest_summary_zh": "作者指出高頻寬記憶體與記憶體供應的瓶頸問題從未改變。貼文提及 SK Hynix (SHKY)、Samsung、SanDisk (SNDK) 及 Micron (MU) 等記憶體大廠。這顯示記憶體領域的供需吃緊狀況仍在延續。",
+          "latest_change": "MENTION",
+          "sentiments": {
+            "Neutral": 17,
+            "Bearish": 5,
+            "Bullish": 6
+          }
+        },
+        {
           "symbol": "SPCX",
           "mentions": 28,
           "dominant_sentiment": "Neutral",
@@ -2044,22 +2025,6 @@
             "Bullish": 9,
             "Neutral": 17,
             "Bearish": 1
-          }
-        },
-        {
-          "symbol": "SNDK",
-          "mentions": 27,
-          "dominant_sentiment": "Neutral",
-          "sentiment_score": 1,
-          "max_importance": 5,
-          "latest_at": "2026-08-04T02:34:48Z",
-          "latest_thesis": "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM.  $SNDK, Samsung, Micron current annual NAND capacity has been sold out, with Kioxia and SK Hynix expecte...",
-          "latest_summary_zh": "",
-          "latest_change": "MENTION",
-          "sentiments": {
-            "Neutral": 16,
-            "Bearish": 5,
-            "Bullish": 6
           }
         },
         {
@@ -4170,6 +4135,20 @@
           }
         },
         {
+          "symbol": "SHKY",
+          "mentions": 1,
+          "dominant_sentiment": "Neutral",
+          "sentiment_score": 0,
+          "max_importance": 3,
+          "latest_at": "2026-08-14T11:29:05Z",
+          "latest_thesis": "記憶體產業（如 SK Hynix、Samsung、Micron 等）的瓶頸現象持續存在。",
+          "latest_summary_zh": "作者指出高頻寬記憶體與記憶體供應的瓶頸問題從未改變。貼文提及 SK Hynix (SHKY)、Samsung、SanDisk (SNDK) 及 Micron (MU) 等記憶體大廠。這顯示記憶體領域的供需吃緊狀況仍在延續。",
+          "latest_change": "MENTION",
+          "sentiments": {
+            "Neutral": 1
+          }
+        },
+        {
           "symbol": "SHMD",
           "mentions": 1,
           "dominant_sentiment": "Neutral",
@@ -4341,6 +4320,23 @@
     }
   },
   "latest_primary_posts": [
+    {
+      "tweet_id": "2088226398708338889",
+      "created_at": "2026-08-14T11:29:05Z",
+      "text": "The $SHKY, Samsung, $SNDK, $MU memory bottleneck never changed anon https://t.co/6Xyih3pM9D",
+      "url": "https://x.com/aleabitoreddit/status/2088226398708338889",
+      "symbols": [
+        "MU",
+        "SHKY",
+        "SNDK"
+      ],
+      "sentiment": "Neutral",
+      "importance": 3,
+      "summary_zh": "作者指出高頻寬記憶體與記憶體供應的瓶頸問題從未改變。貼文提及 SK Hynix (SHKY)、Samsung、SanDisk (SNDK) 及 Micron (MU) 等記憶體大廠。這顯示記憶體領域的供需吃緊狀況仍在延續。",
+      "core_thesis": "記憶體產業（如 SK Hynix、Samsung、Micron 等）的瓶頸現象持續存在。",
+      "why_it_matters": "記憶體瓶頸直接影響 AI 晶片及伺服器供應鏈的出貨進度與成本，是追蹤 AI 基礎建設時的核心關鍵指標。",
+      "thesis_change": "MENTION"
+    },
     {
       "tweet_id": "2088181416148562017",
       "created_at": "2026-08-14T08:30:20Z",
@@ -4808,26 +4804,6 @@
       "core_thesis": "",
       "why_it_matters": "",
       "thesis_change": "NEW"
-    },
-    {
-      "tweet_id": "2086157318065168490",
-      "created_at": "2026-08-08T18:27:18Z",
-      "text": "Today I'm writing a weekend guide on how to do DD when shorting $NBIS:\n\nFirst, you look at hyperscaler earnings for AI cloud read through: \n\n> $GOOGL: reports record AI cloud demand + backlog + margin increases from earnings\n\n> $AMZN: reports record AI Cloud demand + backlog + margin increases from earnings\n\n> $META: reports higher than expected prices for available capacity from earnings.\n\nNow, time to look at Nebius:\n\n-> $NBIS: Growing hundreds of percent to $7-9B ARR by Q4. Growing margins, and guided 4GW+ contracted power. \n-> Sees Uber/Waymo splitting, putting more focus on Avride\n-> Sees Clickhouse growing rapidly every quarter. \n\nOkay looks bad! But next, you need a hedge?\n\n-> Wow! A $NIKE brand executive, after the stock dropped 75% over the past 5 years, went to $LULU to save that brand next? Lululemon seems good.\n\nConclusion: Short Nebius and go long on $LULU",
-      "url": "https://x.com/aleabitoreddit/status/2086157318065168490",
-      "symbols": [
-        "AMZN",
-        "GOOGL",
-        "LULU",
-        "META",
-        "NBIS",
-        "NIKE"
-      ],
-      "sentiment": "Neutral",
-      "importance": 4,
-      "summary_zh": "",
-      "core_thesis": "",
-      "why_it_matters": "",
-      "thesis_change": "NEW"
     }
   ],
   "public_symbols": [
@@ -4839,13 +4815,13 @@
     "AMD",
     "AXTI",
     "SOI",
-    "META",
     "MU",
+    "META",
     "MRVL",
     "JBL",
     "INTC",
-    "SPCX",
     "SNDK",
+    "SPCX",
     "XFAB",
     "AMZN",
     "IQE",

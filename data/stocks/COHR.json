@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T08:47:29.247204Z",
+  "generated_at": "2026-08-14T16:15:10.182892Z",
   "symbol": "COHR",
   "summary": {
     "primary_count": 52,
@@ -1992,8 +1992,8 @@
           "risks": [],
           "confidence": 0,
           "ai_status": "",
-          "favorite_count": 3062,
-          "retweet_count": 236
+          "favorite_count": 3110,
+          "retweet_count": 244
         }
       ]
     },
@@ -2043,7 +2043,7 @@
           ],
           "confidence": 95,
           "ai_status": "ok",
-          "favorite_count": 1440,
+          "favorite_count": 1442,
           "retweet_count": 95
         }
       ]
@@ -2094,7 +2094,7 @@
           ],
           "confidence": 90,
           "ai_status": "ok",
-          "favorite_count": 1380,
+          "favorite_count": 1383,
           "retweet_count": 96
         },
         {
@@ -2124,7 +2124,7 @@
           ],
           "confidence": 90,
           "ai_status": "ok",
-          "favorite_count": 898,
+          "favorite_count": 916,
           "retweet_count": 72
         }
       ]
@@ -5852,8 +5852,8 @@
             "risks": [],
             "confidence": 0,
             "ai_status": "",
-            "favorite_count": 3062,
-            "retweet_count": 236
+            "favorite_count": 3110,
+            "retweet_count": 244
           }
         ]
       },
@@ -5903,7 +5903,7 @@
             ],
             "confidence": 95,
             "ai_status": "ok",
-            "favorite_count": 1440,
+            "favorite_count": 1442,
             "retweet_count": 95
           }
         ]
@@ -5954,7 +5954,7 @@
             ],
             "confidence": 90,
             "ai_status": "ok",
-            "favorite_count": 1380,
+            "favorite_count": 1383,
             "retweet_count": 96
           },
           {
@@ -5984,7 +5984,7 @@
             ],
             "confidence": 90,
             "ai_status": "ok",
-            "favorite_count": 898,
+            "favorite_count": 916,
             "retweet_count": 72
           }
         ]
@@ -6048,7 +6048,7 @@
       ],
       "confidence": 90,
       "ai_status": "ok",
-      "favorite_count": 898,
+      "favorite_count": 916,
       "retweet_count": 72
     },
     {
@@ -6078,7 +6078,7 @@
       ],
       "confidence": 90,
       "ai_status": "ok",
-      "favorite_count": 1380,
+      "favorite_count": 1383,
       "retweet_count": 96
     },
     {
@@ -6108,7 +6108,7 @@
       ],
       "confidence": 95,
       "ai_status": "ok",
-      "favorite_count": 1440,
+      "favorite_count": 1442,
       "retweet_count": 95
     },
     {
@@ -6131,8 +6131,8 @@
       "risks": [],
       "confidence": 0,
       "ai_status": "",
-      "favorite_count": 3062,
-      "retweet_count": 236
+      "favorite_count": 3110,
+      "retweet_count": 244
     },
     {
       "tweet_id": "2085603590903902621",

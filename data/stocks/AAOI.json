@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T04:09:16.907573Z",
+  "generated_at": "2026-08-14T16:15:10.182892Z",
   "symbol": "AAOI",
   "summary": {
     "primary_count": 114,
@@ -3963,8 +3963,8 @@
           "risks": [],
           "confidence": 0,
           "ai_status": "",
-          "favorite_count": 3062,
-          "retweet_count": 236
+          "favorite_count": 3110,
+          "retweet_count": 244
         }
       ]
     },
@@ -4188,7 +4188,7 @@
           ],
           "confidence": 90,
           "ai_status": "ok",
-          "favorite_count": 890,
+          "favorite_count": 891,
           "retweet_count": 74
         },
         {
@@ -4218,8 +4218,8 @@
           ],
           "confidence": 90,
           "ai_status": "ok",
-          "favorite_count": 1373,
-          "retweet_count": 95
+          "favorite_count": 1383,
+          "retweet_count": 96
         },
         {
           "tweet_id": "2087675367595380783",
@@ -4248,8 +4248,8 @@
           ],
           "confidence": 90,
           "ai_status": "ok",
-          "favorite_count": 887,
-          "retweet_count": 71
+          "favorite_count": 916,
+          "retweet_count": 72
         }
       ]
     },
@@ -4300,8 +4300,8 @@
           ],
           "confidence": 80,
           "ai_status": "ok",
-          "favorite_count": 631,
-          "retweet_count": 26
+          "favorite_count": 695,
+          "retweet_count": 31
         }
       ]
     }
@@ -5001,6 +5001,10 @@
         {
           "date": "2026-08-13",
           "close": 130.08
+        },
+        {
+          "date": "2026-08-14",
+          "close": 149.99
         }
       ]
     },
@@ -5039,10 +5043,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 40.43,
-            "score_return": 40.43,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
+            "raw_return": 61.92,
+            "score_return": 61.92,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
             "hit": true
           }
         },
@@ -5086,10 +5090,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 21.06,
-            "score_return": 21.06,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
+            "raw_return": 39.59,
+            "score_return": 39.59,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
             "hit": true
           }
         },
@@ -5133,10 +5137,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -15.09,
-            "score_return": 15.09,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
+            "raw_return": -2.09,
+            "score_return": 2.09,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
             "hit": true
           }
         },
@@ -5180,11 +5184,11 @@
             "hit": true
           },
           "now": {
-            "raw_return": -11.14,
-            "score_return": -11.14,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
-            "hit": false
+            "raw_return": 2.46,
+            "score_return": 2.46,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
+            "hit": true
           }
         },
         "mention_count": 1,
@@ -5227,11 +5231,11 @@
             "hit": false
           },
           "now": {
-            "raw_return": -5.55,
-            "score_return": 5.55,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
-            "hit": true
+            "raw_return": 8.9,
+            "score_return": -8.9,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
+            "hit": false
           }
         },
         "mention_count": 1,
@@ -5274,10 +5278,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -19.79,
-            "score_return": 19.79,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
+            "raw_return": -7.51,
+            "score_return": 7.51,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
             "hit": true
           }
         },
@@ -5321,11 +5325,11 @@
             "hit": true
           },
           "now": {
-            "raw_return": -5.23,
-            "score_return": -5.23,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
-            "hit": false
+            "raw_return": 9.27,
+            "score_return": 9.27,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
+            "hit": true
           }
         },
         "mention_count": 2,
@@ -5368,10 +5372,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -14.89,
-            "score_return": -14.89,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
+            "raw_return": -1.86,
+            "score_return": -1.86,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
             "hit": false
           }
         },
@@ -5415,10 +5419,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -27.14,
-            "score_return": -27.14,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
+            "raw_return": -15.99,
+            "score_return": -15.99,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
             "hit": false
           }
         },
@@ -5462,10 +5466,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -17.44,
-            "score_return": -17.44,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
+            "raw_return": -4.8,
+            "score_return": -4.8,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
             "hit": false
           }
         },
@@ -5509,10 +5513,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -29.65,
-            "score_return": -29.65,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
+            "raw_return": -18.88,
+            "score_return": -18.88,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
             "hit": false
           }
         },
@@ -5556,10 +5560,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -41.69,
-            "score_return": -41.69,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
+            "raw_return": -32.77,
+            "score_return": -32.77,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
             "hit": false
           }
         },
@@ -5603,10 +5607,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -31.67,
-            "score_return": -31.67,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
+            "raw_return": -21.21,
+            "score_return": -21.21,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
             "hit": false
           }
         },
@@ -5650,10 +5654,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -24.92,
-            "score_return": 24.92,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
+            "raw_return": -13.43,
+            "score_return": 13.43,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
             "hit": true
           }
         },
@@ -5697,10 +5701,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -26.77,
-            "score_return": 26.77,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
+            "raw_return": -15.56,
+            "score_return": 15.56,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
             "hit": true
           }
         },
@@ -5744,10 +5748,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -27.67,
-            "score_return": -27.67,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
+            "raw_return": -16.59,
+            "score_return": -16.59,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
             "hit": false
           }
         },
@@ -5791,10 +5795,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -23.04,
-            "score_return": -23.04,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
+            "raw_return": -11.26,
+            "score_return": -11.26,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
             "hit": false
           }
         },
@@ -5838,10 +5842,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -29.94,
-            "score_return": -29.94,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
+            "raw_return": -19.22,
+            "score_return": -19.22,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
             "hit": false
           }
         },
@@ -5885,10 +5889,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -29.94,
-            "score_return": -29.94,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
+            "raw_return": -19.22,
+            "score_return": -19.22,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
             "hit": false
           }
         },
@@ -5932,10 +5936,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -26.51,
-            "score_return": -26.51,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
+            "raw_return": -15.26,
+            "score_return": -15.26,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
             "hit": false
           }
         },
@@ -5979,10 +5983,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -33.85,
-            "score_return": -33.85,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
+            "raw_return": -23.72,
+            "score_return": -23.72,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
             "hit": false
           }
         },
@@ -6026,10 +6030,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -20.14,
-            "score_return": -20.14,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
+            "raw_return": -7.91,
+            "score_return": -7.91,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
             "hit": false
           }
         },
@@ -6073,10 +6077,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -23.05,
-            "score_return": -23.05,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
+            "raw_return": -11.27,
+            "score_return": -11.27,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
             "hit": false
           }
         },
@@ -6120,10 +6124,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -32.09,
-            "score_return": -32.09,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
+            "raw_return": -21.7,
+            "score_return": -21.7,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
             "hit": false
           }
         },
@@ -6167,10 +6171,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -24.03,
-            "score_return": -24.03,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
+            "raw_return": -12.4,
+            "score_return": -12.4,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
             "hit": false
           }
         },
@@ -6214,11 +6218,11 @@
             "hit": true
           },
           "now": {
-            "raw_return": -11.77,
-            "score_return": 11.77,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
-            "hit": true
+            "raw_return": 1.73,
+            "score_return": -1.73,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
+            "hit": false
           }
         },
         "mention_count": 2,
@@ -6261,11 +6265,11 @@
             "hit": false
           },
           "now": {
-            "raw_return": -6.11,
-            "score_return": -6.11,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
-            "hit": false
+            "raw_return": 8.26,
+            "score_return": 8.26,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
+            "hit": true
           }
         },
         "mention_count": 2,
@@ -6308,10 +6312,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -13.34,
-            "score_return": -13.34,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
+            "raw_return": -0.07,
+            "score_return": -0.07,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
             "hit": false
           }
         },
@@ -6355,10 +6359,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": 7.55,
-            "score_return": 7.55,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
+            "raw_return": 24.01,
+            "score_return": 24.01,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
             "hit": true
           }
         },
@@ -6402,10 +6406,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 5.45,
-            "score_return": 5.45,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
+            "raw_return": 21.59,
+            "score_return": 21.59,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
             "hit": true
           }
         },
@@ -6449,10 +6453,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 8.47,
-            "score_return": 8.47,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
+            "raw_return": 25.08,
+            "score_return": 25.08,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
             "hit": true
           }
         },
@@ -6496,10 +6500,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 16.27,
-            "score_return": 16.27,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
+            "raw_return": 34.06,
+            "score_return": 34.06,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
             "hit": true
           }
         },
@@ -6543,10 +6547,10 @@
             "hit": null
           },
           "now": {
-            "raw_return": 27.02,
-            "score_return": 27.02,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
+            "raw_return": 46.46,
+            "score_return": 46.46,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
             "hit": true
           }
         },
@@ -6590,10 +6594,10 @@
             "hit": null
           },
           "now": {
-            "raw_return": 47.58,
-            "score_return": 47.58,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
+            "raw_return": 70.17,
+            "score_return": 70.17,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
             "hit": true
           }
         },
@@ -6637,10 +6641,10 @@
             "hit": null
           },
           "now": {
-            "raw_return": 4.72,
-            "score_return": 4.72,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
+            "raw_return": 20.75,
+            "score_return": 20.75,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
             "hit": true
           }
         },
@@ -6670,11 +6674,11 @@
             "hit": false
           },
           "7d": {
-            "raw_return": null,
-            "score_return": null,
-            "exit_date": null,
-            "exit_price": null,
-            "hit": null
+            "raw_return": 10.59,
+            "score_return": 10.59,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
+            "hit": true
           },
           "30d": {
             "raw_return": null,
@@ -6684,11 +6688,11 @@
             "hit": null
           },
           "now": {
-            "raw_return": -4.09,
-            "score_return": -4.09,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
-            "hit": false
+            "raw_return": 10.59,
+            "score_return": 10.59,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
+            "hit": true
           }
         },
         "mention_count": 3,
@@ -6731,11 +6735,11 @@
             "hit": null
           },
           "now": {
-            "raw_return": -2.06,
-            "score_return": -2.06,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
-            "hit": false
+            "raw_return": 12.94,
+            "score_return": 12.94,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
+            "hit": true
           }
         },
         "mention_count": 1,
@@ -6778,11 +6782,11 @@
             "hit": null
           },
           "now": {
-            "raw_return": -2.06,
-            "score_return": -2.06,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
-            "hit": false
+            "raw_return": 12.94,
+            "score_return": 12.94,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
+            "hit": true
           }
         },
         "mention_count": 2,
@@ -6825,11 +6829,11 @@
             "hit": null
           },
           "now": {
-            "raw_return": -3.16,
-            "score_return": -3.16,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
-            "hit": false
+            "raw_return": 11.66,
+            "score_return": 11.66,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
+            "hit": true
           }
         },
         "mention_count": 1,
@@ -6872,11 +6876,11 @@
             "hit": null
           },
           "now": {
-            "raw_return": -5.79,
-            "score_return": -5.79,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
-            "hit": false
+            "raw_return": 8.63,
+            "score_return": 8.63,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
+            "hit": true
           }
         },
         "mention_count": 3,
@@ -6898,11 +6902,11 @@
         "entry_price": 130.08,
         "returns": {
           "1d": {
-            "raw_return": null,
-            "score_return": null,
-            "exit_date": null,
-            "exit_price": null,
-            "hit": null
+            "raw_return": 15.31,
+            "score_return": 15.31,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
+            "hit": true
           },
           "7d": {
             "raw_return": null,
@@ -6919,11 +6923,11 @@
             "hit": null
           },
           "now": {
-            "raw_return": 0.0,
-            "score_return": 0.0,
-            "exit_date": "2026-08-13",
-            "exit_price": 130.08,
-            "hit": false
+            "raw_return": 15.31,
+            "score_return": 15.31,
+            "exit_date": "2026-08-14",
+            "exit_price": 149.99,
+            "hit": true
           }
         },
         "mention_count": 1,
@@ -10881,8 +10885,8 @@
             "risks": [],
             "confidence": 0,
             "ai_status": "",
-            "favorite_count": 3062,
-            "retweet_count": 236
+            "favorite_count": 3110,
+            "retweet_count": 244
           }
         ]
       },
@@ -11106,7 +11110,7 @@
             ],
             "confidence": 90,
             "ai_status": "ok",
-            "favorite_count": 890,
+            "favorite_count": 891,
             "retweet_count": 74
           },
           {
@@ -11136,8 +11140,8 @@
             ],
             "confidence": 90,
             "ai_status": "ok",
-            "favorite_count": 1373,
-            "retweet_count": 95
+            "favorite_count": 1383,
+            "retweet_count": 96
           },
           {
             "tweet_id": "2087675367595380783",
@@ -11166,8 +11170,8 @@
             ],
             "confidence": 90,
             "ai_status": "ok",
-            "favorite_count": 887,
-            "retweet_count": 71
+            "favorite_count": 916,
+            "retweet_count": 72
           }
         ]
       },
@@ -11218,8 +11222,8 @@
             ],
             "confidence": 80,
             "ai_status": "ok",
-            "favorite_count": 631,
-            "retweet_count": 26
+            "favorite_count": 695,
+            "retweet_count": 31
           }
         ]
       }
@@ -11229,14 +11233,14 @@
       "signals": 41,
       "horizons": {
         "1d": {
-          "sample": 40,
-          "avg_score_return": -0.06,
-          "hit_rate": 42.5
+          "sample": 41,
+          "avg_score_return": 0.31,
+          "hit_rate": 43.9
         },
         "7d": {
-          "sample": 35,
-          "avg_score_return": 2.23,
-          "hit_rate": 45.7
+          "sample": 36,
+          "avg_score_return": 2.46,
+          "hit_rate": 47.2
         },
         "30d": {
           "sample": 32,
@@ -11245,8 +11249,8 @@
         },
         "now": {
           "sample": 41,
-          "avg_score_return": -4.96,
-          "hit_rate": 36.6
+          "avg_score_return": 5.11,
+          "hit_rate": 53.7
         }
       }
     },
@@ -11283,8 +11287,8 @@
       ],
       "confidence": 80,
       "ai_status": "ok",
-      "favorite_count": 631,
-      "retweet_count": 26
+      "favorite_count": 695,
+      "retweet_count": 31
     },
     {
       "tweet_id": "2087675367595380783",
@@ -11313,8 +11317,8 @@
       ],
       "confidence": 90,
       "ai_status": "ok",
-      "favorite_count": 887,
-      "retweet_count": 71
+      "favorite_count": 916,
+      "retweet_count": 72
     },
     {
       "tweet_id": "2087447527595692180",
@@ -11343,8 +11347,8 @@
       ],
       "confidence": 90,
       "ai_status": "ok",
-      "favorite_count": 1373,
-      "retweet_count": 95
+      "favorite_count": 1383,
+      "retweet_count": 96
     },
     {
       "tweet_id": "2087329770879197549",
@@ -11374,7 +11378,7 @@
       ],
       "confidence": 90,
       "ai_status": "ok",
-      "favorite_count": 890,
+      "favorite_count": 891,
       "retweet_count": 74
     },
     {
@@ -11507,8 +11511,8 @@
       "risks": [],
       "confidence": 0,
       "ai_status": "",
-      "favorite_count": 3062,
-      "retweet_count": 236
+      "favorite_count": 3110,
+      "retweet_count": 244
     },
     {
       "tweet_id": "2085711500875116887",

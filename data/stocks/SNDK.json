@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-14T04:09:16.907573Z",
+  "generated_at": "2026-08-14T16:15:10.182892Z",
   "symbol": "SNDK",
   "summary": {
-    "primary_count": 47,
+    "primary_count": 48,
     "reply_count": 19,
     "first_mentioned_at": "2026-01-29T21:56:46Z",
-    "last_mentioned_at": "2026-08-04T02:34:48Z",
+    "last_mentioned_at": "2026-08-14T11:29:05Z",
     "latest_sentiment": "Neutral",
-    "latest_thesis": "",
+    "latest_thesis": "記憶體產業（如 SK Hynix、Samsung、Micron 等）的瓶頸現象持續存在。",
     "latest_change": "MENTION",
     "sentiments": {
       "Bearish": 12,
       "Bullish": 12,
-      "Neutral": 42
+      "Neutral": 43
     }
   },
   "daily_stances": [
@@ -2027,6 +2027,52 @@
           "retweet_count": 351
         }
       ]
+    },
+    {
+      "date": "2026-08-14",
+      "created_at": "2026-08-14T11:29:05Z",
+      "sentiment": "Neutral",
+      "bull_count": 0,
+      "bear_count": 0,
+      "neutral_count": 1,
+      "mixed_count": 0,
+      "mention_count": 1,
+      "bull_weight": 0.0,
+      "bear_weight": 0.0,
+      "bull_share": null,
+      "importance": 3,
+      "confidence": 75,
+      "thesis_change": "MENTION",
+      "core_thesis": "記憶體產業（如 SK Hynix、Samsung、Micron 等）的瓶頸現象持續存在。",
+      "url": "https://x.com/aleabitoreddit/status/2088226398708338889",
+      "tweet_id": "2088226398708338889",
+      "items": [
+        {
+          "tweet_id": "2088226398708338889",
+          "is_reply": false,
+          "kind": "post",
+          "reply_signal_eligible": false,
+          "created_at": "2026-08-14T11:29:05Z",
+          "text": "The $SHKY, Samsung, $SNDK, $MU memory bottleneck never changed anon https://t.co/6Xyih3pM9D",
+          "url": "https://x.com/aleabitoreddit/status/2088226398708338889",
+          "sentiment": "Neutral",
+          "importance": 3,
+          "thesis_change": "MENTION",
+          "summary_zh": "作者指出高頻寬記憶體與記憶體供應的瓶頸問題從未改變。貼文提及 SK Hynix (SHKY)、Samsung、SanDisk (SNDK) 及 Micron (MU) 等記憶體大廠。這顯示記憶體領域的供需吃緊狀況仍在延續。",
+          "plain_zh": "這篇貼文在說主要記憶體大廠（如 SK 海力士、三星、美光等）面臨的記憶體供需瓶頸問題依然存在，沒有發生實質改變。",
+          "core_thesis": "記憶體產業（如 SK Hynix、Samsung、Micron 等）的瓶頸現象持續存在。",
+          "why_it_matters": "記憶體瓶頸直接影響 AI 晶片及伺服器供應鏈的出貨進度與成本，是追蹤 AI 基礎建設時的核心關鍵指標。",
+          "history_note": "由於缺乏相關歷史貼文，無法進行歷史觀點比較。",
+          "catalysts": [],
+          "risks": [
+            "記憶體供應瓶頸限制下游硬體產能與出貨速度"
+          ],
+          "confidence": 75,
+          "ai_status": "ok",
+          "favorite_count": 1475,
+          "retweet_count": 96
+        }
+      ]
     }
   ],
   "performance": {
@@ -2596,6 +2642,10 @@
         {
           "date": "2026-08-13",
           "close": 1528.11
+        },
+        {
+          "date": "2026-08-14",
+          "close": 1614.8199
         }
       ]
     },
@@ -2634,10 +2684,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": 183.35,
-            "score_return": -183.35,
-            "exit_date": "2026-08-13",
-            "exit_price": 1528.11,
+            "raw_return": 199.43,
+            "score_return": -199.43,
+            "exit_date": "2026-08-14",
+            "exit_price": 1614.8199,
             "hit": false
           }
         },
@@ -2681,10 +2731,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 158.74,
-            "score_return": 158.74,
-            "exit_date": "2026-08-13",
-            "exit_price": 1528.11,
+            "raw_return": 173.42,
+            "score_return": 173.42,
+            "exit_date": "2026-08-14",
+            "exit_price": 1614.8199,
             "hit": true
           }
         },
@@ -2728,10 +2778,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": 170.27,
-            "score_return": -170.27,
-            "exit_date": "2026-08-13",
-            "exit_price": 1528.11,
+            "raw_return": 185.6,
+            "score_return": -185.6,
+            "exit_date": "2026-08-14",
+            "exit_price": 1614.8199,
             "hit": false
           }
         },
@@ -2775,10 +2825,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": 155.08,
-            "score_return": -155.08,
-            "exit_date": "2026-08-13",
-            "exit_price": 1528.11,
+            "raw_return": 169.56,
+            "score_return": -169.56,
+            "exit_date": "2026-08-14",
+            "exit_price": 1614.8199,
             "hit": false
           }
         },
@@ -2822,10 +2872,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": 60.43,
-            "score_return": -60.43,
-            "exit_date": "2026-08-13",
-            "exit_price": 1528.11,
+            "raw_return": 69.53,
+            "score_return": -69.53,
+            "exit_date": "2026-08-14",
+            "exit_price": 1614.8199,
             "hit": false
           }
         },
@@ -2869,10 +2919,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": 63.88,
-            "score_return": -63.88,
-            "exit_date": "2026-08-13",
-            "exit_price": 1528.11,
+            "raw_return": 73.18,
+            "score_return": -73.18,
+            "exit_date": "2026-08-14",
+            "exit_price": 1614.8199,
             "hit": false
           }
         },
@@ -2916,10 +2966,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": 54.37,
-            "score_return": -54.37,
-            "exit_date": "2026-08-13",
-            "exit_price": 1528.11,
+            "raw_return": 63.13,
+            "score_return": -63.13,
+            "exit_date": "2026-08-14",
+            "exit_price": 1614.8199,
             "hit": false
           }
         },
@@ -2963,10 +3013,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 39.36,
-            "score_return": 39.36,
-            "exit_date": "2026-08-13",
-            "exit_price": 1528.11,
+            "raw_return": 47.27,
+            "score_return": 47.27,
+            "exit_date": "2026-08-14",
+            "exit_price": 1614.8199,
             "hit": true
           }
         },
@@ -3010,11 +3060,11 @@
             "hit": true
           },
           "now": {
-            "raw_return": -1.26,
-            "score_return": -1.26,
-            "exit_date": "2026-08-13",
-            "exit_price": 1528.11,
-            "hit": false
+            "raw_return": 4.35,
+            "score_return": 4.35,
+            "exit_date": "2026-08-14",
+            "exit_price": 1614.8199,
+            "hit": true
           }
         },
         "mention_count": 1,
@@ -3057,10 +3107,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": 8.56,
-            "score_return": 8.56,
-            "exit_date": "2026-08-13",
-            "exit_price": 1528.11,
+            "raw_return": 14.72,
+            "score_return": 14.72,
+            "exit_date": "2026-08-14",
+            "exit_price": 1614.8199,
             "hit": true
           }
         },
@@ -3104,11 +3154,11 @@
             "hit": false
           },
           "now": {
-            "raw_return": -3.87,
-            "score_return": 3.87,
-            "exit_date": "2026-08-13",
-            "exit_price": 1528.11,
-            "hit": true
+            "raw_return": 1.59,
+            "score_return": -1.59,
+            "exit_date": "2026-08-14",
+            "exit_price": 1614.8199,
+            "hit": false
           }
         },
         "mention_count": 1,
@@ -3151,11 +3201,11 @@
             "hit": true
           },
           "now": {
-            "raw_return": -3.87,
-            "score_return": -3.87,
-            "exit_date": "2026-08-13",
-            "exit_price": 1528.11,
-            "hit": false
+            "raw_return": 1.59,
+            "score_return": 1.59,
+            "exit_date": "2026-08-14",
+            "exit_price": 1614.8199,
+            "hit": true
           }
         },
         "mention_count": 1,
@@ -3198,10 +3248,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -13.25,
-            "score_return": -13.25,
-            "exit_date": "2026-08-13",
-            "exit_price": 1528.11,
+            "raw_return": -8.32,
+            "score_return": -8.32,
+            "exit_date": "2026-08-14",
+            "exit_price": 1614.8199,
             "hit": false
           }
         },
@@ -3245,10 +3295,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -13.16,
-            "score_return": 13.16,
-            "exit_date": "2026-08-13",
-            "exit_price": 1528.11,
+            "raw_return": -8.23,
+            "score_return": 8.23,
+            "exit_date": "2026-08-14",
+            "exit_price": 1614.8199,
             "hit": true
           }
         },
@@ -3292,10 +3342,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -7.01,
-            "score_return": -7.01,
-            "exit_date": "2026-08-13",
-            "exit_price": 1528.11,
+            "raw_return": -1.73,
+            "score_return": -1.73,
+            "exit_date": "2026-08-14",
+            "exit_price": 1614.8199,
             "hit": false
           }
         },
@@ -3339,10 +3389,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -22.83,
-            "score_return": 22.83,
-            "exit_date": "2026-08-13",
-            "exit_price": 1528.11,
+            "raw_return": -18.45,
+            "score_return": 18.45,
+            "exit_date": "2026-08-14",
+            "exit_price": 1614.8199,
             "hit": true
           }
         },
@@ -3386,10 +3436,10 @@
             "hit": true
           },
           "now": {
-            "raw_return": -30.06,
-            "score_return": 30.06,
-            "exit_date": "2026-08-13",
-            "exit_price": 1528.11,
+            "raw_return": -26.09,
+            "score_return": 26.09,
+            "exit_date": "2026-08-14",
+            "exit_price": 1614.8199,
             "hit": true
           }
         },
@@ -3433,10 +3483,10 @@
             "hit": false
           },
           "now": {
-            "raw_return": -12.4,
-            "score_return": -12.4,
-            "exit_date": "2026-08-13",
-            "exit_price": 1528.11,
+            "raw_return": -7.43,
+            "score_return": -7.43,
+            "exit_date": "2026-08-14",
+            "exit_price": 1614.8199,
             "hit": false
           }
         },
@@ -3473,17 +3523,17 @@
             "hit": false
           },
           "30d": {
-            "raw_return": null,
-            "score_return": null,
-            "exit_date": null,
-            "exit_price": null,
-            "hit": null
+            "raw_return": -0.01,
+            "score_return": -0.01,
+            "exit_date": "2026-08-14",
+            "exit_price": 1614.8199,
+            "hit": false
           },
           "now": {
-            "raw_return": -5.38,
-            "score_return": -5.38,
-            "exit_date": "2026-08-13",
-            "exit_price": 1528.11,
+            "raw_return": -0.01,
+            "score_return": -0.01,
+            "exit_date": "2026-08-14",
+            "exit_price": 1614.8199,
             "hit": false
           }
         },
@@ -3527,10 +3577,10 @@
             "hit": null
           },
           "now": {
-            "raw_return": 39.41,
-            "score_return": 39.41,
-            "exit_date": "2026-08-13",
-            "exit_price": 1528.11,
+            "raw_return": 47.32,
+            "score_return": 47.32,
+            "exit_date": "2026-08-14",
+            "exit_price": 1614.8199,
             "hit": true
           }
         },
@@ -3574,10 +3624,10 @@
             "hit": null
           },
           "now": {
-            "raw_return": 25.79,
-            "score_return": -25.79,
-            "exit_date": "2026-08-13",
-            "exit_price": 1528.11,
+            "raw_return": 32.93,
+            "score_return": -32.93,
+            "exit_date": "2026-08-14",
+            "exit_price": 1614.8199,
             "hit": false
           }
         },
@@ -5600,9 +5650,55 @@
             "retweet_count": 351
           }
         ]
+      },
+      {
+        "date": "2026-08-14",
+        "created_at": "2026-08-14T11:29:05Z",
+        "sentiment": "Neutral",
+        "bull_count": 0,
+        "bear_count": 0,
+        "neutral_count": 1,
+        "mixed_count": 0,
+        "mention_count": 1,
+        "bull_weight": 0.0,
+        "bear_weight": 0.0,
+        "bull_share": null,
+        "importance": 3,
+        "confidence": 75,
+        "thesis_change": "MENTION",
+        "core_thesis": "記憶體產業（如 SK Hynix、Samsung、Micron 等）的瓶頸現象持續存在。",
+        "url": "https://x.com/aleabitoreddit/status/2088226398708338889",
+        "tweet_id": "2088226398708338889",
+        "items": [
+          {
+            "tweet_id": "2088226398708338889",
+            "is_reply": false,
+            "kind": "post",
+            "reply_signal_eligible": false,
+            "created_at": "2026-08-14T11:29:05Z",
+            "text": "The $SHKY, Samsung, $SNDK, $MU memory bottleneck never changed anon https://t.co/6Xyih3pM9D",
+            "url": "https://x.com/aleabitoreddit/status/2088226398708338889",
+            "sentiment": "Neutral",
+            "importance": 3,
+            "thesis_change": "MENTION",
+            "summary_zh": "作者指出高頻寬記憶體與記憶體供應的瓶頸問題從未改變。貼文提及 SK Hynix (SHKY)、Samsung、SanDisk (SNDK) 及 Micron (MU) 等記憶體大廠。這顯示記憶體領域的供需吃緊狀況仍在延續。",
+            "plain_zh": "這篇貼文在說主要記憶體大廠（如 SK 海力士、三星、美光等）面臨的記憶體供需瓶頸問題依然存在，沒有發生實質改變。",
+            "core_thesis": "記憶體產業（如 SK Hynix、Samsung、Micron 等）的瓶頸現象持續存在。",
+            "why_it_matters": "記憶體瓶頸直接影響 AI 晶片及伺服器供應鏈的出貨進度與成本，是追蹤 AI 基礎建設時的核心關鍵指標。",
+            "history_note": "由於缺乏相關歷史貼文，無法進行歷史觀點比較。",
+            "catalysts": [],
+            "risks": [
+              "記憶體供應瓶頸限制下游硬體產能與出貨速度"
+            ],
+            "confidence": 75,
+            "ai_status": "ok",
+            "favorite_count": 1475,
+            "retweet_count": 96
+          }
+        ]
       }
     ],
-    "excluded_days": 23,
+    "excluded_days": 24,
     "summary": {
       "signals": 21,
       "horizons": {
@@ -5617,14 +5713,14 @@
           "hit_rate": 38.1
         },
         "30d": {
-          "sample": 18,
-          "avg_score_return": -2.87,
-          "hit_rate": 55.6
+          "sample": 19,
+          "avg_score_return": -2.72,
+          "hit_rate": 52.6
         },
         "now": {
           "sample": 21,
-          "avg_score_return": -20.97,
-          "hit_rate": 38.1
+          "avg_score_return": -22.43,
+          "hit_rate": 42.9
         }
       }
     },
@@ -5633,6 +5729,31 @@
     "include_replies": false
   },
   "primary_posts": [
+    {
+      "tweet_id": "2088226398708338889",
+      "is_reply": false,
+      "kind": "post",
+      "reply_signal_eligible": false,
+      "created_at": "2026-08-14T11:29:05Z",
+      "text": "The $SHKY, Samsung, $SNDK, $MU memory bottleneck never changed anon https://t.co/6Xyih3pM9D",
+      "url": "https://x.com/aleabitoreddit/status/2088226398708338889",
+      "sentiment": "Neutral",
+      "importance": 3,
+      "thesis_change": "MENTION",
+      "summary_zh": "作者指出高頻寬記憶體與記憶體供應的瓶頸問題從未改變。貼文提及 SK Hynix (SHKY)、Samsung、SanDisk (SNDK) 及 Micron (MU) 等記憶體大廠。這顯示記憶體領域的供需吃緊狀況仍在延續。",
+      "plain_zh": "這篇貼文在說主要記憶體大廠（如 SK 海力士、三星、美光等）面臨的記憶體供需瓶頸問題依然存在，沒有發生實質改變。",
+      "core_thesis": "記憶體產業（如 SK Hynix、Samsung、Micron 等）的瓶頸現象持續存在。",
+      "why_it_matters": "記憶體瓶頸直接影響 AI 晶片及伺服器供應鏈的出貨進度與成本，是追蹤 AI 基礎建設時的核心關鍵指標。",
+      "history_note": "由於缺乏相關歷史貼文，無法進行歷史觀點比較。",
+      "catalysts": [],
+      "risks": [
+        "記憶體供應瓶頸限制下游硬體產能與出貨速度"
+      ],
+      "confidence": 75,
+      "ai_status": "ok",
+      "favorite_count": 1475,
+      "retweet_count": 96
+    },
     {
       "tweet_id": "2084468063228060092",
       "is_reply": false,
